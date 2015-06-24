@@ -1,0 +1,15 @@
+# generated files
+pdf-split/
+text-extract/
+text-autoclean/
+image-extract/
+image-fix/
+text-imagelink/
+image-rename/
+patch/
+text-fixed/
+
+
+# script artifacts
+*.py[co]
+__pycache__/
