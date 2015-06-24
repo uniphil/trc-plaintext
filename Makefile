@@ -29,7 +29,11 @@ $(TXT_EXTRACT)/%.txt: $(SPLIT)/%.pdf
 	-mkdir -p $(TXT_EXTRACT)
 	pdftotext -enc UTF-8 $< $@
 
-$(FIXED)/%.md: $(TXT_EXTRACT)/%.txt
+$(TXT_AUTO)/%.md: $(TXT_EXTRACT)/%.txt
+	-mkdir -p $(TXT_AUTO)
+	python lib/autofixtext.py $< $@
+
+$(FIXED)/%.md: $(TXT_AUTO)/%.md
 	-mkdir -p $(FIXED)
 	cp $< $@
 
