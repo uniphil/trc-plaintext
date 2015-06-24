@@ -8,12 +8,14 @@ TXTIMG_LINK	= text-imagelink
 PATCH 		= patch
 FIXED 		= text-fixed
 
-.PHONY: all pages clean
+.PHONY: all pages clean clean-pages clean-split
 
 ###### PRE-MAKE (calls make on this again after splitting pages)
 SOURCE = Exec_Summary_2015_05_31_web_o.pdf
 all: $(SPLIT)/*.pdf
 	$(MAKE) pages
+clean-split:
+	rm -fr $(SPLIT)
 $(SPLIT)/*.pdf: $(SOURCE)
 	-mkdir -p $(SPLIT)
 	pdftk $(SOURCE) burst output $(SPLIT)/page-%03d.pdf
@@ -23,14 +25,6 @@ SOURCES := $(wildcard $(SPLIT)/*.pdf)
 TARGETS := $(SOURCES:$(SPLIT)/%.pdf=$(FIXED)/%.md)
 
 pages: $(TARGETS)
-
-mkdirs:
-	mkdir -p $(TXT_EXTRACT)
-	mkdir -p $(TXT_AUTO)
-	mkdir -p $(IMG_EXTRACT)
-	mkdir -p $(IMG_AUTO)
-	mkdir -p $(TXTIMG_LINK)
-	mkdir -p $(FIXED)
 
 $(TXT_EXTRACT)/%.txt: $(SPLIT)/%.pdf mkdirs
 	pdftotext -enc UTF-8 $< $@
@@ -51,11 +45,19 @@ $(TXTIMG_LINK)/%.md: $(IMG_AUTO)/%.jpg $(TXT_AUTO)/%.md
 $(FIXED)/%.md: $(TXTIMG_LINK)/%.md
 	cp $< $@
 
-clean:
-	-rm -fr $(SPLIT)
+###### HOUSEKEEPING
+mkdirs:
+	mkdir -p $(TXT_EXTRACT)
+	mkdir -p $(TXT_AUTO)
+	mkdir -p $(IMG_EXTRACT)
+	mkdir -p $(IMG_AUTO)
+	mkdir -p $(TXTIMG_LINK)
+	mkdir -p $(FIXED)
+clean-pages:
 	-rm -fr $(TXT_EXTRACT)
 	-rm -fr $(TXT_AUTO)
 	-rm -fr $(IMG_EXTRACT)
 	-rm -fr $(IMG_AUTO)
 	-rm -fr $(TXTIMG_LINK)
 	-rm -fr $(FIXED)
+clean: clean-split clean-pages
