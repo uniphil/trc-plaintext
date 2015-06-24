@@ -1,11 +1,10 @@
 # generated files
 pdf-split/
 text-extract/
-text-autoclean/
+text-autofix/
 image-extract/
 image-autofix/
 text-imagelink/
-image-rename/
 patch/
 text-fixed/
 

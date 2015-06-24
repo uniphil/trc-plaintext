@@ -1,11 +1,10 @@
 # folders
 SPLIT 		= pdf-split
 TXT_EXTRACT	= text-extract
-TXT_AUTO 	= text-autoclean
+TXT_AUTO 	= text-autofix
 IMG_EXTRACT	= image-extract
 IMG_AUTO	= image-autofix
 TXTIMG_LINK	= text-imagelink
-IMG_RENAME	= image-rename
 PATCH 		= patch
 FIXED 		= text-fixed
 
@@ -30,6 +29,7 @@ mkdirs:
 	mkdir -p $(TXT_AUTO)
 	mkdir -p $(IMG_EXTRACT)
 	mkdir -p $(IMG_AUTO)
+	mkdir -p $(TXTIMG_LINK)
 	mkdir -p $(FIXED)
 
 $(TXT_EXTRACT)/%.txt: $(SPLIT)/%.pdf mkdirs
@@ -45,7 +45,10 @@ $(IMG_EXTRACT)/%-0000.jpg: $(SPLIT)/%.pdf mkdirs
 $(IMG_AUTO)/%.jpg: $(IMG_EXTRACT)/%-0000.jpg mkdirs
 	-convert -negate $< $@
 
-$(FIXED)/%.md: $(TXT_AUTO)/%.md $(IMG_AUTO)/%.jpg mkdirs
+$(TXTIMG_LINK)/%.md: $(IMG_AUTO)/%.jpg $(TXT_AUTO)/%.md
+	python lib/autolinkimage.py $^ $@
+
+$(FIXED)/%.md: $(TXTIMG_LINK)/%.md
 	cp $< $@
 
 clean:
@@ -55,5 +58,4 @@ clean:
 	-rm -fr $(IMG_EXTRACT)
 	-rm -fr $(IMG_AUTO)
 	-rm -fr $(TXTIMG_LINK)
-	-rm -fr $(IMG_RENAME)
 	-rm -fr $(FIXED)
