@@ -3,7 +3,7 @@ SPLIT 		= pdf-split
 TXT_EXTRACT	= text-extract
 TXT_AUTO 	= text-autoclean
 IMG_EXTRACT	= image-extract
-IMG_AUTO	= image-fix
+IMG_AUTO	= image-autofix
 TXTIMG_LINK	= text-imagelink
 IMG_RENAME	= image-rename
 PATCH 		= patch
@@ -26,19 +26,24 @@ TARGETS := $(SOURCES:$(SPLIT)/%.pdf=$(FIXED)/%.md)
 pages: $(TARGETS)
 
 $(TXT_EXTRACT)/%.txt: $(SPLIT)/%.pdf
-	-mkdir -p $(TXT_EXTRACT)
+	@mkdir -p $(TXT_EXTRACT)
 	pdftotext -enc UTF-8 $< $@
 
 $(TXT_AUTO)/%.md: $(TXT_EXTRACT)/%.txt
-	-mkdir -p $(TXT_AUTO)
+	@mkdir -p $(TXT_AUTO)
 	python lib/autofixtext.py $< $@
 
 $(IMG_EXTRACT)/%-0000.jpg: $(SPLIT)/%.pdf
-	-mkdir -p $(IMG_EXTRACT)
+	@mkdir -p $(IMG_EXTRACT)
 	pdfimages -j $< $(@D)/$*
 
-$(FIXED)/%.md: $(TXT_AUTO)/%.md $(IMG_EXTRACT)/%-0000.jpg
-	-mkdir -p $(FIXED)
+.SECONDARY:
+$(IMG_AUTO)/%.jpg: $(IMG_EXTRACT)/%-0000.jpg
+	@mkdir -p $(IMG_AUTO)
+	-convert -negate $< $@
+
+$(FIXED)/%.md: $(TXT_AUTO)/%.md $(IMG_AUTO)/%.jpg
+	@mkdir -p $(FIXED)
 	cp $< $@
 
 clean:

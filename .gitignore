@@ -3,7 +3,7 @@ pdf-split/
 text-extract/
 text-autoclean/
 image-extract/
-image-fix/
+image-autofix/
 text-imagelink/
 image-rename/
 patch/
