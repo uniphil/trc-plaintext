@@ -56,8 +56,10 @@ def semanticLineBreak(page):
     return broken + '\n'  # one trailing newline
 
 def bullet(page):
-    page = page.replace(u' •\t', '\n  *')
-    return page
+    # change preceding space to a newline
+    newlined = page.replace(u' •', u'\n•')
+    bulletted = newlined.replace(u'•\t', u'  *')
+    return bulletted
 
 def cite(page):
     citation = ur'(?P<ends>{br} ?)(?P<citeNo>\d+)\n'.format(br=br)
