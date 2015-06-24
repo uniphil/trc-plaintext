@@ -1,0 +1,100 @@
+@@ -63,16 +63,18 @@
+ ssion,%0A%0A
++%3E 
+ I think 
+@@ -135,16 +135,18 @@
+ k away.%0A
++%3E 
+ Yeah, it
+@@ -202,16 +202,18 @@
+ istory.%0A
++%3E 
+ We don%E2%80%99t
+@@ -236,16 +236,18 @@
+ out it.%0A
++%3E 
+ What I w
+@@ -633,16 +633,18 @@
+  said,%0A%0A
++%3E 
+ The trut
+@@ -659,16 +659,18 @@
+ ortant.%0A
++%3E 
+ So I%E2%80%99ll 
+@@ -731,16 +731,18 @@
+ s well.%0A
++%3E 
+ The trut
+@@ -883,16 +883,18 @@
+ eement%E2%80%A6%0A
++%3E 
+ And the 
+@@ -1116,16 +1116,18 @@
+  well%E2%80%A6%0A%0A
++%3E 
+ We are, 
+@@ -1150,16 +1150,18 @@
+ ducts %E2%80%A6%0A
++%3E 
+ of the s
+@@ -1252,16 +1252,18 @@
+ n kids.%0A
++%3E 
+ So there
+@@ -1290,16 +1290,18 @@
+ lution%E2%80%A6%0A
++%3E 
+ The M%C3%A9ti
+@@ -1355,16 +1355,18 @@
+ cluded.%0A
++%3E 
+ And we n
+@@ -1841,16 +1841,18 @@
+  said,%0A%0A
++%3E 
+ And so m
+@@ -1947,16 +1947,18 @@
+ orgive.%0A
++%3E 
+ I%E2%80%99m not 
+@@ -1976,16 +1976,18 @@
+ rgive.%E2%80%9D%0A
++%3E 
+ And I wo
+@@ -1998,16 +1998,18 @@
+ ed why.%0A
++%3E 
+ Reconcil
+@@ -2060,16 +2060,18 @@
+ r sure.%0A
++%3E 
+ It%E2%80%99s als
+@@ -2104,16 +2104,18 @@
+  truth.%0A
++%3E 
+ Acknowle
+@@ -2151,16 +2151,18 @@
+ s true.%0A
++%3E 
+ Acceptin
+@@ -2302,16 +2302,18 @@
+ homes%E2%80%A6%0A%0A
++%3E 
+ What are
+@@ -2346,16 +2346,18 @@
+ iation?%0A
++%3E 
+ The cont
+@@ -2466,16 +2466,18 @@
+  land.%E2%80%9D%0A
++%3E 
+ Stop the
+@@ -2601,16 +2601,18 @@
+ ountry%E2%80%A6%0A
++%3E 
+ I%E2%80%99m goin
+@@ -3026,9 +3026,26 @@
+ ives and
++%3C!-- continue --%3E
+ %0A
