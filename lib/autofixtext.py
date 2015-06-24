@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 import re
+import json
 from functools import reduce
 
 
@@ -27,6 +28,17 @@ def stripContext(page):
 def strip(page):
     assert page.endswith(weirdEndThing)
     return page.strip()
+
+def capitalizeNewlines(page):
+    with open('abbrevs.json') as f:
+        abbrevs = json.load(f)
+    capitalized = page
+    for abbrev, replace in abbrevs.items():
+        lower = abbrev.lower()
+        catch = ur'(?P<pre>\W){a}(?P<post>\W)'.format(a=lower)
+        repl = lambda m: u'{pre}{a}{post}'.format(a=abbrev, **m.groupdict())
+        capitalized, _ = re.subn(catch, repl, capitalized)
+    return capitalized
 
 def doubleNewlines(page):
     return page.replace('\n', '\n\n')
@@ -67,6 +79,7 @@ autofix = compose(
     semanticLineBreak,
     fixEllipses,
     doubleNewlines,
+    capitalizeNewlines,
     strip,
     stripContext,
     decode,
