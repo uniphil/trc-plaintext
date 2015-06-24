@@ -33,7 +33,11 @@ $(TXT_AUTO)/%.md: $(TXT_EXTRACT)/%.txt
 	-mkdir -p $(TXT_AUTO)
 	python lib/autofixtext.py $< $@
 
-$(FIXED)/%.md: $(TXT_AUTO)/%.md
+$(IMG_EXTRACT)/%-0000.jpg: $(SPLIT)/%.pdf
+	-mkdir -p $(IMG_EXTRACT)
+	pdfimages -j $< $(@D)/$*
+
+$(FIXED)/%.md: $(TXT_AUTO)/%.md $(IMG_EXTRACT)/%-0000.jpg
 	-mkdir -p $(FIXED)
 	cp $< $@
 
