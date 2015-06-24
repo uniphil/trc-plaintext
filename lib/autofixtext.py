@@ -55,6 +55,10 @@ def semanticLineBreak(page):
     broken, _ = re.subn(sentenceEnd, breakLine, page)
     return broken + '\n'  # one trailing newline
 
+def bullet(page):
+    page = page.replace(u' •\t', '\n  *')
+    return page
+
 def cite(page):
     citation = ur'(?P<ends>{br} ?)(?P<citeNo>\d+)\n'.format(br=br)
     def cite(match):
@@ -76,6 +80,7 @@ compose = lambda *fns:\
 autofix = compose(
     encode,
     cite,
+    bullet,
     semanticLineBreak,
     fixEllipses,
     doubleNewlines,
