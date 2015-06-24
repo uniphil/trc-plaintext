@@ -25,25 +25,27 @@ TARGETS := $(SOURCES:$(SPLIT)/%.pdf=$(FIXED)/%.md)
 
 pages: $(TARGETS)
 
-$(TXT_EXTRACT)/%.txt: $(SPLIT)/%.pdf
-	@mkdir -p $(TXT_EXTRACT)
+mkdirs:
+	mkdir -p $(TXT_EXTRACT)
+	mkdir -p $(TXT_AUTO)
+	mkdir -p $(IMG_EXTRACT)
+	mkdir -p $(IMG_AUTO)
+	mkdir -p $(FIXED)
+
+$(TXT_EXTRACT)/%.txt: $(SPLIT)/%.pdf mkdirs
 	pdftotext -enc UTF-8 $< $@
 
-$(TXT_AUTO)/%.md: $(TXT_EXTRACT)/%.txt
-	@mkdir -p $(TXT_AUTO)
+$(TXT_AUTO)/%.md: $(TXT_EXTRACT)/%.txt mkdirs
 	python lib/autofixtext.py $< $@
 
-$(IMG_EXTRACT)/%-0000.jpg: $(SPLIT)/%.pdf
-	@mkdir -p $(IMG_EXTRACT)
+$(IMG_EXTRACT)/%-0000.jpg: $(SPLIT)/%.pdf mkdirs
 	pdfimages -j $< $(@D)/$*
 
 .SECONDARY:
-$(IMG_AUTO)/%.jpg: $(IMG_EXTRACT)/%-0000.jpg
-	@mkdir -p $(IMG_AUTO)
+$(IMG_AUTO)/%.jpg: $(IMG_EXTRACT)/%-0000.jpg mkdirs
 	-convert -negate $< $@
 
-$(FIXED)/%.md: $(TXT_AUTO)/%.md $(IMG_AUTO)/%.jpg
-	@mkdir -p $(FIXED)
+$(FIXED)/%.md: $(TXT_AUTO)/%.md $(IMG_AUTO)/%.jpg mkdirs
 	cp $< $@
 
 clean:
