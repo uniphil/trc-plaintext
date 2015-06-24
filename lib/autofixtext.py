@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 import re
-import json
 from functools import reduce
 
 
@@ -29,16 +28,26 @@ def strip(page):
     assert page.endswith(weirdEndThing)
     return page.strip()
 
-def capitalizeNewlines(page):
-    with open('abbrevs.json') as f:
-        abbrevs = json.load(f)
+def capitalizeAbbrs(page):
+    with open('abbrevs.md') as f:
+        abbrevs = map(lambda l: l[2:].split(']')[0], f.readlines())
     capitalized = page
-    for abbrev, replace in abbrevs.items():
+    for abbrev in abbrevs:
         lower = abbrev.lower()
         catch = ur'(?P<pre>\W){a}(?P<post>\W)'.format(a=lower)
         repl = lambda m: u'{pre}{a}{post}'.format(a=abbrev, **m.groupdict())
         capitalized, _ = re.subn(catch, repl, capitalized)
     return capitalized
+
+def italicizeRefs(page):
+    with open('refs.txt') as f:
+        refs = f.read().strip().split('\n')
+    italicized = page
+    for ref in refs:
+        catch = ur'(?P<pre>[^_\w]){r}(?P<post>[^_\w])'.format(r=ref)
+        repl = lambda m: u'{pre}_{r}_{post}'.format(r=ref, **m.groupdict())
+        italicized, _ = re.subn(catch, repl, italicized)
+    return italicized
 
 def doubleNewlines(page):
     return page.replace('\n', '\n\n')
@@ -61,11 +70,16 @@ def bullet(page):
     bulletted = newlined.replace(u'•\t', u'  *')
     return bulletted
 
+def ol(page):
+    repl = lambda m: '{n}.'.format(**m.groupdict())
+    listed, _ = re.subn(u'\n(?P<n>\\d)\)\t', repl, page)
+    return listed
+
 def cite(page):
     citation = ur'(?P<ends>{br} ?)(?P<citeNo>\d+)\n'.format(br=br)
     def cite(match):
         gs = match.groupdict()
-        return u'{ends}^[{citeNo}]\n'.format(**gs)
+        return u'{ends}[^{citeNo}]\n'.format(**gs)
     cited, _ = re.subn(citation, cite, page)
     return cited
 
@@ -82,11 +96,13 @@ compose = lambda *fns:\
 autofix = compose(
     encode,
     cite,
+    ol,
     bullet,
     semanticLineBreak,
     fixEllipses,
     doubleNewlines,
-    capitalizeNewlines,
+    italicizeRefs,
+    capitalizeAbbrs,
     strip,
     stripContext,
     decode,
