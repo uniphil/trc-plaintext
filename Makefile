@@ -6,7 +6,7 @@ IMG_EXTRACT	= image-extract
 IMG_AUTO	= image-autofix
 TXTIMG_LINK	= text-imagelink
 PATCH 		= patch
-FIXED 		= text-fixed
+FIXED 		= fixed
 
 .PHONY: all pages clean clean-pages clean-split
 
