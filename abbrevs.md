@@ -1,5 +1,6 @@
 *[ALI]: Aboriginal Languages Initiative
 *[CEP]: Common Experience Payment
+*[FASD]: Fetal alcohol spectrum disorder
 *[IAP]: Independent Assessment Process
 *[IRSAS]: Indian Residential Schools Adjudication Secretariat
 *[IRSSA]: Indian Residential Schools Settlement Agreement
