@@ -9,13 +9,13 @@ FOR_HUMANS	= for-humans
 PATCH 		= patch
 FIXED 		= fixed
 
-.PHONY: all pages patches human clean clean-pages clean-split
+.PHONY: all pages patches human report clean clean-pages clean-split
 
 
 ###### PRE-MAKE (calls make on this again after splitting pages)
 SOURCE = Exec_Summary_2015_05_31_web_o.pdf
 all: $(SPLIT)/*.pdf
-	$(MAKE) pages
+	$(MAKE) report
 clean-split:
 	rm -fr $(SPLIT)
 $(SPLIT)/*.pdf: $(SOURCE)
@@ -48,6 +48,12 @@ $(TXTIMG_LINK)/%.md: $(IMG_AUTO)/%.jpg $(TXT_AUTO)/%.md
 $(FIXED)/%.md: $(TXTIMG_LINK)/%.md $(PATCH)/%.patch mkdirs
 	python lib/patch.py $(PATCH)/$*.patch $< $@
 
+
+###### THE BIG DOC
+GOAL = TRC-2015-Executive-Summary.md
+report: $(GOAL)
+$(GOAL): $(TARGETS)
+	cat $(sort $^) > $@
 
 ###### FOR HUMANS (get an editable copy)
 HUMAN := $(TARGETS:$(FIXED)/%.md=$(FOR_HUMANS)/%.md)
