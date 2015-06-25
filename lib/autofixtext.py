@@ -72,7 +72,7 @@ def bullet(page):
 
 def ol(page):
     repl = lambda m: '{n}.'.format(**m.groupdict())
-    listed, _ = re.subn(u'\n(?P<n>\\d)\)\t', repl, page)
+    listed, _ = re.subn(u'\n(?P<n>\\d{1,2})\)\t', repl, page)
     return listed
 
 def cite(page):

@@ -1,3 +1,4 @@
+*[ALI]: Aboriginal Languages Initiative
 *[CEP]: Common Experience Payment
 *[IAP]: Independent Assessment Process
 *[IRSAS]: Indian Residential Schools Adjudication Secretariat
@@ -6,3 +7,4 @@
 *[NCTR]: National Centre for Truth and Reconciliation
 *[OPP]: Ontario Provincial Police
 *[TRC]: Truth and Reconciliation Commission of Canada
+*[UNESCO]: United Nations Educational, Scientific and Cultural Organization
