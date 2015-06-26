@@ -5972,7 +5972,7 @@ Research partnerships between universities and communities or organizations are 
 #### Call to Action
 
 65. We call upon the federal government, through the Social Sciences and Humanities Research Council, and in collaboration with Aboriginal peoples, post-secondary institutions and educators, and the National Centre for Truth and Reconciliation and its partner institutions, to establish a national research program with multi-year funding to advance understanding of reconciliation.
-TRC public education forums: Education Days and Youth Dialogues
+### TRC public education forums: Education Days and Youth Dialogues
 
 Education for reconciliation must happen not only in formal education settings such as elementary and secondary schools and post-secondary institutions, but in more informal places.
 One of the ways that the Commission fulfilled its public education mandate was through forums such as National Event Education Days and Youth Dialogues.
@@ -5982,7 +5982,7 @@ While this is true for adults, it is particularly urgent with regard to young pe
 At the Saskatchewan National Event, Grade Eight student Brooklyn Rae, who attended the Education Day, said, “I think it’s really important for youth to voice their opinions, to not only prove to themselves that they can, that their voice is important, but to prove to adults that they have a voice and that they have a strong opinion that is important in the world.”[^121]
 Elder Barney Williams, a member of the TRC’s Survivor Committee and one of the panellists at the Education Day Youth Dialogue, said,
 
-I think more and more people are realizing that the engagement of youth is crucial.
+> I think more and more people are realizing that the engagement of youth is crucial.
 For me, as a Survivor, I’m really impressed with how much they knew.
 I was very impressed with the type of questions the audience asked.
 It tells me, as somebody who’s carried this pain for over sixty-eight years, that there’s hope.
@@ -6001,11 +6001,11 @@ They visited the Learning Places to walk through the Legacy of Hope Foundation d
 
 Education Days were well attended.
 For example, at the British Columbia National Event in Vancouver, approximately 5,000 elementary and high school students from across the province spent the day at the National Event.
-In advance of Education Day, teachers
+In advance of Education Day, teachers<!--x-->
 in each region were given orientation materials to help prepare their students and themselves.
 In total, close to 15,000 young people across the country have participated in such Education Days, most with a commitment to take what they learned and witnessed back to their home schools to share with thousands more of their fellow students.
 
-Over the course of the TRC’s mandate, the Commission worked in partnership with the International Center for Transitional Justice’s (ictj) Children and Youth Program to host a series of small retreats and workshops.
+Over the course of the TRC’s mandate, the Commission worked in partnership with the International Center for Transitional Justice’s (ICTJ) Children and Youth Program to host a series of small retreats and workshops.
 Youth Dialogues were also integrated into Education Day activities at National Events.
 Their purpose was to engage youth in dialogue and to support their efforts to make their own submissions to the TRC.
 For example, in October 2010, the Commission co-sponsored an Aboriginal/non-Aboriginal youth retreat near Vancouver, British Columbia.
@@ -6013,25 +6013,23 @@ Young people came together to learn about the residential schools, talk with Eld
 One young participant said that during the retreat, “we learn[ed] more about each other and the past.
 It’s really important because it actually teaches us, the stories that we heard it touched us, and it inspired us to become better people.”[^123]
 
-In June of 2011, Molly Tilden and Marlisa Brown, two young women who attended this retreat, produced their own video documentary, Our Truth: The Youth Perspective on Residential Schools.
+In June of 2011, Molly Tilden and Marlisa Brown, two young women who attended this retreat, produced their own video documentary, _Our Truth: The Youth Perspective on Residential Schools_.
 The production featured interviews with their classmates in Yellowknife about what they knew about the residential schools.
 They presented the video at the Northern National Event in Inuvik, Northwest Territories.[^124]
-Virginie Ladisch, director of ictj’s Children and Youth Program, summarized what the two young women found and the subsequent impact of the project.
+Virginie Ladisch, director of ICTJ’s Children and Youth Program, summarized what the two young women found and the subsequent impact of the project.
 
-The answers are shocking: some students had no knowledge, or simply complete indifference; those are largely the non-Aboriginal youth interviewed.
+> The answers are shocking: some students had no knowledge, or simply complete indifference; those are largely the non-Aboriginal youth interviewed.
 Other students talk about the enduring impact they see in terms of high rates of alcoholism, suicide, and teenage pregnancies.
 
-So there’s a huge disconnect in terms of how the young people view the relevance of this legacy and what knowledge they have of it.
+> So there’s a huge disconnect in terms of how the young people view the relevance of this legacy and what knowledge they have of it.
 When that video was shared with people involved in designing the secondary school curriculum for the Northwest Territories and Nunavut, they could not believe that their youth had such reactions.
 
-So the curriculum on residential schools, which was previously barely addressed in the classroom, was revised to be a mandatory 25 hours of instruction, of which Ms.
-Brown and Ms.
-Tilden’s video is a critical component.[^125]
+> So the curriculum on residential schools, which was previously barely addressed in the classroom, was revised to be a mandatory 25 hours of instruction, of which Ms. Brown and Ms. Tilden’s video is a critical component.[^125]
 
-In October of 2011, the TRC–ictj initiative prepared and supported a group of Mi’kmaq youth reporters at the Halifax National Event.
+In October of 2011, the TRC–ICTJ initiative prepared and supported a group of Mi’kmaq youth reporters at the Halifax National Event.
 They interviewed Survivors and documented the TRC event.
-At a follow-up retreat in the community, the young reporters discussed their experiences and produced a documentary called Our Legacy, Our Hope.[^126]
-In 2012, the documentary was presented at the Youth Dialogue during the TRC’s National Event
+At a follow-up retreat in the community, the young reporters discussed their experiences and produced a documentary called _Our Legacy, Our Hope_.[^126]
+In 2012, the documentary was presented at the Youth Dialogue during the TRC’s National Event<!--x-->
 in Saskatchewan.[^127]
 Some of the youth also presented this documentary to international policymakers at the United Nations Permanent Forum on Indigenous Issues in 2012.[^128]
 
@@ -6048,7 +6046,7 @@ Hayley Grier-Stewart, representing the Kainai, Siksika, Tsuu T’ina, and Stony 
 If we introduce youth to the culture at a young age in our schools, through curriculum and the practice of restorative justice, it will teach the younger generation to be proactive instead of reactive.”
 Métis youth Shelby Lachlan said that
 
-the youth of Alberta believe that in order to move forward, towards healing and reconciliation, it is important for action to be taken on a national and provincial level.
+> the youth of Alberta believe that in order to move forward, towards healing and reconciliation, it is important for action to be taken on a national and provincial level.
 First we must re-establish trust between these two [Aboriginal and non-Aboriginal] collectives, and through the honouring, acknowledgement, and respect of all Treaties and settlements, we believe this can be achieved.[^129]
 
 Youth Forums and Dialogues are a vital component of education for reconciliation.
@@ -6057,7 +6055,7 @@ Non-profit organizations can play a key role in providing ongoing opportunities 
 #### Call to Action
 
 66. We call upon the federal government to establish multi-year funding for community-based youth organizations to deliver programs on reconciliation, and establish a national network to share information and best practices.
-Role of Canada’s museums and archives in education for reconciliation
+### Role of Canada’s museums and archives in education for reconciliation
 
 Museums and archives, as sites of public memory and national history, have a key role to play in national reconciliation.
 As publicly funded institutions, museums and archives in settler colonial states such as Canada, New Zealand, Australia, and the United States have interpreted the past in ways that have excluded or marginalized Aboriginal peoples’ cultural perspectives and historical experience.
@@ -6082,34 +6080,32 @@ This includes the right to maintain, protect and develop the past, present and f
   * States shall provide redress through effective mechanisms which may include restitution, developed in conjunction with indigenous peoples, with respect to their cultural, intellectual, religious and spiritual property taken without their free, prior and informed consent or in violation of their laws, traditions and customs.
 [Article 11:2]
 
-  * Indigenous peoples have the right to manifest, practise, develop and teach their spiritual and religious traditions, customs and ceremonies; the right to maintain, protect and have access in privacy to their religious and cultural sites; the right to use and
-control of their ceremonial objects; and the right to the repatriation of their human remains.
-[Article 12:1]
-  * States shall seek to enable the access and/or repatriation of ceremonial objects and human remains in their possession through fair, transparent and effective mechanisms developed in conjunction with indigenous peoples concerned.
-[Article 12:2]
+  * Indigenous peoples have the right to manifest, practise, develop and teach their spiritual and religious traditions, customs and ceremonies; the right to maintain, protect and have access in privacy to their religious and cultural sites; the right to use and<!--x-->
+control of their ceremonial objects; and the right to the repatriation of their human remains.[Article 12:1]
 
-The Declaration, in conjunction with Section 35 of Canada’s _Constitution Act, 1982_, which recognizes and affirms existing Aboriginal and Treaty rights, and various court rulings related to Aboriginal rights have fundamentally altered the landscape in Canada’s public history institutions.
+  * States shall seek to enable the access and/or repatriation of ceremonial objects and human remains in their possession through fair, transparent and effective mechanisms developed in conjunction with indigenous peoples concerned.[Article 12:2]
+
+The _Declaration_, in conjunction with Section 35 of Canada’s _Constitution Act, 1982_, which recognizes and affirms existing Aboriginal and Treaty rights, and various court rulings related to Aboriginal rights have fundamentally altered the landscape in Canada’s public history institutions.
 In light of court decisions that have declared that the principle of the honour of the Crown must be upheld by the state in all its dealings with Aboriginal peoples and that Aboriginal peoples’ oral history must be “placed on an equal footing” with written historical documents, national museums and archives have been compelled to respond accordingly.[^133]
 The governance structures, policies, ethical codes, and daily operations of national museums and archives have had to adapt to accommodate the constitutional and legal realities of Canada’s changing relationship with Aboriginal peoples.[^134]
 
-Canada’s national museums
+### Canada’s national museums
 
 The 1996 _Report of the Royal Commission on Aboriginal Peoples_ made a specific recommendation to Canada’s museums.
 
-a)	 Museums and cultural institutions [should] adopt ethical guidelines governing all aspects of collection, disposition, display and interpretation of artifacts related to Aboriginal culture and heritage, including the following:
+1. Museums and cultural institutions [should] adopt ethical guidelines governing all aspects of collection, disposition, display and interpretation of artifacts related to Aboriginal culture and heritage, including the following:
 
-b)	 Involving Aboriginal people in drafting, endorsing and implementing the guidelines;
+2. Involving Aboriginal people in drafting, endorsing and implementing the guidelines;
 
-c)	 Creating inventories of relevant holdings and making such inventories freely accessible to Aboriginal people;
+3. Creating inventories of relevant holdings and making such inventories freely accessible to Aboriginal people;
 
-d)	 Cataloguing and designating appropriate use and display of relevant holdings;
+4. Cataloguing and designating appropriate use and display of relevant holdings;
 
-e)	 Repatriating, on request, objects that are sacred or integral to the history and continuity of particular nations and communities;
+5. Repatriating, on request, objects that are sacred or integral to the history and continuity of particular nations and communities;
 
-f )	 Returning human remains to the family, community or nation of origin, on request, or consulting with Aboriginal advisers on appropriate disposition, where remains cannot be associated with a particular nation;
+6. Returning human remains to the family, community or nation of origin, on request, or consulting with Aboriginal advisers on appropriate disposition, where remains cannot be associated with a particular nation;
 
-g)	 Ensuring that Aboriginal people and communities have effective access to cultural education and training opportunities available through museums and cultural institutions.
-[Recommendation 3.6.4]135
+7. Ensuring that Aboriginal people and communities have effective access to cultural education and training opportunities available through museums and cultural institutions. \[Recommendation 3.6.4\][^135]
 In the years following the Royal Commission’s report, museums across the country have implemented many of its recommendations.[^136]
 Many have worked with communities to repatriate human remains or cultural artifacts.
 For some institutions, consultation and collaborative partnerships with Aboriginal communities have become standard practice, and Aboriginal internships and other training opportunities have been established.
@@ -6121,11 +6117,11 @@ Here, we focus on two national museums, the Canadian Museum of History (formerly
 As national public history institutions, they bear a particular responsibility to retell the story of Canada’s past so that it reflects not only diverse cultures, history, and experiences of First Nations, Inuit, and Métis peoples, but also the collective violence and historical injustices that they have suffered at the hands of the state.
 It is instructive to examine how these two public history institutions plan to interpret the history of Aboriginal peoples and address historical injustices in the coming years.
 
-Canadian Museum of History
+### Canadian Museum of History
 
 Appearing before the House of Commons Standing Committee on Canadian Heritage in June 2013, Mark O’Neill, president and chief executive officer of the Canadian Museum of Civilization Corporation, acknowledged that many important aspects and milestones of Canadian history—including residential schools—have been missing from the museum.
 
-[P]erhaps the most egregious flaw in the Canada Hall is its starting point.
+> [P]erhaps the most egregious flaw in the Canada Hall is its starting point.
 If you’ve been there, you will know that its telling of our national story begins not with the arrival of First Peoples but with the arrival of Europeans in the eleventh century.
 Colonization as a term or concept is not mentioned in Canada Hall.
 This is something we intend to correct.
@@ -6135,7 +6131,7 @@ They want us to examine both the good and the bad from our past.
 We were urged to foster a sense of national pride without ignoring our failings, mistakes and controversies.[^139]
 
 In July 2013, the Canadian Museum of Civilization and its partner, the Canadian War Museum, released a joint research strategy intended to guide the research activities at both institutions until 2023.
-“Memory and commemoration” is a key research theme;
+“Memory and commemoration” is a key research theme;<!--x-->
 objectives include the presentation of competing and contentious historical narratives of Confederation and the two world wars, and the use of “selected commemorations to explore concepts of myth, memory, and nation.”
 The museums intended to “present honestly, but respectfully, for public understanding issues of contention or debate …
 [through] deliberate exploration of traumatic pasts (e.g.
@@ -6145,7 +6141,7 @@ Drawing on research showing that Canadians valued their “personal and family c
 [and] the impact of rapid change in Canada’s North, especially for Inuit.”[^141]
 Another key research theme is “First Peoples,” with a particular focus on Aboriginal histories.
 
-The histories and cultures of Aboriginal peoples are central to all Canadians’ understanding of their shared past.
+> The histories and cultures of Aboriginal peoples are central to all Canadians’ understanding of their shared past.
 Respectful exploration of the interwoven, often difficult histories of Aboriginal and non-Aboriginal Peoples is a responsible, timely contribution to contemporary Canada, and to global understanding of Aboriginal Peoples…
 There are four principal objectives in exploring and sharing Aboriginal narratives…
 1) Represent Aboriginal histories and cultures within broader Canadian narratives …
@@ -6156,18 +6152,18 @@ There are four principal objectives in exploring and sharing Aboriginal narrativ
 We are encouraged to note that much of what the museum’s research strategy emphasizes is consistent with our own findings: Canadians, including youth and teachers, think they should learn about the history and legacy of residential schools and Aboriginal history more broadly.
 We take particular note of the prominence given to presenting both the positive and negative aspects of Canada’s history, demonstrating the relevance of the past to the present, including marginalized voices and perspectives, encouraging collaboration, and making connections between personal and public history.
 
-The Canadian Museum for Human Rights
+### The Canadian Museum for Human Rights
 
-As a national public history institution, the new Canadian Museum for Human Rights (cmhr) in Winnipeg is mandated to “explore the subject of human rights, with special but not exclusive reference to Canada, in order to enhance the public’s understanding of human rights, to promote respect for others, and to encourage reflection and dialogue.”[^143]
-Speaking at the TRC’s Forum on the National Research Centre in Vancouver on March 3, 2011, cmhr President and Chief Executive Officer Stuart Murray talked about the museum’s vision for, and role in, national reconciliation.
-He emphasized the prominent role of the cmhr’s First Nations, Inuit, and Métis advisors, as well as the Elders Advisory Council,
+As a national public history institution, the new Canadian Museum for Human Rights (CMHR) in Winnipeg is mandated to “explore the subject of human rights, with special but not exclusive reference to Canada, in order to enhance the public’s understanding of human rights, to promote respect for others, and to encourage reflection and dialogue.”[^143]
+Speaking at the TRC’s Forum on the National Research Centre in Vancouver on March 3, 2011, CMHR President and Chief Executive Officer Stuart Murray talked about the museum’s vision for, and role in, national reconciliation.
+He emphasized the prominent role of the CMHR’s First Nations, Inuit, and Métis advisors, as well as the Elders Advisory Council,<!--x-->
 Aboriginal Youth Council, and the broader Aboriginal community, in the planning and programs developed by the museum.[^144]
 
-Given the deep controversies that exist regarding the history of the residential school system, it is perhaps not surprising that the cmhr was criticized by the Southern Chiefs Organization in Manitoba in June of 2013, after media reports that the museum would not “label human rights violations against First Nations as genocide.”
+Given the deep controversies that exist regarding the history of the residential school system, it is perhaps not surprising that the CMHR was criticized by the Southern Chiefs Organization in Manitoba in June of 2013, after media reports that the museum would not “label human rights violations against First Nations as genocide.”
 From the Southern Chiefs Organization’s perspective, the museum was “sanitizing the true history of Canada’s shameful treatment of First Nations.”[^145]
 Stuart Murray issued a statement on July 26, 2013, clarifying the museum’s position.
 
-In the Museum, we will examine the gross and systemic human rights violation of Indigenous peoples.
+> In the Museum, we will examine the gross and systemic human rights violation of Indigenous peoples.
 This will include information about the efforts of the Aboriginal community, and others, to gain recognition of these violations as genocide—and we will use that word.
 We will look at the ways this recognition can occur when people combat denial and work to break the silence surrounding such horrific abuses…
 We have chosen, at present, not to use the word “genocide” in the title for one of the exhibits about this experience, but will be using the term in the exhibit itself when describing community efforts for this recognition.
@@ -6175,16 +6171,16 @@ Historical fact and emerging information will be presented to help visitors reac
 While a museum does not have the power to make declarations of genocide, we can certainly encourage—through ongoing partnership with the Indigenous community itself—an honest examination of Canada’s human rights history, in hopes that respect and reconciliation will prevail.[^146]
 
 The museum signalled its intention to create opportunities for Canadians to engage in a much broader and long-overdue public dialogue about the issue of genocide as it relates to the residential school system.
-The cmhr envisioned creating a public education venue for teaching all Canadians to think more critically about the history of human rights violations against Aboriginal peoples.
+The CMHR envisioned creating a public education venue for teaching all Canadians to think more critically about the history of human rights violations against Aboriginal peoples.
 
 Speaking about the forthcoming 2017 commemoration of Canada’s Confederation, Murray observed that Canada’s human rights record is not unblemished, and that
 
-for many Aboriginal communities, this is not necessarily an event that warrants celebration.
+> for many Aboriginal communities, this is not necessarily an event that warrants celebration.
 But by looking honestly and openly at our past, by engaging a diversity of voices and perspectives, and by celebrating what has been accomplished to overcome these mistakes, we will serve to make our nation more united, more proud, and more just.
 We can use this anniversary to continue on a journey of reconciliation.[^147]
 The Commission believes that, as Canada’s 150th anniversary approaches in 2017, national reconciliation is the most suitable framework to guide commemoration of this significant historical benchmark in Canada’s history.
 This intended celebration can be an opportunity for Canadians to take stock of the past, celebrating the country’s accomplishments without shirking responsibility for its failures.
-Fostering more inclusive public
+Fostering more inclusive public<!--x-->
 discourse about the past through a reconciliation lens would open up new and exciting possibilities for a future in which Aboriginal peoples take their rightful place in Canada’s history as founding nations who have strong and unique contributions to make to this country.
 
 In the Commission’s view, there is an urgent need in Canada to develop historically literate citizens who understand why and how the past is relevant to their own lives and the future of the country.
@@ -6199,47 +6195,45 @@ Through their exhibits, education outreach, and research programs, all museums a
 #### Calls to Action
 
 67. We call upon the federal government to provide funding to the Canadian Museums Association to undertake, in collaboration with Aboriginal peoples, a national review of museum policies and best practices to determine the level of compliance with the _United Nations Declaration on the Rights of Indigenous Peoples_ and to make recommendations.
+
 68. We call upon the federal government, in collaboration with Aboriginal peoples, and the Canadian Museums Association to mark the 150th anniversary of Canadian Confederation in 2017 by establishing a dedicated national funding program for commemoration projects on the theme of reconciliation.
-Canada’s national archives: Sharing Aboriginal
+### Canada’s national archives: Sharing Aboriginal history versus keeper of state records
 
-history versus keeper of state records
-
-As Canada’s national archives, Library and Archives Canada (lac) has a dual function with regard to its holdings on Aboriginal peoples.
+As Canada’s national archives, Library and Archives Canada (LAC) has a dual function with regard to its holdings on Aboriginal peoples.
 It is both a public history institution tasked with making documents relevant to Aboriginal history accessible to the public, and it is the custodian of federal government departmental historical records.
 
-In 2005, lac issued a “Collection Development Framework,” which set out the principles and practices that would guide the institution’s acquisitions and preservation of its holdings.
+In 2005, LAC issued a “Collection Development Framework,” which set out the principles and practices that would guide the institution’s acquisitions and preservation of its holdings.
 The framework made specific commitments regarding materials related to Aboriginal peoples.
 
-lac recognizes the contributions of Aboriginal peoples to the documentary heritage of Canada, and realizes that, in building its collection of materials, it must take into account the diversity of Aboriginal cultures, the relationship the Government of Canada has with Aboriginal peoples, and the unique needs and realities of Aboriginal communities.
+> LAC recognizes the contributions of Aboriginal peoples to the documentary heritage of Canada, and realizes that, in building its collection of materials, it must take into account the diversity of Aboriginal cultures, the relationship the Government of Canada has with Aboriginal peoples, and the unique needs and realities of Aboriginal communities.
 The development of a national strategy will be done in consultation and collaboration with Aboriginal communities and organizations, and will respect the ways in which indigenous knowledge and heritage is preserved or ought to be preserved and protected within or outside of Aboriginal communities.[^148]
 
 Library and Archives Canada has developed various guides and resources related to researching Aboriginal heritage.[^149]
-But a fundamental tension exists between lac’s public education mandate to work collaboratively with Aboriginal peoples to document their cultural and social history versus its legal obligation to serve the state.
+But a fundamental tension exists between LAC’s public education mandate to work collaboratively with Aboriginal peoples to document their cultural and social history versus its legal obligation to serve the state.
 This tension is most evident where archived documents are relevant to various historical injustices involving Aboriginal peoples.
-Historical records housed in lac have been used extensively as evidence by both Aboriginal claimants and Crown defendants in litigation involving residential schools, Treaties, Aboriginal title and rights cases, and land claims.
+Historical records housed in LAC have been used extensively as evidence by both Aboriginal claimants and Crown defendants in litigation involving residential schools, Treaties, Aboriginal title and rights cases, and land claims.
 
-In the case of documents related to residential schools, the problems associated with lac’s dual function became apparent during the litigation period prior to the Settlement Agreement.
-During this time, with regard to its public education mandate, lac produced “Native Residential Schools in Canada: A Selective Bibliography” in 2002, and assisted Aboriginal people, academics, and other researchers who wished to access these holdings.[^150]
-But, because the residential schools litigation put the federal government in the position of being the major defendant in the court cases, the overriding priority for lac, as the custodian of federal government departmental records, was to meet its legal obligations to the Crown.
+In the case of documents related to residential schools, the problems associated with LAC’s dual function became apparent during the litigation period prior to the Settlement Agreement.
+During this time, with regard to its public education mandate, LAC produced “Native Residential Schools in Canada: A Selective Bibliography” in 2002, and assisted Aboriginal people, academics, and other researchers who wished to access these holdings.[^150]
+But, because the residential schools litigation put the federal government in the position of being the major defendant in the court cases, the overriding priority for LAC, as the custodian of federal government departmental records, was to meet its legal obligations to the Crown.
 
-Librarian and Archivist Emeritus Dr.
-Ian Wilson, Canada’s former national archivist, described this tension.
-He explained that, as the residential school litigation intensified,
+Librarian and Archivist Emeritus Dr. Ian Wilson, Canada’s former national archivist, described this tension.
+He explained that, as the residential school litigation intensified,<!--x-->
 Lawyers besieged the archives.
 Archivists, caught between the vagaries of old informal recordkeeping practices in church schools across the country, legal demands for instant and full access and obligations to employer and profession, struggled to uphold their ideal of the honest stewardship of the records…
 This process has tested the capacity of the archives and our professional ability to respond.[^151]
 
 These challenges did not end with the implementation of the 2007 Settlement Agreement.
-The TRC’s own difficulties in gaining access to government records held in lac demonstrated why state-controlled archives are not necessarily best suited to meet the needs of Survivors, their families, and communities.
+The TRC’s own difficulties in gaining access to government records held in LAC demonstrated why state-controlled archives are not necessarily best suited to meet the needs of Survivors, their families, and communities.
 
-By 2009, in terms of public education, lac had partnered with the Legacy of Hope Foundation and the Aboriginal Healing Foundation on two exhibitions: Where are the Children?
+By 2009, in terms of public education, LAC had partnered with the Legacy of Hope Foundation and the Aboriginal Healing Foundation on two exhibitions: Where are the Children?
 Healing the Legacy of the Residential Schools; and “We were so far away …”: The Inuit experience of residential schools.[^152]
 Library and Archives Canada also produced an updated online version of the bibliography, “The Legacy of the Residential School System in Canada: A Selective Bibliography.”[^153]
-In 2010, lac made an online finding aid available, “Conducting Research on Residential Schools: A Guide to the Records of the Indian and Inuit Affairs Program and Related Resources at Library and Archives Canada.”[^154]
+In 2010, LAC made an online finding aid available, “Conducting Research on Residential Schools: A Guide to the Records of the Indian and Inuit Affairs Program and Related Resources at Library and Archives Canada.”[^154]
 
-In the spirit of reconciliation, lac archivists (along with church archivists) brought binders of residential school photographs to the Learning Places at the TRC’s National Events, where Survivors and others could see them and get copies of their class pictures and other school activities.
+In the spirit of reconciliation, LAC archivists (along with church archivists) brought binders of residential school photographs to the Learning Places at the TRC’s National Events, where Survivors and others could see them and get copies of their class pictures and other school activities.
 For many Survivors, especially those who had no visual record of their own childhood or no pictures of siblings who have since passed away, this proved to be one of the most treasured aspects of the National Events experience.
-However, during this same time period, lac’s holdings and its role in complying with the federal government’s legal obligations for document production, under the terms of the Settlement Agreement, became the focus of court proceedings between the TRC and the federal government.
+However, during this same time period, LAC’s holdings and its role in complying with the federal government’s legal obligations for document production, under the terms of the Settlement Agreement, became the focus of court proceedings between the TRC and the federal government.
 
 The TRC seeks full access to LAC records
 
@@ -6269,15 +6263,15 @@ In April 2012, the Commission was compelled to file a “Request for Direction�
 At issue was the question of what Canada’s obligations were under the Settlement Agreement with respect to providing to the TRC archived government documents housed at Library and Archives Canada.
 The Commission, Aboriginal Affairs and Northern Development Canada, the Department of Justice, and Library and Archives Canada had very different views as to how the TRC should acquire these records.
 
-In lac’s view, its role was that of the neutral keeper of government records, whose task was to facilitate and empower federal government departments to canvass their own archival holdings.
+In LAC’s view, its role was that of the neutral keeper of government records, whose task was to facilitate and empower federal government departments to canvass their own archival holdings.
 
-Faced with the onerous task of conducting its own research through lac’s vast holdings, Canada’s position was that its obligation was limited to searching and producing relevant documents from the active and semi-active files in various departments.
+Faced with the onerous task of conducting its own research through LAC’s vast holdings, Canada’s position was that its obligation was limited to searching and producing relevant documents from the active and semi-active files in various departments.
 The government’s
-view became that departments need provide the TRC only with departmental researcher status to access their archived documents at lac so that the Commission could conduct its own research.
+view became that departments need provide the TRC only with departmental researcher status to access their archived documents at LAC so that the Commission could conduct its own research.
 
-The TRC’s position was that Canada was obligated to produce all relevant documents, including those at lac, and had an additional obligation to provide the Commission with access to lac in order to conduct its own research.
+The TRC’s position was that Canada was obligated to produce all relevant documents, including those at LAC, and had an additional obligation to provide the Commission with access to LAC in order to conduct its own research.
 Although the TRC, in the spirit of co-operation, had agreed to obtain departmental researcher status, it maintained that this was unnecessary because the Settlement Agreement already gave the Commission unconditional access to the archives.
-The end result was that Canada had effectively shifted the onus of its responsibility to produce lac documents onto the TRC.
+The end result was that Canada had effectively shifted the onus of its responsibility to produce LAC documents onto the TRC.
 
 In rendering his decision in favour of the Commission, Justice Stephen Goudge ruled:
 
@@ -6289,7 +6283,7 @@ Nor is the obligation limited to the documents assembled by Canada for productio
 [para.
 69]
 
-I therefore conclude that given their meaning, the language in section 11 of Schedule N does not exclude documents archived at lac from Canada’s obligation to the TRC.
+I therefore conclude that given their meaning, the language in section 11 of Schedule N does not exclude documents archived at LAC from Canada’s obligation to the TRC.
 The context in which the Settlement Agreement was created provides further important support for that conclusion in several ways.
 [para.
 71]
@@ -6305,17 +6299,17 @@ Here too, Canada’s documents, wherever housed, would have been seen to be vita
 73]
 
 Third, the story of the history and the historical record to be compiled cover over 100 years and dates back to the nineteenth century.
-In light of this time span, it would have been understood at the time of the Settlement Agreement that much of the relevant documentary record in Canada’s possession would be archived in lac and would no longer be in the active or semi-active files of the departments of the Government of Canada.
+In light of this time span, it would have been understood at the time of the Settlement Agreement that much of the relevant documentary record in Canada’s possession would be archived in LAC and would no longer be in the active or semi-active files of the departments of the Government of Canada.
 [para.
 74]
 
-Fourth, it would have been obvious that the experienced staff at lac would have vastly more ability to identify and organize the relevant documents at lac than would the newly hired staff of the newly formed TRC.
+Fourth, it would have been obvious that the experienced staff at LAC would have vastly more ability to identify and organize the relevant documents at LAC than would the newly hired staff of the newly formed TRC.
 It would have made little sense to give
 that task to the latter rather than the former, particularly given its importance to the TRC’s mandate.
 [para.
 75]156
 
-Although the difficulties the TRC encountered in obtaining lac documents were specific to the Commission’s mandate, they highlight broader questions concerning the role of state archives and archivists in providing documents that reveal the facts of why and how a targeted group of people have suffered harms on a massive scale.
+Although the difficulties the TRC encountered in obtaining LAC documents were specific to the Commission’s mandate, they highlight broader questions concerning the role of state archives and archivists in providing documents that reveal the facts of why and how a targeted group of people have suffered harms on a massive scale.
 As part of a growing trend towards demanding better government accountability and transparency, and the evolution of new privacy and freedom of information legislation, archives have become more directly connected to struggles for human rights and justice.[^157]
 
 Archives and access to justice
@@ -6559,7 +6553,7 @@ As well, the Centre for Truth and Reconciliation is also committed to
 personally supporting survivors, their families, and all researchers in navigating, using, and understanding the records, in a culturally sensitive environment.
 The support that the nrc will provide includes emotionally-sensitive support, acknowledging that accessing the nrc documents may be traumatic, difficult or otherwise emotional experiences for many users.
 An Elder will be present or on call (from a nearby building) most of the time the nrc is open to the public.
-lac and other government departments have no mandate or capacity to offer these various supports, which are critical to relationship-building and overcoming the perception of archives as yet another mechanism of colonization, cultural appropriation by Western society and hyper-surveillance and objectification of Aboriginal peoples.[^177]
+LAC and other government departments have no mandate or capacity to offer these various supports, which are critical to relationship-building and overcoming the perception of archives as yet another mechanism of colonization, cultural appropriation by Western society and hyper-surveillance and objectification of Aboriginal peoples.[^177]
 
 On June 21, 2013, First Nations, Inuit, and Métis Survivors, Elders, the TRC, the University of Manitoba and its partner institutions, along with other dignitaries, gathered in Treaty 1 territory of the Anishinaabe peoples and homeland of the Métis Nation for a signing ceremony at the University of Manitoba.[^178]
 The signing of a Trust Deed with the university marks the transfer of a sacred trust—a solemn promise that the Truth and Reconciliation Commission made to Survivors and all those affected by the residential schools as it travelled across the country, bearing witness to their testimonies.
@@ -8220,18 +8214,18 @@ Videos available online at: http://youth.society.uvic.ca/TRC (accessed 15 April 
 2013, video, Statement Number: SNE502, https://vimeo.com/48143907.
 123.	 ICTJ/Canada TRC Youth Retreat, http://vimeo.com/26397248.
 124.	 ICTJ/Canada TRC Youth Retreat, http://vimeo.com/26128253.
-125.	 International Center for Transitional Justice, “ICTJ Program Report,” http://www.ictj.org/news/
+125.	 International Center for Transitional Justice, “ICTJ Program Report,” http://www.ICTJ.org/news/
 
-ictj-program-report-children-and-youth.
-126.	 International Center for Transitional Justice, “Youth Reporters Tell the Story,” http://ictj.org/news/
+ICTJ-program-report-children-and-youth.
+126.	 International Center for Transitional Justice, “Youth Reporters Tell the Story,” http://ICTJ.org/news/
 
 youth-reporters-tell-story-residential-schools.
-127.	 International Center for Transitional Justice, “Our Legacy, Our Hope,” press release, 20 June 2012.
+127.	 International Center for Transitional Justice, “_Our Legacy, Our Hope_,” press release, 20 June 2012.
 
-Video, Our Legacy, Our Hope, at: http://www.youtube.com/watch?v=Xz2SUV0vFCI.
-128.	 International Center for Transitional Justice, “ICTJ Program Report,” http://www.ictj.org/news/
+Video, _Our Legacy, Our Hope_, at: http://www.youtube.com/watch?v=Xz2SUV0vFCI.
+128.	 International Center for Transitional Justice, “ICTJ Program Report,” http://www.ICTJ.org/news/
 
-ictj-program-report-children-and-youth.
+ICTJ-program-report-children-and-youth.
 129.	 TRC, AVS, Centre for Global Citizenship Education and Research, Statement to the Truth and
 
 Reconciliation Commission of Canada, Edmonton, Alberta, 27 March 2014, Statement Number: ABNE102.
@@ -8275,12 +8269,12 @@ com/news/canada/indian-residential-schools-or-settler-colonial-genocide.
 146.	 Canadian Museum for Human Rights, Statement from the President and CEO: Use of “Genocide” in relation to treatment of Indigenous peoples in Canada, July 26, 2013, http://museumforhumanrights.ca/about-museum/news/statement-president-and-ceo-use-genocide-relation-treatment-indigenous-peoples.
 147.	 Canadian Museum for Human Rights, President and CEO Stuart Murray, speech delivered at “2017 Starts Now” forum, May 3, 2013, https://humanrights.ca/about-museum/news/speech-deliveredcmhr-president-and-ceo-stuart-murray-2017-starts-nowdebute.
 148.	 Library and Archives Canada, “Collection Development Framework,” March 30, 2005, 7–8, http:// www.collectionscanada.gc.ca/obj/003024/f2/003024-e.pdf.
-149.	 Library and Archives Canada, “Aboriginal Heritage,” http://www.bac-lac.gc.ca/eng/discover/aboriginal-heritage/Pages/introduction.aspx#d.
+149.	 Library and Archives Canada, “Aboriginal Heritage,” http://www.bac-LAC.gc.ca/eng/discover/aboriginal-heritage/Pages/introduction.aspx#d.
 150.	 Library and Archives Canada, “Native Residential Schools in Canada,” http://www.collectionscanada.gc.ca/native-residential/index-e.html (accessed 15 April 2015).
 151.	 Wilson, “Peace, Order and Good Government,” 239.
 152.	 “New Exhibition Reflecting the Uniqueness of the Inuit Experience of Residential Schools Launched at Library and Archives Canada,” media release, March 4, 2009, http://www.collectionscanada.gc.ca/013/013-380-e.html.
 See also: Legacy of Hope Foundation, http://wherearethechildren.ca/en; Legacy of Hope Foundation, http://weweresofaraway.ca/ (accessed 15 April 2015).
-153.	 Library and Archives Canada, “Legacy of the Residential School System,” http://www.bac-lac.gc.
+153.	 Library and Archives Canada, “Legacy of the Residential School System,” http://www.bac-LAC.gc.
 ca/eng/archives/archives-en/aboriginal-heritage/Pages/residential-schools-bibliography-2009.
 aspx (accessed 15 April 2015).
 
@@ -8357,7 +8351,7 @@ See: Booth, Communities of Memory, 45.
 184.	 In its report “Strengthening Indigenous Rights through Truth Commissions: A Practitioner’s Resource,” the International Center for Transitional Justice identifies four thematic areas where commissions must rethink widely held assumptions in the field of transitional justice in order to become more responsive to Indigenous rights.
 These include: a) moving beyond a state-centric approach; b) moving beyond an individualistic form of analysis; c) moving beyond a focus only on recent violations; and d) moving beyond an overreliance on archival and written sources.
 See: International Center for Transitional Justice, “Strengthening Indigenous Rights,” 3–5, https://www.
-ictj.org/sites/default/files/ICTJ-Truth-Seeking-Indigenous-Rights-2012-English.pdf.
+ICTJ.org/sites/default/files/ICTJ-Truth-Seeking-Indigenous-Rights-2012-English.pdf.
 185.	 Chamberlin, If This Is Your Land, 238–239.
 186.	 Schirch, Ritual and Symbol, 1–2.
 187.	 Truth and Reconciliation Commission of Canada, “Atlantic National Event Concept Paper,” 4, http://www.myrobust.com/websites/atlantic/File/Concept%20Paper%20atlantic%20august%20 10%20km_cp%20_3_.pdf.
