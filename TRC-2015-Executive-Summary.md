@@ -4612,7 +4612,7 @@ The Commission therefore believes that the _United Nations Declaration on the Ri
 Studying the Declaration with a view to identifying its impacts on current government laws, policy, and behaviour would enable Canada to develop a holistic vision of reconciliation that embraces<!--x-->
 all aspects of the relationship between Aboriginal and non-Aboriginal Canadians, and to set the standard for international achievement in its circle of hesitating nations.
 
-Aboriginal peoples’ right to self-determination must be integrated into Canada’s constitutional and legal framework and civic institutions, in a manner consistent with the principles, norms, and standards of the Declaration.
+Aboriginal peoples’ right to self-determination must be integrated into Canada’s constitutional and legal framework and civic institutions, in a manner consistent with the principles, norms, and standards of the _Declaration_.
 Aboriginal peoples in Canada have Aboriginal and Treaty rights.
 They have the right to access and revitalize their own laws and governance systems within their own communities and in their dealings with governments.
 They have a right to protect and revitalize their cultures, languages, and ways of life.
@@ -4622,23 +4622,25 @@ In 2014, the Supreme Court of Canada ruled that the Tsilhqot’in peoples have A
 The court said, “Governments and individuals proposing to use or exploit land, whether before or after a declaration of Aboriginal title, can avoid a charge of infringement or failure to adequately consult by obtaining the consent of the interested Aboriginal group.”[^17]
 
 In the face of growing conflicts over lands, resources, and economic development, the scope of reconciliation must extend beyond residential schools to encompass all aspects of Aboriginal and non-Aboriginal relations and connections to the land.
-Therefore, in our view, it is essential that all levels of government endorse and implement the Declaration.
+Therefore, in our view, it is essential that all levels of government endorse and implement the _Declaration_.
 The Commission urges the federal government to reverse its position and fully endorse the “Outcome Document.”
-We believe that the federal government must develop a national action plan to implement the Declaration.
+We believe that the federal government must develop a national action plan to implement the _Declaration_.
 This would be consistent with the direction provided by the Supreme Court of Canada.
 More importantly, it would be consistent with the achievement of reconciliation.
 
 #### Calls to Action
-43. We call upon federal, provincial, territorial, and municipal governments to fully adopt and implement the _United Nations Declaration on the Rights of Indigenous Peoples_ as the framework for reconciliation.
-44. We call upon the Government of Canada to develop a national action plan, strategies, and other concrete measures to achieve the goals of the _United Nations Declaration on the Rights of Indigenous Peoples_.
-Doctrine of Discovery
 
-Earlier in this report, we recalled how European states relied on the Doctrine of Discovery and the concept of terra nullius (lands belonging to no one) to justify empire building and the colonization of Aboriginal peoples and their lands in North America and across the globe.
+43. We call upon federal, provincial, territorial, and municipal governments to fully adopt and implement the _United Nations Declaration on the Rights of Indigenous Peoples_ as the framework for reconciliation.
+
+44. We call upon the Government of Canada to develop a national action plan, strategies, and other concrete measures to achieve the goals of the _United Nations Declaration on the Rights of Indigenous Peoples_.
+### Doctrine of Discovery
+
+Earlier in this report, we recalled how European states relied on the Doctrine of Discovery and the concept of _terra nullius_ (lands belonging to no one) to justify empire building and the colonization of Aboriginal peoples and their lands in North America and across the globe.
 Far from being ancient history with no relevance for reconciliation today, the Doctrine of Discovery underlies the legal basis on which British Crown officials claimed sovereignty over Indigenous peoples and justified the extinguishment of their inherent rights to their territories, lands, and resources.
 
 Speaking at the Manitoba National Event in 2010, former day school student, political leader, and educator Sol Sanderson explained the importance of making the connection between the policies and practices of imperialism and colonization and the need for transformative change in Canadian society.
 
-What were the objectives of those empire policies?
+> What were the objectives of those empire policies?
 Assimilation, integration, civilization, Christianization and liquidation.
 Who did those policies target?
 They targeted the destruction of our Indigenous families worldwide.
@@ -4653,19 +4655,19 @@ From 2010 to 2014, the United Nations Permanent Forum on Indigenous Issues under
 During this same time period, the Settlement Agreement churches also began to examine the Christian thinking that had justified taking Indigenous lands and removing children from their families and communities.
 Writing about the Roman Catholic foundations of Aboriginal land claims in Canada, historian Jennifer Reid explains why the Doctrine remains relevant today.
 
-Most non-Aboriginal Canadians are aware of the fact that Indigenous peoples commonly regard land rights as culturally and religiously significant.
+> Most non-Aboriginal Canadians are aware of the fact that Indigenous peoples commonly regard land rights as culturally and religiously significant.
 Fewer nonnatives, I suspect, would consider their own connection with property in the same light, and fewer still would regard the legal foundation of all land rights in Canada as conspicuously theological.
 In fact, however, it is.
 The relationship between law and land in Canada can be traced to a set of fifteenth-century theological assumptions that have found their way into Canadian law…
 The Doctrine of Discovery was the legal means by which Europeans claimed rights of sovereignty, property, and trade in regions they allegedly discovered during the age of expansion.
-These claims were made without consultation or engagement of any sort with the resident populations in these territories—the people to whom, by any sensible account, the land actually
+These claims were made without consultation or engagement of any sort with the resident populations in these territories—the people to whom, by any sensible account, the land actually<!--x-->
 belonged.
 The Doctrine of Discovery has been a critical component of historical relationships between Europeans, their descendants, and Indigenous peoples, and it underlies their legal relationships to this day, having smoothly and relatively uncritically transitioned from Roman Catholic to international law.[^19]
 
 In April 2010, the Permanent Observer Mission of the Holy See (the UN representative from the Roman Catholic Vatican) issued a statement regarding the Doctrine of Discovery at the ninth session of the UN Permanent Forum on Indigenous Issues.[^20]
 The statement noted that earlier papal bulls regarding territorial expansion and the forced conversion of Indigenous peoples had subsequently been abrogated or annulled by the Roman Catholic Church.
 
-Regarding the question of the doctrine of discovery and the role of the Papal Bull Inter Coetera, the Holy See notes that Inter Coetera, as a source of international law …
+> Regarding the question of the doctrine of discovery and the role of the Papal Bull Inter Coetera, the Holy See notes that Inter Coetera, as a source of international law …
 was first of all abrogated by the Treaty of Tordesilles in 1494, and that Circumstances have changed so much that to attribute any juridical value to such a document seems completely out of place…
 In addition, it was also abrogated by other Papal Bulls, for example, Sublimis Deus in 1537, which states, “Indians and all other people who may later be discovered by Christians, are by no means to be deprived of their liberty or the possession of their property …
 should the contrary happen, it shall be null and have no effect.”
@@ -4681,14 +4683,15 @@ The doctrine’s influence in Western law and its destructive consequences for I
 In 2014, the North American representative to the UN Permanent Forum on Indigenous Issues, Grand Chief Edward John, tabled the “Study on the Impacts of the Doctrine of Discovery on Indigenous Peoples, Including Mechanisms, Processes, and Instruments of Redress.”
 The study concluded:
 
-With regard to land dispossessions, forced conversions of non-Christians, the deprivation of liberty and the enslavement of indigenous peoples, the Holy See reported that an “abrogation process took place over the centuries” to invalidate such nefarious actions.
+> With regard to land dispossessions, forced conversions of non-Christians, the deprivation of liberty and the enslavement of indigenous peoples, the Holy See reported that an “abrogation process took place over the centuries” to invalidate such nefarious actions.
 Such papal renunciations do not go far enough.
-There is a pressing
+There is a pressing<!--x-->
 need to decolonize from the debilitating impacts and ongoing legacy of denial by states of indigenous peoples’ inherent sovereignty, laws, and title to the lands, territories, and resources.
 At the same time, there is a growing movement among faith-based bodies to repudiate the doctrine of discovery.[^23]
 
 In 2010, the Anglican Church of Canada was the first of the Settlement Agreement churches in Canada to reject the Doctrine of Discovery and to ”review the Church’s policies and programs with a view to exposing the historical reality and impact of the Doctrine of Discovery and eliminating its presence in its contemporary policies, program, and structures.”[^24]
 In 2013, the Anglican Church established a Commission on Discovery, Reconciliation, and Justice, which had three goals:
+
 1. to examine the Anglican Church of Canada’s policies and practices and revise them as necessary to be consistent with its repudiation of the Doctrine of Discovery;
 2. to look into the question of “what is reconciliation”; and
 3. to review the church’s commitment to addressing long-standing injustices borne by Indigenous peoples in Canada.
@@ -4707,19 +4710,19 @@ At its meeting in March 2012, the Executive of the General Council of the United
 
 At the eleventh session of the UN Permanent Forum in May 2012, kairos, an interchurch social justice advocacy organization, made a joint statement with the Assembly of First Nations, Chiefs of Ontario, Grand Council of the Crees (Eeyou Istchee), Amnesty International, and the Canadian Friends Service Committee (Quakers) on the Doctrine of Discovery.
 The statement said that “while churches have begun to repudiate this racist doctrine, States around the world have not.”
-It recommended that states, in conjunction with Indigenous peoples, undertake legal and policy reform to remove “any remnants of
+It recommended that states, in conjunction with Indigenous peoples, undertake legal and policy reform to remove “any remnants of<!--x-->
 doctrines of superiority, including ‘discovery,’ as a basis for the assumed sovereignty over Indigenous peoples and their lands and resources.”[^29]
 
 In his report to the UN Permanent Forum, Grand Chief Edward John focused on how Canadian courts have dealt with sovereignty issues.
 
-The highest court of Canada has recognized the need for reconciliation of “preexisting aboriginal sovereignty with assumed Crown sovereignty.”
+> The highest court of Canada has recognized the need for reconciliation of “preexisting aboriginal sovereignty with assumed Crown sovereignty.”
 The Supreme Court has taken judicial notice of “such matters as colonialism, displacement and residential schools,” which demonstrate how “assumed” sovereign powers were abused throughout history.
 The root cause of such abuse leads back to the Doctrine of Discovery and other related fictitious constructs which must therefore be addressed.[^30]
 
 At the thirteenth session of the UN Permanent Forum in May 2014, Haudenosaunee Faithkeeper Oren Lyons spoke about the principles of good governance as they relate to the _United Nations Declaration_.
 He said,
 
-We recognize the Doctrine of Discovery and its long-term effects on our peoples led to the atrocities we faced in residential and boarding schools, both in Canada and the u.s…
+> We recognize the Doctrine of Discovery and its long-term effects on our peoples led to the atrocities we faced in residential and boarding schools, both in Canada and the u.s…
 the Doctrine of Discovery has been invoked as a justification for the ongoing exploitation of our lands, territories, and resources and directly violates Article 7 paragraph 2 of the undrip [the Declaration].[^31]
 
 The Doctrine of Discovery and the related concept of terra nullius underpin the requirement for Aboriginal peoples to prove their pre-existing occupation of the land in court cases or to have their land and resource rights extinguished in contemporary Treaty and land-claims processes.
@@ -4731,7 +4734,7 @@ It would not be enough to simply repudiate the Doctrine of Discovery, for exampl
 We would not suggest that the repudiation of the Doctrine of Discovery necessarily gives rise to the invalidation of Crown sovereignty.
 The Commission accepts that there are other means to establish the validity of Crown sovereignty without undermining the important principle established in the Royal Proclamation of 1763, which is that the sovereignty of the Crown requires that it recognize and deal with Aboriginal title in order to become perfected.
 It must not be forgotten that the terms of the Royal Proclamation were explained to, and accepted by, Indigenous leaders during the negotiation of the Treaty of Niagara of 1764.
-Treaties: Honouring the past and negotiating the future
+### Treaties: Honouring the past and negotiating the future
 
 It is important for all Canadians to understand that without Treaties, Canada would have no legitimacy as a nation.
 Treaties between Indigenous nations and the Crown established the legal and constitutional foundation of this country.
@@ -4739,11 +4742,11 @@ Treaties between Indigenous nations and the Crown established the legal and cons
 Elder Fred Kelly emphasized that Treaty making and Aboriginal peoples’ ways of resolving conflict must be central to reconciliation.
 He said,
 
-There are those who believe that a generic reconciliation process is a Westernbased concept to be imposed on the Aboriginal peoples without regard to their own traditional practices of restoring personal and collective peace and harmony.
+> There are those who believe that a generic reconciliation process is a Westernbased concept to be imposed on the Aboriginal peoples without regard to their own traditional practices of restoring personal and collective peace and harmony.
 We must therefore insist that the Aboriginal peoples have meaningful participation in the design, administration, and evaluation of the reconciliation process so that it is based on their local culture and language.
 If reconciliation is to be real and meaningful in Canada, it must embrace the inherent right of self-determination through selfgovernment envisioned in the treaties…
 
-Where government refuses to implement Aboriginal rights and the original spirit and intent of the treaties, the citizens of Canada must take direct action to forcefully persuade its leadership.
+> Where government refuses to implement Aboriginal rights and the original spirit and intent of the treaties, the citizens of Canada must take direct action to forcefully persuade its leadership.
 Treaties and memoranda of agreement are simply the stage-setting mechanisms for reconciliation.
 There must be action …
 all Canadians have treaty rights…
@@ -4752,7 +4755,7 @@ It is upon these rights and obligations that our relationship is founded.[^32]
 If Canada’s past is a cautionary tale about what not to do, it also holds a more constructive history lesson for the future.
 The Treaties are a model for how Canadians, as diverse peoples, can live respectfully and peacefully together on these lands we now share.
 
-The Royal Proclamation of 1763 and Treaty of Niagara, 1764
+### The Royal Proclamation of 1763 and Treaty of Niagara, 1764
 
 The history of Treaty making in Canada is contentious.
 Aboriginal peoples and the Crown have interpreted the spirit and intent of the Treaties quite differently.
@@ -4762,7 +4765,7 @@ In contrast, First Nations, Inuit, and Métis peoples understand Treaties as a s
 Indigenous peoples have kept the history and ongoing relevance of the Treaties alive in their own oral histories and legal traditions.
 Without their perspectives on the history of Treaty making, Canadians know only one side of this country’s history.
 This story cannot simply be told as the story of how Crown officials unilaterally imposed Treaties on Aboriginal peoples; they were also active participants in Treaty negotiations.[^33]
-The history and interpretation of Treaties and the Aboriginal–Crown relationship as told by Indigenous
+The history and interpretation of Treaties and the Aboriginal–Crown relationship as told by Indigenous<!--x-->
 peoples enriches and informs our understanding of why we are all Treaty people.[^34]
 This is evident, for example, in the story of the Royal Proclamation of 1763 and its relationship to the Treaty of Niagara of 1764.
 The Royal Proclamation, which was issued by colonial officials, tells only half this story.
@@ -4776,7 +4779,7 @@ Anishinaabe legal scholar John Borrows notes that the Royal Proclamation can be 
 As Borrows explains, the Indigenous leaders who negotiated the Treaty of Niagara with the Crown did so with the understanding that they would remain free and self-determining peoples.
 Borrows observes:
 
-The Proclamation uncomfortably straddled the contradictory aspirations of the Crown and First Nations when its wording recognized Aboriginal rights to land by outlining a policy that was designed to extinguish these rights…
+> The Proclamation uncomfortably straddled the contradictory aspirations of the Crown and First Nations when its wording recognized Aboriginal rights to land by outlining a policy that was designed to extinguish these rights…
 The different objectives that First Nations and the Crown had in the formulation of the principles surrounding the Proclamation is the reason for the different visions embedded within its text.
 Britain was attempting to secure territory and jurisdiction through the Proclamation, while the First Nations were concerned with preserving their lands and sovereignty.[^35]
 
@@ -4786,17 +4789,15 @@ John Borrows presents evidence that Aboriginal peoples, some fifty-four years af
 In 1818, a Crown representative, Captain Thomas G.
 Anderson, gave the following account of a meeting between Anishinaabe peoples and the Crown at Drummond Island in Lake Huron.
 
-The Chiefs did decamp, laying down a broad Wampum Belt, made in 1764…
+> The Chiefs did decamp, laying down a broad Wampum Belt, made in 1764…
 Orcata [an Anishinaabe] speaker …
 holding the Belt of 1764 in his hand …
-said: Father, this my ancestors received from our Father, Sir.
-W.
-Johnson.
+said: Father, this my ancestors received from our Father, Sir. W. Johnson.
 You sent word to all your red children to assemble at the crooked place (Niagara).
 They heard your voice—obeyed the message—and the next summer met you at the place.
 You then laid this belt on a mat, and said—‘Children, you must all touch this Belt of Peace.
 I touch it myself, that we may all be brethren united, and hope our friendship will never cease.
-I will
+I will<!--x-->
 call you my children; will send warmth (presents) to your country; and your families shall never be in want.
 Look towards the rising sun.
 My Nation is as brilliant as it is, and its word cannot be violated.’ Father, your words were true—all you promised came to pass.
@@ -4805,14 +4806,14 @@ On giving us a Belt of Peace, you said—‘If you should ever require my assist
 Over the years, Indigenous leaders involved in Treaty negotiations not only used wampum belts to recount the Treaty of Niagara, but also presented original copies of the Royal Proclamation to government officials.
 In 1847, a colonial official reported,
 
-The subsequent proclamation of His Majesty George Third, issued in 1763, furnished them with a fresh guarantee for the possession of their hunting grounds and the protection of the crown.
+> The subsequent proclamation of His Majesty George Third, issued in 1763, furnished them with a fresh guarantee for the possession of their hunting grounds and the protection of the crown.
 This document the Indians look upon as their charter.
 They have preserved a copy of it to the present time, and have referred to it on several occasions in the representations to government.[^38]
 
 On October 7, 2013, Canada marked the 250th anniversary of the Royal Proclamation of 1763.
 The governor general of Canada, His Excellency the Right Honourable David Johnston, spoke about the proclamation’s importance.
 
-This extraordinary document is part of the legal foundation of Canada.
+> This extraordinary document is part of the legal foundation of Canada.
 It is enshrined in the Constitution Act of 1982, and it sets out a framework of values or principles that have given us a navigational map over the course of the past two-and-a-half centuries…
 Its guiding principles—of peace, fairness and respect—established the tradition of treaty-making, laid the basis for the recognition of First Nations rights, and defined the relationship between First Nations peoples and the Crown…
 All history reverberates through the ages, but the Royal Proclamation is uniquely alive in the present-day.
@@ -4824,9 +4825,9 @@ Across the country, Indigenous peoples also commemorated the anniversary, callin
 In British Columbia, where very few Treaties were signed, the First Nations Summit leaders issued a statement reminding Canadians that the principles set out in the proclamation were still relevant in present-day Canada.
 They said,
 
-With Confederation, the First Nations–Crown relationship has regrettably been guided by federal control under the constraints of the _Indian Act_, not by the principles articulated in the Proclamation…
+> With Confederation, the First Nations–Crown relationship has regrettably been guided by federal control under the constraints of the _Indian Act_, not by the principles articulated in the Proclamation…
 The time has arrived for all Canadians to move into an era of recognition and reconciliation between First Nations and the Crown.
-Although there is general recognition of Aboriginal title and rights, far
+Although there is general recognition of Aboriginal title and rights, far<!--x-->
 too often these rights exist without an effective remedy.
 There are many solutions that have the potential of moving us to where we need to be.
 Such solutions include the negotiation of modern-day treaties, agreements and other constructive arrangements, consistent with the principles of the Proclamation.[^40]
@@ -4847,33 +4848,35 @@ There is a need for a new proclamation that reaffirms the long-standing, but oft
 The proclamation would include an official disavowal of the Doctrine of Discovery and commitment to the full implementation of the _United Nations Declaration_.
 
 #### Call to Action
+
 45. We call upon the Government of Canada, on behalf of all Canadians, to jointly develop with Aboriginal peoples a Royal Proclamation of Reconciliation to be issued by the Crown.
 The proclamation would build on the Royal Proclamation of 1763 and the Treaty of Niagara of 1764, and reaffirm the nation-to-nation relationship between Aboriginal peoples and the Crown.
 The proclamation would include, but not be limited to, the following commitments:
 
-i.	 Repudiate concepts used to justify European sovereignty over Indigenous lands and peoples such as the Doctrine of Discovery and terra nullius.
-ii.	 Adopt and implement the _United Nations Declaration on the Rights of Indigenous Peoples_ as the framework for reconciliation.
+    1. Repudiate concepts used to justify European sovereignty over Indigenous lands and peoples such as the Doctrine of Discovery and _terra nullius_.
+    2. Adopt and implement the _United Nations Declaration on the Rights of Indigenous Peoples_ as the framework for reconciliation.
 
-iii.	 Renew or establish Treaty relationships based on principles of mutual recognition, mutual respect, and shared responsibility for maintaining those relationships into the future.
+    3. Renew or establish Treaty relationships based on principles of mutual recognition, mutual respect, and shared responsibility for maintaining those relationships into the future.
 
-iv.	 Reconcile Aboriginal and Crown constitutional and legal orders to ensure that Aboriginal peoples are full partners in Confederation, including the recognition and integration of Indigenous laws and legal traditions in negotiation and implementation processes involving Treaties, land claims, and other constructive agreements.
+    4. Reconcile Aboriginal and Crown constitutional and legal orders to ensure that Aboriginal peoples are full partners in Confederation, including the recognition and integration of Indigenous laws and legal traditions in negotiation and implementation processes involving Treaties, land claims, and other constructive agreements.
 
 The principles enunciated in the new Royal Proclamation will serve as the foundation for an action-oriented Covenant of Reconciliation, which points the way forward toward an era of mutual respect and equal opportunity.
 
 #### Calls to Action
+
 46. We call upon the parties to the Indian Residential Schools Settlement Agreement to develop and sign a Covenant of Reconciliation that would identify principles for working collaboratively to advance reconciliation in Canadian society, and that would include, but not be limited to:
 
-i.	 Reaffirmation of the parties’ commitment to reconciliation.
+    1. Reaffirmation of the parties’ commitment to reconciliation.
 
-ii.	 Repudiation of concepts used to justify European sovereignty over Indigenous lands and peoples, such as the Doctrine of Discovery and terra nullius, and the reformation of laws, governance structures, and policies within their respective institutions that continue to rely on such concepts.
+    2. Repudiation of concepts used to justify European sovereignty over Indigenous lands and peoples, such as the Doctrine of Discovery and terra nullius, and the reformation of laws, governance structures, and policies within their respective institutions that continue to rely on such concepts.
 
-iii.	 Full adoption and implementation of the _United Nations Declaration on the Rights of Indigenous Peoples_ as the framework for reconciliation.
+    3. Full adoption and implementation of the _United Nations Declaration on the Rights of Indigenous Peoples_ as the framework for reconciliation.
 
-iv.	 Support for the renewal or establishment of Treaty relationships based on principles of mutual recognition, mutual respect, and shared responsibility for maintaining those relationships into the future.
+    4. Support for the renewal or establishment of Treaty relationships based on principles of mutual recognition, mutual respect, and shared responsibility for maintaining those relationships into the future.
 
-v.	 Enabling those excluded from the Settlement Agreement to sign onto the Covenant of Reconciliation.
+    5. Enabling those excluded from the Settlement Agreement to sign onto the Covenant of Reconciliation.
 
-vi.	 Enabling additional parties to sign onto the Covenant of Reconciliation.
+    6. Enabling additional parties to sign onto the Covenant of Reconciliation.
 
 Governments at all levels of Canadian society must also commit to a new framework for reconciliation to guide their relations with Aboriginal peoples.
 #### Call to Action
