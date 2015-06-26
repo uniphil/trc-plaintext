@@ -3258,8 +3258,7 @@ For every 1,000 First Nations children, there were 140.[^6]
 child maltreatment-related investigations, as compared with 33.[^5]
 investigations for non-Aboriginal children.[^15]
 The rate of<!--x-->
-investigations involving First Nations children was 4.[^2]
-times the rate of non-Aboriginal investigations.[^16]
+investigations involving First Nations children was 4.2 times the rate of non-Aboriginal investigations.[^16]
 The study also found that in the population under review, those allegations were more likely to be substantiated in the cases of First Nations children.
 This was true for all categories of maltreatment, but the difference was most extreme for investigations of neglect.[^17]
 Investigations of First Nations families for neglect were substantiated at a rate eight times greater than for the non-Aboriginal population.[^18]
@@ -3699,6 +3698,7 @@ The Commission concurs.
 The preservation of Aboriginal languages is essential and must be recognized as a right.
 
 #### Call to Action
+
 13. We call upon the federal government to acknowledge that Aboriginal rights include Aboriginal language rights.
 ### Government programs
 
@@ -3797,7 +3797,7 @@ We believe that measures should be put in place to reduce the burden placed on t
 Residential schools endangered the health and well-being of the children who attended them.
 Many students succumbed to infectious disease, particularly tuberculosis.
 Sexual and physical abuse, as well as separation from families and communities, caused lasting trauma for many others.
-The effects of this trauma were often passed on to the children
+The effects of this trauma were often passed on to the children<!--x-->
 of the residential school Survivors and sometimes to their grandchildren.
 Residential schools also posed a threat to the mental health of students through the pervasive assumptions and assertions they made about the inferiority of Aboriginal peoples, cultures, and languages.
 This disregard for Aboriginal health and well-being was consistent with the long-established patterns of colonialism: the introduction of new diseases, the disruption of traditional food sources, and the concentration of people on unproductive land and the housing of them in cramped, unsanitary dwellings.
@@ -4037,6 +4037,7 @@ Some provinces have amended their limitation statutes to enable civil prosecutio
 We urge others to follow suit.
 
 #### Call to Action
+
 26. We call upon the federal, provincial, and territorial governments to review and amend their respective statutes of limitations to ensure that they conform with the principle that governments and other entities cannot rely on limitation defences to defend legal actions of historical abuse brought by Aboriginal people.
 ### Educating lawyers
 
@@ -4293,7 +4294,7 @@ Although it is not a prison, a halfway house requires the offender to reside the
 It is intended as a transitional phase in an offender’s parole, neither full incarceration nor full freedom in the community, with the goal of gradual reintegration into the community.
 Unfortunately, there are too few halfway houses that provide programming specifically for Aboriginal offenders.
 
-Call to Action
+#### Call to Action
 37. We call upon the federal government to provide more supports for Aboriginal programming in halfway houses and parole services.
 
 Overrepresentation of youth
@@ -4320,7 +4321,7 @@ There is an urgent need to support Aboriginal families and alleviate the poverty
 The federal government should take the lead by committing the resources necessary to eliminating the overrepresentation of Aboriginal children and youth in care and custody.
 Part of that commitment should include collecting and publishing better data to measure progress.
 
-Call to Action
+#### Call to Action
 38. We call upon the federal, provincial, territorial, and Aboriginal governments to commit to eliminating the overrepresentation of Aboriginal youth in custody over the next decade.
 
 Victimization of Aboriginal people
@@ -4357,12 +4358,12 @@ According to some studies, less than one-third of victims of crime report their 
 Statistics Canada does not provide the kinds of supports necessary to permit some Aboriginal victims to comfortably disclose their experience to researchers.
 The most recent Statistics Canada data on homicide and family violence fail to report how many victims were Aboriginal, although older data suggest the homicide victimization rate of Aboriginal people between 1997 and 2000 was seven times that of non-Aboriginal people.[^165]
 
-Call to Action
+#### Call to Action
 39. We call upon the federal government to develop a national plan to collect and publish data on the criminal victimization of Aboriginal people, including data related to homicide and family violence victimization.
 
 This data should be used to guide the development and funding of culturally appropriate services for Aboriginal victims of crime and to help make measureable reductions in the overrepresentation of Aboriginal people among crime victims.
 
-Call to Action
+#### Call to Action
 40. We call upon all levels of government, in collaboration with Aboriginal people, to create adequately funded and accessible Aboriginal-specific victim programs and services with appropriate evaluation mechanisms.
 
 Violence against Aboriginal women and girls
@@ -4388,7 +4389,7 @@ More research is needed, but the available information suggests a devastating li
 These include: overrepresentation of Aboriginal children in child-welfare care; domestic and sexual violence; racism, poverty, and poor educational and health opportunities in Aboriginal communities; discriminatory practices against women related to band membership and Indian status; and inadequate supports for Aboriginal people in cities.
 This complex interplay of factors—many of which are part of the legacy of residential schools—needs to be examined, as does the lack of success of police forces in solving these crimes against Aboriginal women.
 
-Call to Action
+#### Call to Action
 41. We call upon the federal government, in consultation with Aboriginal organizations, to appoint a public inquiry into the causes of, and remedies for, the disproportionate victimization of Aboriginal women and girls.
 The inquiry’s mandate would include:
 
@@ -4409,7 +4410,7 @@ These rights are grounded in international and constitutional law as well as in 
 Aboriginal forms of justice may be as diverse as Canada’s Aboriginal peoples themselves.
 It is a central conclusion of the Truth and Reconciliation Commission of Canada that recognition of the Aboriginal right to self-determination, more appropriate funding allocations for services from governments, and methodical tracking of progress are the preconditions for redressing the disastrous legacy of residential schools and aiding the long process of reconciliation within Canada.
 
-Call to Action
+#### Call to Action
 42. We call upon the federal, provincial, and territorial governments to commit to the recognition and implementation of Aboriginal justice systems in a manner consistent with the Treaty and Aboriginal rights of Aboriginal peoples, the Constitution Act, 1982, and the _United Nations Declaration on the Rights of Indigenous Peoples_, endorsed by Canada in November 2012.
 
 The Commission is convinced that genuine reconciliation will not be possible until the broad legacy of the schools is both understood and addressed.
@@ -5143,7 +5144,7 @@ Issued at the highest level, it sends a message to all citizens about the values
 There is a need for a new proclamation that reaffirms the long-standing, but often disregarded, commitments between Canada and Aboriginal peoples.
 The proclamation would include an official disavowal of the Doctrine of Discovery and commitment to the full implementation of the _United Nations Declaration_.
 
-Call to Action
+#### Call to Action
 45. We call upon the Government of Canada, on behalf of all Canadians, to jointly develop with Aboriginal peoples a Royal Proclamation of Reconciliation to be issued by the Crown.
 The proclamation would build on the Royal Proclamation of 1763 and the Treaty of Niagara of 1764, and reaffirm the nation-to-nation relationship between Aboriginal peoples and the Crown.
 The proclamation would include, but not be limited to, the following commitments:
@@ -5173,12 +5174,12 @@ v.	 Enabling those excluded from the Settlement Agreement to sign onto the Coven
 vi.	 Enabling additional parties to sign onto the Covenant of Reconciliation.
 
 Governments at all levels of Canadian society must also commit to a new framework for reconciliation to guide their relations with Aboriginal peoples.
-Call to Action
+#### Call to Action
 47. We call upon federal, provincial, territorial, and municipal governments to repudiate concepts used to justify European sovereignty over Indigenous peoples and lands, such as the Doctrine of Discovery and terra nullius, and to reform those laws, government policies, and litigation strategies that continue to rely on such concepts.
 
 Churches and faith groups also have an important role to play in fostering reconciliation through support for the _United Nations Declaration_ and repudiation of the Doctrine of Discovery.
 
-Calls to Action:
+#### Calls to Action:
 48. We call upon the church parties to the Settlement Agreement, and all other faith groups and interfaith social justice groups in Canada who have not already done so, to formally adopt and comply with the principles, norms, and standards of the _United Nations Declaration on the Rights of Indigenous Peoples_ as a framework for reconciliation.
 This would include, but not be limited to, the following commitments:
 
@@ -5337,7 +5338,7 @@ White III (Kwulasultun) puts it …
 It is not for the faint of heart, it is hard work.
 We need to create meaningful opportunities for Indigenous and non-Indigenous people to critically engage in this work because all our futures depend on it.”[^51]
 
-Call to Action:
+#### Call to Action:
 50. In keeping with the _United Nations Declaration on the Rights of Indigenous Peoples_, we call upon the federal government, in collaboration with Aboriginal organizations, to fund the establishment of Indigenous law institutes for the development, use, and understanding of Indigenous laws and access to justice in accordance with the unique cultures of Aboriginal peoples in Canada.
 
 Reconciliation and accountability
@@ -5529,7 +5530,7 @@ As noted above, there is precedent for making this change.
 Not only has the United States Department of
 the Interior’s Office of the Solicitor made public its legal opinions on a range of issues affecting Native Americans, but also these are now widely available online.[^63]
 
-Call to Action
+#### Call to Action
 51. We call upon the Government of Canada, as an obligation of its fiduciary responsibility, to develop a policy of transparency by publishing legal opinions it develops and upon which it acts or intends to act, in regard to the scope and extent of Aboriginal and Treaty rights.
 
 One of the aspects of the Doctrine of Discovery that continues to assert itself to this day is the fact that court cases involving Aboriginal territorial claims have placed a heavy onus on Aboriginal claimants to prove that they were in occupation of land since first contact and that the rights claimed over the territory continued from then to the present.
@@ -5542,7 +5543,7 @@ That could be at the time of contact or at the time of Crown assertion of sovere
 It is our view that once occupation has been proven, then the onus should shift to the other party to show that the claim no longer exists, either through extinguishment, surrender, or some other valid legal means.[^64]
 Therefore, we conclude that Aboriginal claims of title and rights should be accepted on assertion, with the burden of proof placed on those who object to such claims.
 
-Call to Action
+#### Call to Action
 52. We call upon the Government of Canada, provincial and territorial governments, and the courts to adopt the following legal principles:
 
 i.	 Aboriginal title claims are accepted once the Aboriginal claimant has established occupation over a particular territory at a particular point in time.
@@ -5612,7 +5613,7 @@ Its mandate would include, but not be limited to, the following:
 
 i.	 Monitor, evaluate, and report annually to Parliament and the people of Canada on the Government of Canada’s post-apology progress on reconciliation to ensure that government accountability for reconciling the relationship between Aboriginal peoples and the Crown is maintained in the coming years.
 
-ii.	 Monitor, evaluate, and report to Parliament and the people of Canada on reconciliation progress across all levels and sectors of Canadian society, including the implementation of the Truth and Reconciliation Commission of Canada’s Calls to Action.
+ii.	 Monitor, evaluate, and report to Parliament and the people of Canada on reconciliation progress across all levels and sectors of Canadian society, including the implementation of the Truth and Reconciliation Commission of Canada’s #### Calls to Action.
 
 iii.	 Develop and implement a multi-year National Action Plan for Reconciliation, which includes research and policy development, public education programs, and resources.
 
@@ -5637,7 +5638,7 @@ vii.	 Progress on reducing the overrepresentation of Aboriginal people in the ju
 
 These new frameworks and commitments will not succeed without more understanding and sensitivity among those who will administer them.
 
-Call to Action:
+#### Call to Action:
 57. We call upon federal, provincial, territorial, and municipal governments to provide education to public servants on the history of Aboriginal peoples, including the history and legacy of residential schools, the _United Nations Declaration on the Rights of Indigenous Peoples_, Treaties and Aboriginal rights, Indigenous law, and Aboriginal– Crown relations.
 This will require skills-based training in intercultural competency, conflict resolution, human rights, and anti-racism.
 
@@ -5734,7 +5735,7 @@ During the Commission’s hearings, many Survivors told us that they knew that t
 They wondered why no similar apology had been extended to them.
 They said: “I did not hear the Pope say to me, ‘I am sorry.’ Those words are very important to me …
 but he didn’t say that to the First Nations people.”[^75]
-Call to Action
+#### Call to Action
 58. We call upon the Pope to issue an apology to Survivors, their families, and communities for the Roman Catholic Church’s role in the spiritual, cultural, emotional, physical, and sexual abuse of First Nations, Inuit, and Métis children in Catholic-run residential schools.
 We call for that apology to be similar to the 2010 apology issued to Irish victims of abuse and to occur within one year of the issuing of this Report and to be delivered by the Pope in Canada.
 
@@ -5771,7 +5772,7 @@ Apologies mark only a beginning point on pathways of reconciliation; the proof o
 He emphasized how important it was to Survivors that the churches not only admit that condemning Indigenous spirituality was wrong, but also that they go one step further and actively support traditional spiritual gatherings.
 That action, however, calls for ongoing commitment to educate church congregations into the future on the need for such action.
 
-Call to Action
+#### Call to Action
 59. We call upon church parties to the Settlement Agreement to develop ongoing education strategies to ensure that their respective congregations learn about their church’s role in colonization, the history and legacy of residential schools, and why apologies to former residential school students, their families, and communities were necessary.
 
 Honouring Indigenous spirituality
@@ -5981,7 +5982,7 @@ Sustainable reconciliation will only take place when every Canadian seminary inc
 reflect[s] on North American intellectual tradition by initiating and inviting Aboriginal religious leaders to lead such discussions …
 when Aboriginal peoples achieve real self-government within their churches; and when Christian theology not only respects Aboriginal thought, but learns from it.[^96]
 
-Call to Action
+#### Call to Action
 60. We call upon leaders of the church parties to the Settlement Agreement and all other faiths, in collaboration with Indigenous spiritual leaders, Survivors, schools of theology, seminaries, and other religious training centres, to develop and teach curriculum for all student clergy, and all clergy and staff who work in Aboriginal communities, on the need to respect Indigenous spirituality in its own right, the history and legacy of residential schools and the roles of the church parties in that system, the history and legacy of religious conflict in Aboriginal families and communities, and the responsibility that churches have to mitigate such conflicts and prevent spiritual violence.
 
 Church healing and reconciliation projects
@@ -6017,7 +6018,7 @@ The closure of the national Aboriginal Healing Foundation in 2014 when governmen
 The churches must also continue to educate their own congregations and facilitate dialogue between Aboriginal and non-Aboriginal peoples.
 Much has been accomplished through the healing and reconciliation projects of the Settlement Agreement churches, but more remains to be done.
 
-Call to Action
+#### Call to Action
 61. We call upon church parties to the Settlement Agreement, in collaboration with Survivors and representatives of Aboriginal organizations, to establish permanent funding to Aboriginal people for:
 
 i.	 Community-controlled healing and reconciliation projects.
@@ -6253,7 +6254,7 @@ First Nations, Inuit, and Métis peoples have an especially strong contribution 
 
 Research partnerships between universities and communities or organizations are fruitful collaborations and can provide the necessary structure to document, analyze, and report research findings on reconciliation to a broader audience.
 
-Call to Action
+#### Call to Action
 65. We call upon the federal government, through the Social Sciences and Humanities Research Council, and in collaboration with Aboriginal peoples, post-secondary institutions and educators, and the National Centre for Truth and Reconciliation and its partner institutions, to establish a national research program with multi-year funding to advance understanding of reconciliation.
 TRC public education forums: Education Days and Youth Dialogues
 
@@ -6337,7 +6338,7 @@ First we must re-establish trust between these two [Aboriginal and non-Aborigina
 Youth Forums and Dialogues are a vital component of education for reconciliation.
 Non-profit organizations can play a key role in providing ongoing opportunities for Aboriginal and non-Aboriginal youth to participate in intercultural dialogue and work actively together to foster reconciliation.
 
-Call to Action
+#### Call to Action
 66. We call upon the federal government to establish multi-year funding for community-based youth organizations to deliver programs on reconciliation, and establish a national network to share information and best practices.
 Role of Canada’s museums and archives in education for reconciliation
 
@@ -6660,12 +6661,12 @@ The information on this flash drive is information about Aboriginal children bet
 
 As of 2014, in addition to the office in British Columbia, vital statistics offices in Alberta, Nova Scotia, Ontario, Saskatchewan, Yukon, and Nunavut had responded to the Commission’s request for records.
 To complete the work begun by the Commission on the National Residential School Student Death Register, it will be critical for the National Centre for Truth and Reconciliation to obtain all records related to the deaths of residential school students.
-Call to Action
+#### Call to Action
 71. We call upon all chief coroners and provincial vital statistics agencies that have not provided to the Truth and Reconciliation Commission of Canada their records on the deaths of Aboriginal children in the care of residential school authorities to make these documents available to the National Centre for Truth and Reconciliation.
 
 The completion and maintenance of the National Residential School Student Death Register will require ongoing financial support.
 
-Call to Action
+#### Call to Action
 72. We call upon the federal government to allocate sufficient resources to the National Centre for Truth and Reconciliation to allow it to develop and maintain the National Residential School Student Death Register established by the Truth and Reconciliation Commission of Canada.
 
 There is also a need for information sharing with the families of those who died at the schools.
@@ -6724,7 +6725,7 @@ Although former schools might be associated with specific Aboriginal communities
 They may also contain the bodies of teachers (or their children) who died while working at the institutions.
 No one set of recommendations will serve all circumstances.
 
-Call to Action
+#### Call to Action
 75. We call upon the federal government to work with provincial, territorial, and municipal governments, churches, Aboriginal communities, former residential school students, and current landowners to develop and implement strategies and procedures for the ongoing identification, documentation, maintenance, commemoration, and protection of residential school cemeteries or other sites at which residential school children were buried.
 This is to include the provision of appropriate memorial ceremonies and commemorative markers to honour the deceased children.
 
@@ -6752,7 +6753,7 @@ This will improve efficiency of the physical search, and aid selection of the mo
 It also enables researchers to determine community wishes regarding the most appropriate approaches to site investigation.
 This includes preferred protocols regarding prayers and ceremonial observance prior to a site visit.
 
-Call to Action
+#### Call to Action
 76. We call upon the parties engaged in the work of documenting, maintaining, commemorating, and protecting residential school cemeteries to adopt strategies in accordance with the following principles:
 
 i.	 The Aboriginal community most affected shall lead the development of such strategies.
@@ -7617,7 +7618,7 @@ Many of the reporters who covered the National Events were themselves deeply aff
 Some required the assistance of health-support workers.
 Some told us in off-the-record conversations that their perspectives and understanding of the impacts of residential schools, and the need for healing and reconciliation, had changed, based on their observations and experiences at the National Events.
 
-Call to Action
+#### Call to Action
 86. We call upon Canadian journalism programs and media schools to require education for all students on the history of Aboriginal peoples, including the history and legacy of residential schools, the _United Nations Declaration on the Rights of Indigenous Peoples_, Treaties and Aboriginal rights, Indigenous law, and Aboriginal– Crown relations.
 
 Sports: Inspiring lives, healthy communities
@@ -7680,7 +7681,7 @@ The Physical Activity and Sport Act (2003) set out the federal government’s sp
 5.m).
 However, the Act made no specific reference to Aboriginal peoples.[^261]
 
-Call to Action
+#### Call to Action
 89. We call upon the federal government to amend the Physical Activity and Sport Act to support reconciliation by ensuring that policies to promote physical activity as a fundamental element of health and well-being, reduce barriers to sports participation, increase the pursuit of excellence in sport, and build capacity in the Canadian sport system, are inclusive of Aboriginal peoples.
 
 In 2005, Sport Canada developed the Aboriginal Peoples’ Participation in Sports Policy, which recognized the unique circumstances of Aboriginal peoples and the role of sport as a vehicle for individual and community health and cultural revitalization.
@@ -7700,7 +7701,7 @@ system.
 Aboriginal peoples are also affected by issues of identity and historical trauma.[^264]
 Despite this roundtable report based on the 2011 consultation, the Commission notes that the subsequent Canadian Sport Policy released in 2012 contains no specific references to Aboriginal peoples.[^265]
 
-Call to Action
+#### Call to Action
 90. We call upon the federal government to ensure that national sports policies, programs, and initiatives are inclusive of Aboriginal peoples, including, but not limited to, establishing: i.	 In collaboration with provincial and territorial governments, stable funding for, and access to, community sports programs that reflect the diverse cultures and traditional sporting activities of Aboriginal peoples.
 ii.	 An elite athlete development program for Aboriginal athletes.
 iii.	 Programs for coaches, trainers, and sports officials that are culturally relevant for Aboriginal peoples.
@@ -7833,7 +7834,7 @@ They want to establish and develop their own businesses in ways that are compati
 They want opportunities to work for companies that are proactively addressing systemic racism and inequity.
 Corporations can demonstrate leadership by using the _United Nations Declaration_ as a reconciliation framework.
 
-Call to Action
+#### Call to Action
 92. We call upon the corporate sector in Canada to adopt the _United Nations Declaration on the Rights of Indigenous Peoples_ as a reconciliation framework and to apply its principles, norms, and standards to corporate policy and core operational activities involving Indigenous peoples and their lands and resources.
 This would include, but not be limited to, the following:
 

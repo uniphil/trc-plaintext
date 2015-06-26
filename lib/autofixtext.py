@@ -84,11 +84,9 @@ def cite(page):
     return cited
 
 def callToAction(page):
-    called = page.replace('\nCall to Action\n',
-        '\n#### Call to Action\n')
-    called = page.replace('\nCalls to Action\n',
-        '\n#### Calls to Action\n')
-    return called
+    called = page.replace('Call to Action', '#### Call to Action')
+    calls = called.replace('Calls to Action','#### Calls to Action')
+    return calls
 
 def encode(page):
     return page.encode('utf-8')
