@@ -4423,105 +4423,9 @@ Governments in Canada spend billions of dollars each year in responding to the s
 Much of this money is spent on crisis interventions related to child welfare, family violence, ill health, and crime.
 Despite genuine reform efforts, the dramatic overrepresentation of Aboriginal children in foster care, and among the sick, the injured, and the imprisoned, continues to grow.
 Only a real commitment to reconciliation will reverse the trend and lay the foundation for a truly just and equitable nation.
-120.	 TRC, ASAGR, Royal Canadian Mounted Police, M.
-W.
-Pacholuk, Final Report of the Native Indian Residential School Task Force, Project E-NIRS, Royal Canadian Mounted Police, no date, 27, 32, 45.
-[RCMP-564517]
+## The challenge of reconciliation
 
-121.	 TRC, ASAGR, Royal Canadian Mounted Police, M.
-W.
-Pacholuk, Final Report of the Native Indian Residential School Task Force, Project E-NIRS, Royal Canadian Mounted Police, no date, 40.
-[RCMP-564517]
-
-122.	 _Criminal Code_, 1985, chapter C-46, section 274.
-123.	 Canada, Indian Residential Schools Adjudication Secretariat, Adjudication Secretariat Statistics,
-
-from September 19, 2007, January 31, 2015, http://IAP-pei.ca/information/stats-eng.php (accessed 20 February 2015).
-124.	 TRC, ASAGR, Royal Canadian Mounted Police, M.
-W.
-Pacholuk, Final Report of the Native Indian Residential School Task Force, Project E-NIRS, Royal Canadian Mounted Police, no date, 45.
-[RCMP-564517] 125.	 Canada, Law Commission of Canada, Restoring Dignity, 151, 178.
-126.	 Indian Residential Schools Settlement Agreement, http://www.residentialschoolsettlement.ca/ IRS%20Settlement%20Agreement-%20ENGLISH.pdf.
-127.	 TRC, AVS, Bernard Catcheway, Statement to the Truth and Reconciliation Commission of Canada, Skownan First Nation, Manitoba, 12 October 2011, Statement Number: 2011-2510.
-128.	 TRC, AVS, Amelia Galligos-Thomas, Statement to the Truth and Reconciliation Commission of Canada, Victoria, British Columbia, 14 April 2012, Statement Number: 2011-3975.
-129.	 Canada, Statistics Canada, Adult Correctional Services in Canada 1995–1996, http://www.statcan.
-gc.ca/pub/85-002-x/85-002-x1997004-eng.pdf; Canada, Statistics Canada, Adult Correctional Services in Canada 2011–2012, http://www.statcan.gc.ca/pub/85-002-x/2014001/article/11918-eng.
-htm#a5.
-130.	 Canada, Statistics Canada, Adult Correctional Services in Canada, 2011–2012, http://www.statcan.
-gc.ca/pub/85-002-x/2014001/article/11918-eng.htm#a5.
-131.	 Canada, Statistics Canada, Adult Correctional Services in Canada, 2011–2012, http://www.statcan.
-gc.ca/pub/85-002-x/2014001/article/11918-eng.htm#a5.
-132.	 TRC, AVS, [Name redacted], Statement to the Truth and Reconciliation Commission of Canada, Long Plain First Nation, Manitoba, 27 July 2010, Statement Number: 01-MB-26JY10-011.
-133.	 TRC, AVS, Daniel Andre, Statement to the Truth and Reconciliation Commission of Canada, Whitehorse, Yukon, 23 May 2011, Statement Number: 2011-0202.
-134.	 TRC, AVS, Grace Campbell, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 16 June 2010, Statement Number: 02-MB-16JU10-136.
-135.	 _Criminal Code_, 1985, chapter C-46, section 718.2(e).
-136.	 _R.
-v.
-Gladue_, 1999 CanLII 679 (SCC), para.
-58–65.
-137.	 _R.
-v.
-Gladue_, 1999 CanLII 679 (SCC), para.
-64.
-138.	 For a description of the process of preparing Gladue reports, see: Istvanffy, Gladue Primer.
-139.	 _R.
-v.
-Ipeelee_, 2012 SCC 13 (CanLII), para.
-81, 84.
-140.	 Safe Streets and Communities Act, 2012, chapter 1.
-141.	 There have been some recent cases in which courts have made decisions counter to the mandatory minimum provisions.
-See, for example: R.
-v.
-Smickle, 2012, ONSC 602 (CanLII).
-142.	 Canada, Public Safety Canada, Fetal Alcohol Spectrum Disorder, 5, http://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ftl-lchl-spctrm/ftl-lchl-spctrm-eng.pdf.
-143.	 Tait, Fetal Alcohol Syndrome.
-144.	 Tait, Fetal Alcohol Syndrome, xviii.
-145.	 Ospina and Dennett, Systematic Review, iii.
-146.	 Canada, Correctional Service of Canada, Fetal Alcohol Spectrum Disorder(FASD), iv, http://www.
-
-publicsafety.gc.ca/lbrr/archives/cn21451-eng.pdf.
-147.	 R.
-v.
-Harris, 2002 BCCA 152 (CanLII), para.
-18–20.
-148.	 Mitten, “Fetal Alcohol Spectrum Disorders,” http://www.justicereformcomm.sk.ca/volume2/
-
-12section9.pdf.
-149.	 For a study that involved interviews with inmates in a minimum security institution designed
-
-specifically for Aboriginal inmates, see: Braun, Colonization, Destruction, and Renewal.
-See also: Waldram, The Way of the Pipe, 129–150; Crutcher and Trevethan, Examination of Healing Lodges, 52.
-150.	 Nielson, “Canadian Aboriginal Healing Lodges.”
-151.	 British Columbia, Ministry of Justice, Corrections Branch, Aboriginal Programs and Relationships, Inclusivity, http://www.pssg.gov.bc.ca/corrections/docs/AboriginalStratPlan.pdf.
-152.	 TRC, AVS, Chris Gargan, Statement to the Truth and Reconciliation Commission of Canada, Yellowknife, Northwest Territories, 30 October 2012, Statement Number: 2011-0430.
-153.	 Corrections and Conditional Release Act, SC 1992, chapter 20, http://canlii.ca/t/52db0.
-154.	 Bonta et al., “Risk Prediction,” 127.
-155.	 Canada, Statistics Canada, Youth Correctional Services in Canada 2011–2012, http://www.statcan.
-gc.ca/pub/85-002-x/2014001/article/11917-eng.htm#a5; Canada, Department of Justice, Youth Justice Research, “A One-Day Snapshot,” 3.
-These figures do not include Saskatchewan, which has a high rate of Aboriginal youth incarceration 156.	 Youth Criminal Justice Act, SC 2002, chapter 1, section 38(1).
-157.	 Canada, Statistics Canada, “Youth Court Statistics 2011/2012,” http://www.statcan.gc.ca/daily-quotidien/130613/dq130613d-eng.pdf ); Canada, Statistics Canada, Youth Correctional Statistics in Canada, 2010/2011; Canadian Bar Association, Submission on Bill C-10, 8, http://www.cba.org/ cba/submissions/PDF/11-45-eng.pdf.
-Not all provinces and territories have seen a decrease in youth in correctional services.
-In fact, since 2005–06, rates have increased in Manitoba, Yukon, and Alberta.
-Canada, Statistics Canada, Youth Correctional Statistics in Canada, 2010/2011, 5.
-158.	 Canada, Statistics Canada, Youth Correctional Statistics in Canada, 2010/2011, 7.
-159.	 British Columbia, Office of the Provincial Health Officer, “Health, Crime and Doing Time,” http:// www.health.gov.bc.ca/pho/pdf/health-crime-2013.pdf.
-160.	 Canada, Indian Residential Schools Adjudication Secretariat, Adjudication Secretariat Statistics, from September 19, 2007, January 31, 2015, http://IAP-pei.ca/information/stats-eng.php (accessed 20 February 2015).
-161.	 TRC, AVS, Ruby Firth, Statement to the Truth and Reconciliation Commission of Canada, Inuvik, Northwest Territories, 22 July 2011, Statement Number: 2011-0326.
-162.	 Canada, Statistics Canada, Violent Victimization of Aboriginal People, http://wgc.ca/pub/85002-x/2011001/article/11415-eng.pdf.
-163.	 Canada, Statistics Canada, Violent Victimization of Aboriginal Women, http://www.statcan.gc.ca/ pub/85-002-x/2011001/article/11439-eng.pdf.
-164.	 Canada, Statistics Canada, Violent Victimization of Aboriginal People, 15, http://wgc.ca/pub/85002-x/2011001/article/11415-eng.pdf; Canada, Statistics Canada, Measuring Violence Against Women, 67; Native Women’s Association of Canada, Voices of Our Sisters in Spirit, 6, http://www.
-nwac.ca/sites/default/files/download/admin/NWAC_VoicesofOurSistersInSpiritII_March2009FINAL.pdf.
-165.	 Canada, Statistics Canada, Victimization and Offending, http://www.statcan.gc.ca/pub/85-002x/85-002-x2006003-eng.pdf.
-
-166.	 Canada, Statistics Canada, Measuring Violence Against Women, 9, 19; Native Women’s Association of Canada, Voices of Our Sisters in Spirit, 94–95, http://www.nwac.ca/sites/default/files/download/ admin/NWAC_VoicesofOurSistersInSpiritII_March2009FINAL.pdf.
-
-167.	 TRC, AVS, Velma Jackson, Statement to the Truth and Reconciliation Commission of Canada, St.
-Paul, Alberta, 6 January 2011, Statement Number: 01-AB-06JA11-003.
-
-168.	 Royal Canadian Mounted Police, Missing and Murdered Aboriginal Women, 3, http://www.RCMP-grc.gc.ca/pubs/mmaw-faapd-eng.pdf.
-The challenge of reconciliation
-
-Setting the context
+### Setting the context
 
 Canada has a long history of colonialism in relation to Aboriginal peoples.
 That history and its policies of cultural genocide and assimilation have left deep scars on the lives of many Aboriginal people, on Aboriginal communities, as well as on Canadian society, and have deeply damaged the relationship between Aboriginal and non-Aboriginal peoples.
@@ -4545,10 +4449,9 @@ until Canada accepts that …
 this society will never flourish to its full potential.”[^1]
 The history and destructive legacy of the residential school system is a powerful reminder that Canada disregarded its own historical roots.
 Canada’s determination to assimilate Aboriginal peoples, in spite of the early relationship established at first contact and formalized and maintained in Treaties, attests to that fact.
-As Gerry St.
-Germain (Métis), then a Canadian senator, said,
+As Gerry St. Germain (Métis), then a Canadian senator, said,
 
-There can be no doubt that the founders of Canada somehow lost their moral compass in their relations with the people who occupied and possessed the land…
+> There can be no doubt that the founders of Canada somehow lost their moral compass in their relations with the people who occupied and possessed the land…
 While we cannot change history, we can learn from it and we can use it to shape our common future…
 This effort is crucial in realizing the vision of creating a compassionate and humanitarian society, the society that our ancestors, the Aboriginal, the French and the English peoples, envisioned so many years ago—our home, Canada.[^2]
 
@@ -4594,20 +4497,18 @@ They need to know how notions of European superiority and Aboriginal inferiority
 They too need to understand Canada’s history as a settler society and how assimilation policies have affected Aboriginal peoples.
 This knowledge and understanding will lay the groundwork for establishing mutually respectful relationships.
 
-The Royal Commission on Aboriginal Peoples
+### The Royal Commission on Aboriginal Peoples
 
 In the summer of 1990, at Oka, Québec, the Mohawks of Kanesatake, the government of Québec, the Québec provincial police, and the Canadian military became embroiled in a violent confrontation over the town’s plan to develop a golf course on Mohawk burial grounds located in a forested area known as “The Pines.”
 The Mohawks’ claim to that land and demands for the recognition of their traditional territory had gone unheeded for years by the federal government.
-The resulting confrontation, according to historian J.
-R.
-Miller, was “proof of Canada’s failed Indian [land] claims policy.”[^3]
+The resulting confrontation, according to historian J. R. Miller, was “proof of Canada’s failed Indian [land] claims policy.”[^3]
 What had begun as a peaceful act of resistance by Mohawk people defending their lands took a violent turn.[^4]
-The “Oka crisis,” as it became widely known in the media, led to a seventy-eight-day standoff and
+The “Oka crisis,” as it became widely known in the media, led to a seventy-eight-day standoff and<!--x-->
 involved armed resistance led by militarily trained Mohawk warriors.[^5]
 It was an event that shook Canada’s complacency about Aboriginal demands to the core.
 Shortly after an end to the siege had been negotiated, Prime Minister Brian Mulroney wrote:
 
-The summer’s events must not be allowed to over-shadow the commitment that my government has made to addressing the concerns of aboriginal people…
+> The summer’s events must not be allowed to over-shadow the commitment that my government has made to addressing the concerns of aboriginal people…
 These grievances raise issues that deeply affect all Canadians and therefore must be resolved by all Canadians working together…
 The government’s agenda responds to the demands of aboriginal peoples and has four parts: resolving land claims; improving the economic and social conditions on reserves; defining a new relationship between aboriginal peoples and governments; and addressing the concerns of Canada’s aboriginal peoples in contemporary Canadian life.
 Consultation with aboriginal peoples and respect for the fiduciary responsibilities of the Crown are integral parts of the process.
@@ -4616,21 +4517,21 @@ The federal government is determined to create a new relationship among aborigin
 The Government of Canada subsequently created a Royal Commission to look into the state of affairs of Aboriginal peoples in Canada.
 The Royal Commission provided a glimpse into just how bad things had become.
 
-In 1996, the Royal Commission on Aboriginal Peoples (rcap) put forward a bold and comprehensive vision of reconciliation.
-The rcap report observed that if Canada was to thrive in the future, the relationship between Aboriginal peoples and the Crown must be transformed.
+In 1996, the Royal Commission on Aboriginal Peoples (RCAP) put forward a bold and comprehensive vision of reconciliation.
+The RCAP report observed that if Canada was to thrive in the future, the relationship between Aboriginal peoples and the Crown must be transformed.
 The report concluded that the policy of assimilation was a complete failure and that Canada must look to the historical Treaty relationship to establish a new relationship between Aboriginal and non-Aboriginal peoples, based on the principles of mutual recognition, mutual respect, sharing, and mutual responsibility.[^7]
 
 The Royal Commission emphasized that Aboriginal peoples’ right to self-determination is essential to a robust upholding of Canada’s constitutional obligations to Aboriginal peoples and compliance with international human rights law.
-In other words, the rcap report saw reconciliation as placing a heavy onus on the Government of Canada to change its conduct and to see the validity of the Aboriginal perspective of how the relationship should be in the future.
+In other words, the RCAP report saw reconciliation as placing a heavy onus on the Government of Canada to change its conduct and to see the validity of the Aboriginal perspective of how the relationship should be in the future.
 
-In the years following the release of the rcap report, developing a national vision of reconciliation has proved to be challenging.
+In the years following the release of the RCAP report, developing a national vision of reconciliation has proved to be challenging.
 In principle, Aboriginal peoples, governments, and the courts agree that reconciliation is needed.
 In practice, it has been difficult to create the conditions for reconciliation to flourish.
 
 The Indian Residential Schools Settlement Agreement, including the creation of the Truth and Reconciliation Commission of Canada, was an attempt to resolve the thousands of lawsuits brought against the government for cases of historical abuse.
 Its implementation has also been challenging.
 Canada and the churches have made apologies to Survivors, their families, and communities.
-Yet, Canadian government actions continue
+Yet, Canadian government actions continue<!--x-->
 to be unilateral and divisive, and Aboriginal peoples continue to resist such actions.
 Negotiations on Treaties and land-claims agreements continue with a view to reconciling Aboriginal title and rights with Crown sovereignty.
 However, many cases remain unresolved.
@@ -4639,17 +4540,17 @@ What is clear to this Commission is that Aboriginal peoples and the Crown have v
 The Government of Canada appears to believe that reconciliation entails Aboriginal peoples’ acceptance of the reality and validity of Crown sovereignty and parliamentary supremacy, in order to allow the government to get on with business.
 Aboriginal people, on the other hand, see reconciliation as an opportunity to affirm their own sovereignty and return to the ‘partnership’ ambitions they held after Confederation.
 
-The _United Nations Declaration on the Rights of Indigenous Peoples_ as a framework for reconciliation
+### The _United Nations Declaration on the Rights of Indigenous Peoples_ as a framework for reconciliation
 
 Aboriginal peoples in Canada were not alone in the world when it came to being treated harshly by colonial authorities and settler governments.
 Historical abuses of Aboriginal peoples and the taking of Indigenous lands and resources throughout the world have been the subject of United Nations’ attention for many years.
-On September 13, 2007, after almost twenty-five years of debate and study, the United Nations (un) adopted the Declaration on the Rights of Indigenous Peoples.
+On September 13, 2007, after almost twenty-five years of debate and study, the United Nations (UN) adopted the _Declaration on the Rights of Indigenous Peoples_.
 As a declaration, it calls upon member states to adopt and maintain its provisions as a set of “minimum standards for the survival, dignity and well-being of the indigenous peoples of the world.”[^8]
 
 The Commission concurs with the view of S.
-James Anaya, un Special Rapporteur on the Rights of Indigenous Peoples, who observed,
+James Anaya, UN Special Rapporteur on the Rights of Indigenous Peoples, who observed,
 
-It is perhaps best to understand the Declaration and the right of self-determination it affirms as instruments of reconciliation.
+> It is perhaps best to understand the Declaration and the right of self-determination it affirms as instruments of reconciliation.
 Properly understood, self-determination is an animating force for efforts toward reconciliation—or, perhaps, more accurately, conciliation—with peoples that have suffered oppression at the hands of others.
 Self-determination requires confronting and reversing the legacies of empire, discrimination, and cultural suffocation.
 It does not do so to condone vengefulness or spite for past evils, or to foster divisiveness but rather to build a social and political order based on relations of mutual understanding and respect.
@@ -4658,11 +4559,11 @@ That is what the right of self-determination of indigenous peoples, and all othe
 Canada, as a member of the United Nations, initially refused to adopt the Declaration.
 It joined the United States, Australia, and New Zealand in doing so.
 It is not coincidence that all these nations have a common history as part of the British Empire.
-The historical
+The historical<!--x-->
 treatment of Aboriginal peoples in these other countries has strong parallels to what happened to Aboriginal peoples in Canada.
 Specifically, Canada objected to the Declaration’s
 
-provisions dealing with lands, territories and resources; free, prior and informed consent when used as a veto; self-government without recognition of the importance of negotiations; intellectual property; military issues; and the need to achieve an appropriate balance between the rights and obligations of Indigenous peoples, member States and third parties.[^10]
+> provisions dealing with lands, territories and resources; free, prior and informed consent when used as a veto; self-government without recognition of the importance of negotiations; intellectual property; military issues; and the need to achieve an appropriate balance between the rights and obligations of Indigenous peoples, member States and third parties.[^10]
 
 Although these four countries eventually endorsed the Declaration, they have all done so conditionally.
 In 2010, Canada endorsed the Declaration as a “non-legally binding aspirational document.”[^11]
@@ -4674,34 +4575,31 @@ However, Canada’s interpretation of the Declaration remained unchanged.
 On September 22, 2014, at the World Conference on Indigenous Peoples (wcip) in New York, the United Nations General Assembly adopted an action-oriented “Outcome Document” to guide the implementation of the Declaration.
 Member states from around the world committed, among other things, to the following:
 
-Taking, in consultation and cooperation with indigenous peoples, appropriate measures at the national level, including legislative, policy, and administrative measures, to achieve the ends of the Declaration, and to promote awareness of it among all sectors of society, including members of legislatures, the judiciary and the civil service…
-[para.
-7] We commit ourselves to cooperating with indigenous peoples, through their own representative institutions, to develop and implement national action plans, strategies or other measures, where relevant, to achieve the ends of the Declaration [para.
-8] …
+> Taking, in consultation and cooperation with indigenous peoples, appropriate measures at the national level, including legislative, policy, and administrative measures, to achieve the ends of the Declaration, and to promote awareness of it among all sectors of society, including members of legislatures, the judiciary and the civil service…
+[para. 7] We commit ourselves to cooperating with indigenous peoples, through their own representative institutions, to develop and implement national action plans, strategies or other measures, where relevant, to achieve the ends of the Declaration [para. 8] …
 [and also] encourage the private sector, civil society and academic institutions to take an active role in promoting and protecting the rights of indigenous peoples.
-[para.
-30]12
+[para. 30]12
 
-The “Outcome Document” represented an important step forward with regard to implementing the Declaration in practical terms.
+The “Outcome Document” represented an important step forward with regard to implementing the _Declaration_ in practical terms.
 The development of national action plans, strategies, and other concrete measures will provide the necessary structural and institutional frameworks for ensuring that Indigenous peoples’ right to self-determination is realized across the globe.
 
 Canada issued a formal statement at the wcip, objecting to certain paragraphs of the document related to the principle of obtaining the “free, prior and informed consent” (fpic) of Indigenous peoples when states are making decisions that will affect their rights or interests, including economic development on their lands.
 Canada said,
-Free, prior and informed consent, as it is considered in paragraphs 3 and 20 of the wcip Outcome Document, could be interpreted as providing a veto to Aboriginal groups and in that regard, cannot be reconciled with Canadian law, as it exists…
+> Free, prior and informed consent, as it is considered in paragraphs 3 and 20 of the wcip Outcome Document, could be interpreted as providing a veto to Aboriginal groups and in that regard, cannot be reconciled with Canadian law, as it exists…
 Canada cannot support paragraph 4, in particular, given that Canadian law, recently reaffirmed in a Supreme Court of Canada decision, states the Crown may justify the infringement of an Aboriginal or Treaty right if it meets a stringent test to reconcile Aboriginal rights with a broader public interest.[^13]
 
 In a public statement, Indigenous leaders and their supporters said that Canada’s concerns were unfounded, noting that
 
-the notion that the Declaration could be interpreted as conferring an absolute and unilateral veto power has been repeatedly raised by Canada as a justification for its continued opposition to the Declaration.
-This claim, however, has no basis either in the un Declaration or in the wider body of international law.
+> the notion that the Declaration could be interpreted as conferring an absolute and unilateral veto power has been repeatedly raised by Canada as a justification for its continued opposition to the Declaration.
+This claim, however, has no basis either in the UN Declaration or in the wider body of international law.
 Like standards of accommodation and consent set out by the Supreme Court of Canada, fpic in international law is applied in proportion to the potential for harm to the rights of Indigenous peoples and to the strength of these rights.
-The word “veto” does not appear in the un Declaration…
+The word “veto” does not appear in the UN Declaration…
 Canada keeps insisting that Indigenous peoples don’t have a say in development on their lands.
-This position is not consistent with the un Declaration on the Rights of Indigenous Peoples, decisions by its own courts, or the goal of reconciliation.[^14]
+This position is not consistent with the UN _Declaration on the Rights of Indigenous Peoples_, decisions by its own courts, or the goal of reconciliation.[^14]
 
 Reflecting on the importance of the Declaration to First Nations, Inuit, and Métis peoples in Canada, Grand Chief Edward John, Hereditary Chief of the Tl’azt’en Nation in northern British Columbia, explained,
 
-We have struggled for generations for recognition of our rights.
+> We have struggled for generations for recognition of our rights.
 We have fought for our survival, dignity and well-being, and the struggle continues.
 Canada’s denial of First Nations’ land rights falls well short of the minimum standards affirmed by the Declaration and demonstrates a clear failure by Canada to implement its human rights obligations.
 Prime Minister Harper’s apology for Canada’s role in the Indian Residential Schools acknowledged that the policy of assimilation was wrong and has no place in our country.
@@ -4711,7 +4609,7 @@ The Declaration calls for the development of new relationships based on recognit
 
 The TRC considers “reconciliation” to be an ongoing process of establishing and maintaining respectful relationships at all levels of Canadian society.
 The Commission therefore believes that the _United Nations Declaration on the Rights of Indigenous Peoples_ is the appropriate framework for reconciliation in twenty-first-century Canada.
-Studying the Declaration with a view to identifying its impacts on current government laws, policy, and behaviour would enable Canada to develop a holistic vision of reconciliation that embraces
+Studying the Declaration with a view to identifying its impacts on current government laws, policy, and behaviour would enable Canada to develop a holistic vision of reconciliation that embraces<!--x-->
 all aspects of the relationship between Aboriginal and non-Aboriginal Canadians, and to set the standard for international achievement in its circle of hesitating nations.
 
 Aboriginal peoples’ right to self-determination must be integrated into Canada’s constitutional and legal framework and civic institutions, in a manner consistent with the principles, norms, and standards of the Declaration.
@@ -4764,7 +4662,7 @@ These claims were made without consultation or engagement of any sort with the r
 belonged.
 The Doctrine of Discovery has been a critical component of historical relationships between Europeans, their descendants, and Indigenous peoples, and it underlies their legal relationships to this day, having smoothly and relatively uncritically transitioned from Roman Catholic to international law.[^19]
 
-In April 2010, the Permanent Observer Mission of the Holy See (the un representative from the Roman Catholic Vatican) issued a statement regarding the Doctrine of Discovery at the ninth session of the un Permanent Forum on Indigenous Issues.[^20]
+In April 2010, the Permanent Observer Mission of the Holy See (the UN representative from the Roman Catholic Vatican) issued a statement regarding the Doctrine of Discovery at the ninth session of the UN Permanent Forum on Indigenous Issues.[^20]
 The statement noted that earlier papal bulls regarding territorial expansion and the forced conversion of Indigenous peoples had subsequently been abrogated or annulled by the Roman Catholic Church.
 
 Regarding the question of the doctrine of discovery and the role of the Papal Bull Inter Coetera, the Holy See notes that Inter Coetera, as a source of international law …
@@ -4780,7 +4678,7 @@ The refutation of this doctrine is therefore now under the competence of nationa
 For many, that Catholic statement was inadequate.
 The doctrine’s influence in Western law and its destructive consequences for Indigenous peoples have been well documented by scholars and other experts.[^22]
 
-In 2014, the North American representative to the un Permanent Forum on Indigenous Issues, Grand Chief Edward John, tabled the “Study on the Impacts of the Doctrine of Discovery on Indigenous Peoples, Including Mechanisms, Processes, and Instruments of Redress.”
+In 2014, the North American representative to the UN Permanent Forum on Indigenous Issues, Grand Chief Edward John, tabled the “Study on the Impacts of the Doctrine of Discovery on Indigenous Peoples, Including Mechanisms, Processes, and Instruments of Redress.”
 The study concluded:
 
 With regard to land dispossessions, forced conversions of non-Christians, the deprivation of liberty and the enslavement of indigenous peoples, the Holy See reported that an “abrogation process took place over the centuries” to invalidate such nefarious actions.
@@ -4807,18 +4705,18 @@ The wcc also asked its member churches to support Indigenous self-determination 
 The United Church of Canada responded to this call.
 At its meeting in March 2012, the Executive of the General Council of the United Church “agreed unanimously to disown the Doctrine of Discovery, a historical concept which has been used to rationalize the enslavement and colonization of Indigenous peoples around the world.”[^28]
 
-At the eleventh session of the un Permanent Forum in May 2012, kairos, an interchurch social justice advocacy organization, made a joint statement with the Assembly of First Nations, Chiefs of Ontario, Grand Council of the Crees (Eeyou Istchee), Amnesty International, and the Canadian Friends Service Committee (Quakers) on the Doctrine of Discovery.
+At the eleventh session of the UN Permanent Forum in May 2012, kairos, an interchurch social justice advocacy organization, made a joint statement with the Assembly of First Nations, Chiefs of Ontario, Grand Council of the Crees (Eeyou Istchee), Amnesty International, and the Canadian Friends Service Committee (Quakers) on the Doctrine of Discovery.
 The statement said that “while churches have begun to repudiate this racist doctrine, States around the world have not.”
 It recommended that states, in conjunction with Indigenous peoples, undertake legal and policy reform to remove “any remnants of
 doctrines of superiority, including ‘discovery,’ as a basis for the assumed sovereignty over Indigenous peoples and their lands and resources.”[^29]
 
-In his report to the un Permanent Forum, Grand Chief Edward John focused on how Canadian courts have dealt with sovereignty issues.
+In his report to the UN Permanent Forum, Grand Chief Edward John focused on how Canadian courts have dealt with sovereignty issues.
 
 The highest court of Canada has recognized the need for reconciliation of “preexisting aboriginal sovereignty with assumed Crown sovereignty.”
 The Supreme Court has taken judicial notice of “such matters as colonialism, displacement and residential schools,” which demonstrate how “assumed” sovereign powers were abused throughout history.
 The root cause of such abuse leads back to the Doctrine of Discovery and other related fictitious constructs which must therefore be addressed.[^30]
 
-At the thirteenth session of the un Permanent Forum in May 2014, Haudenosaunee Faithkeeper Oren Lyons spoke about the principles of good governance as they relate to the _United Nations Declaration_.
+At the thirteenth session of the UN Permanent Forum in May 2014, Haudenosaunee Faithkeeper Oren Lyons spoke about the principles of good governance as they relate to the _United Nations Declaration_.
 He said,
 
 We recognize the Doctrine of Discovery and its long-term effects on our peoples led to the atrocities we faced in residential and boarding schools, both in Canada and the u.s…
@@ -5007,7 +4905,7 @@ Those who continued to act in accordance with those cultures could be, and were,
 Aboriginal people came to see law as a tool of government oppression.
 
 To this point, the country’s civil laws continued to overlook the truth that the extinguishment of peoples’ languages and cultures is a personal and social injury of the deepest kind.
-It is difficult to understand why the forced assimilation of children through removal from their families and communities—to be placed with people of another race for the purpose of destroying the race and culture from which the children come—can be deemed an act of genocide under Article 2(e) of the un’s Convention on Genocide, but is not a civil wrong.
+It is difficult to understand why the forced assimilation of children through removal from their families and communities—to be placed with people of another race for the purpose of destroying the race and culture from which the children come—can be deemed an act of genocide under Article 2(e) of the UN’s Convention on Genocide, but is not a civil wrong.
 
 Failure to recognize such truths hinders reconciliation.
 Many Aboriginal people have a deep and abiding distrust of Canada’s political and legal systems because of the damage they have caused.
@@ -5033,13 +4931,13 @@ That relationship did not flourish because of Canada’s failure to live up to t
 So long as the vision of reconciliation in Section 35(1) is not being implemented with sufficient strength and vigour, Canadian law will continue to be regarded as deeply adverse to realizing truth and reconciliation for many First Nations, Inuit, and Métis people.
 To improve Aboriginal peoples’ access to justice, changes must occur on at least two fronts: nationally, and within each Aboriginal community.
 
-The _United Nations Declaration on the Rights of Indigenous Peoples_ and the un “Outcome Document” provide a framework and a mechanism to support and improve access to justice for Indigenous peoples in Canada.
+The _United Nations Declaration on the Rights of Indigenous Peoples_ and the UN “Outcome Document” provide a framework and a mechanism to support and improve access to justice for Indigenous peoples in Canada.
 Under Article 40 of the Declaration,
 
 Indigenous peoples have the right to access to and prompt decision through just and fair procedures for the resolution of conflicts and disputes with States or other parties, as well as to effective remedies for all infringements of their individual and collective rights.
 Such a decision shall give due consideration to the customs, traditions, rules and legal systems of the indigenous peoples concerned and international human rights.[^44]
 
-In 2013, the un Expert Mechanism on the Rights of Indigenous Peoples issued a study, “Access to Justice in the Promotion and Protection of the Rights of Indigenous Peoples.”
+In 2013, the UN Expert Mechanism on the Rights of Indigenous Peoples issued a study, “Access to Justice in the Promotion and Protection of the Rights of Indigenous Peoples.”
 It made several key findings that are relevant to Canada.
 The international study noted that states and Indigenous peoples themselves have a critical role to play in implementing Indigenous peoples’ access to justice.
 Substantive changes are required within the criminal legal system and in relation to Indigenous peoples’ rights to their lands, territories, and natural resources; political self-determination; and community well-being.[^45]
@@ -5188,7 +5086,7 @@ Although societal empathy for Aboriginal victims of abuse in residential schools
 There is a need for a clear and public recognition that Aboriginal peoples must be seen and treated as much more than just the beneficiaries of public good will.
 As holders of Treaty, constitutional, and human rights, they are entitled to justice and accountability from Canada to ensure that their rights are not violated.
 
-In his initial report, tabled in August of 2012, Pablo de Greiff, the first un Special Rapporteur on the Promotion of Truth, Justice, Reparation and Guarantees of NonRecurrence, pointed out that in countries where prosecuting individual perpetrators of criminal acts involving human rights violations has been difficult, other measures such as truth-seeking forums, reparations, and institutional reforms are especially critical.
+In his initial report, tabled in August of 2012, Pablo de Greiff, the first UN Special Rapporteur on the Promotion of Truth, Justice, Reparation and Guarantees of NonRecurrence, pointed out that in countries where prosecuting individual perpetrators of criminal acts involving human rights violations has been difficult, other measures such as truth-seeking forums, reparations, and institutional reforms are especially critical.
 Such measures enable victims of state violence to develop some confidence in the legitimacy
 and credibility of the state’s justice system.
 But de Greiff cautions that implementing these measures alone does not guarantee that reconciliation will follow.
@@ -7236,7 +7134,7 @@ A people’s knowledge of the history of its oppression is part of its heritage 
 to remember…
 On a collective basis, symbolic measures intended to provide moral reparation, such as formal public recognition by the State of its responsibility, or official declarations aimed at restoring victims’ dignity, commemorative ceremonies, naming of public thoroughfares or the erection of monuments, help to discharge the duty of remembrance.[^228]
 
-In 2014, the un Special Rapporteur in the field of Cultural Rights, Farida Shaheed, issued a report on memorialization processes in countries where victims and their families, working collaboratively with artists and various civic society groups, have commemorated their experiences in unofficial ways that may run counter to state-sanctioned versions of national history.[^229]
+In 2014, the UN Special Rapporteur in the field of Cultural Rights, Farida Shaheed, issued a report on memorialization processes in countries where victims and their families, working collaboratively with artists and various civic society groups, have commemorated their experiences in unofficial ways that may run counter to state-sanctioned versions of national history.[^229]
 Shaheed observed that the commemorations of Indigenous peoples’ experience—both their oppression and their positive contributions to society—that have occurred in many countries, including Canada, have not been state-driven initiatives.
 Rather, they have been initiated by Indigenous peoples themselves.
 
@@ -7352,9 +7250,9 @@ i.	 Continuing to provide leadership in programming and organizational culture t
 ii.	 Continuing to develop media initiatives that inform and educate the Canadian public, and connect Aboriginal and non-Aboriginal Canadians.
 Educating journalists for reconciliation
 
-In a submission to the Royal Commission on Aboriginal Peoples (rcap) in 1993, the Canadian Association of Journalists noted, “The country’s large newspapers, tv and radio news shows often contain misinformation, sweeping generalizations, and galling stereotypes about Natives and Native affairs…
+In a submission to the Royal Commission on Aboriginal Peoples (RCAP) in 1993, the Canadian Association of Journalists noted, “The country’s large newspapers, tv and radio news shows often contain misinformation, sweeping generalizations, and galling stereotypes about Natives and Native affairs…
 The result is that most Canadians have little real knowledge of the country’s Native peoples, or the issues that affect them.”[^246]
-In 1996, the rcap report had noted,
+In 1996, the RCAP report had noted,
 
 Public opinion polls in the past few years have consistently shown broad sympathy for Aboriginal issues and concerns, but that support is not very deep.
 More recent events have brought a hardening of attitudes towards Aboriginal issues in many parts of the country…
@@ -7564,7 +7462,7 @@ The 1996 _Report of the Royal Commission on Aboriginal Peoples_ noted that, hist
 Communities were not consulted before they were relocated from their vast traditional territories to much smaller, more remote, and more crowded reserves to make way for government and industrial land and resource development projects.
 Even when they were not relocated, Aboriginal peoples were economically marginalized in their own homelands when irreversible environmental damage was done in the name of ‘progress.’ All too often, economic development has disrupted Indigenous peoples’ cultural, spiritual, and economic ties to the land, resulting in the devastation of traditional economies and self-sufficiency, community trauma, public welfare dependency, and poor health and socio-political outcomes.[^270]
 
-In the post-rcap period, the Supreme Court of Canada has developed a body of law on the federal, provincial, and territorial governments’ duty to consult with Aboriginal peoples where land and resource development might infringe on their Aboriginal or Treaty rights.[^271]
+In the post-RCAP period, the Supreme Court of Canada has developed a body of law on the federal, provincial, and territorial governments’ duty to consult with Aboriginal peoples where land and resource development might infringe on their Aboriginal or Treaty rights.[^271]
 The court has ruled that governments can still infringe on Aboriginal rights if it can demonstrate that it is in the broader public interest to do so.
 In the Delgamuukw case, the court described the nature of that public interest:
 
@@ -8030,11 +7928,11 @@ On warriors and warrior societies in contemporary Indigenous communities, see: A
 No.
 34788, TRC Document Number TRC3379.
 7.	 Canada, Royal Commission on Aboriginal Peoples, Report, 1:675–697.
-8.	 United Nations, Declaration on the Rights of Indigenous Peoples, Article 43, http://www.un.org/ esa/socdev/unpfii/documents/DRIPS_en.pdf.
+8.	 United Nations, _Declaration on the Rights of Indigenous Peoples_, Article 43, http://www.UN.org/ esa/socdev/unpfii/documents/DRIPS_en.pdf.
 9.	 Anaya, “Right of Indigenous Peoples,” 196.
 10.	 Canada, Aboriginal Affairs and Northern Development Canada, “Canada’s Endorsement,” http:// www.aadnc-aandc.gc.ca/eng/1309374807748/1309374897928 (accessed 15 March 2015).
 11.	 Canada, Aboriginal Affairs and Northern Development Canada, “Canada’s Endorsement,” http:// www.aadnc-aandc.gc.ca/eng/1309374807748/1309374897928 (accessed 15 March 2015).
-12.	 United Nations General Assembly, “Outcome Document,” A/RES/69/2, 25 September 2014, http:// www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/69/2.
+12.	 United Nations General Assembly, “Outcome Document,” A/RES/69/2, 25 September 2014, http:// www.UN.org/en/ga/search/view_doc.asp?symbol=A/RES/69/2.
 13.	 Canada, Permanent Mission of Canada to the United Nations, “Canada’s Statement on the World Conference,” http://www.canadainternational.gc.ca/prmny-mponu/canada_un-canada_onu/ statements-declarations/other-autres/2014-09-22_WCIPD-PADD.aspx?lang=eng.
 14.	 Amnesty International Canada et al., “Canada Uses World Conference,” http://www.fns.bc.ca/pdf/ Joint_Public_Statement_re_Canada_attack_on_UNDRIP_Sept_24_2014.pdf.
 15.	 John, “Survival, Dignity, Well-Being,” 58.
@@ -8067,7 +7965,7 @@ All the major English-language-speaking settler states adopted Marshall’s unde
 Canada, Australia, and New Zealand all followed Marshall’s opinion as a precedent for their domestic law on indigenous peoples’ inferior rights to property and control over their ancestral lands.”
 See: Williams, Savage Anxieties, 224.
 See also: Williams, American Indian; Miller et al., Discovering Indigenous Lands; Newcomb, Pagans in the Promised Land, 2008.
-23.	 United Nations Economic and Social Council, Permanent Forum on Indigenous Issues, “Study on the Impacts of the Doctrine,” http://daccess-dds-ny.un.org/doc/UNDOC/GEN/N14/241/84/PDF/ N1424184.pdf?OpenElement.
+23.	 United Nations Economic and Social Council, Permanent Forum on Indigenous Issues, “Study on the Impacts of the Doctrine,” http://daccess-dds-ny.UN.org/doc/UNDOC/GEN/N14/241/84/PDF/ N1424184.pdf?OpenElement.
 24.	 Anglican Church of Canada, General Synod 2010, Resolution A086 R1, http://archive.anglican.ca/ gs2010/resolutions/a086/.
 25.	 Sison, “Primate’s Commission.”
 See also: Anglican Church of Canada, “Message to the Church,” http://www.anglican.ca/primate/communications/commission-on-discovery-reconciliation-justice.
@@ -8079,7 +7977,7 @@ Settlement Agreement signatories the Anglican Church of Canada, the Presbyterian
 28.	 Executive of the General Council of the United Church of Canada, Meeting Summary, March 24–26, 2013, http://www.united-church.ca/files/general-council/gc40/gce_1203_highlights.pdf (accessed 20 March 2015).
 29.	 United Nations Permanent Forum on Indigenous Issues, “Joint Statement,” http://www.afn.ca/ uploads/files/pfii_2012_–_doctrine_of_discovery_–_joint_statement_fe.pdf (accessed 20 March 2015).
 30.	 United Nations Permanent Forum on Indigenous Issues, “Study on the Impacts of the Doctrine,” para.
-13, http://daccess-dds-ny.un.org/doc/UNDOC/GEN/N14/241/84/PDF/N1424184.pdf?OpenElement (accessed 14 March 2015).
+13, http://daccess-dds-ny.UN.org/doc/UNDOC/GEN/N14/241/84/PDF/N1424184.pdf?OpenElement (accessed 14 March 2015).
 For the views of the court on the need for reconciliation, John cited Haida Nation v.
 British Columbia (Minister of Forests), 2004 SCC 73 (CanLII), para.
 20.
@@ -8122,7 +8020,7 @@ Two parallel rows of purple wampum beads that extend down the length of the belt
 Each side travels in its own vessel: the Indians in a birch bark canoe, representing their laws, customs, and ways, and the whites in a ship, representing their laws, customs, and ways.”
 See: Williams Jr., Linking Arms Together, 12–13.
 43.	 “Two-Row Wampum Centers Idle No More Toronto Rally, Not the Royal Proclamation,” October 9, 2013, BasicNews.ca, http://basicsnews.ca/two-row-wampum-centers-idle-no-more-toronto-rallynot-the-royal-proclamation/.
-44.	 United Nations, Declaration on the Rights of Indigenous Peoples, Article 40, http://www.un.org/ esa/socdev/unpfii/documents/DRIPS_en.pdf.
+44.	 United Nations, _Declaration on the Rights of Indigenous Peoples_, Article 40, http://www.UN.org/ esa/socdev/unpfii/documents/DRIPS_en.pdf.
 45.	 United Nations General Assembly, Human Rights Council, UN Expert Mechanism on the Rights of Indigenous Peoples, “Access to Justice,” 23, http://www.ohchr.org/Documents/Issues/IPeoples/ EMRIP/Session6/A-HRC-EMRIP-2013-2_en.pdf.
 46.	 United Nations General Assembly, Human Rights Council, UN Expert Mechanism on the Rights of Indigenous Peoples, “Access to Justice,” 6, 8, 22–24, http://www.ohchr.org/Documents/Issues/ IPeoples/EMRIP/Session6/A-HRC-EMRIP-2013-2_en.pdf.
 
@@ -8199,7 +8097,7 @@ When requested, church representatives also offered apologies to Survivors.
 80.	 TRC, AVS, Jennie Blackbird, Statement to the Truth and Reconciliation Commission of Canada, Muncey, Ontario, 16 September 2011, Statement Number: 2011-4188.
 81.	 The right of Indigenous peoples to observe traditional spiritual practices is upheld by the United Nations.
 Article 12:1 of the _United Nations Declaration on the Rights of Indigenous Peoples_ says, “Indigenous peoples have the right to manifest, practice, develop and teach their spiritual and religious traditions, customs and ceremonies; the right to maintain, protect, and have access in privacy to their religious and cultural sites; the right to use and control of their ceremonial objects; and the right to the repatriation of their human remains.”
-See: United Nations, Declaration on the Rights of Indigenous Peoples, http://www.un.org/esa/socdev/unpfii/documents/DRIPS_en.pdf.
+See: United Nations, _Declaration on the Rights of Indigenous Peoples_, http://www.UN.org/esa/socdev/unpfii/documents/DRIPS_en.pdf.
 
 82.	 See, for example, the case of a Christian Cree community that passed a resolution denying some of its community members the right to construct a sweat lodge and to teach youth about Cree spirituality: http://aptn.ca/news/2011/01/17/crees-ban-sweat-lodges-fns-spirituality-from-community/; http://indiancountrytodaymedianetwork.com/2011/02/07/christian-crees-tear-downsweat-lodge-15500.
 
@@ -8370,9 +8268,9 @@ E/CN.4/ Sub,2/1997/20/Rev.1, 1997-10-02; updated by UN DocE/CN.4/2005/102 (18 Fe
 (8 February 2005), cited in Fontaine v.
 Canada (Attorney General), 2013 ONSC 684 (CanLII), University of Manitoba brief, Written Argument.
 December 13, 2012, note 35, 14, http://chrr.info/images/stories/Materials_filed_by_UM_2_.pdf.
-159.	 de Greiff, “Report of the Special Rapporteur,” 2013, 22, http://daccess-dds-ny.un.org/doc/UNDOC/GEN/G13/165/05/PDF/G1316505.pdf?OpenElement (accessed 28 April 2015).
-160.	 de Greiff, “Report of the Special Rapporteur,” 2013, 23, http://daccess-dds-ny.un.org/doc/UNDOC/GEN/G13/165/05/PDF/G1316505.pdf?OpenElement (accessed 28 April 2015).
-161.	 de Greiff, “Report of the Special Rapporteur,” 2013, 29, http://daccess-dds-ny.un.org/doc/UNDOC/GEN/G13/165/05/PDF/G1316505.pdf?OpenElement (accessed 28 April 2015).
+159.	 de Greiff, “Report of the Special Rapporteur,” 2013, 22, http://daccess-dds-ny.UN.org/doc/UNDOC/GEN/G13/165/05/PDF/G1316505.pdf?OpenElement (accessed 28 April 2015).
+160.	 de Greiff, “Report of the Special Rapporteur,” 2013, 23, http://daccess-dds-ny.UN.org/doc/UNDOC/GEN/G13/165/05/PDF/G1316505.pdf?OpenElement (accessed 28 April 2015).
+161.	 de Greiff, “Report of the Special Rapporteur,” 2013, 29, http://daccess-dds-ny.UN.org/doc/UNDOC/GEN/G13/165/05/PDF/G1316505.pdf?OpenElement (accessed 28 April 2015).
 162.	 Several prominent archivists have noted this trend.
 See, for example: Cook, “Evidence, Memory, Identity”; Wilson, “Peace, Order and Good Government”; Harris, “Archival Sliver”; Jimerson, “Archives for All.”
 163.	 TRC, AVS, Peter Cunningham, Statement to the Truth and Reconciliation Commission of Canada, Edmonton, Alberta, 28 March 2014, Statement Number: ABNE201.
