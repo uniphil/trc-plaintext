@@ -75,6 +75,24 @@ def ol(page):
     listed, _ = re.subn(u'\n(?P<n>\\d{1,2})\)\t', repl, page)
     return listed
 
+def romans(page):
+    rnums = {
+        'i': 1,
+        'ii': 2,
+        'iii': 3,
+        'iv': 4,
+        'v': 5,
+        'vi': 6,
+        'vii': 7,
+        'viii': 8,
+        'ix': 9,
+        'x': 10,
+    }
+    romanRe = r'\s(?P<rs>{rs}).	 '.format(rs='|'.join(rnums.keys()))
+    repl = lambda m: '\n    {n}. '.format(n=rnums[m.groupdict()['rs']])
+    de_romaned, _ = re.subn(romanRe, repl, page)
+    return de_romaned
+
 def cite(page):
     citation = ur'(?P<ends>{br} ?)(?P<citeNo>\d+)\n'.format(br=br)
     def cite(match):
@@ -84,8 +102,8 @@ def cite(page):
     return cited
 
 def callToAction(page):
-    called = page.replace('Call to Action', '#### Call to Action')
-    calls = called.replace('Calls to Action','#### Calls to Action')
+    called = page.replace('Call to Action', '#### Call to Action\n')
+    calls = called.replace('Calls to Action','#### Calls to Action\n')
     return calls
 
 def encode(page):
@@ -102,6 +120,7 @@ autofix = compose(
     encode,
     callToAction,
     cite,
+    romans,
     ol,
     bullet,
     semanticLineBreak,
