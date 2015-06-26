@@ -5418,13 +5418,13 @@ The Commission notes that in 2010, Pope Benedict XVI responded to the issue of t
 He acknowledged that the church had failed to address the issue of child abuse in Catholic institutions.
 He said:
 
-Only by examining carefully the many elements that gave rise to the present crisis can a clear-sighted diagnosis of its causes be undertaken and effective remedies be found.
+> Only by examining carefully the many elements that gave rise to the present crisis can a clear-sighted diagnosis of its causes be undertaken and effective remedies be found.
 Certainly, among the contributing factors we can include: inadequate procedures for determining the suitability of candidates for the priesthood and the religious life; insufficient human, moral, intellectual and spiritual formation in seminaries and novitiates; a tendency in society to favour the clergy and other authority figures; and a misplaced concern for the reputation of the Church and the avoidance of scandal, resulting in failure to apply existing canonical penalties and to safeguard the dignity of every person.
 Urgent action is required to address these factors, which have had such tragic consequences in the lives of victims and their families.[^73]
 
 He directly addressed those who were abused as children by church clergy:
 
-You have suffered grievously and I am truly sorry.
+> You have suffered grievously and I am truly sorry.
 I know that nothing can undo the wrong you have endured.
 Your trust has been betrayed and your dignity has been violated.
 Many of you found that, when you were courageous enough to speak of what happened to you, no one would listen.
@@ -5442,10 +5442,11 @@ They wondered why no similar apology had been extended to them.
 They said: “I did not hear the Pope say to me, ‘I am sorry.’ Those words are very important to me …
 but he didn’t say that to the First Nations people.”[^75]
 #### Call to Action
+
 58. We call upon the Pope to issue an apology to Survivors, their families, and communities for the Roman Catholic Church’s role in the spiritual, cultural, emotional, physical, and sexual abuse of First Nations, Inuit, and Métis children in Catholic-run residential schools.
 We call for that apology to be similar to the 2010 apology issued to Irish victims of abuse and to occur within one year of the issuing of this Report and to be delivered by the Pope in Canada.
 
-Survivors’ responses to church apologies
+### Survivors’ responses to church apologies
 
 Survivors made many statements to the Commission about Canada’s apology, but the same cannot be said for their response to church apologies.
 It is striking that although Survivors told us a great deal about how churches have affected their lives, and how, as adults, they may or may not practise Christianity, they seldom mentioned the churches’ apologies or healing and reconciliation activities.
@@ -5457,16 +5458,16 @@ They also had conversations with church representatives in the Churches Listenin
 When the late Alvin Dixon, Chair of the United Church of Canada’s Indian Residential School Survivors Committee, spoke to the Commission at the Northern National Event in Inuvik in 2011, he expressed what many other Survivors may have thought about all of the churches’ apologies.
 He said,
 
-The apologies don’t come readily.
+> The apologies don’t come readily.
 They don’t come easily.
 And when we heard the apology in 1986, those of us First Nations members of the United Church didn’t accept the apology but we agreed to receive it and watch and wait and work with the United Church to put some flesh, to put some substance to that apology.
 And we all believed that apologies should be words of action, words of sincerity that should mean something…
 Our task is to make sure that the United Church lives up to that apology in meaningful ways…
 
-You know, our work is just beginning and we’re going to hold the church’s feet to the fire, other churches and Canada to make sure that this whole exercise of healing goes on for as long as it takes for us to recover from the impacts of our experiences in those residential schools.
+> You know, our work is just beginning and we’re going to hold the church’s feet to the fire, other churches and Canada to make sure that this whole exercise of healing goes on for as long as it takes for us to recover from the impacts of our experiences in those residential schools.
 
-The other issue that comes up that we are addressing is having our native spiritual practice condemned initially not just by the United Church but all churches …
-well, we now have our church supporting Native spiritual gatherings and we’re going to
+> The other issue that comes up that we are addressing is having our native spiritual practice condemned initially not just by the United Church but all churches …
+well, we now have our church supporting Native spiritual gatherings and we’re going to<!--x-->
 host a national Native spiritual gathering in Prince Rupert this summer…
 So, we are very much holding the church’s feet to the fire and making sure that there are real commitments to putting life to the apologies.[^77]
 
@@ -5479,9 +5480,10 @@ He emphasized how important it was to Survivors that the churches not only admit
 That action, however, calls for ongoing commitment to educate church congregations into the future on the need for such action.
 
 #### Call to Action
+
 59. We call upon church parties to the Settlement Agreement to develop ongoing education strategies to ensure that their respective congregations learn about their church’s role in colonization, the history and legacy of residential schools, and why apologies to former residential school students, their families, and communities were necessary.
 
-Honouring Indigenous spirituality
+### Honouring Indigenous spirituality
 
 Many Survivors told the Commission that reconnecting with traditional Indigenous spiritual teachings and practices has been essential to their healing, with some going so far as to say “it saved my life.”
 One Survivor said, “The Sun Dances and all the other teachings, the healing lodges, sweat lodges …
@@ -5491,8 +5493,8 @@ Losing the connections to their languages and cultures in the residential school
 Land, language, culture, and identity are inseparable from spirituality; all are necessary elements of a whole way of being, of living on the land as Indigenous peoples.
 As Survivor and Anishinaabe Elder Fred Kelly has explained,
 
-To take the territorial lands away from a people whose very spirit is so intrinsically connected to Mother Earth was to actually dispossess them of their very soul and being; it was to destroy whole Indigenous nations.
-Weakened by disease and separated from their traditional foods and medicines, First Nations peoples had no
+> To take the territorial lands away from a people whose very spirit is so intrinsically connected to Mother Earth was to actually dispossess them of their very soul and being; it was to destroy whole Indigenous nations.
+Weakened by disease and separated from their traditional foods and medicines, First Nations peoples had no<!--x-->
 defence against further government encroachments on their lives.
 Yet they continued to abide by the terms of the treaties trusting in the honour of the Crown to no avail.
 They were mortally wounded in mind, body, heart, and spirit that turned them into the walking dead.
@@ -5502,7 +5504,7 @@ Because of them and the Creator, my people are alive and in them I have found my
 
 Jennie Blackbird, who attended the Mohawk Institute in Brantford, Ontario, explained it this way:
 
-Our Elders taught us that language is the soul of the nation, and the sound of our language is its cement.
+> Our Elders taught us that language is the soul of the nation, and the sound of our language is its cement.
 Anishinaabemowin gives the ability to see into our future…
 Anishinaabemowin gives us the ability to listen …
 to what is going on around us and the ability to listen to what is happening inside of us.
@@ -5523,7 +5525,7 @@ For many, this is not easily done.
 
 Many Survivors and their families continue to live in spiritual fear of their own traditions.
 Such fear is a direct result of the religious beliefs imposed on them by those who ran the residential schools.
-This long-internalized fear has spanned several generations and
+This long-internalized fear has spanned several generations and<!--x-->
 is difficult to shed.
 It is exacerbated by the fact that Christian doctrine today still fails to accord full and proper respect for Indigenous spiritual belief systems.
 
@@ -5538,7 +5540,7 @@ However, there is often conflict within communities when those who have been inf
 There are those who continue to actively speak out against Indigenous spiritual beliefs and to block or prohibit their practice.[^82]
 
 To have a right that you are afraid to exercise is to have no right at all.
-The Declaration asserts that governments (and other parties) now have an obligation to assist Indigenous communities to restore their own spiritual belief systems and faith practices, where these have been damaged or subjected to spiritual violence through past laws, policies, and practices.
+The _Declaration_ asserts that governments (and other parties) now have an obligation to assist Indigenous communities to restore their own spiritual belief systems and faith practices, where these have been damaged or subjected to spiritual violence through past laws, policies, and practices.
 No one should be told who is, or how to worship, their Creator.
 That is an individual choice and, for Indigenous peoples, it is also a collective right.
 However, First Nations, Inuit, and Métis people need to be assured that they do indeed have the freedom to choose and that their choice will be respected.
@@ -5569,7 +5571,7 @@ In contrast, Aboriginal Christians who also practise Indigenous spirituality see
 United Church Rev.
 Alf Dumont, the first speaker of the All Native Circle Conference, said,
 
-Respect is one of the greatest teachings that come from the original people of this land.
+> Respect is one of the greatest teachings that come from the original people of this land.
 Our ancestors followed that teaching when they met with their Christian brothers and sisters so many years ago.
 They saw a truth and a sacredness they could not deny in Christian teachings.
 Many were willing to embrace these teachings and leave their traditional teachings.
@@ -5581,28 +5583,26 @@ Why could they not take what they needed from these new understandings and still
 That was the understanding and teaching of holding respect for others’ beliefs.
 It was the way of the first people.[^84]
 
-Presbyterian Rev.
-Margaret Mullin (Thundering Eagle Woman) put it this way:
+Presbyterian Rev. Margaret Mullin (Thundering Eagle Woman) put it this way:
 
-Can the Rev.
-Margaret Mullin/Thundering Eagle [W]oman from the Bear Clan be a strong Anishinaabe woman and a Christian simultaneously?
+> Can the Rev. Margaret Mullin/Thundering Eagle [W]oman from the Bear Clan be a strong Anishinaabe woman and a Christian simultaneously?
 Yes I can, because I do not have my feet in two different worlds, two different religions, or two different understandings of God.
 The two halves of me are one in the same Spirit.
 I can learn from my grandparents, European and Indigenous Canadian, who have all walked on the same path ahead of me.
 I can learn from Jesus and I can learn from my Elders.[^85]
 
 Each of the Settlement Agreement churches has wrestled with the theological challenges and necessary institutional reforms that arise with regard to Indigenous spiritual beliefs and practices.
-At the same time, Aboriginal church members have taken a leadership role
+At the same time, Aboriginal church members have taken a leadership role<!--x-->
 to advocate for Indigenous perspectives and ensure that they are fully represented in the institutional structures, programs, and services of their respective churches.
 
 The General Assembly of the Presbyterian Church of Canada in 2013 endorsed a report on the development of a theological framework for Aboriginal spirituality within the church.
-The report noted “the need for Aboriginal Christians to be true to both their Indigenous identity and to their [Christian] faith,” and concluded, among other things, that “this conversation has the potential not simply to help us address our relationship as Presbyterians with Aboriginal people; it has the potential to contribute to the renewal of our church.”[^86]
+The report noted “the need for Aboriginal Christians to be true to both their _Indigenous identity_ and to their [Christian] faith,” and concluded, among other things, that “this conversation has the potential not simply to help us address our relationship as Presbyterians with Aboriginal people; it has the potential to contribute to the renewal of our church.”[^86]
 
 The Anglican Church has developed a vision for a self-governing Indigenous church to coexist within the broader institutional structure of the church.
 In 2001, a strategic plan called “A New Agape” was formally adopted by the church’s General Synod meeting.
 The plan set out the church’s vision for a
 
-new relationship …
+> new relationship …
 based on a partnership which focuses on the cultural, spiritual, social and economic independence of Indigenous communities.
 To give expression to this new relationship The Anglican Church of Canada will work primarily with …
 Indigenous peoples for a truly Anglican Indigenous Church in Canada.
@@ -5616,7 +5616,7 @@ In a 2006 report, “Living Faithfully in the Midst of Empire: Report to the Thi
 The report recommended that further work be done, and a follow-up report, “Reviewing Partnership in the Context of Empire,” was issued in 2009.
 The report’s theological reflection noted:
 
-Our development of the partnership model was an attempt to move beyond the paternalism and colonialism of 19th century missions.
+> Our development of the partnership model was an attempt to move beyond the paternalism and colonialism of 19th century missions.
 The current work to develop right relations with Aboriginal peoples is an attempt to move beyond a history of colonization and racism.
 This ongoing struggle to move beyond empire involves the recognition that our theology and biblical interpretation have often supported sexism, racism, colonialism, and the exploitation of creation…
 Theologies of empire have understood God and men as separate from and superior to women, Indigenous peoples, and nature.[^89]
@@ -5628,11 +5628,11 @@ In 2015, two of the Settlement Agreement churches responded to this call.
 On January 29, 2015, the Presbyterian Church in Canada issued a “Statement on Aboriginal Spiritual Practices.”
 Among other things, the church said:
 
-As part of the Churches’ commitment to a journey of truth and reconciliation, the Presbyterian Church in Canada has learned that many facets of Aboriginal traditional spiritualities bring life and oneness with creation.
+> As part of the Churches’ commitment to a journey of truth and reconciliation, the Presbyterian Church in Canada has learned that many facets of Aboriginal traditional spiritualities bring life and oneness with creation.
 Accepting this has sometimes been a challenge for the Presbyterian Church in Canada.
 We are now aware that there is a wide variety of Aboriginal spiritual practices and we acknowledge that it is for our church to continue in humility to learn the deep significance of these practices and to respect them and the Aboriginal elders who are the keepers of their traditional sacred truths…
 
-We acknowledge and respect both Aboriginal members of the Presbyterian Church in Canada who wish to bring traditional practices into their congregations and those Aboriginal members who are not comfortable or willing to do so.
+> We acknowledge and respect both Aboriginal members of the Presbyterian Church in Canada who wish to bring traditional practices into their congregations and those Aboriginal members who are not comfortable or willing to do so.
 The church must be a community where all are valued and respected.
 It is not for the Presbyterian Church in Canada to validate or invalidate Aboriginal spiritualities and practices.
 Our church, however, is deeply respectful of these traditions.[^91]
@@ -5641,24 +5641,24 @@ On February 18, 2015, the United Church of Canada issued a statement, “Affirmi
 The document sets out various statements and apologies made by the church with regard to Indigenous spirituality, including an expression of reconciliation at the TRC’s Alberta National Event on March 27, 2014.
 Among other things, the church said:
 
-In humility, the Church acknowledges its complicity in the degradation of Aboriginal wisdom and spirituality, and offers the following statements from its recent history.
+> In humility, the Church acknowledges its complicity in the degradation of Aboriginal wisdom and spirituality, and offers the following statements from its recent history.
 In doing so, the Church recognizes with pain that this is a complex and sensitive issue for some within Aboriginal communities of faith, who as a result of our Christianizing work, and the legacy of colonialism, are on a journey to restore harmony and spiritual balance…
 
-We have learned that ‘good intentions’ are never enough, especially when wrapped in the misguided zeal of cultural and spiritual superiority.
+> We have learned that ‘good intentions’ are never enough, especially when wrapped in the misguided zeal of cultural and spiritual superiority.
 Thus, we have learned that we were wrong to reject, discredit, and yes, even outlaw traditional indigenous spiritual practice and ceremony; in amazing circles of grace, as we have begun to listen to the wisdom of the Elders, we have found our own faith enriched and deepened.
 And we are grateful.
 We know we have a long journey ahead of us.
-We are committed to make that journey in humility and partnership, engaging in the healing work of making “whole” our own spirituality, and acknowledging that holding both
+We are committed to make that journey in humility and partnership, engaging in the healing work of making “whole” our own spirituality, and acknowledging that holding both<!--x-->
 your spirituality and ours is possible through listening and learning with open hearts.[^92]
 
 Unlike the Protestant churches, in which theological reflection and institutional reform have been undertaken at the national level, the Roman Catholic Church in Canada’s approach to Indigenous spirituality has emphasized decision making at the local diocesan level.
 However, in a submission to the Royal Commission on Aboriginal Peoples in 1993, the Canadian Conference of Catholic Bishops expressed its views on Indigenous spirituality:
 
-The Native spiritual voice is now finding greater resonance in the broader Christian and social worlds.
+> The Native spiritual voice is now finding greater resonance in the broader Christian and social worlds.
 Native Christianity today is marked by the development of a theology that comes from Native prayer, culture, and experience…
 As bishops, we have encouraged Native Catholic leaders to take increasing responsibility for the faith life of their communities…
 
-We also recognize that for some Native Peoples, Christianity and Native spirituality are mutually exclusive.
+> We also recognize that for some Native Peoples, Christianity and Native spirituality are mutually exclusive.
 We are committed to responding to this belief in a spirit of dialogue and respect, and to encouraging Native Peoples to join in conversation between Christianity and Native spirituality…
 We will continue to explore the possibility of establishing channels of communication between our own spiritual heritage and Aboriginal spiritualities.[^93]
 
@@ -5670,33 +5670,33 @@ Beginning in 2007, the Churches’ Council on Theological Education in Canada he
 Through these events, the council also sought to challenge post-secondary institutions to consider how best to prepare theological students for ministry in Canada, in consideration not only of Indigenous people, their culture and spirituality, but also of the need for churches to engage in healing and reconciliation between Aboriginal and non-Aboriginal peoples.
 
 The Toronto School of Theology made a public commitment to giving the same academic respect to Indigenous knowledge, including traditional Indigenous spiritual teachings, “as [to] traditions of Greek philosophy and modern science.”[^95]
-This pledge was made
+This pledge was made<!--x-->
 at “The Meeting Place,” an event co-sponsored by Council Fire Native Cultural Centre and the Toronto Conference of the United Church of Canada in June of 2012.
 
 Yet, more remains to be done in education and training with regard to reconciling Indigenous spirituality and Christianity in ways that support Indigenous self-determination.
 Writing in 2009, the former Archdeacon for the Anglican Church and founding member of the Indian Ecumenical Conference, Rev.
-John A.
-(Ian) MacKenzie, said,
+John A. (Ian) MacKenzie, said,
 
-Most urgently, churches need to consider opening a serious dialogue with Aboriginal theologians, doctors, and healers who represent …
+> Most urgently, churches need to consider opening a serious dialogue with Aboriginal theologians, doctors, and healers who represent …
 the North American intellectual tradition…
 [Aboriginal peoples] call for recognition of the truth of past injustices and respect for their civilizations.
 Most of all, this is a call for respect for their traditional religious thoughts and practices.
 The only legitimate North American intellectual tradition comes from the diverse tribal societies in our midst!…
 
-Sustainable reconciliation will only take place when every Canadian seminary includes a course on Aboriginal religious traditions; when every congregation …
+> Sustainable reconciliation will only take place when every Canadian seminary includes a course on Aboriginal religious traditions; when every congregation …
 reflect[s] on North American intellectual tradition by initiating and inviting Aboriginal religious leaders to lead such discussions …
 when Aboriginal peoples achieve real self-government within their churches; and when Christian theology not only respects Aboriginal thought, but learns from it.[^96]
 
 #### Call to Action
+
 60. We call upon leaders of the church parties to the Settlement Agreement and all other faiths, in collaboration with Indigenous spiritual leaders, Survivors, schools of theology, seminaries, and other religious training centres, to develop and teach curriculum for all student clergy, and all clergy and staff who work in Aboriginal communities, on the need to respect Indigenous spirituality in its own right, the history and legacy of residential schools and the roles of the church parties in that system, the history and legacy of religious conflict in Aboriginal families and communities, and the responsibility that churches have to mitigate such conflicts and prevent spiritual violence.
 
-Church healing and reconciliation projects
+### Church healing and reconciliation projects
 
 Beginning in the 1990s, the four Settlement Agreement churches began allocating specific funds for community-based healing and reconciliation projects.
 This work continued under the terms of the Settlement Agreement.
 Each of the defendant churches agreed to provide and manage funds specifically dedicated to healing and reconciliation.
-All the churches established committees, including Aboriginal representatives, to review and
+All the churches established committees, including Aboriginal representatives, to review and<!--x-->
 approve projects.
 In broad terms, the reconciliation projects funded by the Settlement Agreement churches have had three primary purposes:
 1. Healing.
