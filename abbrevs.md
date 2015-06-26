@@ -1,3 +1,4 @@
+*[AJR]: Accessing Justice and Reconciliation
 *[ALI]: Aboriginal Languages Initiative
 *[CEP]: Common Experience Payment
 *[FASD]: Fetal alcohol spectrum disorder

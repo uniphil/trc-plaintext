@@ -4880,23 +4880,26 @@ The principles enunciated in the new Royal Proclamation will serve as the founda
 
 Governments at all levels of Canadian society must also commit to a new framework for reconciliation to guide their relations with Aboriginal peoples.
 #### Call to Action
+
 47. We call upon federal, provincial, territorial, and municipal governments to repudiate concepts used to justify European sovereignty over Indigenous peoples and lands, such as the Doctrine of Discovery and terra nullius, and to reform those laws, government policies, and litigation strategies that continue to rely on such concepts.
 
 Churches and faith groups also have an important role to play in fostering reconciliation through support for the _United Nations Declaration_ and repudiation of the Doctrine of Discovery.
 
 #### Calls to Action:
+
 48. We call upon the church parties to the Settlement Agreement, and all other faith groups and interfaith social justice groups in Canada who have not already done so, to formally adopt and comply with the principles, norms, and standards of the _United Nations Declaration on the Rights of Indigenous Peoples_ as a framework for reconciliation.
 This would include, but not be limited to, the following commitments:
 
-i.	 Ensuring that their institutions, policies, programs, and practices comply with the _United Nations Declaration on the Rights of Indigenous Peoples_.
+    1. Ensuring that their institutions, policies, programs, and practices comply with the _United Nations Declaration on the Rights of Indigenous Peoples_.
 
-ii.	 Respecting Indigenous peoples’ right to self-determination in spiritual matters, including the right to practise, develop, and teach their own spiritual and religious traditions, customs, and ceremonies, consistent with Article 12:1 of the _United Nations Declaration on the Rights of Indigenous Peoples_.
+    2. Respecting Indigenous peoples’ right to self-determination in spiritual matters, including the right to practise, develop, and teach their own spiritual and religious traditions, customs, and ceremonies, consistent with Article 12:1 of the _United Nations Declaration on the Rights of Indigenous Peoples_.
 
-iii.	 Engaging in ongoing public dialogue and actions to support the _United Nations Declaration on the Rights of Indigenous Peoples_.
+    3. Engaging in ongoing public dialogue and actions to support the _United Nations Declaration on the Rights of Indigenous Peoples_.
 
-iv.	 Issuing a statement no later than March 31, 2016, from all religious denominations and faith groups, as to how they will implement the _United Nations Declaration on the Rights of Indigenous Peoples_.
-49. We call upon all religious denominations and faith groups who have not already done so to repudiate concepts used to justify European sovereignty over Indigenous lands and peoples, such as the Doctrine of Discovery and terra nullius.
-Revitalizing Indigenous law: Truth, reconciliation, and access to justice
+    4. Issuing a statement no later than March 31, 2016, from all religious denominations and faith groups, as to how they will implement the _United Nations Declaration on the Rights of Indigenous Peoples_.
+
+49. We call upon all religious denominations and faith groups who have not already done so to repudiate concepts used to justify European sovereignty over Indigenous lands and peoples, such as the Doctrine of Discovery and _terra nullius_.
+### Revitalizing Indigenous law: Truth, reconciliation, and access to justice
 
 Until recently, Canadian law was used by Canada to suppress truth and deter reconciliation.
 Parliament’s creation of assimilative laws and regulations facilitated the oppression of Aboriginal cultures and enabled the residential school system.
@@ -4935,9 +4938,9 @@ So long as the vision of reconciliation in Section 35(1) is not being implemente
 To improve Aboriginal peoples’ access to justice, changes must occur on at least two fronts: nationally, and within each Aboriginal community.
 
 The _United Nations Declaration on the Rights of Indigenous Peoples_ and the UN “Outcome Document” provide a framework and a mechanism to support and improve access to justice for Indigenous peoples in Canada.
-Under Article 40 of the Declaration,
+Under Article 40 of the _Declaration_,
 
-Indigenous peoples have the right to access to and prompt decision through just and fair procedures for the resolution of conflicts and disputes with States or other parties, as well as to effective remedies for all infringements of their individual and collective rights.
+> Indigenous peoples have the right to access to and prompt decision through just and fair procedures for the resolution of conflicts and disputes with States or other parties, as well as to effective remedies for all infringements of their individual and collective rights.
 Such a decision shall give due consideration to the customs, traditions, rules and legal systems of the indigenous peoples concerned and international human rights.[^44]
 
 In 2013, the UN Expert Mechanism on the Rights of Indigenous Peoples issued a study, “Access to Justice in the Promotion and Protection of the Rights of Indigenous Peoples.”
@@ -4948,31 +4951,31 @@ The study made several key findings and recommendations, including the following
 The right to self-determination is a central right for indigenous peoples from which all other rights flow.
 In relation to access to justice, self-determination affirms their right to maintain and strengthen indigenous legal institutions, and to apply their own customs and laws.
 
-The cultural rights of indigenous peoples include recognition and practice of their justice systems …
+> The cultural rights of indigenous peoples include recognition and practice of their justice systems …
 as well as recognition of their traditional customs, values and languages by courts and legal procedures.
 
-Consistent with indigenous peoples’ right to self-determination and self-government, States should recognize and provide support for indigenous peoples’ own justice systems and should consult with indigenous peoples on the best means for dialogue and cooperation between indigenous and State systems.
+> Consistent with indigenous peoples’ right to self-determination and self-government, States should recognize and provide support for indigenous peoples’ own justice systems and should consult with indigenous peoples on the best means for dialogue and cooperation between indigenous and State systems.
 
-States should recognize indigenous peoples’ rights to their lands, territories and resources in laws and should harmonize laws in accordance with indigenous peoples’ customs on possession and use of lands.
+> States should recognize indigenous peoples’ rights to their lands, territories and resources in laws and should harmonize laws in accordance with indigenous peoples’ customs on possession and use of lands.
 Where indigenous peoples have won land rights and other cases in courts, States must implement these decisions.
 The private sector and government must not collude to deprive indigenous peoples of access to justice.
 
-Indigenous peoples should strengthen advocacy for the recognition of their justice systems.
+> Indigenous peoples should strengthen advocacy for the recognition of their justice systems.
 
-Indigenous peoples’ justice systems should ensure that indigenous women and children are free from all forms of discrimination and should ensure accessibility to indigenous persons with disabilities.
+> Indigenous peoples’ justice systems should ensure that indigenous women and children are free from all forms of discrimination and should ensure accessibility to indigenous persons with disabilities.
 
-Indigenous peoples should explore the organization and running of their own truthseeking processes.[^46]
+> Indigenous peoples should explore the organization and running of their own truthseeking processes.[^46]
 
 These conclusions are consistent with this Commission’s own views.
 We also concur with the 2014 report issued by S.
 James Anaya, the United Nations Special Rapporteur on the Rights of Indigenous Peoples, about the state of Canada’s relationship with Indigenous peoples.
 He concluded that the
 
-Government of Canada has a stated goal of reconciliation, which the Special Rapporteur heard repeated by numerous government representatives with whom he met.
+> Government of Canada has a stated goal of reconciliation, which the Special Rapporteur heard repeated by numerous government representatives with whom he met.
 Yet even in this context, in recent years, indigenous leaders have expressed concern that progress towards this goal has been undermined by actions of the Government that limit or ignore the input of indigenous governments and representatives in various decisions that concern them…
 [D]espite positive steps, daunting challenges remain.
 Canada faces a continuing crisis when it comes to the situation of indigenous peoples of the country.
-The well-being gap between aboriginal and non-aboriginal people in Canada has not narrowed over the last several years, treaty and aboriginal claims remain persistently unresolved, indigenous women and girls remain vulnerable to abuse, and overall there appear to
+The well-being gap between aboriginal and non-aboriginal people in Canada has not narrowed over the last several years, treaty and aboriginal claims remain persistently unresolved, indigenous women and girls remain vulnerable to abuse, and overall there appear to<!--x-->
 be high levels of distrust among indigenous peoples towards government at both the federal and provincial levels.[^47]
 
 In Canada, law must cease to be a tool for the dispossession and dismantling of Aboriginal societies.
@@ -4997,10 +5000,10 @@ For this to happen, Aboriginal peoples must be able to recover, learn, and pract
 That is not to say that the development of self-government institutions and laws must occur at the band or village level.
 In its report, the Royal Commission on Aboriginal Peoples spoke about the development of self-government by Aboriginal nations:
 
-We have concluded that the right of self-government cannot reasonably be exercised by small, separate communities, whether First Nations, Inuit or Métis.
+> We have concluded that the right of self-government cannot reasonably be exercised by small, separate communities, whether First Nations, Inuit or Métis.
 It should be exercised by groups of a certain size—groups with a claim to the term ‘nation’.
 
-The problem is that the historical Aboriginal nations were undermined by disease, relocations and the full array of assimilationist government policies.
+> The problem is that the historical Aboriginal nations were undermined by disease, relocations and the full array of assimilationist government policies.
 They were fragmented into bands, reserves and small settlements.
 Only some operate as collectivities now.
 They will have to reconstruct themselves as nations.[^49]
@@ -5022,33 +5025,33 @@ Indigenous legal orders adapt with changing circumstances.
 The development and application of Indigenous law should be regarded as one element of a broader holistic strategy to deal with the residential schools’ negative effects.
 
 There are diverse sources of Indigenous law that hold great insight for pursuing reconciliation.
-In 2012, the TRC partnered with the University of Victoria Faculty of Law’s Indigenous Law Clinic, and the Indigenous Bar Association, to develop a national research initiative, the “Accessing Justice and Reconciliation (ajr) Project.”
-Working with seven community partners, the ajr project examined six different legal traditions across the country: Coast Salish (Snuneymuxw First Nation, Tsleil-Waututh Nation); Tsilhqot’in (Tsilhqot’in National Government); Northern Secwepemc (T’exelc Williams Lake Indian Band); Cree (Aseniwuche Winewak Nation); Chippewas of Nawash Unceded First Nation # 27); and Mi’kmaq (Mi’kmaq Legal Services Network, Eskasoni).
+In 2012, the TRC partnered with the University of Victoria Faculty of Law’s Indigenous Law Clinic, and the Indigenous Bar Association, to develop a national research initiative, the “Accessing Justice and Reconciliation (AJR) Project.”
+Working with seven community partners, the AJR project examined six different legal traditions across the country: Coast Salish (Snuneymuxw First Nation, Tsleil-Waututh Nation); Tsilhqot’in (Tsilhqot’in National Government); Northern Secwepemc (T’exelc Williams Lake Indian Band); Cree (Aseniwuche Winewak Nation); Chippewas of Nawash Unceded First Nation # 27); and Mi’kmaq (Mi’kmaq Legal Services Network, Eskasoni).
 
-The ajr report concluded that many more Aboriginal communities across the country would benefit from recovering and revitalizing their laws.
+The AJR report concluded that many more Aboriginal communities across the country would benefit from recovering and revitalizing their laws.
 Doing so would enable First Nations, Inuit, and Métis communities to remedy community harms and resolve internal conflicts as well as external conflicts with governments more effectively.
 Professor Val Napoleon, the project’s academic lead, and Hadley Friedland, the project coordinator, said,
 
-We believe there is much hope that even the process of intentionally and seriously continuing …
+> We believe there is much hope that even the process of intentionally and seriously continuing …
 [this work] will contribute to a truly robust reconciliation in Canada…
 This work is vital for the future health and strength of Indigenous societies and has much to offer Canada as a whole…
 Legal traditions are not only prescriptive, they are descriptive.
 They ascribe meaning to human events, challenges and aspirations.
 They are intellectual resources that we use to frame and interpret information, to reason through and act upon current problems and projects, to work toward our greatest societal aspirations.
-Finding ways to support Indigenous communities to access, understand and apply their own legal principles today is not just about repairing
+Finding ways to support Indigenous communities to access, understand and apply their own legal principles today is not just about repairing<!--x-->
 the immense damages from colonialism.
-As Chief Doug S.
-White III (Kwulasultun) puts it …
+As Chief Doug S. White III (Kwulasultun) puts it …
 “Indigenous law is the great project of Canada and it is the essential work of our time.
 It is not for the faint of heart, it is hard work.
 We need to create meaningful opportunities for Indigenous and non-Indigenous people to critically engage in this work because all our futures depend on it.”[^51]
 
 #### Call to Action:
+
 50. In keeping with the _United Nations Declaration on the Rights of Indigenous Peoples_, we call upon the federal government, in collaboration with Aboriginal organizations, to fund the establishment of Indigenous law institutes for the development, use, and understanding of Indigenous laws and access to justice in accordance with the unique cultures of Aboriginal peoples in Canada.
 
-Reconciliation and accountability
+### Reconciliation and accountability
 
-Victims of violence; holders of rights
+### Victims of violence; holders of rights
 
 Survivors are more than just victims of violence.
 They are also holders of Treaty, constitutional, and human rights.[^52]
@@ -5060,13 +5063,13 @@ Equally important, they have provided wise counsel to political leaders, legisla
 The Commission agrees with Anishinaabe scholar and activist Leanne Simpson, who has urged Canadians not to think about reconciliation in narrow terms or to view Survivors only as victims.
 She said:
 
-If reconciliation is focused only on residential schools rather than the broader set of relationships that generated policies, legislation, and practices aimed at assimilation and political genocide, then there is a risk that reconciliation will “level the playing field” in the eyes of Canadians…
+> If reconciliation is focused only on residential schools rather than the broader set of relationships that generated policies, legislation, and practices aimed at assimilation and political genocide, then there is a risk that reconciliation will “level the playing field” in the eyes of Canadians…
 I also worry that institutionalization of a narrowly defined “reconciliation” subjugates treaty and nation-based participation by locking our Elders—the ones that suffered the most directly at the hands of the residential school system—into a position of victimhood.
 Of course, they are anything but victims.
 They are our strongest visionaries and they inspire us to vision alternative futures.[^53]
 Speaking at the British Columbia National Event, Honorary Witness and former lieutenant governor of British Columbia, the Honourable Steven Point, said:
 
-We got here to this place, to this time, because Aboriginal Survivors brought this [residential schools] to the Supreme Court of Canada.
+> We got here to this place, to this time, because Aboriginal Survivors brought this [residential schools] to the Supreme Court of Canada.
 The churches and the governments didn’t come one day and say, “Hey, you know, we did something wrong and we’re sorry.
 Can you forgive us?”
 Elders had to bring this matter to the Supreme Court of Canada.
@@ -5090,7 +5093,7 @@ There is a need for a clear and public recognition that Aboriginal peoples must 
 As holders of Treaty, constitutional, and human rights, they are entitled to justice and accountability from Canada to ensure that their rights are not violated.
 
 In his initial report, tabled in August of 2012, Pablo de Greiff, the first UN Special Rapporteur on the Promotion of Truth, Justice, Reparation and Guarantees of NonRecurrence, pointed out that in countries where prosecuting individual perpetrators of criminal acts involving human rights violations has been difficult, other measures such as truth-seeking forums, reparations, and institutional reforms are especially critical.
-Such measures enable victims of state violence to develop some confidence in the legitimacy
+Such measures enable victims of state violence to develop some confidence in the legitimacy<!--x-->
 and credibility of the state’s justice system.
 But de Greiff cautions that implementing these measures alone does not guarantee that reconciliation will follow.
 Apologies, commemoration, public memorials, and educational reform are also required in order to transform social attitudes and foster long-term reconciliation.[^57]
@@ -5102,7 +5105,7 @@ For Aboriginal peoples in Canada, the protection and exercise of their right to 
 In the coming years, governments must remain accountable for ensuring that Aboriginal peoples’ rights are protected and that government actions do, in fact, repair trust and foster reconciliation.
 Repairing trust begins with an apology, but it involves far more than that.
 
-Moving from apology to action
+### Moving from apology to action
 
 From the outset, this Commission has emphasized that reconciliation is not a one-time event; it is a multi-generational journey that involves all Canadians.
 The public apologies and compensation to residential school Survivors, their families, and communities by Canada and the churches that ran the residential schools marked the beginning, not the end, of this journey.
@@ -5115,7 +5118,7 @@ Many offered their own heartfelt apologies to their families for having been abu
 Apologies are important to victims of violence and abuse.
 Apologies have the potential to restore human dignity and empower victims to decide whether they accept an apology or forgive a perpetrator.
 Where there has been no apology, or one that victims believe tries to justify the behaviour of perpetrators and evade responsibility, reconciliation is difficult, if not impossible, to achieve.
-The official apologies from Canada and the churches sent an important message to all Canadians that Aboriginal peoples had suffered grievous harms at the hands of the state and church institutions in the schools, and that, as the parties
+The official apologies from Canada and the churches sent an important message to all Canadians that Aboriginal peoples had suffered grievous harms at the hands of the state and church institutions in the schools, and that, as the parties<!--x-->
 responsible for those harms, the state and the churches accepted their measure of responsibility.
 The apologies were a necessary first step in the process of reconciliation.
 
@@ -5136,7 +5139,7 @@ Reparations for historical injustices must include not only apology, financial r
 
 In every region of the country, Survivors and others have sent a strong message, as received by this Commission: for reconciliation to thrive in the coming years, Canada must move from apology to action.
 
-Canada’s apology
+### Canada’s apology
 
 June 11, 2008, was an important day for the Aboriginal peoples of Canada, and for the country as a whole.
 It has come to be known as the “Day of the Apology,” the day when Prime Minister Stephen Harper, and the leaders of all other federal political parties, formally apologized in the House of Commons for the harms caused by the residential school system.
