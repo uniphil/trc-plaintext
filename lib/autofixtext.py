@@ -41,7 +41,7 @@ def capitalizeAbbrs(page):
 
 def italicizeRefs(page):
     with open('refs.txt') as f:
-        refs = f.read().strip().split('\n')
+        refs = f.read().decode('utf-8').strip().split('\n')
     italicized = page
     for ref in refs:
         catch = ur'(?P<pre>[^_\w]){r}(?P<post>[^_\w])'.format(r=ref)

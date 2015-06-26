@@ -3693,7 +3693,7 @@ If the preservation of Aboriginal languages does not become a priority both for 
 
 ### Language rights
 
-In interpreting Aboriginal and Treaty rights under Section 35(1) of the Constitution Act, 1982, the Supreme Court of Canada has stressed the relation of those rights to the preservation of distinct Aboriginal cultures.[^88]
+In interpreting Aboriginal and Treaty rights under Section 35(1) of the _Constitution Act, 1982_, the Supreme Court of Canada has stressed the relation of those rights to the preservation of distinct Aboriginal cultures.[^88]
 The Commission concurs.
 The preservation of Aboriginal languages is essential and must be recognized as a right.
 
@@ -4416,7 +4416,7 @@ It is a central conclusion of the Truth and Reconciliation Commission of Canada 
 
 #### Call to Action
 
-42. We call upon the federal, provincial, and territorial governments to commit to the recognition and implementation of Aboriginal justice systems in a manner consistent with the Treaty and Aboriginal rights of Aboriginal peoples, the Constitution Act, 1982, and the _United Nations Declaration on the Rights of Indigenous Peoples_, endorsed by Canada in November 2012.
+42. We call upon the federal, provincial, and territorial governments to commit to the recognition and implementation of Aboriginal justice systems in a manner consistent with the Treaty and Aboriginal rights of Aboriginal peoples, the _Constitution Act, 1982_, and the _United Nations Declaration on the Rights of Indigenous Peoples_, endorsed by Canada in November 2012.
 
 The Commission is convinced that genuine reconciliation will not be possible until the broad legacy of the schools is both understood and addressed.
 Governments in Canada spend billions of dollars each year in responding to the symptoms of the intergenerational trauma of residential schools.
@@ -4922,7 +4922,7 @@ This is the case despite the recognition that courts have begun to show that jus
 Given these circumstances, it should come as no surprise that formal Canadian law and Canada’s legal institutions are still viewed with suspicion within many Aboriginal communities.
 
 Yet, that is changing.
-Court decisions since the repatriation of Canada’s Constitution in 1982 have given hope to Aboriginal people that the recognition and affirmation of their existing Treaty and Aboriginal rights in Section 35 of the Constitution Act, 1982 may be an important vehicle for change.
+Court decisions since the repatriation of Canada’s Constitution in 1982 have given hope to Aboriginal people that the recognition and affirmation of their existing Treaty and Aboriginal rights in Section 35 of the _Constitution Act, 1982_ may be an important vehicle for change.
 However, the view of many Aboriginal people is that the utilization of the Government of Canada’s court is fraught with danger.
 Aboriginal leaders and communities turn to Canada’s courts literally because there is no other legal mechanism.
 When they do so, it is with the knowledge that the courts still are reluctant to recognize their own traditional means of dispute resolution and law.
@@ -5158,7 +5158,7 @@ It gave them hope.
 
 At the TRC’s Saskatchewan National Event, National Chief of the Assembly of First Nations Shawn A-in-chut Atleo said,
 
-I think as was heard here, what I’m so grateful for is that there’s a growing experience …
+> I think as was heard here, what I’m so grateful for is that there’s a growing experience …
 about the work of reconciliation…
 How do communities reconcile?
 Well, it begins with each and every one of us.
@@ -5181,39 +5181,30 @@ Equally important, the consequences of this broken trust have serious implicatio
 The trust relationship and Canada’s particular obligation to uphold the honour of the Crown with regard to Aboriginal peoples goes to the very heart of the relationship itself.
 As the original peoples who had occupied the lands and territories for thousands of years throughout the region that became Canada, Aboriginal peoples have unique legal and constitutional rights.
 These rights arose from their initial occupation and ownership of the land, and were affirmed in the Royal Proclamation of 1763, which also decreed that the Crown had a special duty to deal fairly with, and protect, Aboriginal peoples and their lands.
-Subsequently, the Dominion of Canada assumed this fiduciary obligation under Section 91(24) of the Constitution Act, 1867, which gave Parliament legislative authority over “Indians, and lands reserved for Indians.”
-Section 35 of the Constitution Act, 1982 also recognized and affirmed existing Aboriginal and Treaty rights.
+Subsequently, the Dominion of Canada assumed this fiduciary obligation under Section 91(24) of the _Constitution Act, 1867_, which gave Parliament legislative authority over “Indians, and lands reserved for Indians.”
+Section 35 of the _Constitution Act, 1982_ also recognized and affirmed existing Aboriginal and Treaty rights.
 
 In several key decisions, Canadian courts have said that the federal government must always uphold the honour of the Crown in its dealings with Aboriginal peoples.
-In R.
-v.
-Sparrow (1990), the Supreme Court ruled that “the Government has the responsibility to act in a fiduciary capacity with respect to aboriginal peoples.
+In _R. v. Sparrow_ (1990), the Supreme Court ruled that “the Government has the responsibility to act in a fiduciary capacity with respect to aboriginal peoples.
 The relationship between the Government and aboriginals is trust-like, rather than adversarial …
 the honour of the Crown is at stake in dealings with aboriginal peoples.”
-In Haida Nation v.
-British Columbia (Minister of Forests) (2004), the Supreme Court ruled that “in all its dealings with Aboriginal peoples, from the assertion of sovereignty to the resolution of claims and the implementation of treaties, the Crown must act honourably,” and that “the honour of the Crown …
+In Haida Nation v. British Columbia (Minister of Forests) (2004), the Supreme Court ruled that “in all its dealings with Aboriginal peoples, from the assertion of sovereignty to the resolution of claims and the implementation of treaties, the Crown must act honourably,” and that “the honour of the Crown …
 is not a mere incantation, but rather a core precept that finds its application in concrete practices.”
 In other words, the honour of the Crown is not merely an abstract principle, but one that must be applied with diligence.[^61]
 
-In Manitoba Métis Nation Inc.
-v.
-Canada (Attorney General) (2013), the Métis Nation argued that when the Métis peoples negotiated an agreement with the federal government that would enable Manitoba to enter Confederation, “they trusted Canada to act in their best interests …
+In Manitoba Métis Nation Inc. v. Canada (Attorney General) (2013), the Métis Nation argued that when the Métis peoples negotiated an agreement with the federal government that would enable Manitoba to enter Confederation, “they trusted Canada to act in their best interests …
 [and] to treat them fairly.”[^62]
 The Supreme Court said that in 1870, the
 
-broad purpose of S.
-31 of the Manitoba Act was to reconcile the Métis community with the sovereignty of the Crown and to permit the creation of the province of Manitoba.
+> broad purpose of S. 31 of the Manitoba Act was to reconcile the Métis community with the sovereignty of the Crown and to permit the creation of the province of Manitoba.
 This reconciliation was to be accomplished by a more concrete measure— the prompt and equitable transfer of the allotted public lands to the Métis children.
-[para.
-98]
+[para. 98]
 
-Ruling in favour of the Manitoba Métis Nation, the court observed that their “submissions went beyond the argument that the honour of the Crown gave rise to a fiduciary duty, raising the broader issue of whether the government’s conduct generally comported with the honour of the Crown” (para.
-87).
+Ruling in favour of the Manitoba Métis Nation, the court observed that their “submissions went beyond the argument that the honour of the Crown gave rise to a fiduciary duty, raising the broader issue of whether the government’s conduct generally comported with the honour of the Crown” (para. 87).
 The court found that although Section 31 promised that land grants to Métis peoples would be implemented “in the most effectual and equitable manner,” this did not happen.
 “Instead, the implementation was ineffectual and inequitable.
 This was not a matter of occasional negligence, but of repeated mistakes and inaction that persisted for more than a decade.
-A government sincerely intent on fulfilling the duty that its honour demanded could and should have done better” (para.
-128).
+A government sincerely intent on fulfilling the duty that its honour demanded could and should have done better” (para. 128).
 For Treaty peoples or First Nations, the unilateral imposition of the _Indian Act_, including the residential school system, represents a fundamental breach of the Crown’s Treaty obligations and fiduciary duty to deal with them honourably in both principle and practice.
 
 The Crown’s position as a fiduciary with regard to Aboriginal peoples is clearly a complicated and potentially conflicting area of legal obligation.
@@ -5222,9 +5213,11 @@ This is the same case for the Bureau of Indian Affairs in the United States, whi
 As a trustee, the Bureau of Indian Affairs has a similar obligation to act in the best interests of Native Americans, and to ensure that other government departments do not act in a manner that contravenes tribal rights and interests or the government’s lawful obligations.
 In the United States, the Solicitor’s Opinions issued from time to time by the Department of the Interior, which has authority over the Bureau of Indian Affairs, are used to give direction to government generally as well as to explain and justify government action.
 In Canada, it must be recognized that the federal Department of Justice has two important, and potentially conflicting, roles when it comes to Aboriginal peoples:
+
 1. The Department of Justice Canada provides legal opinions to the Department of Aboriginal Affairs and Northern Development Canada (aandc) to guide the department in its policy development, legislative initiatives, and actions.
 Those opinions, and the actions based on them, invariably affect Aboriginal governments and the lives of Aboriginal people significantly.
 Often, those opinions are about the scope and extent of Aboriginal and Treaty rights, and often they form the basis upon which federal Aboriginal policy is developed and enacted.
+
 2. Justice Canada also acts as the legal advocate for aandc and the government in legal disputes between the government and Aboriginal people.
 In that capacity, it takes instruction from senior officials within the Department of Aboriginal Affairs when the department is implicated in legal actions concerning its responsibilities.
 It gives advice about the conduct of litigation, the legal position to be advanced, the implementation of legal strategy, and the decision whether to appeal a particular court ruling.
@@ -5235,10 +5228,11 @@ In the Commission’s view, those legal opinions should be available, as of righ
 Canadian governments and their law departments have a responsibility to discontinue acting as though they are in an adversarial relationship with Aboriginal peoples and to start acting as true fiduciaries.
 Canada’s Department of Justice must be more transparent and accountable to Aboriginal peoples; this includes sharing their legal opinions on Aboriginal rights.
 As noted above, there is precedent for making this change.
-Not only has the United States Department of
+Not only has the United States Department of<!--x-->
 the Interior’s Office of the Solicitor made public its legal opinions on a range of issues affecting Native Americans, but also these are now widely available online.[^63]
 
 #### Call to Action
+
 51. We call upon the Government of Canada, as an obligation of its fiduciary responsibility, to develop a policy of transparency by publishing legal opinions it develops and upon which it acts or intends to act, in regard to the scope and extent of Aboriginal and Treaty rights.
 
 One of the aspects of the Doctrine of Discovery that continues to assert itself to this day is the fact that court cases involving Aboriginal territorial claims have placed a heavy onus on Aboriginal claimants to prove that they were in occupation of land since first contact and that the rights claimed over the territory continued from then to the present.
@@ -5252,11 +5246,12 @@ It is our view that once occupation has been proven, then the onus should shift 
 Therefore, we conclude that Aboriginal claims of title and rights should be accepted on assertion, with the burden of proof placed on those who object to such claims.
 
 #### Call to Action
+
 52. We call upon the Government of Canada, provincial and territorial governments, and the courts to adopt the following legal principles:
 
-i.	 Aboriginal title claims are accepted once the Aboriginal claimant has established occupation over a particular territory at a particular point in time.
+    1. Aboriginal title claims are accepted once the Aboriginal claimant has established occupation over a particular territory at a particular point in time.
 
-ii.	 Once Aboriginal title has been established, the burden of proving any limitation on any rights arising from the existence of that title shifts to the party asserting such a limitation.
+    2. Once Aboriginal title has been established, the burden of proving any limitation on any rights arising from the existence of that title shifts to the party asserting such a limitation.
 The report of the Royal Commission on Aboriginal Peoples emphasized that the restoration of civic trust is essential to reconciliation.
 It concluded that “the purpose of engaging in a transaction of acknowledgement and forgiveness is not to bind Aboriginal and non-Aboriginal people in a repeating drama of blame and guilt, but jointly to acknowledge the past so that both sides are freed to embrace a shared future with a measure of trust.”
 The report added that “the restoration of trust is essential to the great enterprise of forging peaceful relations.”[^65]
@@ -5269,12 +5264,12 @@ That faith was betrayed, however, by the imposition of the _Indian Act_, the dev
 Survivors have indicated that despite the Settlement Agreement and Canada’s apology, trust has not yet been restored.
 The Truth and Reconciliation Commission’s Indian Residential Schools Survivor Committee member Eugene Arcand said,
 
-I was there at the apology.
+> I was there at the apology.
 I thought I was on my way to reconciliation when I heard the prime minister’s words, in a way, when his voice trembled…
 It would be remiss of me to the Survivors of Saskatchewan and Survivors across this country to not talk about what’s happened since the apology.
 It’s been difficult to talk on one side of my mouth about reconciliation and truth, and on the other side of my heart I have very intense feelings about the actions of the federal government, Prime Minister Harper who gave that apology, and the Ministry of Indian Affairs in the administration of this agreement and other acts of government that have been an assault on our people…
 
-[W]e as First Nations, Métis, and Inuit people, especially residential school Survivors, want to reconcile.
+> [W]e as First Nations, Métis, and Inuit people, especially residential school Survivors, want to reconcile.
 We really, really want to.
 But it’s difficult when we see and feel and read what’s coming out of the House, provincially, federally, in regards to our wellbeing.
 First, with the cuts to the Aboriginal Healing Foundation and other cuts that have happened in regards to education, in regards to our livelihood.[^66]
@@ -5286,22 +5281,22 @@ In their evaluation of where things stood in the years immediately following the
 Closing this gap is vital to reconciliation.
 
 Speaking to the Senate on June 11, 2009, the first anniversary of Canada’s apology, Assembly of First Nations National Chief Phil Fontaine, who is also a Survivor, said,
-In a post-apology era, the honour of the Crown must be a defining feature in the new relationship where legal obligations are vigilantly observed, where First Nations are diligently consulted and accommodated on all matters affecting our lives, and our right to free, prior and informed consent is respected…
+> In a post-apology era, the honour of the Crown must be a defining feature in the new relationship where legal obligations are vigilantly observed, where First Nations are diligently consulted and accommodated on all matters affecting our lives, and our right to free, prior and informed consent is respected…
 Let it be clear that First Nations care deeply about our human rights—the human rights of the women in our communities, our children, our families and our communities.
 
-The principles of reconciliation, such as mutual respect, coexistence, fairness, meaningful dialogue, and mutual recognition, are not empty words.
+> The principles of reconciliation, such as mutual respect, coexistence, fairness, meaningful dialogue, and mutual recognition, are not empty words.
 These principles are about action; that is, they give shape and expression to the material, political and legal elements of reconciliation.
 It has been an eventful year in Canadian and global politics, society and the economy since last June.
 First Nations have been affected by the decisions of the Government of Canada during this time…
 Given the level of poverty among First Nations, our economies and communities are at an alarmingly high risk of sinking further into the bleakness and despair of poverty.
 We, as a society, must not let this happen…
 
-If this partnership between all founding peoples of the federation is to be meaningful, mutual responsibility and accountability must also define the relationship…
+> If this partnership between all founding peoples of the federation is to be meaningful, mutual responsibility and accountability must also define the relationship…
 Reconciliation then, implies a solemn duty to act, a responsibility to engage, and an obligation to fulfill the promises inherent in an advanced democratic and ethical citizenship.
 That is, the Government of Canada—in fact, all, all members of Parliament in both houses—has a responsibility …
 to bridge the past to a future in which the gap in the quality of life and well-being between Aboriginal and nonAboriginal people vanishes, where First Nations poverty is eradicated, where our children have the same opportunities and life chances as other children, and the promises of our treaties are fulfilled.
 
-Reconciliation must mean real change for all of our people in all the places we choose to live, change that addresses the wrongs in a way that brings all of us closer together.
+> Reconciliation must mean real change for all of our people in all the places we choose to live, change that addresses the wrongs in a way that brings all of us closer together.
 Human rights, hope, opportunity and human flourishing are not the privilege of one group or one segment of Canadian society; they belong to all of us.
 Achieving an apology is not an end point.[^68]
 
@@ -5311,50 +5306,55 @@ Whether Survivors’ hopes on the day of Canada’s apology will ultimately be r
 Therefore, we believe that all levels of government must make a new commitment to reconciliation and accountability.
 The federal government, First Nations, Inuit, and Métis peoples, and all Canadians will benefit from the establishment of an oversight body that will have a number of objectives, including assisting discussions on reconciliation and making regular reports that evaluate progress on commitments to reconciliation.
 Progress on reconciliation at all other levels of government and civil society organizations also needs vigilant attention and measurement to determine improvements.
-In terms of public
+In terms of public<!--x-->
 education, it will be important to ensure all Canadians have the educational resources and practical tools required to advance reconciliation.
 
 #### Calls to Action
+
 53. We call upon the Parliament of Canada, in consultation and collaboration with Aboriginal peoples, to enact legislation to establish a National Council for Reconciliation.
 The legislation would establish the council as an independent, national, oversight body with membership jointly appointed by the Government of Canada and national Aboriginal organizations, and consisting of Aboriginal and non-Aboriginal members.
 Its mandate would include, but not be limited to, the following:
 
-i.	 Monitor, evaluate, and report annually to Parliament and the people of Canada on the Government of Canada’s post-apology progress on reconciliation to ensure that government accountability for reconciling the relationship between Aboriginal peoples and the Crown is maintained in the coming years.
+    1. Monitor, evaluate, and report annually to Parliament and the people of Canada on the Government of Canada’s post-apology progress on reconciliation to ensure that government accountability for reconciling the relationship between Aboriginal peoples and the Crown is maintained in the coming years.
 
-ii.	 Monitor, evaluate, and report to Parliament and the people of Canada on reconciliation progress across all levels and sectors of Canadian society, including the implementation of the Truth and Reconciliation Commission of Canada’s #### Calls to Action.
+    2. Monitor, evaluate, and report to Parliament and the people of Canada on reconciliation progress across all levels and sectors of Canadian society, including the implementation of the Truth and Reconciliation Commission of Canada’s #### Calls to Action.
 
-iii.	 Develop and implement a multi-year National Action Plan for Reconciliation, which includes research and policy development, public education programs, and resources.
+    3. Develop and implement a multi-year National Action Plan for Reconciliation, which includes research and policy development, public education programs, and resources.
 
-iv.	 Promote public dialogue, public/private partnerships, and public initiatives for reconciliation.
+    4. Promote public dialogue, public/private partnerships, and public initiatives for reconciliation.
+
 54. We call upon the Government of Canada to provide multi-year funding for the National Council for Reconciliation to ensure that it has the financial, human, and technical resources required to conduct its work, including the endowment of a National Reconciliation Trust to advance the cause of reconciliation.
+
 55. We call upon all levels of government to provide annual reports or any current data requested by the National Council for Reconciliation so that it can report on the progress towards reconciliation.
 The reports or data would include, but not be limited to:
 
-i.	 The number of Aboriginal children—including Métis and Inuit children—in care, compared with non-Aboriginal children, the reasons for apprehension, and the total spending on preventive and care services by child-welfare agencies.
+    1. The number of Aboriginal children—including Métis and Inuit children—in care, compared with non-Aboriginal children, the reasons for apprehension, and the total spending on preventive and care services by child-welfare agencies.
 
-ii.	 Comparative funding for the education of First Nations children on and off reserves.
-iii.	 The educational and income attainments of Aboriginal peoples in Canada compared with non-Aboriginal people.
+    2. Comparative funding for the education of First Nations children on and off reserves.
+    3. The educational and income attainments of Aboriginal peoples in Canada compared with non-Aboriginal people.
 
-iv.	 Progress on closing the gaps between Aboriginal and non-Aboriginal communities in a number of health indicators such as: infant mortality, maternal health, suicide, mental health, addictions, life expectancy, birth rates, infant and child health issues, chronic diseases, illness and injury incidence, and the availability of appropriate health services.
+    4. Progress on closing the gaps between Aboriginal and non-Aboriginal communities in a number of health indicators such as: infant mortality, maternal health, suicide, mental health, addictions, life expectancy, birth rates, infant and child health issues, chronic diseases, illness and injury incidence, and the availability of appropriate health services.
 
-v.	 Progress on eliminating the overrepresentation of Aboriginal children in youth custody over the next decade.
+    5. Progress on eliminating the overrepresentation of Aboriginal children in youth custody over the next decade.
 
-vi.	 Progress on reducing the rate of criminal victimization of Aboriginal people, including data related to homicide and family violence victimization and other crimes.
+    6. Progress on reducing the rate of criminal victimization of Aboriginal people, including data related to homicide and family violence victimization and other crimes.
 
-vii.	 Progress on reducing the overrepresentation of Aboriginal people in the justice and correctional systems.
+    7. Progress on reducing the overrepresentation of Aboriginal people in the justice and correctional systems.
+
 56. We call upon the prime minister of Canada to formally respond to the report of the National Council for Reconciliation by issuing an annual “State of Aboriginal Peoples” report, which would outline the government’s plans for advancing the cause of reconciliation.
 
 These new frameworks and commitments will not succeed without more understanding and sensitivity among those who will administer them.
 
 #### Call to Action:
+
 57. We call upon federal, provincial, territorial, and municipal governments to provide education to public servants on the history of Aboriginal peoples, including the history and legacy of residential schools, the _United Nations Declaration on the Rights of Indigenous Peoples_, Treaties and Aboriginal rights, Indigenous law, and Aboriginal– Crown relations.
 This will require skills-based training in intercultural competency, conflict resolution, human rights, and anti-racism.
 
-Church apologies
+### Church apologies
 
 There is an old and well-accepted adage that states, “It takes a village to raise a child.”
 The removal of Aboriginal children from their villages was seen as a necessary step in the achievement of assimilation.
-However, not only did the Government of Canada take the children from their homes, but it also then proceeded to destroy the cultural and
+However, not only did the Government of Canada take the children from their homes, but it also then proceeded to destroy the cultural and<!--x-->
 functional integrity of the communities from which the children came and to which they would return.
 
 Christian teachings were a fundamental aspect of residential schools.
@@ -5368,9 +5368,7 @@ Spiritual violence occurs when
 
   * a person is not permitted to follow her or his preferred spiritual or religious tradition;
   * a different spiritual or religious path or practice is forced on a person;
-  * a person’s spiritual or religious tradition, beliefs, or practices are demeaned or belit-
-
-tled; or
+  * a person’s spiritual or religious tradition, beliefs, or practices are demeaned or belittled; or
   * a person is made to feel shame for practising his or her traditional or family beliefs.
 
 There is plenty of evidence to support our conclusion that spiritual violence was common in residential schools.
@@ -5402,17 +5400,17 @@ Therefore, it has been disappointing to Survivors and others that the Pope has n
 On April 29, 2009, National Chief of the Assembly of First Nations Phil Fontaine, four other Aboriginal leaders, and five leaders from the Roman Catholic community in Canada travelled to Rome for a private audience with Pope Benedict XVI.
 No recording of the private meeting was permitted, but the Vatican issued a communiqué describing what the Pope had said.
 
-Given the sufferings that some indigenous children experienced in the Canadian Residential School system, the Holy Father expressed his sorrow at the anguish caused by the deplorable conduct of some members of the Church and he offered his sympathy and prayerful solidarity.
+> Given the sufferings that some indigenous children experienced in the Canadian Residential School system, the Holy Father expressed his sorrow at the anguish caused by the deplorable conduct of some members of the Church and he offered his sympathy and prayerful solidarity.
 His Holiness emphasized that acts of abuse cannot be tolerated in society.
 He prayed that all those affected would experience healing, and he encouraged First Nations people to continue to move forward with renewed hope.[^71]
 
 The media reported that National Chief Fontaine and other Aboriginal leaders who had met with the Pope said that the statement was significant for all Survivors.
-Fontaine told CBC News that although it was not an official apology, he hoped that the Pope’s statement of regret would bring closure to the issue for residential school survivors.
+Fontaine told _CBC News_ that although it was not an official apology, he hoped that the Pope’s statement of regret would bring closure to the issue for residential school survivors.
 “The fact that the word ‘apology’ was not used does not diminish this moment in any way,” he said.
 “This experience gives me great comfort.”[^72]
 
 The Pope’s statement of regret was significant to those who were present, and was reported widely in the media, but it is unclear what, if any, impact it had on Survivors, and their families and communities, who were not able to hear the Pope’s words themselves.
-Many Survivors raised the lack of a clear Catholic apology from the Vatican as evidence that the Catholic Church still has not come to terms with its own wrongdoing in residential
+Many Survivors raised the lack of a clear Catholic apology from the Vatican as evidence that the Catholic Church still has not come to terms with its own wrongdoing in residential<!--x-->
 schools, and has permitted many Catholic nuns and priests to maintain that the allegations against their colleagues are false.
 A statement of regret that children were harmed in the schools is a far cry from a full and proper apology that takes responsibility for the harms that occurred.
 
@@ -6079,7 +6077,7 @@ control of their ceremonial objects; and the right to the repatriation of their 
   * States shall seek to enable the access and/or repatriation of ceremonial objects and human remains in their possession through fair, transparent and effective mechanisms developed in conjunction with indigenous peoples concerned.
 [Article 12:2]
 
-The Declaration, in conjunction with Section 35 of Canada’s Constitution Act, 1982, which recognizes and affirms existing Aboriginal and Treaty rights, and various court rulings related to Aboriginal rights have fundamentally altered the landscape in Canada’s public history institutions.
+The Declaration, in conjunction with Section 35 of Canada’s _Constitution Act, 1982_, which recognizes and affirms existing Aboriginal and Treaty rights, and various court rulings related to Aboriginal rights have fundamentally altered the landscape in Canada’s public history institutions.
 In light of court decisions that have declared that the principle of the honour of the Crown must be upheld by the state in all its dealings with Aboriginal peoples and that Aboriginal peoples’ oral history must be “placed on an equal footing” with written historical documents, national museums and archives have been compelled to respond accordingly.[^133]
 The governance structures, policies, ethical codes, and daily operations of national museums and archives have had to adapt to accommodate the constitutional and legal realities of Canada’s changing relationship with Aboriginal peoples.[^134]
 
@@ -8054,9 +8052,9 @@ The project coordinator was Hadley Friedland, PhD candidate, Vanier Scholar, Uni
 58.	 Wab Kinew, “It’s the Same Great Spirit,” Winnipeg Free Press, October 22, 2012.
 59.	 TRC, AVS, Shawn A-in-chut Atleo, Statement to the Truth and Reconciliation Commission of Canada, Saskatoon, Saskatchewan, 22 June 2012, Statement Number: SNE202.
 60.	 Canada, Royal Commission on Aboriginal Peoples, Report, 1:38.
-61.	 R.
+61.	 _R.
 v.
-Sparrow, 1990 CanLII 104 (SCC).
+Sparrow_, 1990 CanLII 104 (SCC).
 See also: Guerin v.
 R., 1984 CanLII 25 (SCC); Delgamuukw v.
 BC, 1997 CanLII 302 (SCC); Haida Nation v.
@@ -8216,10 +8214,10 @@ Reconciliation Commission of Canada, Edmonton, Alberta, 27 March 2014, Statement
 See: Reasons for Decision, Delgamuukw v.
 British Columbia, 1997 CanLII 302 (SCC), para.
 87.
-On the honour of the Crown, see, for example: R.
+On the honour of the Crown, see, for example: _R.
 v.
-Sparrow, 1990 CanLII 104 (SCC); Haida Nation v.
-British Columbia Minister of Forests, 2004 CanLII 73 (SCC); Delgamuukw v.
+Sparrow_, 1990 CanLII 104 (SCC); _Haida Nation v.
+British Columbia (Minister of Forests)_, 2004 CanLII 73 (SCC); Delgamuukw v.
 British Columbia, 1997 CanLII 302 (SCC).
 134.	 Legal scholar Bradford W.
 Morse makes this point.
