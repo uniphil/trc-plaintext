@@ -83,6 +83,13 @@ def cite(page):
     cited, _ = re.subn(citation, cite, page)
     return cited
 
+def callToAction(page):
+    called = page.replace('\nCall to Action\n',
+        '\n#### Call to Action\n')
+    called = page.replace('\nCalls to Action\n',
+        '\n#### Calls to Action\n')
+    return called
+
 def encode(page):
     return page.encode('utf-8')
 
@@ -95,6 +102,7 @@ compose = lambda *fns:\
 ''' The magic '''
 autofix = compose(
     encode,
+    callToAction,
     cite,
     ol,
     bullet,
