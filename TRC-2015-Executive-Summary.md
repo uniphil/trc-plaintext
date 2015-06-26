@@ -5466,7 +5466,7 @@ They also had conversations with church representatives in the Churches Listenin
 When the late Alvin Dixon, Chair of the United Church of Canada’s Indian Residential School Survivors Committee, spoke to the Commission at the Northern National Event in Inuvik in 2011, he expressed what many other Survivors may have thought about all of the churches’ apologies.
 He said,
 
-The apologies don’t come readily.
+> The apologies don’t come readily.
 They don’t come easily.
 And when we heard the apology in 1986, those of us First Nations members of the United Church didn’t accept the apology but we agreed to receive it and watch and wait and work with the United Church to put some flesh, to put some substance to that apology.
 And we all believed that apologies should be words of action, words of sincerity that should mean something…
@@ -5707,14 +5707,14 @@ Each of the defendant churches agreed to provide and manage funds specifically d
 All the churches established committees, including Aboriginal representatives, to review and<!--x-->
 approve projects.
 In broad terms, the reconciliation projects funded by the Settlement Agreement churches have had three primary purposes:
+
 1. Healing.
 The Toronto Urban Native Ministry, funded by Anglican, United, and Roman Catholic churches, “reaches out to Aboriginal people on the street, in hospitals, in jails, shelters and hostels.”[^97]
 The ministry works with all Aboriginal people who are socially marginalized and impoverished, including Survivors and intergenerational family members who have been impacted by residential schools.
-Anamiewigumming Kenora Fellowship Centre, with funds from the Presbyterian Church in Canada, developed “A Step Up .
-.
-.
+Anamiewigumming Kenora Fellowship Centre, with funds from the Presbyterian Church in Canada, developed “A Step Up …
 tools for the soul,” in partnership with local Aboriginal organizations.
 Under the program, a series of ten teaching events led by Aboriginal Elders, teachers, and professionals were held to support Survivors and family members on their healing journey, featuring education about culture and tradition, with the goal of fostering reconciliation.[^98]
+
 2. Language and culture revitalization.
 The Language Immersion Canoe Course in Tofino, British Columbia, funded by the United Church, focused on reconnecting Aboriginal youth to their homelands and cultures.
 For one month, young Aboriginal people from Vancouver Island, including the community of Ahousaht, where the United Church operated a school, were taken to a remote and ancient Hesquiaht village site to learn the Hesquiah language through the art of canoe making.[^99]
@@ -5722,6 +5722,7 @@ For one month, young Aboriginal people from Vancouver Island, including the comm
 The Four Season Cultural Camps of the Serpent River First Nation in Ontario, funded by the Anglican Church, used traditional practices of harvesting, food storage, storytelling, and related ceremonies to promote language and culture.[^100]
 The Anglicans also supported a wilderness retreat for young people at the Nibinamik First Nation at Summer Beaver, Ontario.
 It taught traditional life ways, while instilling a sense of self-confidence in the youth as they successfully completed the activities in the camp.[^101]
+
 3. Education and relationship building.
 The Anglican and Roman Catholic churches still have relatively large numbers of Aboriginal members, so many of their initiatives focused on bringing their own Aboriginal and non-Aboriginal members together.
 The Anglican Church has worked to help build understanding and counter stereotypes among its members through anti-racism training.
@@ -5744,7 +5745,7 @@ Much has been accomplished through the healing and reconciliation projects of th
 
     4. Regional dialogues for Indigenous spiritual leaders and youth to discuss Indigenous spirituality, self-determination, and reconciliation.
 
-Education for reconciliation
+### Education for reconciliation
 
 Much of the current state of troubled relations between Aboriginal and non-Aboriginal Canadians is attributable to educational institutions and what they have taught, or failed to teach, over many generations.
 Despite that history, or, perhaps more correctly, because of its potential, the Commission believes that education is also the key to reconciliation.
@@ -5752,25 +5753,25 @@ Educating Canadians for reconciliation involves not only schools and post-second
 Education must remedy the gaps in historical knowledge that perpetuate ignorance and racism.
 
 But education for reconciliation must do even more.
-Survivors told us that Canadians must learn about the history and legacy of residential schools in ways that change both minds and hearts.
+Survivors told us that Canadians must learn about the history and legacy of residential schools in ways that change both minds _and_ hearts.
 At the Manitoba National Event in Winnipeg, Allan Sutherland said,
 
-There are still a lot of emotions [that are] unresolved.
+> There are still a lot of emotions [that are] unresolved.
 People need to tell their stories…
-We need the ability to move forward together but you have to understand
+We need the ability to move forward together but you have to understand<!--x-->
 how it all began [starting with] Christopher Columbus, from Christianization, then colonization, and then assimilation…
 If we put our minds and hearts to it, we can [change] the status quo.[^104]
 
 At the Commission’s Community Hearing in Thunder Bay, Ontario, in 2010, Esther Lachinette-Diabo said,
 
-I’m doing this interview in hope that we could use this as an educational tool to educate our youth about what happened…
+> I’m doing this interview in hope that we could use this as an educational tool to educate our youth about what happened…
 Maybe one day the Ministry of Education can work with the TRC and develop some kind of curriculum for Native Studies, Indigenous learning.
 So that not only Aboriginal people can understand, you know, what we had to go through—the experiences of all the Anishinaabe people that attended—but for the Canadian people as well to understand that the residential schools did happen.
 And through this sharing, they can understand and hear stories from Survivors like me.[^105]
 
 In Lethbridge, Alberta, in 2013, Charlotte Marten said,
 
-I would like to see action taken as a result of the findings of this Commission.
+> I would like to see action taken as a result of the findings of this Commission.
 I would like to see the history of the residential school system be part of the school curriculum across Canada.
 I want my grandchildren and the future generations of our society to know the whole truth behind Canada’s residential school policy and how it destroyed generations of our people.
 It is my hope that by sharing the truth that it will help the public gain a better understanding of the struggles we face as First Nations.[^106]
@@ -5785,7 +5786,7 @@ Nation building has been the main theme of Canada’s history curricula for a lo
 
 Prior to 1970, school textbooks across the country depicted Aboriginal peoples as being either savage warriors or onlookers who were irrelevant to the more important history of Canada: the story of European settlement.
 Beginning in the 1980s, the history of Aboriginal people was sometimes cast in a more positive light, but the poverty and social dysfunction in Aboriginal communities were emphasized without any historical context to help students understand how or why these happened.
-This has left most Canadians with the view that Aboriginal people were and are to blame for the situations in which they find
+This has left most Canadians with the view that Aboriginal people were and are to blame for the situations in which they find<!--x-->
 themselves, as though there were no external causes.
 Aboriginal peoples have therefore been characterized as a social and economic problem that must be solved.
 
@@ -5813,14 +5814,14 @@ Our public education system also needs to influence behaviour by undertaking to 
 Reconciliation is all about respect.
 
 The Commission’s 2012 _Interim Report_ made three recommendations directed at provincial and territorial governments:
-Recommendation 4: The Commission recommends that each provincial and territorial government undertake a review of the curriculum materials currently in use in public schools to assess what, if anything, they teach about residential schools.
+> Recommendation 4: The Commission recommends that each provincial and territorial government undertake a review of the curriculum materials currently in use in public schools to assess what, if anything, they teach about residential schools.
 
-Recommendation 5: The Commission recommends that provincial and territorial departments of education work in concert with the Commission to develop ageappropriate educational materials about residential schools for use in public schools.
+> Recommendation 5: The Commission recommends that provincial and territorial departments of education work in concert with the Commission to develop ageappropriate educational materials about residential schools for use in public schools.
 
-Recommendation 6: The Commission recommends that each provincial and territorial government work with the Commission to develop public education campaigns to inform the general public about the history and impact of residential schools in their respective jurisdictions.
+> Recommendation 6: The Commission recommends that each provincial and territorial government work with the Commission to develop public education campaigns to inform the general public about the history and impact of residential schools in their respective jurisdictions.
 
 At various times, the Commission met with provincial and territorial education ministers from across Canada.
-In July 2014, the Council of Ministers of Education, Canada (cmec) gave us an update on the status of curriculum-development commitments across the country.[^108]
+In July 2014, the Council of Ministers of Education, Canada (CMEC) gave us an update on the status of curriculum-development commitments across the country.[^108]
 The Commission was encouraged to see that progress has been made.
 We note, however, that not all provinces and territories have yet made curriculum about residential schools mandatory, and not all courses cover the subject in depth.
 
@@ -5831,24 +5832,22 @@ Among the provinces, Alberta publicly declared that it was launching its own ini
 These education initiatives are significant, but it will be essential to ensure that momentum is not lost in the years following the end of the Commission’s mandate.
 To be successful over the long term, this and similar initiatives will require substantive and sustained support from provincial and territorial governments, educators, and local school districts.
 An ongoing commitment from ministers of education throughout the country is critical.
-The Commission notes that on July 9, 2014, the cmec announced that education ministers
+The Commission notes that on July 9, 2014, the CMEC announced that education ministers
 
-agreed to additional pan-Canadian work in Aboriginal education to take place over the next two years, which will focus on four key directional ideas: support for Aboriginal students interested in pursuing teaching as a career; development of learning resources on Canadian history and the legacy of Indian Residential Schools that could be used by teacher training programs; sharing of promising practices in Aboriginal education; and ongoing promotion of learning about Indian Residential Schools in K–12 education systems.[^109]
+> agreed to additional pan-Canadian work in Aboriginal education to take place over the next two years, which will focus on four key directional ideas: support for Aboriginal students interested in pursuing teaching as a career; development of learning resources on Canadian history and the legacy of Indian Residential Schools that could be used by teacher training programs; sharing of promising practices in Aboriginal education; and ongoing promotion of learning about Indian Residential Schools in K–12 education systems.[^109]
 
-In regions where curriculum and teacher training on residential schools have been introduced, it will be necessary to build on these early successes and evaluate progress
+In regions where curriculum and teacher training on residential schools have been introduced, it will be necessary to build on these early successes and evaluate progress<!--x-->
 on an ongoing basis.
 Where education about residential schools is minimal, provincial and territorial governments can benefit from the lessons learned in jurisdictions that have made this material a mandatory requirement.
 
 The Commission notes that throughout the residential school era, Catholic and Protestant religious schools taught students only about their own religions.
 Students were ill prepared to understand or respect other religious or spiritual perspectives, including those of Aboriginal peoples.
 In our view, no religious school receiving public funding should be allowed to teach one religion to the complete exclusion of all other religions.
-This is consistent with the Supreme Court of Canada decision in S.L.
-v.
-Commission scolaire des Chênes in 2012.
+This is consistent with the Supreme Court of Canada decision in _S.L. v. Commission scolaire des Chênes_ in 2012.
 At issue was whether Québec’s mandatory Ethics and Religious Cultures Program, which was introduced in 2008 to replace Catholic and Protestant programs of religious and moral instruction with a comparative religions course taught from a neutral and objective perspective, violated charter rights of Catholic parents and children to be taught only Catholic religious beliefs.[^110]
 However, the court ruled:
 
-Exposing children to a comprehensive presentation of various religions without forcing the children to join them does not constitute an indoctrination of students that would infringe the freedom of religion…
+> Exposing children to a comprehensive presentation of various religions without forcing the children to join them does not constitute an indoctrination of students that would infringe the freedom of religion…
 Furthermore, the early exposure of children to realities that differ from those in their immediate family environment is a fact of life in society.
 The suggestion that exposing children to a variety of religious facts in itself infringes on religious freedom or that of their parents amounts to a rejection of the multicultural reality of Canadian society and ignores the Quebec government’s obligations with regard to public education.[^111]
 
@@ -5864,7 +5863,8 @@ Any religious school receiving public funding must be required to teach at least
     2. Provide the necessary funding to post-secondary institutions to educate teachers on how to integrate Indigenous knowledge and teaching methods into classrooms.
 
     3. Provide the necessary funding to Aboriginal schools to utilize Indigenous knowledge and teaching methods in classrooms.
-iv.	 Establish senior-level positions in government at the assistant deputy minister level or higher dedicated to Aboriginal content in education.
+    4. Establish senior-level positions in government at the assistant deputy minister level or higher dedicated to Aboriginal content in education.
+
 63. We call upon the Council of Ministers of Education, Canada to maintain an annual commitment to Aboriginal education issues, including:
 
     1. Developing and implementing Kindergarten to Grade Twelve curriculum and learning resources on Aboriginal peoples in Canadian history, and the history and legacy of residential schools.
@@ -5874,20 +5874,19 @@ iv.	 Establish senior-level positions in government at the assistant deputy mini
     3. Building student capacity for intercultural understanding, empathy, and mutual respect.
 
     4. Identifying teacher-training needs relating to the above.
+
 64. We call upon all levels of government that provide public funds to denominational schools to require such schools to provide an education on comparative religious studies, which must include a segment on Aboriginal spiritual beliefs and practices developed in collaboration with Aboriginal Elders.
 
-Transforming the education system: Creating respectful learning environments
+### Transforming the education system: Creating respectful learning environments
 
 The Commission believes that to be an effective force for reconciliation, curriculum about residential schools must be part of a broader history education that integrates First Nations, Inuit, and Métis voices, perspectives, and experiences; and builds common ground between Aboriginal and non-Aboriginal peoples.
 The education system itself must be transformed into one that rejects the racism embedded in colonial systems of education and treats Aboriginal and Euro-Canadian knowledge systems with equal respect.[^112]
 
 This is consistent with the _United Nations Declaration on the Rights of Indigenous Peoples_, which articulates the state’s responsibility with regard to public education and the promotion of respectful relationships between citizens, as follows:
 
-Indigenous peoples have the right to the dignity and diversity of their cultures, traditions, histories and aspirations which shall be appropriately reflected in education and public information.
-[Article 15:1]
+> Indigenous peoples have the right to the dignity and diversity of their cultures, traditions, histories and aspirations which shall be appropriately reflected in education and public information.[Article 15:1]
 
-States shall take effective measures, in consultation and cooperation with the indigenous peoples concerned, to combat prejudice and eliminate discrimination and to promote tolerance, understanding and good relations among indigenous peoples and all other segments of society.
-[Article 15:2]
+> States shall take effective measures, in consultation and cooperation with the indigenous peoples concerned, to combat prejudice and eliminate discrimination and to promote tolerance, understanding and good relations among indigenous peoples and all other segments of society.[Article 15:2]
 Fully implementing this national education framework will take many years, but will ensure that Aboriginal children and youth see themselves and their cultures, languages, and histories respectfully reflected in the classroom.
 Non-Aboriginal learners will benefit, as well.
 Taught in this way, all students, both Aboriginal and non-Aboriginal, gain historical knowledge while also developing respect and empathy for each other.
@@ -5904,11 +5903,11 @@ Educating the heart as well as the mind helps young people to become critical th
 At the Alberta National Event, a youth delegation from Feathers of Hope, a project sponsored by Ontario’s Provincial Advocate for Children and Youth, offered an expression of reconciliation.
 Samantha Crowe said,
 
-Feathers of Hope began as a First Nations youth forum but it quickly [became] a movement of hope, healing, and positive change within northern Ontario’s First Nations communities.
+> Feathers of Hope began as a First Nations youth forum but it quickly [became] a movement of hope, healing, and positive change within northern Ontario’s First Nations communities.
 You spoke passionately about wanting to learn about the past, and said that First Nations and non-First Nations people alike need to understand our history, and the impacts it still has on everything around us…
 First Nations and non-First Nations people need to understand how colonization, racism, that residential schools still continue to negatively impact the quality of life in our communities.
 
-Everyone, especially the young people …
+> Everyone, especially the young people …
 need to learn of Canada’s history, of our past, to truly try and understand our present.
 This needs to be taught in school, but it also needs to be heard first-hand from our family, our friends, and our other community members.
 This will begin the journey of healing together as a family or as a community because we can no longer live [with] a silence that hides our pain.
@@ -5916,7 +5915,7 @@ So while youth want to know of their past, they are ready to move forward.
 They understand they need positive change, but they don’t want to do this alone.
 We all need to come together so we can share, so we can grow, and then we can uplift one another, because that’s what reconciliation is about.[^115]
 
-Learning about the residential schools history is crucial to reconciliation, but can be effective only if Canadians also learn from this history in terms of repairing broken trust, strengthening a sense of civic responsibility, and spurring remedial and constructive
+Learning _about_ the residential schools history is crucial to reconciliation, but can be effective only if Canadians also learn _from_ this history in terms of repairing broken trust, strengthening a sense of civic responsibility, and spurring remedial and constructive<!--x-->
 action.[^116]
 In a digital world, where students have ready access to a barrage of information concerning Treaties, Aboriginal rights, or historical wrongs such as residential schools, they must know how to assess the credibility of these sources for themselves.
 As active citizens, they must be able to engage in debates on these issues, armed with real knowledge and deepened understanding about the past.
@@ -5926,7 +5925,7 @@ Students must be able to make ethical judgments about the actions of their ances
 They must be able to make informed decisions about what responsibility today’s society has to address historical injustices.[^117]
 This will ensure that tomorrow’s citizens are both knowledgeable and caring about the injustices of the past, as these relate to their own futures.
 
-Gathering new knowledge: Research on reconciliation
+### Gathering new knowledge: Research on reconciliation
 
 For reconciliation to thrive in the coming years, it will also be necessary for federal, provincial, and territorial governments, universities, and funding agencies to invest in and support new research on reconciliation.
 Over the course of the Commission’s work, a wide range of research projects across the country have examined the meaning, concepts, and practices of reconciliation.
@@ -5940,7 +5939,7 @@ One youth researcher said that “what started as a research job turned into a p
 Others noted the importance of respecting and incorporating ceremony and protocols in their digital storytelling projects.
 Asma Antoine, the project coordinator, reported that the group learned the importance of
 
-knowing that when speaking to a Survivor …
+> knowing that when speaking to a Survivor …
 you have to hear their past before you can hear their understanding of resistance.
 This project allowed the group [to have] a learning process that weaves [together] traditional [Indigenous] and Western knowledge to build our stories of resistance…
 This research project has ignited a fire that shows in each digital story.
@@ -5952,7 +5951,7 @@ Using ceremony and protocols throughout the project, the first workshop began wi
 They later moved on to making videos of their individual stories, which were screened in March 2012 at the University of Winnipeg.[^119]
 One of the participants, Lorena Fontaine, said,
 
-Reconciliation is about stories and our ability to tell stories.
+> Reconciliation is about stories and our ability to tell stories.
 I think the intellectual part of ourselves wants to start looking for words to define reconciliation.
 And then there is the heart knowledge that comes from our life experiences.
 It’s challenging to connect the two and relate it to reconciliation…
@@ -8181,12 +8180,12 @@ For more on the history of the AHF and the circumstances surrounding the closure
 107.	 Education scholar Penney Clark’s study identifies how Aboriginal peoples have been portrayed in Canadian history textbooks and how gaps in the history impact students.
 See: Clark, “Representations of Aboriginal People,” 96–98, 103–111.
 108.	 Council of Ministers of Education, “Developments on Indian Residential Schools by Jurisdiction,” July 2014, email correspondence from Christy Bressette, Coordinator, Aboriginal Education, Council of Ministers of Education, Canada to Truth and Reconciliation Commission of Canada, 18 July 2014, TRC Document Number TRC3353.
-109.	 Council of Ministers of Education, “Education Ministers Signal Transformation Key,” http://cmec.
+109.	 Council of Ministers of Education, “Education Ministers Signal Transformation Key,” http://CMEC.
 ca/278/Press-Releases/Education-Ministers-Signal-Transformation-Key-to-the-Future.html?id_ article=826.
 110.	 Freedom of conscience and religion is protected under Section 2 of the Canadian Charter of Rights and Freedoms, and Section 3 of Québec’s Charter of Human Rights and Freedoms.
-111.	 S.L.
+111.	 _S.L.
 v.
-Commission scolaire des Chênes, 2012 SCC 7 (CanLII), p.
+Commission scolaire des Chênes_, 2012 SCC 7 (CanLII), p.
 237.
 112.	 Educator and scholar Marie Battiste’s work on decolonizing and transforming the education system has informed the Commission’s thinking on this issue.
 See: Battiste, Decolonizing Education, 175–191.

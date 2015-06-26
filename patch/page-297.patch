@@ -1,0 +1,32 @@
+@@ -1663,16 +1663,18 @@
+  said,%0A%0A
++%3E 
+ Feathers
+@@ -1845,16 +1845,16 @@
+ nities.%0A
+-
+ You spok
+@@ -2246,16 +2246,18 @@
+ ities.%0A%0A
++%3E 
+ Everyone
+@@ -2288,16 +2288,16 @@
+ eople %E2%80%A6%0A
+-
+ need to 
+@@ -2969,37 +2969,39 @@
+ %5E115%5D%0A%0ALearning 
++_
+ about
++_
+  the residential
+@@ -3097,20 +3097,22 @@
+ o learn 
++_
+ from
++_
+  this hi
+@@ -3238,9 +3238,17 @@
+ tructive
++%3C!--x--%3E
+ %0A

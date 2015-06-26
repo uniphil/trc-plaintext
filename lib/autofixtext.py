@@ -106,6 +106,12 @@ def callToAction(page):
     calls = called.replace('Calls to Action','#### Calls to Action\n')
     return calls
 
+def patchBugs(page):
+    # possibly due to a bug in the patch library, some changes from `for-humans/` never make it to patches
+    # there are only a few, so they are manually fixed here
+    patched = page.replace(u'The apologies don’t come readily.\n', u'> The apologies don’t come readily.\n')
+    return patched
+
 def encode(page):
     return page.encode('utf-8')
 
@@ -118,6 +124,7 @@ compose = lambda *fns:\
 ''' The magic '''
 autofix = compose(
     encode,
+    patchBugs,
     callToAction,
     cite,
     romans,

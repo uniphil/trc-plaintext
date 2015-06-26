@@ -1,6 +1,7 @@
 *[AJR]: Accessing Justice and Reconciliation
 *[ALI]: Aboriginal Languages Initiative
 *[CEP]: Common Experience Payment
+*[CMEC]: Council of Ministers of Education, Canada
 *[FASD]: Fetal alcohol spectrum disorder
 *[IAP]: Independent Assessment Process
 *[IRSAS]: Indian Residential Schools Adjudication Secretariat
