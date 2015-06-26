@@ -4295,9 +4295,10 @@ It is intended as a transitional phase in an offender’s parole, neither full i
 Unfortunately, there are too few halfway houses that provide programming specifically for Aboriginal offenders.
 
 #### Call to Action
+
 37. We call upon the federal government to provide more supports for Aboriginal programming in halfway houses and parole services.
 
-Overrepresentation of youth
+### Overrepresentation of youth
 
 The youth justice system, perhaps even more than the adult criminal justice system, is failing Aboriginal families.
 Aboriginal girls make up 49% of the youth admitted to custody, and Aboriginal boys are 36% of those admitted to custody.[^155]
@@ -4313,7 +4314,7 @@ The great vulnerability and disadvantage experienced by so many Aboriginal youth
 Many of today’s Aboriginal children and youth live with the legacy of residential schools every day, as they struggle to deal with high rates of addictions, fetal alcohol disorder, mental health issues, family violence, incarceration of parents, and the intrusion of child-welfare authorities.
 All these factors place them at greater risk of involvement with crime.
 
-The growing overrepresentation of Aboriginal youth in custody mirrors and is likely related to the even more dramatic overrepresentation of Aboriginal children in the care
+The growing overrepresentation of Aboriginal youth in custody mirrors and is likely related to the even more dramatic overrepresentation of Aboriginal children in the care<!--x-->
 of child-welfare agencies.
 Research in British Columbia found that 35.5% of youth in care are also involved in the youth justice system, as compared with only 4.4% of youth who are not in care.[^159]
 The Commission believes that there are ways to reduce the growing overrepresentation of Aboriginal youth, but that they will be found primarily outside the justice system.
@@ -4322,9 +4323,10 @@ The federal government should take the lead by committing the resources necessar
 Part of that commitment should include collecting and publishing better data to measure progress.
 
 #### Call to Action
+
 38. We call upon the federal, provincial, territorial, and Aboriginal governments to commit to eliminating the overrepresentation of Aboriginal youth in custody over the next decade.
 
-Victimization of Aboriginal people
+### Victimization of Aboriginal people
 
 An astonishing number of Aboriginal children were victims of crime in residential schools.
 By the end of 2014, the Independent Assessment Process had resolved 30,939 sexual or serious physical abuse claims, awarding $2.[^69]
@@ -4333,7 +4335,7 @@ Although not every case would have involved a criminal act, the vast majority di
 This victimization of children has carried profound and long-lasting effects.
 Ruby Firth, a former student at Stringer Hall, told the Commission,
 
-All through my, residential school …
+> All through my, residential school …
 I was a victim.
 They put me in that frame of mind where I was a victim.
 I was four years old being a victim.
@@ -4349,7 +4351,7 @@ Victim compensation schemes are often lacking and often fail to recognize the di
 
 The statistics are startling.
 Aboriginal people are 58% more likely to be victimized by crime.[^162]
-Aboriginal women report being victimized by violent crime at a rate almost three times higher than non-Aboriginal women—13% of Aboriginal women reported being
+Aboriginal women report being victimized by violent crime at a rate almost three times higher than non-Aboriginal women—13% of Aboriginal women reported being<!--x-->
 victimized by violent crime in 2009.[^163]
 In the same year, one in ten Aboriginal people reported being a victim of a non-spousal violent crime, more than double the rate reported by non-Aboriginal people.
 
@@ -4359,21 +4361,23 @@ Statistics Canada does not provide the kinds of supports necessary to permit som
 The most recent Statistics Canada data on homicide and family violence fail to report how many victims were Aboriginal, although older data suggest the homicide victimization rate of Aboriginal people between 1997 and 2000 was seven times that of non-Aboriginal people.[^165]
 
 #### Call to Action
+
 39. We call upon the federal government to develop a national plan to collect and publish data on the criminal victimization of Aboriginal people, including data related to homicide and family violence victimization.
 
 This data should be used to guide the development and funding of culturally appropriate services for Aboriginal victims of crime and to help make measureable reductions in the overrepresentation of Aboriginal people among crime victims.
 
 #### Call to Action
+
 40. We call upon all levels of government, in collaboration with Aboriginal people, to create adequately funded and accessible Aboriginal-specific victim programs and services with appropriate evaluation mechanisms.
 
-Violence against Aboriginal women and girls
+### Violence against Aboriginal women and girls
 
 The overrepresentation of Aboriginal women and girls among crime victims is particularly disturbing.
 Aboriginal women and girls are more likely than other women to experience risk factors for violence.
 They are disproportionately young, poor, unemployed, and likely to have been involved with the child-welfare system and to live in a community marked by social disorder.[^166]
 
 Velma Jackson, who attended the Blue Quills residential school in Alberta, told the Commission her story.
-A lot of other girls my age were [in Blue Quills], but I only know of one that survived, all the rest are dead today.
+> A lot of other girls my age were [in Blue Quills], but I only know of one that survived, all the rest are dead today.
 Some died on the street.
 Some died prostituting.
 Others into alcoholism got run over by vehicles.
@@ -4390,19 +4394,19 @@ These include: overrepresentation of Aboriginal children in child-welfare care; 
 This complex interplay of factors—many of which are part of the legacy of residential schools—needs to be examined, as does the lack of success of police forces in solving these crimes against Aboriginal women.
 
 #### Call to Action
+
 41. We call upon the federal government, in consultation with Aboriginal organizations, to appoint a public inquiry into the causes of, and remedies for, the disproportionate victimization of Aboriginal women and girls.
 The inquiry’s mandate would include:
 
-i.	 Investigation into missing and murdered Aboriginal women and girls.
+    1. Investigation into missing and murdered Aboriginal women and girls.
+    2. Links to the intergenerational legacy of residential schools.
 
-ii.	 Links to the intergenerational legacy of residential schools.
-
-Strategies for change
+### Strategies for change
 
 Multi-pronged strategies are necessary to respond to the harmful legacy of residential schools, as demonstrated in part by the overrepresentation of Aboriginal people among prisoners and crime victims.
 Compiling better data on Aboriginal overrepresentation in the justice system is a starting point.
 Collection of this data must be coupled with developing measurable goals for reducing this overrepresentation and providing the resources necessary to reach those goals.
-The approach must be an holistic and culturally appropriate
+The approach must be an holistic and culturally appropriate<!--x-->
 one that addresses the need for improvements in health, education, and economic development in Aboriginal communities.
 
 Any strategy aimed at reducing Aboriginal offending and victimization must also include recognition of the rights of Aboriginal communities to develop their own justice systems as part of a larger commitment to Aboriginal self-determination and self-government.
@@ -4411,6 +4415,7 @@ Aboriginal forms of justice may be as diverse as Canada’s Aboriginal peoples t
 It is a central conclusion of the Truth and Reconciliation Commission of Canada that recognition of the Aboriginal right to self-determination, more appropriate funding allocations for services from governments, and methodical tracking of progress are the preconditions for redressing the disastrous legacy of residential schools and aiding the long process of reconciliation within Canada.
 
 #### Call to Action
+
 42. We call upon the federal, provincial, and territorial governments to commit to the recognition and implementation of Aboriginal justice systems in a manner consistent with the Treaty and Aboriginal rights of Aboriginal peoples, the Constitution Act, 1982, and the _United Nations Declaration on the Rights of Indigenous Peoples_, endorsed by Canada in November 2012.
 
 The Commission is convinced that genuine reconciliation will not be possible until the broad legacy of the schools is both understood and addressed.
@@ -4418,207 +4423,6 @@ Governments in Canada spend billions of dollars each year in responding to the s
 Much of this money is spent on crisis interventions related to child welfare, family violence, ill health, and crime.
 Despite genuine reform efforts, the dramatic overrepresentation of Aboriginal children in foster care, and among the sick, the injured, and the imprisoned, continues to grow.
 Only a real commitment to reconciliation will reverse the trend and lay the foundation for a truly just and equitable nation.
-Endnotes
-
-1.	 TRC, AVS, Johanne Coutu-Autut, Statement to the Truth and Reconciliation Commission of Canada, Rankin Inlet, Nunavut, 21 March 2011, Statement Number: 2011- 0160.
-
-2.	 TRC, AVS, Joseph Martin Larocque, Statement to the Truth and Reconciliation Commission of Canada, Saskatoon, Saskatchewan, 21 June 2012, Statement Number: 2011-4386.
-
-3.	 TRC, AVS, Mervin Mirasty, Statement to the Truth and Reconciliation Commission of Canada, Saskatoon, Saskatchewan, 21 June 2012, Statement Number: 2011-4391.
-
-4.	 TRC, AVS, Genine Paul-Dimitracopoulos, Statement to the Truth and Reconciliation Commission of Canada, Halifax, Nova Scotia, 27 October 2011, Statement Number: 2011-2862.
-
-5.	 TRC, AVS, Alma Scott, Statement to the Truth and Reconciliation of Canada, Winnipeg, Manitoba, 17 June 2010, Statement Number: 02-MB-16JU10-016.
-
-6.	 Canada, Truth and Reconciliation Commission of Canada, _Interim Report_, Recommendation 15, 29.
-
-7.	 Canada, Aboriginal Affairs and Northern Development Canada, Canada’s Statement of Support, http://www.aadnc-aandc.gc.ca/eng/1309374239861/1309374546142.
-
-8.	 TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 6-21-1, volume 2 (Ctrl #27-6), H.
-M.
-Jones to Deputy Minister, 13 December 1956.
-[NCA-001989-0001]
-
-9.	 For a discussion that places both child welfare and residential schools in the context of the ongoing colonization of Aboriginal people, see: McKenzie and Hudson, “Native Children.”
-
-10.	 Royal Commission on Aboriginal Peoples, as cited in Sinha and Kozlowski, “Structure of Aboriginal Child Welfare,” 4.
-
-11.	 Canada, Statistics Canada, Aboriginal People in Canada, 19.
-12.	 TRC, AVS, Norma Kassi, Statement to the Truth and Reconciliation Commission of Canada, Inu-
-
-vik, Northwest Territories, 29 June 2011, Statement Number: NNE203.
-13.	 United Nations, Convention on the Rights of the Child, Concluding observations, 12–13.
-14.	 United Nations, Convention on the Rights of the Child, Concluding observations, 7.
-15.	 Vandna et al., Kiskisik Awasisak, x–xi.
-16.	 Vandna et al., Kiskisik Awasisak, xi.
-The authors concluded that there was not enough data on
-
-Métis and Inuit children, and excluded them from the study.
-Vandna et al., Kiskisik Awasisak, ix.
-17.	 Vandna et al., Kiskisik Awasisak, 83–87.
-18.	 Vandna et al., Kiskisik Awasisak, xviii.
-19.	 Vandna et al., Kiskisik Awasisak, xii.
-20.	 Ruiz-Casares et al., “Supervisory Neglect,” 478.
-21.	 TRC, AVS, [Name redacted], Statement to the Truth and Reconciliation Commission of Canada,
-
-Winnipeg, Manitoba, 19 June 2010, Statement Number: 02-MB-19JU10-048.
-22.	 TRC, AVS, Linda Clarke, Statement to the Truth and Reconciliation Commission of Canada, St.
-
-Albert, Alberta, 12 June 2011, Statement Number: 2011-0013.
-23.	 Information about ethnicity was available for 94 of the 145 children who have died in foster care
-
-since 1999.
-Of that number, 74 were Aboriginal.
-“Deaths of Alberta Aboriginal Children in Care No ‘Fluke of Statistics,’” Edmonton Journal, 8 January 2014, http://www.edmontonjournal.com/ life/Deaths+Alberta+aboriginal+children+care+fluke+statistics/9212384/story.html (accessed 18 February 2014).
-24.	 Sinha and Kozlowski, “Structure of Aboriginal Child Welfare,” 3; “Deaths of Alberta Aboriginal Children in Care No ‘Fluke of Statistics,’” Edmonton Journal, 8 January 2014, http://www.edmon-
-tonjournal.com/life/Deaths+Alberta+aboriginal+children+care+fluke+statistics/9212384/story.
-html (accessed 18 February 2014).
-25.	 Sinha and Kozlowski, “Structure of Aboriginal Child Welfare,” 4.
-26.	 Canada, Aboriginal Affairs and Northern Development Canada, Program Expenditures/Statistics, First Nations Child and Family Services Program Statistics, First Nations children ordinarily resident on reserve in care, https://www.aadnc-aandc.gc.ca/eng/1382549135936/1382549233428 (accessed 1 May 2015).
-27.	 National Collaborating Centre for Aboriginal Health, Child and Youth Health, 3.
-28.	 Wien et al., “Keeping First Nations Children at Home,” 13.
-29.	 Blackstock et al., Wen: de: We Are Coming, 38.
-30.	 Blackstock et al., Wen: de: We Are Coming, 89–90.
-31.	 Cradock, “Extraordinary Costs,” 179.
-32.	 Canada, Aboriginal Affairs and Northern Development Canada, “Jordan’s Principle,” http://www.
-aadnc-aandc.gc.ca/eng/1334329827982/1334329861879 (accessed 3 January 2014).
-33.	 Pictou Landing Band Council v.
-Canada (Attorney General), 2013 FC 342 (CanLII), para.
-82.
-34.	 Pictou Landing Band Council v.
-Canada (Attorney General), 2013 FC 342 (CanLII), para.
-82.
-35.	 Fletcher, “Origins of the Indian Child Welfare Act,” 1, 4.
-36.	 Atwood, “Voice of the Indian Child,” 128.
-37.	 TRC, AVS, Doris Young, Statement to the Truth and Reconciliation Commission of Canada, Saskatoon, Saskatchewan, 22 June 2012, Statement Number: 2011-3517.
-38.	 Canada, Annual Report of the Department of Indian Affairs, 1942, 154; Canada, Annual Report of the Department of Indian Affairs, 1943, 168; Canada, Annual Report of the Department of Indian Affairs, 1944, 177; Canada, Annual Report of the Department of Indian Affairs, 1945, 190; Canada, Annual Report of the Department of Indian Affairs, 1946, 231; Canada, Annual Report of the Department of Indian Affairs, 1947, 236; Canada, Annual Report of the Department of Indian Affairs, 1948, 234; Canada, Annual Report of the Department of Indian Affairs, 1949, 215; Canada, Annual Report of the Department of Indian Affairs, 1950, 86–87; Canada, Annual Report of the Department of Indian Affairs, 1951, 34–35; Canada, Annual Report of the Department of Indian Affairs, 1952, 74–75; Canada, Annual Report of the Department of Indian Affairs, 1953, 82–83; Canada, Annual Report of the Department of Indian Affairs, 1954, 88–89; Canada, Annual Report of the Department of Indian Affairs, 1955, 78–79; Canada, Annual Report of the Department of Indian Affairs, 1956, 76–77; Canada, Annual Report of the Department of Indian Affairs, 1956–57, 88–89; Canada, Annual Report of the Department of Indian Affairs, 1958, 91; Canada, Annual Report of the Department of Indian Affairs, 1959, 94; Canada, Annual Report of the Department of Indian Affairs, 1960, 94; Canada, Annual Report of the Department of Indian Affairs, 1961, 102; Canada, Annual Report of the Department of Indian Affairs, 1962, 73; Canada, Annual Report of the Department of Indian Affairs, 1963, 62.
-39.	 United Nations, Declaration on the Rights of Indigenous Peoples, Article 14:1, http://www.un.org/ esa/socdev/unpfii/documents/DRIPS_en.pdf.
-40.	 Bougie and Senecal, “Registered Indian Children’s School Success,” 21.
-41.	 Bougie and Senecal, “Registered Indian Children’s School Success,” 21.
-42.	 Canada, Statistics Canada, Educational Portrait of Canada, Census Year 2006, 6, 19.
-43.	 Canada, Statistics Canada Fact Sheet, 2011 National Household Survey Aboriginal Demographics, https://www.aadnc-aandc.gc.ca/eng/1376329205785/1376329233875.
-44.	 National Committee on Inuit Education, First Canadians, Canadians First, https://www.itk.ca/ sites/default/files/National-Strategy-on-Inuit-Education-2011_0.pdf, 7; Penny, “Formal Educa-
-tional Attainment,” 33; Canada, Statistics Canada, Educational attainment of Aboriginal peoples, http://www12.statcan.gc.ca/nhs-enm/2011/as-sa/99-012-x/99-012-x2011003_3-eng.pdf.
-45.	 Richards et al., Understanding the Aboriginal/Non-Aboriginal Gap, 1; Wilk et al., “Métis Educational Attainment,” 51–52.
-46.	 Canadian Human Rights Commission, “Report on Equality Rights,” 3, 12, 32.
-47.	 Canada, Statistics Canada, Aboriginal People Living Off-reserve, 15.
-48.	 Canada, Statistics Canada, “Census Inuit Table: 89-636-x,” http://www.statcan.gc.ca/pub/89-636x/89-636-x2008001-eng.htm.
-49.	 Joe Friesen, “Ottawa Failing to Include First Nations in Key Employment Data,” Globe and Mail, 23 January 2015, http://www.theglobeandmail.com/news/politics/unemployment-stats-missing-inareas-where-job-training-is-a-priority/article22598523 (accessed 1 May 2015).
-50.	 Wilson and Macdonald, Income Gap, 8.
-51.	 Wilson and Macdonald, Income Gap, 4.
-52.	 Macdonald and Wilson, Poverty or Prosperity, 6.
-53.	 Wilson and Macdonald, Income Gap, 14.
-54.	 Canadian Human Rights Commission, Report on Equality Rights of Aboriginal People, 17.
-The poverty line is measured by the 2009 SLID Low-Income Measure (LIM).
-55.	 Canadian Human Rights Commission, Report on Equality Rights of Aboriginal People, 18–19.
-56.	 Canada, Standing Senate Committee on Aboriginal Peoples, Reforming First Nations Education, 9.
-57.	 Canada, Department of Indian and Northern Affairs, “Indian Education Paper: Phase 1,” 1982, as cited in Paquette and Fallon, First Nations Education Policy, 80.
-58.	 Canada, Standing Senate Committee on Aboriginal Peoples, Reforming First Nations Education, 56.
-59.	 McCue, First Nations 2nd and 3rd Level Education Services, 52, http://www.afn.ca/uploads/files/ education/9._2006_april_harvey_mccue_first_nations_2nd_&_3rd_level_services_paper.pdf.
-60.	 Canada, Standing Senate Committee on Aboriginal Peoples, Reforming First Nations Education, 11; First Nations Education Council, Funding Formula for First Nation Schools, http://www.cepnfnec.com/PDF/etudes_documents/fiche_complete_eng.pdf.
-61.	 Canada, Standing Senate Committee on Aboriginal Peoples, Reforming First Nations Education, 11, 31.
-62.	 First Nations Education Council, Funding Formula for First Nation Schools, 1, http://www.cepnfnec.com/PDF/etudes_documents/fiche_complete_eng.pdf.
-63.	 Canada, Standing Senate Committee on Aboriginal Peoples, Reforming First Nations Education, 35.
-64.	 Canada, Standing Senate Committee on Aboriginal Peoples, Reforming First Nations Education; Assembly of First Nations, National Panel on First Nation Elementary and Secondary Education for Students on Reserve, Nurturing the Learning Spirit, http://www.afn.ca/uploads/files/education2/ national-panel.pdf; First Nations Education Council et al., Report on Priority Actions, http://www.
-cepnfnec.com/PDF/accueil/Report%20on%20Priority%20Actions%20in%20View%20of%20Improving%20First%20Nations%20Education%20-%20November%202011_eng_website%20version_.
-pdf.
-65.	 TRC, AVS, Albert Marshall, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 17 June 2010, Statement Number: 02-MB-17JU10-050.
-66.	 Assembly of First Nations, National Panel on First Nation Elementary and Secondary Education for Students on Reserve, Nurturing the Learning Spirit, 14, http://www.afn.ca/uploads/files/education2/national-panel.pdf.
-67.	 Hodgson-Smith, State of Métis Nation Learning, 4, 26, http://www.ccl-cca.ca/pdfs/AbLKC/StateOfMetisNationLearning.pdf.
-
-68.	 Hodgson-Smith, State of Métis Nation Learning, 4, 17, 82, http://www.ccl-cca.ca/pdfs/AbLKC/ StateOfMetisNationLearning.pdf.
-
-69.	 National Committee on Inuit Education, First Canadians, Canadians First, 7–9, 76–79.
-70.	 National Committee on Inuit Education, First Canadians, Canadians First, 80.
-71.	 Canada, Statistics Canada, The Educational Attainment of Aboriginal People, Table 2, https://
-
-www12.statcan.gc.ca/nhs-enm/2011/as-sa/99-012-x/99-012-x2011003_3-eng.cfm.
-72.	 Canada, Auditor General of Canada, Status Report, 13, http://www.oag-bvg.gc.ca/internet/docs/
-
-parl_oag_201106_04_e.pdf.
-73.	 TRC, AVS, Geraldine Bob, Statement to the Truth and Reconciliation Commission of Canada, Fort
-
-Simpson, Northwest Territories, 23 November 2011, Statement Number: 2011-2685.
-74.	 Assembly of First Nations, “Financial Support for First Nation Students in College and Universi-
-
-ty: The Cost of Implementing the Recommendations of the Standing Committee of the House of Commons on Aboriginal Affairs and Northern Development,” as cited in First Nations Education Council, Paper on First Nations Education Funding, 35.
-75.	 Assembly of First Nations, Chiefs Assembly on Education, Early Childhood Education, http:// www.afn.ca/uploads/files/events/fact_sheet-ccoe-5.pdf.
-76.	 Assembly of First Nations, Breaking the Silence, 25–26.
-77.	 Royal Commission on Aboriginal Peoples, Gathering Strength, 3:612–613.
-78.	 TRC, AVS, Michael Sillett, Statement to the Truth and Reconciliation Commission of Canada, Halifax, Nova Scotia, 27 October 2011, Statement Number: 2011-2870.
-79.	 TRC, NRA, INAC – Resolution Sector – IRS Historical Files Collection – Ottawa, file 81/25-1 (Ctrl #240-13), R.
-Morris to Chiefs, Petahbun [Pehtabun] Area, 9 February 1979, 2–3.
-[NCA-001721] 80.	 TRC, AVS, Conrad Burns, Statement to the Truth and Reconciliation Commission of Canada, Regina, Saskatchewan, 17 January 2012, Statement Number: SP036.
-81.	 United Nations, International Covenant, Article 27.
-82.	 United Nations, Declaration of the Rights of Indigenous Peoples, articles 8, 13, 14, and 16.
-83.	 TRC, AVS, Agnes Mills, Statement to the Truth and Reconciliation Commission of Canada, Inuvik, Northwest Territories, 29 June 2011, Statement Number: SC090.
-84.	 TRC, AVS, Mary Courchene, Statement to the Truth and Reconciliation Commission of Canada, Pine Creek First Nation, Manitoba, 28 November 2011, Statement Number: 2011-2515.
-85.	 Canada, Statistics Canada, Aboriginal Peoples and Language, http://www12.statcan.gc.ca/nhsenm/2011/as-sa/99-011-x/99-011-x2011003_1-eng.cfm.
-86.	 Canada, Statistics Canada, Aboriginal Peoples and Language, http://www12.statcan.gc.ca/nhsenm/2011/as-sa/99-011-x/99-011-x2011003_1-eng.cfm; Canada, Statistics Canada, Population reporting an Aboriginal identity, http://www.statcan.gc.ca/tables-tableaux/sum-som/l01/cst01/ demo38a-eng.htm; Canada, Statistics Canada, Aboriginal Languages in Canada.
-http://www.
-statcan.gc.ca/pub/11-008-x/2007001/9628-eng.htm.
-87.	 Moseley and Nicolas, Atlas of the World’s Languages, 117.
-88.	 R.
-v.
-Van der Peet, 1996 CanLII 216 (SCC).
-89.	 Assembly of First Nations, Royal Commission on Aboriginal Peoples at 10 Years, 18.
-90.	 Canada, House of Commons Debates (2 November 2006), 1010.
-91.	 TRC, AVS, Michael Sillett, Statement to the Truth and Reconciliation Commission of Canada, Halifax, Nova Scotia, 27 October 2011, Statement Number: 2011-2870.
-92.	 Email from Glenn Morrisson, Policy Manager of the Aboriginal Affairs Directorate in the Citizenship Participation Branch, to the Truth and Reconciliation Commission (July 9, 2012).
-
-93.	 Canada, Department of Canadian Heritage, 2012–2013 Report on Plans and Priorities, 26.
-94.	 Canada, Standing Senate Committee on Legal and Constitutional Affairs, Language Rights in
-
-Canada’s North, 19–20.
-95.	 TRC, AVS, Sabrina Williams, Statement to the Truth and Reconciliation Commission of Canada,
-
-Victoria, British Columbia, 13 April 2012, Statement Number: 2011-3982.
-96.	 French, My Name Is Masak, 19.
-97.	 Gresko, “Everyday Life at Qu’Appelle Industrial School,” 80.
-98.	 TRC, AVS, Ruby Firth, Statement to the Truth and Reconciliation Commission of Canada, Inuvik,
-
-Northwest Territories, 22 July 2011, Statement Number: 2011-0326.
-99.	 TRC, AVS, Sonia Wuttunee-Byrd, Statement to the Truth and Reconciliation Commission of Cana-
-
-da, Winnipeg, Manitoba, 16 June 2010, Statement Number: SC093.
-100.	 TRC, AVS, Katherine Copenace, Statement to the Truth and Reconciliation Commission of Cana-
-
-da, Winnipeg, Manitoba, 16 June 2010, Statement Number: 02-MB-16JU10-129.
-101.	 United Nations, Declaration on the Rights of Indigenous Peoples, articles 7, 21, 22, 24.
-102.	 United Nations, Declaration on the Rights of Indigenous Peoples, Article 23.
-103.	 United Nations, Declaration on the Rights of Indigenous Peoples, articles 24, 31.
-104.	 National Collaborating Centre for Aboriginal Health, Looking for Aboriginal Health, 43–50.
-105.	 Canada, Report of an Interdepartmental Working Group to the Committee of Deputy Ministers on
-
-Justice and Legal Affairs, Fiduciary Relationship of the Crown with Aboriginal Peoples: Implementation and Management Issues – A Guide for Managers (Ottawa, 1995), 13, as cited in Boyer, No.
-1 Aboriginal Health, 5, 20–21.
-106.	 Boyer, No.
-1 Aboriginal Health, 19–21, 23.
-107.	 Boyer, No.
-1 Aboriginal Health, 19.
-108.	 Smylie, “Review of Aboriginal Infant Mortality Rates, 147.
-109.	 Canada, Statistics Canada, Mortality rates among children and teenagers, http://www.statcan.
-gc.ca/pub/82-003-x/2012003/article/11695-eng.htm.
-110.	 Canada, Statistics Canada, Select health indicators of First Nations people, http://www.statcan.
-gc.ca/daily-quotidien/130129/dq130129b-eng.htm.
-111.	 First Nations Centre, First Nations Regional Longitudinal Health Survey, 114.
-112.	 Kirmayer et al., Suicide Among Aboriginal People, xv, 22.
-113.	 Australia, Department of the Prime Minister and Cabinet, Closing the Gap, http://www.dpmc.gov.
-au/pmc-indigenous-affairs/publication/closing-gap-prime-ministers-report-2015.
-114.	 Canadian Medical Association, “Aboriginal Health Programming under Siege,” E740.
-115.	 TRC, AVS, Trudy King, Statement to the Truth and Reconciliation Commission of Canada, Fort Resolution, Northwest Territories, 28 April 2011, Statement Number: 2011-0381.
-116.	 TRC, AVS, M.
-R.
-E.
-Linklater, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: 02-MB-18JU10-055.
-117.	 Chansonneuve, Addictive Behaviours, 42–46.
-118.	 TRC, ASAGR, Royal Canadian Mounted Police, M.
-W.
-Pacholuk, Final Report of the Native Indian Residential School Task Force, Project E-NIRS, Royal Canadian Mounted Police, no date, 20, 21, 28, 45.
-[RCMP-564517] 119.	 TRC, ASGAR, Stephen N.
-S.
-Thatcher, Affidavit in Supreme Court of BC, no date, 25–35.
-[RCMP564327]
 120.	 TRC, ASAGR, Royal Canadian Mounted Police, M.
 W.
 Pacholuk, Final Report of the Native Indian Residential School Task Force, Project E-NIRS, Royal Canadian Mounted Police, no date, 27, 32, 45.
