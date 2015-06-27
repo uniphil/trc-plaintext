@@ -396,7 +396,7 @@ One hundred years from now, our children’s children and their children must kn
 ### What is reconciliation?
 
 During the course of the Commission’s work, it has become clear that the concept of reconciliation means different things to different people, communities, institutions, and organizations.
-The TRC mandate describes reconciliation as “an ongoing individual and collective process, and will require commitment from all those affected including First Nations, Inuit and Métis former Indian Residential School (irs) students, their families, communities, religious entities, former school employees, government and the people of Canada.
+The TRC mandate describes reconciliation as “an ongoing individual and collective process, and will require commitment from all those affected including First Nations, Inuit and Métis former Indian Residential School (IRS) students, their families, communities, religious entities, former school employees, government and the people of Canada.
 Reconciliation may occur between any of the above groups.”[^43]
 
 The Commission defines _reconciliation_ as an ongoing process of establishing and maintaining respectful relationships.
@@ -741,7 +741,7 @@ The Commission recommended 152 projects to the federal Department of Aboriginal 
 
 It is important to note that the Commission’s work inspired others to undertake commemorative projects using their own resources.
 One example is the Government of Canada’s decision to memorialize the legacy of Indian residential schools through the permanent installation of a stained-glass window in the Centre Block of Parliament Hill.
-The design selected for the window was created by Aboriginal artist Christi Belcourt and is entitled _Giniigaaniimenaaning_ or _Looking Ahead_.
+The design selected for the window was created by Aboriginal artist Christi Belcourt and is entitled __Giniigaaniimenaaning__ or __Looking Ahead__.
 
 The Commission issued a separate call for proposals for community events and allocated funding to approved projects up to a maximum of $15,000 per event.
 The TRC supported seventy-five community events, which were designed to promote healing and reconciliation by developing collective community narratives about the impact of the residential school system on former students, families, and communities.
@@ -6285,9 +6285,9 @@ Nor is the obligation limited to the documents assembled by Canada for productio
 The context in which the Settlement Agreement was created provides further important support for that conclusion in several ways.[para. 71]
 
 > First, telling the history of Indian Residential Schools was clearly seen as a central aspect of the mandate of the TRC when the Settlement Agreement was made.
-Since Canada played a vital role in the irs [Indian Residential School] system, Canada’s documents wherever they were held, would have been understood as a very important historical resource for this purpose.[para. 72]
+Since Canada played a vital role in the IRS [Indian Residential School] system, Canada’s documents wherever they were held, would have been understood as a very important historical resource for this purpose.[para. 72]
 
-> Second, the Settlement Agreement charged the TRC with compiling an historical record of the irs system to be accessible to the public in the future.
+> Second, the Settlement Agreement charged the TRC with compiling an historical record of the IRS system to be accessible to the public in the future.
 Here too, Canada’s documents, wherever housed, would have been seen to be vital to this task.[para. 73]
 
 > Third, the story of the history and the historical record to be compiled cover over 100 years and dates back to the nineteenth century.
@@ -6528,7 +6528,7 @@ The centre has committed to creating a culturally rooted and healing environment
 Once the centre is fully operational, it will be well positioned to take a leadership role in forging new directions in residential school- and Indigenous rights-based research, establishing new standards and benchmarks for archival and museum policy, management, and operations, based on Indigenous and Western principles and best practices.
 The University of Manitoba and its partners[^173] have emphasized that the centre recognizes the
 
-> paramount importance of accessibility [for] the Aboriginal survivor, family member [or]researcher, [and is] committed to recognition of Aboriginal peoples as co-creators of the irs records, through co-curation and participatory archiving; and committed to continuing the work of the TRC of statement-gathering, public education, engagement and outreach.[^174]
+> paramount importance of accessibility [for] the Aboriginal survivor, family member [or]researcher, [and is] committed to recognition of Aboriginal peoples as co-creators of the IRS records, through co-curation and participatory archiving; and committed to continuing the work of the TRC of statement-gathering, public education, engagement and outreach.[^174]
 
 The NCTR will incorporate an
 
@@ -7034,9 +7034,7 @@ He explained that the<!--x-->
 monuments “have been a big success with plenty of positive feedback.
 Now we have a physical place where people can go and commemorate.”[^218]
 
-Bearing witness to the child:
-
-Children’s art from the Alberni residential school
+### Bearing witness to the child: Children’s art from the Alberni residential school
 
 The story of a small collection of children’s art created at the Alberni residential school in the 1950s and 1960s demonstrates how recognizing and respecting Indigenous protocols and practices of ceremony, testimony, and witnessing can breathe life, healing, and transformation into public memory making through dialogue, the arts, and commemoration.
 The story has deep roots within the family histories of the Survivors and in the oral history and community memory of the Nuu-chah-nulth peoples.
@@ -7079,11 +7077,11 @@ Survivors, Elders, and community members continue to work with Walsh and Qwul’
 
 In September 2013, the paintings returned once again to the Learning Place at the TRC’s British Columbia National Event in Vancouver, and the group made an expression of reconciliation by providing copies of the artwork to the Commission’s Bentwood Box, to become part of the permanent record of the Commission’s work.
 
-Canada’s public commemoration initiative
+### Canada’s public commemoration initiative
 
-The Commission takes note of the federal government’s own national commemoration initiative, which was described as an “expression of reconciliation” when it was publicly
+The Commission takes note of the federal government’s own national commemoration initiative, which was described as an “expression of reconciliation” when it was publicly<!--x-->
 announced at the Atlantic National Event in 2011.
-It is a specially commissioned stainedglass window entitled Giniigaaniimenaaning or Looking Ahead, designed by Métis artist Christi Belcourt.
+It is a specially commissioned stainedglass window entitled _Giniigaaniimenaaning_ or _Looking Ahead_, designed by Métis artist Christi Belcourt.
 Its two-sided imagery depicts the history of the residential schools, the cultural resilience of Aboriginal peoples, and hope for the future.
 The window was permanently installed in the Centre Block of the federal parliament buildings, and unveiled in a dedication ceremony on November 26, 2012.[^221]
 Putting this window in such a prominent public place helps to make the history and legacy of residential schools more visible to the Canadian public and the world at large, while also acknowledging the federal government’s responsibility in establishing the residential school system.
@@ -7091,7 +7089,7 @@ Putting this window in such a prominent public place helps to make the history a
 At the dedication ceremony, artist Christi Belcourt said that her inspiration for the window’s design came from Survivors themselves.
 She said,
 
-The stories of residential school students were never told in this building, so I’m going to tell you one now…
+> The stories of residential school students were never told in this building, so I’m going to tell you one now…
 I asked Lucille [Kelly-Davis] who is a residential school survivor what she wanted to see on the window.
 I had assisted her through the residential school settlement process, and like so many survivors, her story is horrific…
 Despite her childhood, she married, had four children, and now has many grandchildren.
@@ -7102,14 +7100,14 @@ When I asked her what to put on the window, she said, “Tell our side of the st
 She said, “Make it about hope.”…
 It’s about looking ahead, as the name of the window says, “giniigaaniimenaaning” looking to the future for those yet unborn…
 
-Because she told me to make it about hope, what I’ve tried to show in the design is all the positive things I’ve seen in my life.
+> Because she told me to make it about hope, what I’ve tried to show in the design is all the positive things I’ve seen in my life.
 Despite residential schools, children, adults, and Elders dance in full regalia in celebration of who they are as Indigenous people.
 We see Métis youth learning fiddling and jigging with pride across the country.
 We see arenas full of Inuk Elders drum dancing, with little kids running around, speaking Inuktitut.
 We see whole communities come together in times of joy and in times of great grief.
 The lodges are growing, the traditional songs are being sung, the ceremonies are being taught, and the ceremonies are still practiced.
 
-I wish I could show the government that reconciliation has the potential to be so much more.
+> I wish I could show the government that reconciliation has the potential to be so much more.
 I wish I could convince them that reconciliation is not an unattainable goal, if there’s the will and the courage to discard old paternalistic ways of thinking and of behaviour.
 We need action, and where we need action, don’t meet us with silence.
 Where we need support, don’t accuse us of being a burden…
@@ -7128,7 +7126,7 @@ Through dialogue, citizens can strengthen their ability to “accommodate differ
 In the context of national reconciliation, ongoing public commemoration has the potential to contribute to human rights education in the broadest sense.
 
 Although Canada’s commemorative window was a significant gesture of reconciliation, the Commission believes that the federal government must do more to ensure that national commemoration of the history and legacy of residential schools becomes an integral part of Canadian heritage and national history.
-Under the Historic Sites and Monuments Act (1985), the minister responsible for Parks Canada has the authority to designate historic sites of national significance and approve commemorative monuments or plaques.[^225]
+Under the _Historic Sites and Monuments Act_ (1985), the minister responsible for Parks Canada has the authority to designate historic sites of national significance and approve commemorative monuments or plaques.[^225]
 The minister is advised by the Historic Sites and Monuments Board of Canada “on the commemoration of nationally significant aspects of Canada’s past, including the designation of national historic sites, persons and events.”[^226]
 The board reviews and makes recommendations on submissions received from Canadian citizens who make nominations through the National Program of Historical Commemoration.[^227]
 Heritage sites, monuments, and plaques that celebrate Canada’s past are common, but commemorating those aspects of our national history that reveal cultural genocide, human rights violations, racism, and injustice are more problematic.
@@ -7137,7 +7135,7 @@ As we noted earlier, at the international level, the _Joinet-Orentlicher Princip
 In addition to providing compensation, making apologies, and undertaking educational reform, states also have a duty “to remember.”
 Under Principle 2,
 
-A people’s knowledge of the history of its oppression is part of its heritage and, as such, must be preserved by appropriate measures in fulfillment of the State’s duty
+A people’s knowledge of the history of its oppression is part of its heritage and, as such, must be preserved by appropriate measures in fulfillment of the State’s duty<!--x-->
 to remember…
 On a collective basis, symbolic measures intended to provide moral reparation, such as formal public recognition by the State of its responsibility, or official declarations aimed at restoring victims’ dignity, commemorative ceremonies, naming of public thoroughfares or the erection of monuments, help to discharge the duty of remembrance.[^228]
 
@@ -7145,7 +7143,7 @@ In 2014, the UN Special Rapporteur in the field of Cultural Rights, Farida Shahe
 Shaheed observed that the commemorations of Indigenous peoples’ experience—both their oppression and their positive contributions to society—that have occurred in many countries, including Canada, have not been state-driven initiatives.
 Rather, they have been initiated by Indigenous peoples themselves.
 
-In Canada, a memorial to indigenous veterans from the First World War was built at the request of indigenous peoples, integrating many elements of indigenous cultures.
+> In Canada, a memorial to indigenous veterans from the First World War was built at the request of indigenous peoples, integrating many elements of indigenous cultures.
 This recognition took place at a later stage in history, however, and in a different venue to the main memorial established for other Canadian soldiers.
 Commemoration projects are also taking place …
 regarding the history of Indian residential schools.[^230]
@@ -7155,16 +7153,16 @@ The state is responsible for managing public space and has the capacity to maint
 
 The Special Rapporteur further concluded that states should ensure that
 
-memorial policies contribute to, in particular …
+> memorial policies contribute to, in particular …
 providing symbolic reparation and public recognition to the victims in ways that respond to the needs of all victims oppressed in a recent or distant past and contribute to their healing …
 the development of reconciliation policies between groups …
 [and] promoting civic engagement, critical thinking and stimulating discussions on the representation of the past, as well as contemporary challenges of exclusion and violence.[^232]
 
 The report recommended that states and relevant stakeholders
 
-promote critical thinking on past events by ensuring that memorialisation processes are complemented by measures fostering historical awareness and support the implementation and outreach of high-quality research projects, cultural interventions that encourage people’s direct engagement and educational activities…
+> promote critical thinking on past events by ensuring that memorialisation processes are complemented by measures fostering historical awareness and support the implementation and outreach of high-quality research projects, cultural interventions that encourage people’s direct engagement and educational activities…
 States should ensure the availability of public spaces for a diversity of narratives conveyed in artistic expressions and multiply opportunities for such narratives to engage with each other…
-[States must also] take into consideration the
+[States must also] take into consideration the<!--x-->
 cultural dimension of memorial processes, including where repression has targeted indigenous peoples.[^233]
 
 The Commission concurs with these conclusions and recommendations.
@@ -7175,7 +7173,7 @@ They demonstrated the critical role that artists play in healing and commemorati
 The Commission believes that Canada’s national heritage network also has a vital role to play in reconciliation.
 Our views were further confirmed in a study of residential school commemorations in the context of Canada’s national heritage and commemoration policy.
 The research documented the Assembly of First Nations’ and the Aboriginal Healing Foundation’s national commemoration project to create a heritage plaque program to place commemorative markers at all residential school sites across the country.[^234]
-Faced with logistical challenges and based on input from Survivors and communities, “the project transformed from what ostensibly had been an irs [Indian Residential School] site heritage plaque program to a community-oriented public monumental art project.”[^235]
+Faced with logistical challenges and based on input from Survivors and communities, “the project transformed from what ostensibly had been an IRS [Indian Residential School] site heritage plaque program to a community-oriented public monumental art project.”[^235]
 The commemorative markers were not placed at residential school sites, many of which are in remote locations or otherwise inaccessible.
 Instead, they were placed in Aboriginal communities where Survivors and their families could access them more easily, where ceremonies and community events could be held, and where there were opportunities for ongoing healing, commemoration, and education.[^236]
 
@@ -7195,75 +7193,74 @@ These can inform and enrich the National Program of Historical Commemoration and
 79. We call upon the federal government, in collaboration with Survivors, Aboriginal organizations, and the arts community, to develop a reconciliation framework for Canadian heritage and commemoration.
 This would include, but not be limited to:
 
-    1. Amending the Historic Sites and Monuments Act to include First Nations, Inuit, and Métis representation on the Historic Sites and Monuments Board of Canada and its Secretariat.
+    1. Amending the _Historic Sites and Monuments Act_ to include First Nations, Inuit, and Métis representation on the Historic Sites and Monuments Board of Canada and its Secretariat.
 
     2. Revising the policies, criteria, and practices of the National Program of Historical Commemoration to integrate Indigenous history, heritage values, and memory practices into Canada’s national heritage and history.
 
     3. Developing and implementing a national heritage plan and strategy for commemorating residential school sites, the history and legacy of residential schools, and the contributions of Aboriginal peoples to Canada’s history.
-80. We call upon the federal government, in collaboration with Aboriginal peoples, to establish, as a statutory holiday, a National Day for Truth and Reconciliation to honour Survivors, their families, and communities, and ensure that public commemoration of the history and legacy of residential schools remains a vital component of the reconciliation process.
-81. We call upon the federal government, in collaboration with Survivors and their organizations, and other parties to the Settlement Agreement, to commission and install a publicly accessible, highly visible, Residential Schools National Monument in the city of Ottawa to honour Survivors and all the children who were lost to their families and communities.
-82. We call upon provincial and territorial governments, in collaboration with Survivors and their organizations, and other parties to the Settlement Agreement, to commission and install a publicly accessible, highly visible, Residential Schools Monument in each capital city to honour Survivors and all the children who were lost to their families and communities.
-83)	 We call upon the Canada Council for the Arts to establish, as a funding priority, a strategy for Indigenous and non-Indigenous artists to undertake collaborative projects and produce works that contribute to the reconciliation process.
 
-Media and reconciliation
+80. We call upon the federal government, in collaboration with Aboriginal peoples, to establish, as a statutory holiday, a National Day for Truth and Reconciliation to honour Survivors, their families, and communities, and ensure that public commemoration of the history and legacy of residential schools remains a vital component of the reconciliation process.
+
+81. We call upon the federal government, in collaboration with Survivors and their organizations, and other parties to the Settlement Agreement, to commission and install a publicly accessible, highly visible, Residential Schools National Monument in the city of Ottawa to honour Survivors and all the children who were lost to their families and communities.
+
+82. We call upon provincial and territorial governments, in collaboration with Survivors and their organizations, and other parties to the Settlement Agreement, to commission and install a publicly accessible, highly visible, Residential Schools Monument in each capital city to honour Survivors and all the children who were lost to their families and communities.
+83. We call upon the Canada Council for the Arts to establish, as a funding priority, a strategy for Indigenous and non-Indigenous artists to undertake collaborative projects and produce works that contribute to the reconciliation process.
+
+### Media and reconciliation
 
 The media has a role to play in ensuring that public information both for and about Aboriginal peoples reflects their cultural diversity and provides fair and non-discriminatory reporting on Aboriginal issues.
 This is consistent with Article 16:2 of the _United Nations Declaration on the Rights of Indigenous Peoples_, which says, “States shall take effective measures to ensure that State-owned media duly reflect indigenous cultural diversity.”
-Canada’s Broadcasting Act (1991) sets out national broadcasting policy for all Canadian broadcasters with regard to Aboriginal peoples.
+Canada’s _Broadcasting Act_ (1991) sets out national broadcasting policy for all Canadian broadcasters with regard to Aboriginal peoples.
 The policy states the need to,
 
-through its programming and employment opportunities arising out of its operations, serve the needs and interests, and reflect the circumstances and aspirations of Canadian men, women, and children, including equal rights, the linguistic duality and multicultural and multiracial nature of Canadian society, and the special place of aboriginal peoples within that society.
-[S.
-3.1.d.iii]
+> through its programming and employment opportunities arising out of its operations, serve the needs and interests, and reflect the circumstances and aspirations of Canadian men, women, and children, including equal rights, the linguistic duality and multicultural and multiracial nature of Canadian society, and the special place of aboriginal peoples within that society.[S. 3.1.d.iii]
 
 The Act then states a more controversial obligation, that “programming that reflects the aboriginal cultures of Canada should be provided within the Canadian broadcasting system as resources become available for the purpose” (S.3.1.o).[^241]
 
-A submission to the federal Task Force on Aboriginal Languages and Cultures in 2004 pointed out deficiencies in the Broadcasting Act related to these service provisions for Aboriginal peoples.
+A submission to the federal Task Force on Aboriginal Languages and Cultures in 2004 pointed out deficiencies in the _Broadcasting Act_ related to these service provisions for Aboriginal peoples.
 It stated:
 
-The Act did not enshrine Aboriginal language broadcasting as a priority: instead it noted that …
-[S.
-S.
-3.1.d.iii] means that Aboriginal language programming is not recognized nor protected to the same extent as English and French programming …
+> The Act did not enshrine Aboriginal language broadcasting as a priority: instead it noted that … [S. S. 3.1.d.iii] means that Aboriginal language programming is not recognized nor protected to the same extent as English and French programming …
 [and that] the phrase “as resources become available for the purpose” [S.3.1.o] has become a stumbling block for many producers and programmers, linking the availability of Aboriginal language broadcasting to the political process.[^242]
 
-The report recommended that the Broadcasting Act be revised to address these gaps.
+The report recommended that the _Broadcasting Act_ be revised to address these gaps.
 As of 2014, these provisions of the Act remain unchanged.
 
-As Canada’s national public broadcaster, the Canadian Broadcasting Corporation (cbc/ Radio-Canada) is responsible for fulfilling national broadcasting policy.
+As Canada’s national public broadcaster, the Canadian Broadcasting Corporation (CBC/ Radio-Canada) is responsible for fulfilling national broadcasting policy.
 For many years, it has been providing a minimum level of Aboriginal radio and television programming and news, in a few specific regions, including some Aboriginal-language programming, especially in northern Canada.
-In the Commission’s view, the budget cuts to the cbc over the past decade have significantly reduced and further limited its capacity to provide
+In the Commission’s view, the budget cuts to the CBC over the past decade have significantly reduced and further limited its capacity to provide<!--x-->
 Aboriginal programming and dedicated news coverage on Aboriginal issues, and to increase the number of Aboriginal people in staff and leadership positions.
-As of March 31, 2014, Aboriginal people made up 1.6% of the cbc workforce, well below the demographic makeup of Aboriginal people, who represent 4.3% of the total Canadian population.[^243]
+As of March 31, 2014, Aboriginal people made up 1.6% of the CBC workforce, well below the demographic makeup of Aboriginal people, who represent 4.3% of the total Canadian population.[^243]
 
-The Aboriginal Peoples Television Network (aptn), an independent, non-profit broadcaster, has taken a leadership role since the 1990s, in part to make up for the programming and scheduling limitations of cbc/Radio-Canada, to provide nationwide programming and news that reflects Aboriginal peoples’ perspectives, concerns, and experiences.
-The aptn has provided an outlet for Aboriginal journalists, producers, directors, writers, artists, and musicians, and attracts a wide Aboriginal and non-Aboriginal Canadian and international audience.[^244]
-As of 2014, over 75% of aptn employees were Aboriginal, and 28% of its programming was broadcast in various Aboriginal languages.[^245]
-In the Commission’s view, the aptn is well positioned to provide media leadership to support the reconciliation process.
+The Aboriginal Peoples Television Network (APTN), an independent, non-profit broadcaster, has taken a leadership role since the 1990s, in part to make up for the programming and scheduling limitations of CBC/Radio-Canada, to provide nationwide programming and news that reflects Aboriginal peoples’ perspectives, concerns, and experiences.
+The APTN has provided an outlet for Aboriginal journalists, producers, directors, writers, artists, and musicians, and attracts a wide Aboriginal and non-Aboriginal Canadian and international audience.[^244]
+As of 2014, over 75% of APTN employees were Aboriginal, and 28% of its programming was broadcast in various Aboriginal languages.[^245]
+In the Commission’s view, the APTN is well positioned to provide media leadership to support the reconciliation process.
 
 National public and private broadcasters must provide comprehensive and timely information and services to Aboriginal peoples and the Canadian public.
 
 #### Calls to Action
 
-84. We call upon the federal government to restore and increase funding to the cbc/RadioCanada, to enable Canada’s national public broadcaster to support reconciliation, and be properly reflective of the diverse cultures, languages, and perspectives of Aboriginal peoples, including, but not limited to:
+84. We call upon the federal government to restore and increase funding to the CBC/RadioCanada, to enable Canada’s national public broadcaster to support reconciliation, and be properly reflective of the diverse cultures, languages, and perspectives of Aboriginal peoples, including, but not limited to:
 
     1. Increasing Aboriginal programming, including Aboriginal-language speakers.
 
     2. Increasing equitable access for Aboriginal peoples to jobs, leadership positions, and professional development opportunities within the organization.
 
     3. Continuing to provide dedicated news coverage and online public information resources on issues of concern to Aboriginal peoples and all Canadians, including the history and legacy of residential schools and the reconciliation process.
+
 85. We call upon the Aboriginal Peoples Television Network, as an independent non-profit broadcaster with programming by, for, and about Aboriginal peoples, to support reconciliation, including but not limited to:
 
     1. Continuing to provide leadership in programming and organizational culture that reflects the diverse cultures, languages, and perspectives of Aboriginal peoples.
 
     2. Continuing to develop media initiatives that inform and educate the Canadian public, and connect Aboriginal and non-Aboriginal Canadians.
-Educating journalists for reconciliation
+### Educating journalists for reconciliation
 
 In a submission to the Royal Commission on Aboriginal Peoples (RCAP) in 1993, the Canadian Association of Journalists noted, “The country’s large newspapers, tv and radio news shows often contain misinformation, sweeping generalizations, and galling stereotypes about Natives and Native affairs…
 The result is that most Canadians have little real knowledge of the country’s Native peoples, or the issues that affect them.”[^246]
 In 1996, the RCAP report had noted,
 
-Public opinion polls in the past few years have consistently shown broad sympathy for Aboriginal issues and concerns, but that support is not very deep.
+> Public opinion polls in the past few years have consistently shown broad sympathy for Aboriginal issues and concerns, but that support is not very deep.
 More recent events have brought a hardening of attitudes towards Aboriginal issues in many parts of the country…
 This growing hostility can be traced in large part to recent negative publicity over land claims, Aboriginal hunting and fishing rights, and issues of taxation.[^247]
 
@@ -7272,20 +7269,23 @@ Media coverage of Aboriginal issues remains problematic; social media and online
 
 In August 2013, the Journalists for Human Rights249 conducted a study of media coverage of Aboriginal issues in Ontario from June 1, 2010, to May 31, 2013.
 The study found that:
+
 1. “the Aboriginal population is widely underrepresented in mainstream media”;
+
 2. “when Aboriginal people choose to protest or ‘make more noise’ the number of stories focused on the community increase”; and
+
 3. “as coverage related to the protests and talks between Aboriginal people and government became more frequent, the proportion of stories with a negative tone correspondingly increased.”[^250]
 
 Media coverage of residential schools was low.
 From June 1, 2011, to May 31, 2012, media coverage of Aboriginal issues in Ontario accounted for only 0.23% of all news stories, and, of these, only 3.0% focused on residential schools.
 From June 1, 2012, to May 31, 2013, news stories on Aboriginal issues amounted to 0.46% of all news stories, and, of these, 3.0% focused on deaths in residential schools.[^251]
 
-The report included expert opinions on its findings, including those of cbc journalist Duncan McCue, who observed that editorial opinions “are often rooted in century-old stereotypes rather than reality.”[^252]
+The report included expert opinions on its findings, including those of CBC journalist Duncan McCue, who observed that editorial opinions “are often rooted in century-old stereotypes rather than reality.”[^252]
 He pointed out:
 
-Yes, protests often meet the test of whether a story is ‘newsworthy,’ because they’re unusual, dramatic, or involve conflict.
+> Yes, protests often meet the test of whether a story is ‘newsworthy,’ because they’re unusual, dramatic, or involve conflict.
 Yes, Aboriginal activists, who understand the media’s hunger for drama, also play a role by tailoring protests in ways that guarantee prominent headlines and lead stories.
-But, does today’s front-page news of some traffic disruption in the name of Aboriginal land rights actually have its roots in a much older narrative—of violent and “uncivilized” Indians who represent a threat
+But, does today’s front-page news of some traffic disruption in the name of Aboriginal land rights actually have its roots in a much older narrative—of violent and “uncivilized” Indians who represent a threat<!--x-->
 to ‘progress’ in Canada?
 Are attitudes of distrust and fear underlying our decisions to dispatch a crew to the latest Aboriginal blockade?
 Is there no iconic photo of reconciliation, because no one from the newsrooms believes harmony between Aboriginal peoples and settlers is ‘newsworthy’?[^253]
@@ -7357,7 +7357,7 @@ What do you expect to achieve?”
 The answer is “freedom.”
 I am free.[^257]
 
-Later that same day, journalist Laura Robinson’s expression of reconciliation was a copy of the documentary FrontRunners, which she produced for aptn, about some residential school athletes who had made history.
+Later that same day, journalist Laura Robinson’s expression of reconciliation was a copy of the documentary FrontRunners, which she produced for APTN, about some residential school athletes who had made history.
 She said,
 
 In 1967, ten teenage First Nations boys, all good students and great runners, ran with the 1967 Pan Am Games torch, from St.
@@ -8098,7 +8098,7 @@ Other speakers included National President Mary Simon, Inuit Tapiriit Kanatami; 
 70.	 TRC, AVS, Noel Starblanket, Statement to the Truth and Reconciliation Commission of Canada, Regina, Saskatchewan, 16 January 2012, Statement Number: SP035.
 71.	 Vatican, Communiqué of the Holy See Press Office, April 29, 2009, http://www.vatican.va/resources/resources_canada-first-nations-apr2009_en.html.
 72.	 “Pope Expresses ‘Sorrow’ for Abuse at Residential Schools,” CBC News, April 29, 2009, http://www.
-cbc.ca/news/world/pope-expresses-sorrow-for-abuse-at-residential-schools-1.778019.
+CBC.ca/news/world/pope-expresses-sorrow-for-abuse-at-residential-schools-1.778019.
 73.	 Pastoral Letter of His Holiness Pope Benedict XVI to the Catholics of Ireland, March 19, 2010, http://www.vatican.va/holy_father/benedict_xvi/letters/2010/documents/hf_ben-xvi_ let_20100319_church-ireland_en.html.
 74.	 Pastoral Letter of His Holiness Pope Benedict XVI to the Catholics of Ireland, March 19, 2010, http://www.vatican.va/holy_father/benedict_xvi/letters/2010/documents/hf_ben-xvi_ let_20100319_church-ireland_en.html.
 75.	 TRC, AVS, Commissioner Wilton Littlechild, speaking at Oblates of St.
@@ -8115,7 +8115,7 @@ When requested, church representatives also offered apologies to Survivors.
 Article 12:1 of the _United Nations Declaration on the Rights of Indigenous Peoples_ says, “Indigenous peoples have the right to manifest, practice, develop and teach their spiritual and religious traditions, customs and ceremonies; the right to maintain, protect, and have access in privacy to their religious and cultural sites; the right to use and control of their ceremonial objects; and the right to the repatriation of their human remains.”
 See: United Nations, _Declaration on the Rights of Indigenous Peoples_, http://www.UN.org/esa/socdev/unpfii/documents/DRIPS_en.pdf.
 
-82.	 See, for example, the case of a Christian Cree community that passed a resolution denying some of its community members the right to construct a sweat lodge and to teach youth about Cree spirituality: http://aptn.ca/news/2011/01/17/crees-ban-sweat-lodges-fns-spirituality-from-community/; http://indiancountrytodaymedianetwork.com/2011/02/07/christian-crees-tear-downsweat-lodge-15500.
+82.	 See, for example, the case of a Christian Cree community that passed a resolution denying some of its community members the right to construct a sweat lodge and to teach youth about Cree spirituality: http://APTN.ca/news/2011/01/17/crees-ban-sweat-lodges-fns-spirituality-from-community/; http://indiancountrytodaymedianetwork.com/2011/02/07/christian-crees-tear-downsweat-lodge-15500.
 
 83.	 TRC, AVS, Jim Dumont, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 26 June 2014, Statement Number: SE049.
 
@@ -8245,7 +8245,7 @@ The Act was amended in 2008 to include the Canadian Museum for Human Rights.
 dian Museum of History, received Royal Assent, thus officially establishing the legislative authority to “rebrand” the Canadian Museum of Civilization.
 Neither the original Museums Act nor the amendment made specific reference to Aboriginal peoples.
 See: http://www.parl.gc.ca/LegisInfo/ BillDetails.aspx?Language=E&Mode=1&billId=6263562&View=3.
-See also: “Civilization Museum Now the Canadian Museum of History,” CBC News, December 12, 2013, http://www.cbc.ca/news/ canada/ottawa/civilization-museum-now-the-canadian-museum-of-history-1.2461738.
+See also: “Civilization Museum Now the Canadian Museum of History,” CBC News, December 12, 2013, http://www.CBC.ca/news/ canada/ottawa/civilization-museum-now-the-canadian-museum-of-history-1.2461738.
 139.	 House of Commons Standing Committee on Canadian Heritage, 41st Parliament, 1st session, June 5, 2013, http://www.parl.gc.ca/HousePublications/Publication.aspx?DocId=6209352&Language=E&Mode=1&Parl=41&Ses=1 (accessed 12 January 2014).
 140.	 The Canadian Museum of Civilization and the Canadian War Museum, Research Strategy, July 15, 2013, 7, http://www.civilization.ca/research-and-collections/files/2013/07/research-strategy.pdf.
 141.	 The Canadian Museum of Civilization and the Canadian War Museum, Research Strategy, July 15, 2013, 8–9, http://www.civilization.ca/research-and-collections/files/2013/07/research-strategy.
@@ -8356,7 +8356,7 @@ Paul, Alberta, 7 January 2011, Statement Number: 01-AB-06JA11-005.
 194.	 TRC, AVS, Desarae Eashappie, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 19 June 2010, Statement Number: SC112.
 195.	 Regan, Unsettling the Settler Within, 13.
 196.	 TRC, AVS, Florence Kaefer, Statement to Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: SC111.
-197.	 “Teacher Seeks Healing through Truth Commission,” CBC News, Manitoba, June 18, 2010, http:// www.cbc.ca/news/canada/manitoba/story/2010/06/18/mb-truth-reconciliation-healing-teachers-winnipeg.html.
+197.	 “Teacher Seeks Healing through Truth Commission,” CBC News, Manitoba, June 18, 2010, http:// www.CBC.ca/news/canada/manitoba/story/2010/06/18/mb-truth-reconciliation-healing-teachers-winnipeg.html.
 198.	 TRC, AVS, Jack Lee, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 18 June 2010, Statement Number: SC111.
 
 199.	 TRC, AVS, Mark DeWolf, Statement to the Truth and Reconciliation Commission of Canada, Halifax, Nova Scotia, 28 October 2011, Statement Number: SC075.
@@ -8386,7 +8386,7 @@ Garneau, “Imaginary Spaces,” 38.
 210.	 Archibald et al., Dancing, Singing, Painting, 18.
 211.	 Andrea Ratuski, “Residential School Art Series Awarded to U of M,” CBC News, September 24, 2013,
 
-http://www.cbc.ca/news/canada/manitoba/scene/residential-school-art-series-awarded-to-uof-m-1.1865994.
+http://www.CBC.ca/news/canada/manitoba/scene/residential-school-art-series-awarded-to-uof-m-1.1865994.
 212.	 Morris and Helen Belkin Art Gallery, http://www.belkin.ubc.ca/past/witnesses (accessed 16 April 2015); University of British Columbia Museum of Anthropology, http://moa.ubc.ca/portfolio_ page/speaking-to-memory/ (accessed 16 April 2015).
 213.	 Robertson, “Threads of Hope,” 87, 99–101.
 214.	 University of Winnipeg, “UWinnipeg Healing Quilt Gifted to TRC Commissioners,” 17 June 2010, http://www.uwinnipeg.ca/index/uw-news-action/story.364/title.uwinnipeg-healing-quilt-gifted-to-TRC-commissioner.
@@ -8410,7 +8410,7 @@ A detailed description of the window is available at: Canada, Aboriginal Affairs
 223.	 Commissioner Wilton Littlechild, Speech at dedication ceremony for the stained-glass window on Parliament Hill, November 26, 2012, Ottawa, Ontario, Canada, Aboriginal Affairs and Northern Development Canada, https://www.aadnc-aandc.gc.ca/eng/1370615213241/1370615618980.
 
 224.	 Opp and Walsh, Placing Memory, 15–16.
-225.	 Historic Sites and Monuments Act, Revised Statutes of Canada 1985, chapter H-4, http://laws-lois.
+225.	 _Historic Sites and Monuments Act_, Revised Statutes of Canada 1985, chapter H-4, http://laws-lois.
 
 justice.gc.ca/PDF/H-4.pdf (accessed 15 April 2015).
 226.	 Parks Canada, Historic Sites and Monuments Board of Canada, http://www.pc.gc.ca/clmhc-hsm-
@@ -8442,19 +8442,19 @@ See: Cooper-Bolam, “Healing Heritage,” 8–9, 106–107.
 
 239.	 Cooper-Bolam, “Healing Heritage,” 97–99.
 240.	 Cooper-Bolam, “Healing Heritage,” ii.
-241.	 Broadcasting Act (1991), last revised 2014, http://laws-lois.justice.gc.ca/PDF/B-9.01.pdf.
-242.	 David, “Aboriginal Languages Broadcasting in Canada,” 14, http://aptn.ca/corporate/PDFs/Ab-
+241.	 _Broadcasting Act_ (1991), last revised 2014, http://laws-lois.justice.gc.ca/PDF/B-9.01.pdf.
+242.	 David, “Aboriginal Languages Broadcasting in Canada,” 14, http://APTN.ca/corporate/PDFs/Ab-
 
 original_Language_and_Broadcasting_2004.pdf.
 243.	 CBC/Radio-Canada, “Going the Distance,” 48.
 The annual report also provides information
 
 on CBC’s Aboriginal-languages programming and news coverage.
-See: http://www.cbc.radio-canada.ca/_files/cbcrc/documents/annual-report/2013-2014/cbc-radio-canada-annual-report-2013-2014.pdf.
+See: http://www.CBC.radio-canada.ca/_files/cbcrc/documents/annual-report/2013-2014/CBC-radio-canada-annual-report-2013-2014.pdf.
 In 2013, Statistics Canada published this data as part of the National Household Survey conducted in 2011.
 See: Statistics Canada, Aboriginal Peoples in Canada, 2011, 4, http://www12.statcan.gc.ca/nhs-enm/2011/as-sa/99-011-x/99-011-x2011001-eng.pdf.
-244.	 Aboriginal Peoples Television Network, Annual Report, 2013, http://aptn.ca/corporate/PDFs/ APTN_2013_AnnualReport_ENG.pdf.
-245.	 Aboriginal Peoples Television Network, Corporate Factsheet, http://aptn.ca/corporate/facts.php (accessed 18 March 2015).
+244.	 Aboriginal Peoples Television Network, Annual Report, 2013, http://APTN.ca/corporate/PDFs/ APTN_2013_AnnualReport_ENG.pdf.
+245.	 Aboriginal Peoples Television Network, Corporate Factsheet, http://APTN.ca/corporate/facts.php (accessed 18 March 2015).
 246.	 Canada, Royal Commission on Aboriginal Peoples, Report, 5:103–104.
 247.	 Canada, Royal Commission on Aboriginal Peoples, Report, 2:614.
 248.	 See, for example: Anderson and Robertson, Seeing Red.
