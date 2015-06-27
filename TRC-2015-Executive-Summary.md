@@ -781,8 +781,11 @@ The NCTR will encourage and engage in respectful dialogue on many issues that hi
 It will ensure that:
 
   * Survivors and their families have access to their own history;
+
   * educators can share the residential school history with new generations of students;
+
   * researchers can delve more deeply into the residential school experience and legacy;
+
   * the public can access historical records and other materials to help foster reconciliation and healing; and
 
 <!-- page 045 -->* the history and legacy of the residential school system are never forgotten.
