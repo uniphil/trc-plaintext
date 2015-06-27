@@ -912,13 +912,13 @@ Then, he felt a staff member pulling him by the ear, telling him to turn the oth
 
 When Peter Ross was enrolled at the Immaculate Conception school in Aklavik, Northwest Territories, it was the first time he had ever been parted from his sisters.
 He said that in all the time he was at the school, he was able to speak with them only at Christmas and on Catholic feast days.[^22]
-Daniel Nanooch recalled that he talked with his <!-- page 051 -->[The strict segregation of the sexes at the schools meant that brothers and sisters were quickly separated from one another. General Synod Archives, Anglican Church of Canada, P7538-635.](image-autofix/page-051.jpg)
-
-sister only four times a year at the Wabasca, Alberta, school.
+Daniel Nanooch recalled that he talked with his <!-- page 051 -->sister only four times a year at the Wabasca, Alberta, school.
 “They had a fence in the playground.
 Nobody was allowed near the fence.
 The boys played on this side, the girls played on the other side.
 Nobody was allowed to go to that fence there and talk to the girls through the fence or whatever, you can’t.”[^23]
+
+[The strict segregation of the sexes at the schools meant that brothers and sisters were quickly separated from one another. General Synod Archives, Anglican Church of Canada, P7538-635.](image-autofix/page-051.jpg)
 
 The only reason Bernice Jacks had wanted to go to residential school was to be with her older sister.
 But once she was there, she discovered they were to sleep in separate dormitories.
