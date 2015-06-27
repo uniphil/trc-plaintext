@@ -6219,15 +6219,15 @@ But, because the residential schools litigation put the federal government in th
 
 Librarian and Archivist Emeritus Dr. Ian Wilson, Canada’s former national archivist, described this tension.
 He explained that, as the residential school litigation intensified,<!--x-->
-Lawyers besieged the archives.
+> Lawyers besieged the archives.
 Archivists, caught between the vagaries of old informal recordkeeping practices in church schools across the country, legal demands for instant and full access and obligations to employer and profession, struggled to uphold their ideal of the honest stewardship of the records…
 This process has tested the capacity of the archives and our professional ability to respond.[^151]
 
 These challenges did not end with the implementation of the 2007 Settlement Agreement.
 The TRC’s own difficulties in gaining access to government records held in LAC demonstrated why state-controlled archives are not necessarily best suited to meet the needs of Survivors, their families, and communities.
 
-By 2009, in terms of public education, LAC had partnered with the Legacy of Hope Foundation and the Aboriginal Healing Foundation on two exhibitions: Where are the Children?
-Healing the Legacy of the Residential Schools; and “We were so far away …”: The Inuit experience of residential schools.[^152]
+By 2009, in terms of public education, LAC had partnered with the Legacy of Hope Foundation and the Aboriginal Healing Foundation on two exhibitions: Where are the Children? Healing the Legacy of the Residential Schools;
+and “We were so far away …”: The Inuit experience of residential schools.[^152]
 Library and Archives Canada also produced an updated online version of the bibliography, “The Legacy of the Residential School System in Canada: A Selective Bibliography.”[^153]
 In 2010, LAC made an online finding aid available, “Conducting Research on Residential Schools: A Guide to the Records of the Indian and Inuit Affairs Program and Related Resources at Library and Archives Canada.”[^154]
 
@@ -6235,24 +6235,24 @@ In the spirit of reconciliation, LAC archivists (along with church archivists) b
 For many Survivors, especially those who had no visual record of their own childhood or no pictures of siblings who have since passed away, this proved to be one of the most treasured aspects of the National Events experience.
 However, during this same time period, LAC’s holdings and its role in complying with the federal government’s legal obligations for document production, under the terms of the Settlement Agreement, became the focus of court proceedings between the TRC and the federal government.
 
-The TRC seeks full access to LAC records
+### The TRC seeks full access to LAC records
 
 Schedule N to the Indian Residential Schools Settlement Agreement describes the mandate of the TRC as well as the obligations of the parties to the Agreement to assist the Commission in its work.
 There is a provision that deals with the obligation of the parties to provide relevant records to the Commission.
 It states:
 
-In order to ensure the efficacy of the truth and reconciliation process, Canada and the churches will provide all relevant documents in their possession or control to and for the use of the Truth and Reconciliation Commission, subject to the privacy interests of an individual as provided by applicable privacy legislation, and subject to and in compliance with applicable privacy and access to information legislation,
+> In order to ensure the efficacy of the truth and reconciliation process, Canada and the churches will provide all relevant documents in their possession or control to and for the use of the Truth and Reconciliation Commission, subject to the privacy interests of an individual as provided by applicable privacy legislation, and subject to and in compliance with applicable privacy and access to information legislation,
 and except for those documents for which solicitor-client privilege applies and is asserted.
 
-In cases where privacy interests of an individual exist, and subject to and in compliance with applicable privacy legislation and access to information legislation, researchers for the Commission shall have access to the documents, provided privacy is protected.
+> In cases where privacy interests of an individual exist, and subject to and in compliance with applicable privacy legislation and access to information legislation, researchers for the Commission shall have access to the documents, provided privacy is protected.
 In cases where solicitor-client privilege is asserted, the asserting party will provide a list of all documents for which the privilege is claimed.
 
-Canada and the churches are not required to give up possession of their original documents to the Commission.
+> Canada and the churches are not required to give up possession of their original documents to the Commission.
 They are required to compile all relevant documents in an organized manner for review by the Commission and to provide access to their archives for the Commission to carry out its mandate.
 Provision of documents does not require provision of original documents.
 Originals or true copies may be provided or originals may be provided temporarily for copying purposes if the original documents are not to be housed with the Commission.
 
-Insofar as agreed to by the individuals affected and as permitted by process requirements, information from the Independent Assessment Process (IAP), existing litigation and Dispute Resolution processes may be transferred to the Commission for research and archiving purposes.[^155]
+> Insofar as agreed to by the individuals affected and as permitted by process requirements, information from the Independent Assessment Process (IAP), existing litigation and Dispute Resolution processes may be transferred to the Commission for research and archiving purposes.[^155]
 
 Gaining access to archival government records about the administration of the residential school system has been an important part of the mandate of the Truth and Reconciliation Commission of Canada.
 Such access has been essential for our own understanding of the history of government policy and practice in relation to Aboriginal peoples in general and residential schools in particular.
@@ -6266,7 +6266,7 @@ The Commission, Aboriginal Affairs and Northern Development Canada, the Departme
 In LAC’s view, its role was that of the neutral keeper of government records, whose task was to facilitate and empower federal government departments to canvass their own archival holdings.
 
 Faced with the onerous task of conducting its own research through LAC’s vast holdings, Canada’s position was that its obligation was limited to searching and producing relevant documents from the active and semi-active files in various departments.
-The government’s
+The government’s<!--x-->
 view became that departments need provide the TRC only with departmental researcher status to access their archived documents at LAC so that the Commission could conduct its own research.
 
 The TRC’s position was that Canada was obligated to produce all relevant documents, including those at LAC, and had an additional obligation to provide the Commission with access to LAC in order to conduct its own research.
@@ -6275,35 +6275,25 @@ The end result was that Canada had effectively shifted the onus of its responsib
 
 In rendering his decision in favour of the Commission, Justice Stephen Goudge ruled:
 
-In my view, the first paragraph of section 11 sets out Canada’s basic obligation concerning documents in its possession or control.
+> In my view, the first paragraph of section 11 sets out Canada’s basic obligation concerning documents in its possession or control.
 The plain meaning of the language is straightforward.
 It is to provide all relevant documents to the TRC.
 The obligation is in unqualified language unlimited by where the documents are located within the government of Canada.
-Nor is the obligation limited to the documents assembled by Canada for production in the underlying litigation.
-[para.
-69]
+Nor is the obligation limited to the documents assembled by Canada for production in the underlying litigation.[para. 69]
 
-I therefore conclude that given their meaning, the language in section 11 of Schedule N does not exclude documents archived at LAC from Canada’s obligation to the TRC.
-The context in which the Settlement Agreement was created provides further important support for that conclusion in several ways.
-[para.
-71]
+> I therefore conclude that given their meaning, the language in section 11 of Schedule N does not exclude documents archived at LAC from Canada’s obligation to the TRC.
+The context in which the Settlement Agreement was created provides further important support for that conclusion in several ways.[para. 71]
 
-First, telling the history of Indian Residential Schools was clearly seen as a central aspect of the mandate of the TRC when the Settlement Agreement was made.
-Since Canada played a vital role in the irs [Indian Residential School] system, Canada’s documents wherever they were held, would have been understood as a very important historical resource for this purpose.
-[para.
-72]
+> First, telling the history of Indian Residential Schools was clearly seen as a central aspect of the mandate of the TRC when the Settlement Agreement was made.
+Since Canada played a vital role in the irs [Indian Residential School] system, Canada’s documents wherever they were held, would have been understood as a very important historical resource for this purpose.[para. 72]
 
-Second, the Settlement Agreement charged the TRC with compiling an historical record of the irs system to be accessible to the public in the future.
-Here too, Canada’s documents, wherever housed, would have been seen to be vital to this task.
-[para.
-73]
+> Second, the Settlement Agreement charged the TRC with compiling an historical record of the irs system to be accessible to the public in the future.
+Here too, Canada’s documents, wherever housed, would have been seen to be vital to this task.[para. 73]
 
-Third, the story of the history and the historical record to be compiled cover over 100 years and dates back to the nineteenth century.
-In light of this time span, it would have been understood at the time of the Settlement Agreement that much of the relevant documentary record in Canada’s possession would be archived in LAC and would no longer be in the active or semi-active files of the departments of the Government of Canada.
-[para.
-74]
+> Third, the story of the history and the historical record to be compiled cover over 100 years and dates back to the nineteenth century.
+In light of this time span, it would have been understood at the time of the Settlement Agreement that much of the relevant documentary record in Canada’s possession would be archived in LAC and would no longer be in the active or semi-active files of the departments of the Government of Canada.[para. 74]
 
-Fourth, it would have been obvious that the experienced staff at LAC would have vastly more ability to identify and organize the relevant documents at LAC than would the newly hired staff of the newly formed TRC.
+> Fourth, it would have been obvious that the experienced staff at LAC would have vastly more ability to identify and organize the relevant documents at LAC than would the newly hired staff of the newly formed TRC.
 It would have made little sense to give
 that task to the latter rather than the former, particularly given its importance to the TRC’s mandate.
 [para.
@@ -6312,15 +6302,15 @@ that task to the latter rather than the former, particularly given its importanc
 Although the difficulties the TRC encountered in obtaining LAC documents were specific to the Commission’s mandate, they highlight broader questions concerning the role of state archives and archivists in providing documents that reveal the facts of why and how a targeted group of people have suffered harms on a massive scale.
 As part of a growing trend towards demanding better government accountability and transparency, and the evolution of new privacy and freedom of information legislation, archives have become more directly connected to struggles for human rights and justice.[^157]
 
-Archives and access to justice
+### Archives and access to justice
 
 Library and Archives Canada’s federal government departmental records pertaining to Aboriginal peoples are vital to understanding how human rights violations occurred and their subsequent impacts.
-In 2005, the United Nations adopted the Joinet-Orentlicher Principles, which set out remedial measures that states must undertake to satisfy their duty to guard against impunity from past human rights violations and prevent their reoccurrence.
+In 2005, the United Nations adopted the _Joinet-Orentlicher Principles_, which set out remedial measures that states must undertake to satisfy their duty to guard against impunity from past human rights violations and prevent their reoccurrence.
 This includes victims’ right to know the truth about what happened to them and their missing family members.
 Society at large also has the right to know the truth about what happened in the past and what circumstances led to mass human rights violations.
 The state has a duty to safeguard this knowledge and to ensure that proper documentation is preserved in archives and history books.
 
-The Joinet-Orentlicher Principles state, “The full and effective exercise of the right to truth is ensured through preservation of archives.”
+The _Joinet-Orentlicher Principles_ state, “The full and effective exercise of the right to truth is ensured through preservation of archives.”
 Equally important, ready access to the archives must be facilitated for victims and their relatives, and for the purposes of research (principles 5, 14, 15, 16).[^158]
 
 The Commission notes that in his August 2013 report to the United Nations Human Rights Council, Pablo de Greiff, Special Rapporteur on the Promotion of Truth, Justice, Reparation and Guarantees of Non-Recurrence, made specific reference to the importance of archives.
@@ -6328,7 +6318,7 @@ He found that both a truth commission’s own records and those housed in nation
 Archives can serve as permanent sites where post-commission accountability and the right to truth can be realized.[^159]
 He further explained that archives “are a means of guaranteeing that the voices of victims will not be lost, and they contribute to a culture of memorialisation and remembrance.
 They also provide a safeguard against revisionism and denial—essential given the long duration and non-linearity of social reconciliation and integration processes.”[^160]
-He concluded that “truth commissions and national archives contribute in a substantial manner to realizing the right to truth and may further
+He concluded that “truth commissions and national archives contribute in a substantial manner to realizing the right to truth and may further<!--x-->
 criminal prosecutions, reparations, and institutional and personnel reforms,” and recommended that international archival standards be established.[^161]
 
 Although de Greiff does not reference Indigenous peoples specifically, we note that in many countries, including Canada, the access to, and protection of, historical records have been instrumental in advancing the rights of Indigenous peoples and documenting the state’s wrongful actions.
@@ -6338,17 +6328,18 @@ In the wake of the South African and other truth commissions, some archivists ha
 
 69. We call upon Library and Archives Canada to:
 
-    1. Fully adopt and implement the _United Nations Declaration on the Rights of Indigenous Peoples_ and the United Nations Joinet-Orentlicher Principles, as related to Aboriginal peoples’ inalienable right to know the truth about what happened and why, with regard to human rights violations committed against them in the residential schools.
+    1. Fully adopt and implement the _United Nations Declaration on the Rights of Indigenous Peoples_ and the United Nations _Joinet-Orentlicher Principles_, as related to Aboriginal peoples’ inalienable right to know the truth about what happened and why, with regard to human rights violations committed against them in the residential schools.
 
     2. Ensure that its record holdings related to residential schools are accessible to the public.
 
     3. Commit more resources to its public education materials and programming on residential schools.
+
 70. We call upon the federal government to provide funding to the Canadian Association of Archivists to undertake, in collaboration with Aboriginal peoples, a national review of archival policies and best practices to:
 
-    1. Determine the level of compliance with the _United Nations Declaration on the Rights of Indigenous Peoples_ and the United Nations Joinet-Orentlicher Principles, as related to Aboriginal peoples’ inalienable right to know the truth about what happened and why, with regard to human rights violations committed against them in the residential schools.
+    1. Determine the level of compliance with the _United Nations Declaration on the Rights of Indigenous Peoples_ and the United Nations _Joinet-Orentlicher Principles_, as related to Aboriginal peoples’ inalienable right to know the truth about what happened and why, with regard to human rights violations committed against them in the residential schools.
 
     2. Produce a report with recommendations for full implementation of these international mechanisms as a reconciliation framework for Canadian archives.
-Missing children, unmarked graves, and residential school cemeteries
+### Missing children, unmarked graves, and residential school cemeteries
 
 Over the course of the Commission’s work, many Aboriginal people spoke to us about the children who never came home from residential school.
 The question of what happened to their loved ones and where they were laid to rest has haunted families and communities.
@@ -6367,7 +6358,7 @@ The TRC contacted offices of provincial vital statistics across the country.
 At the Alberta National Event, Assistant Deputy Minister Peter Cunningham, from the Ministry of Aboriginal Relations and Reconciliation in British Columbia, offered a flash drive in a small, carved, bentwood box, as an expression of reconciliation.
 He said,
 
-I think it’s incredibly important that all of the information comes out about what was a very deeply dark and disturbing event in Canadian history …
+> I think it’s incredibly important that all of the information comes out about what was a very deeply dark and disturbing event in Canadian history …
 residential schools…
 I’m here today to add to that body of knowledge on behalf of the government of British Columbia and the Vital Statistics Agency of bc…
 The information on this flash drive is information about Aboriginal children between the ages of 4 and 19 years of age who died in British Columbia between the years 1870 and 1984.[^163]
@@ -6391,6 +6382,7 @@ There is a need for the federal government to ensure that appropriate measures a
 #### Calls to Action
 
 73. We call upon the federal government to work with churches, Aboriginal communities, and former residential school students to establish and maintain an online registry of residential school cemeteries, including, where possible, plot maps showing the location of deceased residential school children.
+
 74. We call upon the federal government to work with the churches and Aboriginal community leaders to inform the families of children who died at residential schools of the child’s burial location, and to respond to families’ wishes for appropriate commemoration ceremonies and markers, and reburial in home communities where requested.
 
 As Commissioners, we have been honoured to bear witness to commemoration ceremonies held by communities to remember and honour children who died in the residential schools.
@@ -6405,10 +6397,9 @@ You’re the one who is going to find my little brother.”
 Lyle learned that along with three other students who had died at the same time, David was buried in the Red Deer City Cemetery.
 Lyle also became aware of the existence of the school cemetery beside Sylvan Creek.
 
-Rev.
-Cecile Fausak164 explained,
+Rev. Cecile Fausak164 explained,
 
-Around 2004 …
+> Around 2004 …
 people at Sunnybrook United Church began to ask themselves, “Is there anything we can do to build better relations with First Nations peoples in this area?”
 And Lyle, remembering back, suggested then, “There is this little project.
 The children who were buried at the long-neglected [residential] school cemetery and in this city need to be remembered.”
@@ -6418,7 +6409,7 @@ In September 2009, over thirty people from those concerned First Nations and Mé
 
 Muriel Stanley Venne, from the Sunnybrook United Church, continued,
 
-A working group was formed to organize the first [commemoration] feast, which was held at Fort Normandeau, on June 30, 2010.
+> A working group was formed to organize the first [commemoration] feast, which was held at Fort Normandeau, on June 30, 2010.
 As the more than 325 names of students were read, a hush fell over the crowd…
 Since then the collaboration [has] continued, with First Nations Treaty 6 and 7, Métis Nation of Alberta, United Church members, the Red Deer Museum and Art Gallery, the City and County [of Red Deer], the [Indian] Friendship Centre, and school boards.
 This led to the formation of the Remembering the Children Society in 2011…
@@ -6428,8 +6419,8 @@ At the third gathering, many descendants shared stories of the impact on them, t
 
 Charles Wood then said,
 
-The Society has worked with the museum in developing a new standing exhibit and with the Waskasoo Park administration in the preparation of new interpretive signage at Fort Normandeau regarding the school history.
-We are grateful for the truth spoken of a painful shared history, the friendships we have formed, and the
+> The Society has worked with the museum in developing a new standing exhibit and with the Waskasoo Park administration in the preparation of new interpretive signage at Fort Normandeau regarding the school history.
+We are grateful for the truth spoken of a painful shared history, the friendships we have formed, and the<!--x-->
 healing that has happened as a result of working together for over five years.
 We will continue to remember the children of the past and present.
 In the Bentwood Box, as symbols of our work together, we place a program of the first ceremony, a dvd from the museum display, flower and ribbon pins from the third feast, and a copy of guidelines we have published of our experience, for those who wish to undertake a similar recovery of a residential school cemetery.[^165]
@@ -6455,7 +6446,7 @@ Therefore, it is important that locally collected information is shared with age
 
 Such information sharing is hindered by limited documentation, unclear jurisdictional responsibility, and uncoordinated consolidation of information.
 These problems could be addressed through the establishment of a registry of residential school cemeteries that could be available online.
-At a minimum, such a registry should include the identification,
+At a minimum, such a registry should include the identification,<!--x-->
 duration, and affiliation of each cemetery; its legal description; current land ownership and condition; and its location coordinates.
 
 The complex and sensitive work of documenting, maintaining, commemorating, and protecting residential school cemeteries must be undertaken according to a set of guiding principles that are based on community priorities and knowledge.
@@ -6484,7 +6475,7 @@ The Commission believes that assisting families to learn the fate of children wh
 Archives and government departments and agencies have a crucial role to play in this process.
 Equally important, archival records can help Survivors, their families, and communities to reconstruct their family and community histories.
 Yet, accessing such holdings is not without problems.
-The limitations of archives
+### The limitations of archives
 
 We have outlined how Library and Archives Canada has dealt with its residential school records.
 Other records that are relevant to the history and legacy of the residential school system are scattered across the country in provincial, territorial, municipal, and local archives, as well as in government departments and agencies that were not parties to the Settlement Agreement.
@@ -6493,7 +6484,7 @@ All this has made it extremely difficult for Survivors, their families, and comm
 The Settlement Agreement church archives, to varying degrees, have endeavoured to make their residential school records more accessible to Survivors, their families and communities, researchers, and the general public.[^166]
 For example, the United Church of Canada has made all its residential school photographs and school histories available online to make them more accessible to Survivors and others, and “as a form of repatriation to First Nations communities.”[^167]
 
-The National Centre for Truth and Reconciliation: An emerging model
+### The National Centre for Truth and Reconciliation: An emerging model
 
 Archives may be viewed with distrust by First Nations, Inuit, and Métis peoples.
 Many feel that much of their lives is contained in documents (most of which they have never seen) kept by the state in order to study and categorize them in a depersonalized way.[^168]
@@ -6506,13 +6497,13 @@ Implementing a new approach to public education, research, and record keeping, t
 Along with other museums and archives across the country, the centre will shape how the residential school era is understood and remembered.
 
 The concept of the National Centre for Truth and Reconciliation has deep roots.
-For many years, Survivors and their supporters called for a centre that would be their lasting legacy
+For many years, Survivors and their supporters called for a centre that would be their lasting legacy<!--x-->
 to their own history and to Canada’s national memory.
 In March 2011, the TRC hosted an international forum in Vancouver, “Sharing Truth: Creating a National Research Centre on Residential Schools,” to study how records and other materials from truth and reconciliation commissions around the world have been archived.[^170]
 Several speakers talked about their vision for the NCTR.
 Georges Erasmus, former co-chair of the Royal Commission on Aboriginal Peoples, and then president of the Aboriginal Healing Foundation, said,
 
-Those who become the keepers of the archives become stewards of human stories and relationships, of what has been an endowment to what will be.
+> Those who become the keepers of the archives become stewards of human stories and relationships, of what has been an endowment to what will be.
 Because no legacy is enriched by counterfeit; a nation is ill served by a history which is not genuine.
 This is a high calling indeed and it must be said that too often the promise and the potential of this stewardship has gone unrealized…
 If the stories of our people are not accessible to the general public, it will be as if their experiences never occurred.
@@ -6535,13 +6526,13 @@ It is intended to be a welcoming and safe place for Survivors, their families, a
 The centre has committed to creating a culturally rooted and healing environment where all Canadians can honour, learn from, and commemorate the history and legacy of the residential schools.
 
 Once the centre is fully operational, it will be well positioned to take a leadership role in forging new directions in residential school- and Indigenous rights-based research, establishing new standards and benchmarks for archival and museum policy, management, and operations, based on Indigenous and Western principles and best practices.
-The University of Manitoba and its partners173 have emphasized that the centre recognizes the
+The University of Manitoba and its partners[^173] have emphasized that the centre recognizes the
 
-paramount importance of accessibility [for] the Aboriginal survivor, family member [or]researcher, [and is] committed to recognition of Aboriginal peoples as co-creators of the irs records, through co-curation and participatory archiving; and committed to continuing the work of the TRC of statement-gathering, public education, engagement and outreach.[^174]
+> paramount importance of accessibility [for] the Aboriginal survivor, family member [or]researcher, [and is] committed to recognition of Aboriginal peoples as co-creators of the irs records, through co-curation and participatory archiving; and committed to continuing the work of the TRC of statement-gathering, public education, engagement and outreach.[^174]
 
 The NCTR will incorporate an
 
-archival system and approach which is devoted to “reconciling records”; [it] will …
+> archival system and approach which is devoted to “reconciling records”; [it] will …
 support Indigenous frameworks of knowledge, memory and evidence, and reposition …
 Indigenous communities as co-creators of archival records that relate to them, including government archives.
 Such approaches acknowledge rights in records that extend beyond access to working in partnership with archival institutions to manage appraisal, description and accessibility of records relating to Indigenous communities.[^175]
@@ -6550,7 +6541,7 @@ The centre is committed to “establish[ing] trust with Aboriginal communities b
 The process of participatory archiving, interacting with as complete a record as possible, will be a powerful force for reconciliation and healing.”[^176]
 As well, the Centre for Truth and Reconciliation is also committed to
 
-personally supporting survivors, their families, and all researchers in navigating, using, and understanding the records, in a culturally sensitive environment.
+> personally supporting survivors, their families, and all researchers in navigating, using, and understanding the records, in a culturally sensitive environment.
 The support that the nrc will provide includes emotionally-sensitive support, acknowledging that accessing the nrc documents may be traumatic, difficult or otherwise emotional experiences for many users.
 An Elder will be present or on call (from a nearby building) most of the time the nrc is open to the public.
 LAC and other government departments have no mandate or capacity to offer these various supports, which are critical to relationship-building and overcoming the perception of archives as yet another mechanism of colonization, cultural appropriation by Western society and hyper-surveillance and objectification of Aboriginal peoples.[^177]
@@ -6558,7 +6549,7 @@ LAC and other government departments have no mandate or capacity to offer these 
 On June 21, 2013, First Nations, Inuit, and Métis Survivors, Elders, the TRC, the University of Manitoba and its partner institutions, along with other dignitaries, gathered in Treaty 1 territory of the Anishinaabe peoples and homeland of the Métis Nation for a signing ceremony at the University of Manitoba.[^178]
 The signing of a Trust Deed with the university marks the transfer of a sacred trust—a solemn promise that the Truth and Reconciliation Commission made to Survivors and all those affected by the residential schools as it travelled across the country, bearing witness to their testimonies.
 
-The NCTR is committed to making all its holdings readily accessible to Survivors, their families, and communities, as well as to the public, educators, and researchers.[^179]
+The NCTR is committed to making all its holdings readily accessible to Survivors, their families, and communities, as well as to the public, educators, and researchers.[^179]<!--x-->
 To support reconciliation at the local level, the Commission believes, it will be especially important to ensure that communities are able to access the centre’s holdings and resources in order to produce histories of their own residential school experiences and their involvement in the truth, healing, and reconciliation process.
 
 The centre will be a living legacy, a teaching and learning place for public education to promote understanding and reconciliation through ongoing statement gathering, new research, commemoration ceremonies, dialogues on reconciliation, and celebrations of Indigenous cultures, oral histories, and legal traditions.[^180]
@@ -6566,9 +6557,10 @@ The centre will be a living legacy, a teaching and learning place for public edu
 #### Calls to Action
 
 77. We call upon provincial, territorial, municipal, and community archives to work collaboratively with the National Centre for Truth and Reconciliation to identify and collect copies of all records relevant to the history and legacy of the residential school system, and to provide these to the National Centre for Truth and Reconciliation.
+
 78. We call upon the Government of Canada to commit to making a funding contribution of $10 million over seven years to the National Centre for Truth and Reconciliation, plus an additional amount to assist communities to research and produce histories of their own residential school experience and their involvement in truth, healing, and reconciliation.
 
-Public memory: Dialogue, the arts, and commemoration
+### Public memory: Dialogue, the arts, and commemoration
 
 For Survivors who came forward at the TRC’s National Events and Community Hearings, remembering their childhood often meant reliving horrific memories of abuse, hunger, and neglect.
 It meant dredging up painful feelings of loneliness, abandonment, and shame.
@@ -6582,7 +6574,7 @@ They want Canadians to know, to remember, to care, and to change.
 
 One of the most significant harms to come out of the residential schools was the attack on Indigenous memory.
 The federal government’s policy of assimilation sought to break the chain of memory that connected the hearts, minds, and spirits of Aboriginal children to their families, communities, and nations.
-Many, but not all, Survivors have found ways
+Many, but not all, Survivors have found ways<!--x-->
 to restore those connections.
 They believe that reconciliation with other Canadians calls for changing the country’s collective, national history so that it is based on the truth about what happened to them as children, and to their families, communities, and nations.
 
@@ -6595,9 +6587,9 @@ The youth of this country are taking up this challenge.
 
 At the Alberta National Event in March 2014, Jessica Bolduc, an Indigenous youth representing the 4Rs Youth Movement, a national consortium of Indigenous and non-Indigenous youth-representing organizations, said:
 
-We have re-examined our thoughts and beliefs around colonialism, and have made a commitment to unpack our own baggage, and to enter into a new relationship with each other, using this momentum, to move our country forward, in light of the 150th anniversary of the Confederation of Canada in 2017.
+> We have re-examined our thoughts and beliefs around colonialism, and have made a commitment to unpack our own baggage, and to enter into a new relationship with each other, using this momentum, to move our country forward, in light of the 150th anniversary of the Confederation of Canada in 2017.
 
-At this point in time, we ask ourselves, “What does that anniversary mean for us, as Indigenous youth and non-Indigenous youth, and how do we arrive at that day with something we can celebrate together?”…
+> At this point in time, we ask ourselves, “What does that anniversary mean for us, as Indigenous youth and non-Indigenous youth, and how do we arrive at that day with something we can celebrate together?”…
 Our hope is that, one day, we will live together, as recognized nations, within a country we can all be proud of.[^181]
 
 Reshaping national history is a public process, one that happens through discussion, sharing, and commemoration.
@@ -6611,7 +6603,7 @@ Unlike some truth and reconciliation commissions that have focused on individual
 Of course, previously inaccessible archival documents are critically important to correcting the historical record, but we have given equal weight and greater voice to Indigenous oral-based history, legal traditions, and memory practices in our work and in this final report, since these represent the previously unheard and unrecorded versions of history, knowledge, and wisdom.[^184]
 This has significantly informed our thinking about why repairing and revitalizing individual, family, and community memory are so crucial to the truth and reconciliation process.
 
-Dialogue: Ceremony, testimony, and witnessing
+### Dialogue: Ceremony, testimony, and witnessing
 
 Just as Survivors were involved in the long struggle to achieve a legally binding Settlement Agreement for the harms they have experienced, and an official apology, they have also continued to advise the Commission as it has implemented its mandate.
 Guided by Elders, Knowledge Keepers, and the members of the TRC Survivor Committee, the Commission has made Aboriginal oral history, legal traditions, and memory practices—ceremony, protocols, and the rituals of storytelling and testimonial witnessing— central to the TRC’s National Events, Community Hearings, forums, and dialogues.
@@ -6619,7 +6611,7 @@ The Commission’s proceedings themselves constitute an oral history record, dul
 Working with local communities in each region, sacred ceremonies and protocols were performed and followed at all TRC events.
 Elders and traditional healers ensured that a safe environment was created for truth sharing, apology, healing, and acts of reconciliation.
 
-The power of ceremony
+### The power of ceremony
 
 Sacred ceremony has always been at the heart of Indigenous cultures, law, and political life.
 When ceremonies were outlawed by the federal government, they were hidden away until the law was repealed.
@@ -6627,7 +6619,7 @@ Historically and, to a certain degree, even at present, Indigenous ceremonies th
 These ceremonies must now be recognized and honoured as an integral, vital, ongoing dimension of the truth and reconciliation process.
 
 Ceremonies also reach across cultures to bridge the divide between Aboriginal and non-Aboriginal peoples.
-They are vital to reconciliation because of their sacred nature
+They are vital to reconciliation because of their sacred nature<!--x-->
 and because they connect people, preparing them to listen respectfully to each other in a difficult dialogue.
 Ceremonies are an affirmation of human dignity; they feed our spirits and comfort us even as they call on us to reimagine or envision finding common ground.
 Ceremonies validate and legitimize Treaties, family and kinship lines, and connections to the land.
@@ -6664,7 +6656,7 @@ The Bentwood Box is a lasting tribute to all residential school Survivors and th
 This ceremonial box travelled with the Commission to every one of its seven National Events, where offerings—public expressions of reconciliation—were made by governments, churches and other faith communities, educational institutions, the business sector, municipalities, youth groups, and various other groups and organizations.
 The Truth and Reconciliation Bentwood Box, along with the many other sacred items the TRC received, will be housed permanently in the National Centre for Truth and Reconciliation at the University of Manitoba in Winnipeg.[^188]
 
-Life stories, testimonies, and witnessing as teachings
+### Life stories, testimonies, and witnessing as teachings
 
 Reconciliation is not possible without knowing the truth.
 In order to determine the truth and be able to tell the full and complete story of residential schools in this country, it was fundamentally important to the Commission’s work to be able to hear the stories of Survivors and their families.
@@ -6683,7 +6675,7 @@ They remembered so that Canada will know the truth and never forget.
 
 The residential school story is complicated.
 Stories of abuse stand in sharp contradiction to the happier memories of some Survivors.
-The statements of former residential school
+The statements of former residential school<!--x-->
 staff also varied.
 Some were remorseful while others were defensive.
 Some were proud of their students and their own efforts to support them while others were critical of their own school and government authorities for their lack of attention, care, and resources.
@@ -6703,7 +6695,7 @@ For Indigenous peoples, stories and teachings are rooted in relationships.
 Through stories, knowledge and understanding about what happened and why are acquired, validated, and shared with others.
 Writing about her work with Survivors from her own community, social work scholar Qwul’sih’yah’maht (Robina Anne Thomas) said,
 
-I never dreamed of learning to listen in such a powerful way.
+> I never dreamed of learning to listen in such a powerful way.
 Storytelling, despite all the struggles, enabled me to respect and honour the Ancestors and the storytellers while at the same time sharing tragic, traumatic, inhumanely unbelievable truths that our people had lived.
 It was this level of integrity that was essential to storytelling…
 When we make personal what we teach …
@@ -6731,7 +6723,7 @@ Survivors told the Commission that an important reason for breaking their silenc
 The effect of this on intergenerational Survivors was significant.
 At the Manitoba National Event, Desarae Eashappie said,
 
-I have sat through this week having the honour of listening to the stories from Survivors.
+> I have sat through this week having the honour of listening to the stories from Survivors.
 And I just feel—I just really want to acknowledge everybody in this room, you know, all of our Elders, all of our Survivors, all of our intergenerational Survivors…
 We are all sitting here in solidarity right now …
 and we are all on our own journey, and [yet we are] sitting here together …
@@ -7143,7 +7135,7 @@ The minister is advised by the Historic Sites and Monuments Board of Canada “o
 The board reviews and makes recommendations on submissions received from Canadian citizens who make nominations through the National Program of Historical Commemoration.[^227]
 Heritage sites, monuments, and plaques that celebrate Canada’s past are common, but commemorating those aspects of our national history that reveal cultural genocide, human rights violations, racism, and injustice are more problematic.
 
-As we noted earlier, at the international level, the Joinet-Orentlicher Principles adopted by the United Nations have established that states have a responsibility to take measures to ensure that collective violence against a targeted group of people does not reoccur.
+As we noted earlier, at the international level, the _Joinet-Orentlicher Principles_ adopted by the United Nations have established that states have a responsibility to take measures to ensure that collective violence against a targeted group of people does not reoccur.
 In addition to providing compensation, making apologies, and undertaking educational reform, states also have a duty “to remember.”
 Under Principle 2,
 
@@ -8429,7 +8421,7 @@ bc/comm-board/Transparence-Transparency.aspx (accessed 15 April 2015).
 227.	 Parks Canada, Historic Sites and Monuments Board of Canada, National Program of Historical
 
 Commemoration, http://www.pc.gc.ca/clmhc-hsmbc/ncp-pcn.aspx (accessed 15 April 2015).
-228.	 Joinet-Orentlicher Principles, cited in United Nations Human Rights Council, “Report of the Special
+228.	 _Joinet-Orentlicher Principles_, cited in United Nations Human Rights Council, “Report of the Special
 
 Rapporteur,” 8, http://www.ohchr.org/EN/HRBodies/HRC/RegularSessions/Session25/Pages/ ListReports.aspx.
 229.	 United Nations Human Rights Council, “Report of the Special Rapporteur,” 14, http://www.ohchr.

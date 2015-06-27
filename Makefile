@@ -26,13 +26,14 @@ $(SPLIT)/*.pdf: $(SOURCE)
 ###### REAL MAKE (called once we have all source pages ready)
 SOURCES := $(wildcard $(SPLIT)/*.pdf)
 TARGETS := $(SOURCES:$(SPLIT)/%.pdf=$(FIXED)/%.md)
+AUX_DEPS = refs.txt abbrevs.md
 
 pages: $(TARGETS)
 
 $(TXT_EXTRACT)/%.txt: $(SPLIT)/%.pdf mkdirs
 	pdftotext -enc UTF-8 $< $@
 
-$(TXT_AUTO)/%.md: $(TXT_EXTRACT)/%.txt mkdirs
+$(TXT_AUTO)/%.md: $(TXT_EXTRACT)/%.txt $(AUX_DEPS) mkdirs
 	python lib/autofixtext.py $< $@
 
 $(IMG_EXTRACT)/%-0000.jpg: $(SPLIT)/%.pdf mkdirs
