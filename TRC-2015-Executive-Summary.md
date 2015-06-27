@@ -7290,9 +7290,7 @@ to ‘progress’ in Canada?
 Are attitudes of distrust and fear underlying our decisions to dispatch a crew to the latest Aboriginal blockade?
 Is there no iconic photo of reconciliation, because no one from the newsrooms believes harmony between Aboriginal peoples and settlers is ‘newsworthy’?[^253]
 
-Historian J.
-R.
-Miller has observed that when conflicts between Aboriginal peoples and the state have occurred in places like Oka or Ipperwash Park, for example, “politicians, journalists and ordinary citizens understood neither how nor why the crisis of the moment had arisen, much less how its deep historical roots made it resistant to solutions…
+Historian J. R. Miller has observed that when conflicts between Aboriginal peoples and the state have occurred in places like Oka or Ipperwash Park, for example, “politicians, journalists and ordinary citizens understood neither how nor why the crisis of the moment had arisen, much less how its deep historical roots made it resistant to solutions…
 [This] does not bode well for effective public debate or sensible policy-making.”[^254]
 
 In the Commission’s view, the media’s role and responsibility in the reconciliation process require journalists to be well informed about the history of Aboriginal peoples and the issues that affect their lives.
@@ -7300,7 +7298,7 @@ As we have seen, this is not necessarily the case.
 Studies of media coverage of conflicts involving Aboriginal peoples have borne this out.
 In the conflict between some of the descendants of members of the Stony Point Reserve and their supporters and the Ontario Provincial Police in Ipperwash Provincial Park in 1995, which resulted in the death of Dudley George, journalism professor John Miller concluded,
 
-Much of the opinion—and there was a lot of it—was based not on the facts of the Ipperwash occupation, but on crude generalizations about First Nations people that fit many of the racist stereotypes that …
+> Much of the opinion—and there was a lot of it—was based not on the facts of the Ipperwash occupation, but on crude generalizations about First Nations people that fit many of the racist stereotypes that …
 have [been] identified…
 Accurate, comprehensive coverage can promote understanding and resolution, just as inaccurate, incomplete and myopic coverage can exacerbate stereotypes and prolong confrontations…
 Reporters are professionally trained to engage in a discipline of verification, a process that is often mistakenly referred to as “objectivity.”
@@ -7310,12 +7308,12 @@ research shows that news is not selected randomly or objectively.[^255]
 Miller identified nine principles of journalism that journalists themselves have identified as essential to their work.
 Of those, he said,
 
-Journalism’s first obligation is to the truth…
+> Journalism’s first obligation is to the truth…
 Journalism does not pursue truth in an absolute or philosophical sense, but it can—and must—pursue it in a practical sense…
 Even in a world of expanding voices, accuracy is the foundation upon which everything else is built—context, interpretation, comment, criticism, analysis and debate.
 The truth, over time, emerges from this forum…
 
-Its practitioners must be allowed to exercise their personal conscience.
+> Its practitioners must be allowed to exercise their personal conscience.
 Every journalist must have a personal sense of ethics and responsibility—a moral compass.
 Each of us must be willing, if fairness and accuracy require, to voice differences with our colleagues…
 This stimulates the intellectual diversity necessary to understand and accurately cover an increasingly diverse society.
@@ -7333,34 +7331,34 @@ Some told us in off-the-record conversations that their perspectives and underst
 
 86. We call upon Canadian journalism programs and media schools to require education for all students on the history of Aboriginal peoples, including the history and legacy of residential schools, the _United Nations Declaration on the Rights of Indigenous Peoples_, Treaties and Aboriginal rights, Indigenous law, and Aboriginal– Crown relations.
 
-Sports: Inspiring lives, healthy communities
+### Sports: Inspiring lives, healthy communities
 
 The Commission heard from Survivors that the opportunity to play sports at residential school made their lives more bearable and gave them a sense of identity, accomplishment, and pride.
 At the Alberta National Event, Survivor Theodore (Ted) Fontaine placed a bundle of mementoes into the Bentwood Box as expressions of reconciliation.
 It included a pair of baseball pants that he had worn at residential school.
 He said,
 
-These woollen baseball pants carry a story of their own …
+> These woollen baseball pants carry a story of their own …
 these are the baseball pants that I wore in 1957–58, as a fifteen-year-old incarcerated boy at the Fort Alexander residential school…
 Little did I know that my mom would treasure and keep them as a memento of her youngest boy.
 When I leave this land, they won’t have anywhere else to go, so I hope the Bentwood Box keeps them well…
 
-When we were little boys at Fort Alexander residential school, our only chance to play hockey literally did save our lives.
+> When we were little boys at Fort Alexander residential school, our only chance to play hockey literally did save our lives.
 A lot of people here will attest to that.
 As a young man, playing hockey saved me…
 And later, playing with the Sagkeeng Old-Timers saved me again…
 I came back twenty years later, fifteen years later and started playing with an old-timers hockey team in Fort Alexander…
 In 1983, we ended up winning the first World Cup by an Indigenous team, in Munich, Germany…
 So I’m including in this bundle, a story of the old-timers, a battalion of Anishinaabe hockey players who saved themselves and their friends by winning, not only winning in Munich, Germany, but in three or four other hockey tournaments in Europe…
-People ask me, “Why don’t you just enjoy life now instead of working so hard on reconciliation and talking about residential schools?
+> People ask me, “Why don’t you just enjoy life now instead of working so hard on reconciliation and talking about residential schools?
 What do you expect to achieve?”
 The answer is “freedom.”
 I am free.[^257]
 
-Later that same day, journalist Laura Robinson’s expression of reconciliation was a copy of the documentary FrontRunners, which she produced for APTN, about some residential school athletes who had made history.
+Later that same day, journalist Laura Robinson’s expression of reconciliation was a copy of the documentary _FrontRunners_, which she produced for APTN, about some residential school athletes who had made history.
 She said,
 
-In 1967, ten teenage First Nations boys, all good students and great runners, ran with the 1967 Pan Am Games torch, from St.
+> In 1967, ten teenage First Nations boys, all good students and great runners, ran with the 1967 Pan Am Games torch, from St.
 Paul, Minnesota, to Winnipeg, a distance of 800 kilometres, which they did successfully…
 But the young men who delivered that torch to the stadium were turned away at the door.
 They were not allowed in to watch those games.
@@ -7369,7 +7367,7 @@ One of them told me that he remembered being turned around, [and] put back on th
 In 1999, Winnipeg hosted the Pan Am Games again and the organizers realized what had happened.
 They tracked down the original runners, apologized, and thirty-two years later, as men in their fifties, those runners finished that 400 metres and brought the torch in…
 
-Sport is a place that we speak a universal language—a language of shared passion for moving our bodies through time and space, with strength and skill.
+> Sport is a place that we speak a universal language—a language of shared passion for moving our bodies through time and space, with strength and skill.
 This summer [2014], Regina will host the North American Indigenous Games…
 Let us all hope, and commit to reconcile divisiveness, racism, and stereotypes through the world of sport and support each and every young person attending those games.
 Because they are the frontrunners of the future.[^258]
@@ -7377,11 +7375,12 @@ Because they are the frontrunners of the future.[^258]
 Such stories are indicative of the need for the rich history of Aboriginal peoples’ contributions to sport to become part of Canadian sport history.
 
 On November 18, 2014, we attended an event hosted by the Law Society of Upper Canada to celebrate the first time an Aboriginal community—the Mississaugas of the New Credit First Nation—was to be the Host First Nation for the Pan-Parapan American Games, held in Toronto in July and August of 2015.
-The FrontRunners attended and were honoured in a traditional blanketing ceremony.[^259]
+The _FrontRunners_ attended and were honoured in a traditional blanketing ceremony.[^259]
 
 #### Calls to Action
 
 87. We call upon all levels of government, in collaboration with Aboriginal peoples, sports halls of fame, and other relevant organizations, to provide public education that tells the national story of Aboriginal athletes in history.
+
 88. We call upon all levels of government to take action to ensure long-term Aboriginal athlete development and growth, and continued support for the North American Indigenous Games, including funding to host the games and for provincial and territorial team preparation and travel.
 Aboriginal youth today face many barriers to leading active, healthy lives in their communities.
 They lack opportunities to pursue excellence in sports.
@@ -7390,8 +7389,7 @@ Lack of resources, sports facilities, and equipment limits their ability to play
 Racism remains an issue.
 Aboriginal girls face the extra barrier of gender discrimination.[^260]
 Despite the many achievements of individual Indigenous athletes, too many Aboriginal youth remain excluded from community-based sports activities and the pursuit of excellence in sport.
-The Physical Activity and Sport Act (2003) set out the federal government’s sport policy regarding the full and fair participation of all Canadians in sport, and mandated the minister to “facilitate the participation of under-represented groups in the Canadian sport system” (S.
-5.m).
+The Physical Activity and Sport Act (2003) set out the federal government’s sport policy regarding the full and fair participation of all Canadians in sport, and mandated the minister to “facilitate the participation of under-represented groups in the Canadian sport system” (S. 5.m).
 However, the Act made no specific reference to Aboriginal peoples.[^261]
 
 #### Call to Action
@@ -7404,13 +7402,13 @@ However, no action plan was subsequently developed to implement the policy.[^263
 In 2011, in preparation for revising the 2002 Canadian Sport Policy (csp), Sport Canada conducted a series of consultations across the country, including a roundtable on “Sport and Aboriginal Peoples.”
 The roundtable summary report noted:
 
-Participants believe that the needs and issues of Aboriginal Peoples were not adequately reflected in the 2002 csp…
+> Participants believe that the needs and issues of Aboriginal Peoples were not adequately reflected in the 2002 csp…
 The feeling among the participants was that the previous policy had “no teeth.”…
 The new csp should acknowledge the unique identity of Aboriginal Peoples, what Aboriginal Peoples can contribute to Canadian sport …
 and make a clear commitment to action.
 The csp can support sport for Aboriginal Peoples by reflecting Aboriginal culture and realities, cross-cultural issues between Aboriginal and non-Aboriginal Peoples, and an understanding of the motivation behind the interest of Aboriginal Peoples in sport…
 If the new policy doesn’t reflect the needs and issues of Aboriginal sport, then it will not be relevant to the Aboriginal population…
-It would be important to recognize that the barriers to sport extend beyond a lack of resources and gaps and weaknesses in the sport
+It would be important to recognize that the barriers to sport extend beyond a lack of resources and gaps and weaknesses in the sport<!--x-->
 system.
 Aboriginal peoples are also affected by issues of identity and historical trauma.[^264]
 Despite this roundtable report based on the 2011 consultation, the Commission notes that the subsequent Canadian Sport Policy released in 2012 contains no specific references to Aboriginal peoples.[^265]
@@ -7418,24 +7416,29 @@ Despite this roundtable report based on the 2011 consultation, the Commission no
 #### Call to Action
 
 90. We call upon the federal government to ensure that national sports policies, programs, and initiatives are inclusive of Aboriginal peoples, including, but not limited to, establishing:
+
     1. In collaboration with provincial and territorial governments, stable funding for, and access to, community sports programs that reflect the diverse cultures and traditional sporting activities of Aboriginal peoples.
+
     2. An elite athlete development program for Aboriginal athletes.
+
     3. Programs for coaches, trainers, and sports officials that are culturally relevant for Aboriginal peoples.
+
     4. Anti-racism awareness and training programs.
 
 The 2010 Winter Olympics in Vancouver, British Columbia, were held on the traditional territories of the Squamish, Musqueam, Tsleil-Waututh, and Lil’wat peoples, and they were an integral part of the event.
 In the spirit of reconciliation, which aligns easily with the spirit of the games themselves, the Four Host First Nations and the Vancouver Olympic Committee formed a partnership that ensured that Indigenous peoples were full participants in the decision-making process—a first in Olympic history.
 At the opening ceremonies and throughout the games, territorial protocols were respected, and the Four Host First Nations and other Indigenous peoples from across the province were a highly visible presence at various Olympic venues.
+
 91. We call upon the officials and host countries of international sporting events such as the Olympics, Pan Am, and Commonwealth games to ensure that Indigenous peoples’ territorial protocols are respected, and local Indigenous communities are engaged in all aspects of planning and participating in such events.
 
-Corporate sector: Land, sustainability, and economic development
+### Corporate sector: Land, sustainability, and economic development
 
 Survivors and their family members told us that their hope for the future lies in reclaiming and regenerating their own cultures, spirituality, laws, and ways of life that are deeply connected to their homelands.
-Indigenous nations are already doing this work in their
+Indigenous nations are already doing this work in their<!--x-->
 communities, despite the many challenges they face.
 At the TRC’s Traditional Knowledge Keepers Forum, Elder Dave Courchene said,
 
-As people who have gained this recognition to be Knowledge Keepers for our people, we accept that work in the most humble way…
+> As people who have gained this recognition to be Knowledge Keepers for our people, we accept that work in the most humble way…
 It’s going to be the spirit of our ancestors, the spirit that’s going to help us to reclaim our rightful place in our homeland.
 We do have a lot of work and there’s certainly a lot of challenges, but with the help of the spirit we will overcome [these]…
 We’ve arrived in a time of great change and great opportunity …
@@ -7446,7 +7449,7 @@ That is our responsibility and that’s the kind of leadership that we must refl
 
 That same day, Chief Ian Campbell of the Squamish Nation said,
 
-I want to acknowledge my grandparents and my mentors for their generosity in teaching us our connections to our lands and our territories.
+> I want to acknowledge my grandparents and my mentors for their generosity in teaching us our connections to our lands and our territories.
 Right now we’re preparing back home for a canoe journey as our young people are training to represent our people on their journey to Bella Bella in a couple of weeks…
 A number of families are travelling all up and down the coast to celebrate the resurgence of our identity, of our culture.[^267]
 
@@ -7454,15 +7457,15 @@ In the face of global warming, growing economic inequities, and conflicts over l
 In the wake of the Supreme Court of Canada Tsilhqot’in decision, Aboriginal peoples, corporations, and governments must find new ways to work together.
 Speaking to local community leaders at the Union of British Columbia Municipalities convention in September 2014, Tsilhqot’in Chief Percy Guichon said,
 
-We do live side-by-side and we need to work on a relationship to create or promote a common understanding among all our constituents …
+> We do live side-by-side and we need to work on a relationship to create or promote a common understanding among all our constituents …
 we need to find the best way forward to consult with each other, regardless of what legal obligations might exist.
 I mean, that’s just neighbourly, right?
 …
 We share a lot of common interests in areas like resource development.
 We need to find ways to work together, to support one another on these difficult topics.[^268]
 
-In 1977, the Report of the Mackenzie Valley Pipeline Inquiry recommended that a proposed natural gas pipeline down the Mackenzie Valley in the Northwest Territories not be built before Aboriginal land claims in the region were resolved and environmental concerns were addressed.
-Justice Thomas Berger, who led the inquiry, identified the potentially
+In 1977, the _Report of the Mackenzie Valley Pipeline Inquiry_ recommended that a proposed natural gas pipeline down the Mackenzie Valley in the Northwest Territories not be built before Aboriginal land claims in the region were resolved and environmental concerns were addressed.
+Justice Thomas Berger, who led the inquiry, identified the potentially<!--x-->
 devastating consequences that building a pipeline through the North would have for Dene and Inuvialuit peoples and for the fragile ecosystems.
 His observations, made almost forty years ago, foreshadow similar controversies and conflicts over proposed pipelines still occurring in various regions of Canada as the TRC has prepared this final report.[^269]
 
@@ -7480,7 +7483,7 @@ In the post-RCAP period, the Supreme Court of Canada has developed a body of law
 The court has ruled that governments can still infringe on Aboriginal rights if it can demonstrate that it is in the broader public interest to do so.
 In the Delgamuukw case, the court described the nature of that public interest:
 
-[T]he development of agriculture, forestry, mining and hydroelectric power, the general economic development of the interior of British Columbia, protection of the environment or endangered species, the building of infrastructure and the settlement of foreign populations to support those aims, are the kinds of objectives
+> [T]he development of agriculture, forestry, mining and hydroelectric power, the general economic development of the interior of British Columbia, protection of the environment or endangered species, the building of infrastructure and the settlement of foreign populations to support those aims, are the kinds of objectives<!--x-->
 that are consistent with this purpose and, in principle, can justify the infringement of aboriginal title.[^272]
 
 Governments must also demonstrate that any infringement of Aboriginal rights is consistent with the Crown’s fiduciary duty towards Aboriginal peoples and upholds the honour of the Crown.
@@ -7499,7 +7502,7 @@ The purposes of the dialogues were to discuss issues, identify best practices, a
 The resulting report, “Building Authentic Partnerships: Aboriginal Participation in Major Resource Development Opportunities,” identified five key opportunities for action: (1) developing authentic partnerships among Aboriginal communities, industry, governments, and academic institutions by building trust; (2) developing human capital by removing barriers to education, training, and skills development for Aboriginal entrepreneurs, workers, and leaders; (3) enhancing community control over decision making; (4) promoting entrepreneurship and business development; and (5) increasing financial participation.[^275]
 The report concluded:
 
-Natural resource companies are recognizing that their operational success relies on strong, authentic community engagement.
+> Natural resource companies are recognizing that their operational success relies on strong, authentic community engagement.
 Private sector initiatives have
 already demonstrated positive examples in areas such as revenue sharing, skills training, and business development for Aboriginal communities.
 Now corporations and governments need to build on these successes to keep up with the rapid pace of development, moving beyond superficial consultations toward genuine engagement.
@@ -7518,20 +7521,19 @@ In their view, the potential economic and social benefits derived from the explo
 They emphasized that there are significant barriers to reconciliation, including conflicting values, lack of trust, and differing views on how the benefits of resource development should be distributed and adverse effects be mitigated.[^280]
 The report identified four principles for moving forward on responsible energy resource development: (1) forging and nurturing constructive relationships, (2) reducing cumulative social and environmental impacts, (3) ensuring the continuity of cultures and traditions, and (4) sharing the benefits fairly.[^281]
 
-Writing about the 2014 Supreme Court of Canada decision in Tsilhqot’in Nation v.
-British Columbia, Kenneth Coates, Canada Research Chair in Regional Innovation at the University of Saskatchewan, and Dwight Newman, law professor and Canada Research
+Writing about the 2014 Supreme Court of Canada decision in _Tsilhqot’in Nation v. British Columbia_, Kenneth Coates, Canada Research Chair in Regional Innovation at the University of Saskatchewan, and Dwight Newman, law professor and Canada Research<!--x-->
 Chair in Indigenous Rights in Constitutional and International Law at the University of Saskatchewan, concluded that although many challenges and barriers to reconciliation remain,
 
-[w]hat the Supreme Court of Canada has highlighted at a fundamental level is that Aboriginal communities have a right to an equitable place at the table in relation to natural resource development in Canada.
+> [w]hat the Supreme Court of Canada has highlighted at a fundamental level is that Aboriginal communities have a right to an equitable place at the table in relation to natural resource development in Canada.
 Their empowerment through Tsilhqot’in and earlier decisions has the potential to be immensely exciting as a means of further economic development in Aboriginal communities and prosperity for all…
 [T]he time is now for governments, Aboriginal communities, and resource sector companies to work together to build partnerships for the future…
 We need to keep building a national consensus that responsible resource development that takes account of sustainability issues and that respects Indigenous communities, contributes positively—very positively—to Canada and its future.[^282]
 
 Internationally, there is a growing awareness in the corporate sector that the _United Nations Declaration on the Rights of Indigenous Peoples_ is an effective framework for industry and business to establish respectful relationships and work collaboratively with Indigenous peoples.
-In 2013, the United Nations Global Compact published a business guide that sets out practical actions that corporations and businesses can undertake in compliance with the Declaration.
+In 2013, the United Nations Global Compact published a business guide that sets out practical actions that corporations and businesses can undertake in compliance with the _Declaration_.
 It notes:
 
-Business faces both challenges and opportunities when engaging with indigenous peoples.
+> Business faces both challenges and opportunities when engaging with indigenous peoples.
 When businesses collaborate with indigenous peoples, they are often able to achieve sustainable economic growth, for example, by optimizing ecosystem services and harnessing local or traditional knowledge.
 Positive engagement with indigenous peoples can also contribute to the success of resource development initiatives—from granting and maintaining social licenses to actively participating in business ventures as owners, contractors and employees.
 Failing to respect the rights of indigenous peoples can put businesses at significant legal, financial and reputational risk…
@@ -7541,7 +7543,7 @@ In the Commission’s view, sustainable reconciliation on the land involves real
 Economic reconciliation involves working in partnership with Indigenous peoples to ensure that lands and resources within their traditional territories are developed in culturally respectful ways that fully recognize Treaty and Aboriginal rights and title.
 
 Establishing constructive, mutually beneficial relationships and partnerships with Indigenous communities will contribute to their economic growth, improve community health and well-being, and ensure environmental sustainability that will ultimately benefit Indigenous peoples and all Canadians.
-Unlike with the residential schools of the
+Unlike with the residential schools of the<!--x-->
 past, where Aboriginal peoples had no say in the design of the system and no ability to protect their children from intrinsic harms, First Nations, Inuit, and Métis peoples today want to manage their own lives.
 In terms of the economy, that means participating in it on their own terms.
 They want to be part of the decision-making process.
@@ -7559,16 +7561,15 @@ This would include, but not be limited to, the following:
 
     2. Ensure that Aboriginal peoples have equitable access to jobs, training, and education opportunities in the corporate sector, and that Aboriginal communities gain long-term sustainable benefits from economic development projects.
 
-    3. Provide education for management and staff on the history of Aboriginal peoples, including the history and legacy of residential schools, the _United Nations Declaration on the Rights of Indigenous Peoples_, Treaties and Aboriginal rights, Indigenous law, and Aboriginal–Crown relations.
-This will require skills-based training in intercultural competency, conflict resolution, human rights, and anti-racism.
+    3. Provide education for management and staff on the history of Aboriginal peoples, including the history and legacy of residential schools, the _United Nations Declaration on the Rights of Indigenous Peoples_, Treaties and Aboriginal rights, Indigenous law, and Aboriginal–Crown relations. This will require skills-based training in intercultural competency, conflict resolution, human rights, and anti-racism.
 
-We are all Treaty people: Communities, alliances, and hope
+### We are all Treaty people: Communities, alliances, and hope
 
 The Commission believes that reconciliation cannot be left up to governments, the courts, and churches alone.
 There must also be dialogue and action in communities across the country.
 Reconciliation must happen across all sectors of Canadian society.
 Canadians still have much to learn from each other.
-Past generations of newcomers faced injustices and prejudice similar to those experienced by residential school students and
+Past generations of newcomers faced injustices and prejudice similar to those experienced by residential school students and<!--x-->
 their families.
 More recent immigrants have struggled with racism and misconceptions as they come to take their place in the Canadian nation.
 
@@ -7576,7 +7577,7 @@ Despite the many barriers to reconciliation, this Commission remains cautiously 
 At the Alberta National Event in March 2014, TRC Honorary Witness Wab Kinew spoke about the changes that are already happening across this land that give rise to hope.
 He began by explaining that all day he had been carrying with him
 
-a ceremonial pipe, a sacred pipe, which when you bind the two sides together—the stem and the bowl—it offers us a model of reconciliation, of two forces coming together to be more powerful than they were otherwise.
+> a ceremonial pipe, a sacred pipe, which when you bind the two sides together—the stem and the bowl—it offers us a model of reconciliation, of two forces coming together to be more powerful than they were otherwise.
 So it’s important for me to come up here before you all and to speak Anishnaabemowin, and a little bit of Lakota, and to carry a pipe because it sends a message.
 It sends a message to those who designed the residential school system, that you have failed.
 We were abused.
@@ -7592,7 +7593,7 @@ He was told that he was nothing.
 He was assaulted, taken away from his family, taken away from his father’s trapline.
 To see the change that has happened, where today in Canada, there are tens of thousands of people from all walks of life gathering together to set that right and to stand up for justice for Indigenous peoples.
 
-The world has changed in another way as well; the old dichotomy of white people versus Indians no longer applies.
+> The world has changed in another way as well; the old dichotomy of white people versus Indians no longer applies.
 Look around at Canada today.
 There are the descendants of Europeans.
 There are the descendents of Indigenous peoples.
@@ -7606,7 +7607,7 @@ Let us raise up the residential school Survivors, and their example of courage, 
 At the community level, where contact between Aboriginal and non-Aboriginal peoples is often minimal or marred by distrust and racism, establishing respectful relationships involves learning to be good neighbours.
 This means being respectful—listening to, and learning from, each other; building understanding; and taking concrete action to improve relationships.
 At the Victoria Regional Event, intergenerational Survivor Victoria Wells said,
-I’ll know that reconciliation is happening in Canadian society when Canadians, wherever they live, are able to say the names of the tribes with which they’re neighbours; they’re able to pronounce names from the community, or of people that they know, and they’re able to say hello, goodbye, in the language of their neighbours…
+> I’ll know that reconciliation is happening in Canadian society when Canadians, wherever they live, are able to say the names of the tribes with which they’re neighbours; they’re able to pronounce names from the community, or of people that they know, and they’re able to say hello, goodbye, in the language of their neighbours…
 That will show me manners.
 That will show me that they’ve invested in finding out the language of the land [on] which they live …
 because the language comes from the land …
@@ -7616,7 +7617,7 @@ So that, to me, is reconciliation.[^285]
 Former public school teacher Lynne Phillips cautioned that establishing trust will be one of the major challenges of the reconciliation process.
 She said,
 
-I really understand the reticence of some First Nations people about wanting to accept offers of friendship and possibilities of interaction.
+> I really understand the reticence of some First Nations people about wanting to accept offers of friendship and possibilities of interaction.
 I understand why that is and I hope that in time we will be able to gain trust and some kind ways of interacting with one another that will be mutually beneficial…
 I think we’re moving…
 I think civil society, non-governmental organizations, church organizations, Aboriginal organizations are moving in the direction of openness …
@@ -7624,7 +7625,7 @@ and I think we have a long ways to go.[^286]
 
 In July of 2013, at the Community Hearing in Maskwacis (formerly Hobbema, Alberta), at the former site of Ermineskin residential school, Professor Roger Epp said that over the years, his Cree students helped him to understand
 
-what it was that a fourth-generation grandson of settler people needed to know in order to live here …
+> what it was that a fourth-generation grandson of settler people needed to know in order to live here …
 with a sense of memory and care and obligation.
 For I too have ancestors buried on Treaty 6 land…
 I learned from a student from Hobbema that we’re all Treaty people here…
@@ -7640,7 +7641,7 @@ He explained that prior to the TRC’s Community Hearing, he, along with Grade T
 Listening to their residential school experiences helped those who attended to begin to understand how deeply the residential schools had scarred Survivors, their families, and the whole community.
 He said,
 
-I think it helped the people of Wetaskawin come to an understanding of some of the trials and tribulations that our neighbours to the south have been going through all
+> I think it helped the people of Wetaskawin come to an understanding of some of the trials and tribulations that our neighbours to the south have been going through all<!--x-->
 their lives…
 We are working on a healing journey between the City of Wetaskiwin and the Cree First Nations…
 As you come into Wetaskiwin from the south, you will see that our [city] sign is in Cree syllabics as well—that welcomes you…
@@ -7650,7 +7651,7 @@ But we are working together for better communities, to understand and respect th
 
 At the Alberta National Event in 2014, Mayor Elliot, who was also inducted as a TRC Honorary Witness, offered an expression of reconciliation:
 
-Our community is trying to learn more about the Survivors and the residential schools.
+> Our community is trying to learn more about the Survivors and the residential schools.
 Our schools, churches, and community have made cupcakes and birthday cards for the big birthday party tomorrow.
 Members of our community have been here for the last two days…
 They are very, very supportive and they want to learn.
@@ -7660,7 +7661,7 @@ The cities of Vancouver, Toronto, Edmonton, and Calgary have also issued proclam
 In 2014, Vancouver went a step further, declaring that it was now a “City of Reconciliation,” and it has established a long-term framework for partnership and relationship building with the Musqueam, Squamish, and TsleilWaututh nations and urban Aboriginal people.[^290]
 At the British Columbia National Event, TRC Honorary Witness Mayor Gregor Robertson said,
 
-We are blessed to have so many different cultures in this place, and all of us who come from afar …
+> We are blessed to have so many different cultures in this place, and all of us who come from afar …
 have been incredibly lucky to be able to come to this place.
 Many of us come from families, from clans, from cultures, that were wiped out, that had to leave.
 We were forced off our territories, and somehow we’ve managed to make a home here.
@@ -7668,16 +7669,16 @@ That’s largely because of those First Nations ancestors who welcomed us …
 who made it possible for refugees, for people of broken cultures all over the world to settle here, to stay here, even though our predecessors and our ancestors turned it right around and terrible things have happened.
 I think the strength that is in Aboriginal peoples across Canada is something for the world to learn from, something that we can apply to the big decisions that we have to make in our governments, our communities, our cities.
 
-When I hear the strength in Survivors, when I hear the phrase “brave children,” when I think about brave Elders, I think “brave culture”—that bravery and that determination to learn from this past and to make the best decisions about how we look after each other, how we take care of each other, and those that need that help the most…
+> When I hear the strength in Survivors, when I hear the phrase “brave children,” when I think about brave Elders, I think “brave culture”—that bravery and that determination to learn from this past and to make the best decisions about how we look after each other, how we take care of each other, and those that need that help the most…
 That we lift each other up; that we take care of the land and the sea that we inherited for the generations to come.[^291]
-Intergenerational youth across cultures
+### Intergenerational youth across cultures
 
 At the British Columbia National Event, the Commission, in partnership with the Inspirit Foundation, hosted a Youth Panel, “Be the Change: Young People Healing the Past and Building the Future.”
 In this cross-cultural dialogue, youth leaders described the intergenerational impacts of human rights violations such as the residential schools, the Holocaust, Canada’s internment of Japanese Canadians during World War Two, and the head tax imposed on Chinese immigrants to Canada.
 They spoke about community and about turning reconciliation into action.
 Tsilhqot’in intergenerational Survivor Kim Harvey said,
 
-I encountered many uncomfortable moments trying to explain what happened to my people and why there is so much alcoholism and drug abuse.
+> I encountered many uncomfortable moments trying to explain what happened to my people and why there is so much alcoholism and drug abuse.
 There is so much focus on all the negative things…
 No one talked about the residential schools…
 There are so many horrible stereotypes that our young people face every day.
@@ -7686,7 +7687,7 @@ Reconciliation to me comes down to truth, education, and knowledge sharing pract
 Reconciliation is about relationship.
 To reconcile, I really need to understand what happened to you, who you are, and what, as a community member, I can do to make our community better…
 
-Reconciliation is a shared experience…
+> Reconciliation is a shared experience…
 The residential schools were done [to us] by an outside party …
 when people ask “why don’t you just get over it?”
 I find that frustrating because it takes the onus off the shared relationship [as if ] somehow this entire country is not involved in the reconciliation process…
@@ -7700,17 +7701,17 @@ It’s about finding out about your neighbour.[^292]
 
 Kevin Takahide Lee, an intergenerational Survivor of the internment of Japanese Canadians during the Second World War, said,
 
-I acknowledge that we are on Coast Salish lands.
-It was also on these very lands here at the pne [Pacific National Exhibition fairgrounds] that my family was held during the war before being sent to the internment camp.
+> I acknowledge that we are on Coast Salish lands.
+It was also on these very lands here at the PNE [Pacific National Exhibition fairgrounds] that my family was held during the war before being sent to the internment camp.
 It is my parents and grandparents who are Survivors…
 [They] never talked about what happened in the internment camps …
 even after the Japanese-Canadian redress happened …
 hearing these stories from our Elders is very rare…
-When I was four or five, I came here to the pne as most families do…
+When I was four or five, I came here to the PNE as most families do…
 When it came to going inside the barn here, just two doors away, my grandmother would not come in.
 That’s because that livestock building was used to hold her and other women and children, during the war, for months…
 When I was a child, I couldn’t comprehend this, but as an adult, I understand…
-This is
+This is<!--x-->
 what it means to me, as an intergenerational Survivor.
 People who I love and admire were wronged, humiliated, and forgotten, and unjustly imprisoned by the country I …
 call home…
@@ -7721,7 +7722,7 @@ Only when “you” and “me” become “us” and “we” can there be any r
 
 Caroline Wong said that as an intergenerational Survivor of the Chinese head tax, which her grandfathers had to pay when they entered Canada from China,
 
-I grew up rejecting the stereotypical [identity] of the Chinese person because I wanted to be as ‘white’ as possible…
+> I grew up rejecting the stereotypical [identity] of the Chinese person because I wanted to be as ‘white’ as possible…
 In terms of reconciliation, my grandmother is a warrior …
 she’s been fighting for head tax redress.
 In 2006, the federal government offered an apology and compensation for head tax survivors and their spouses, but very few were still living.
@@ -7739,7 +7740,7 @@ Or, if you’re from another place, “What is your role in this community?”[^
 
 Danny Richmond, an intergenerational Holocaust Survivor, said,
 
-My grandmother and grandfather lived through things in their twenties that I can’t even begin to imagine …
+> My grandmother and grandfather lived through things in their twenties that I can’t even begin to imagine …
 for my people, this history is still an open wound …
 what can I tell you that will give you understanding of this?
 …
@@ -7756,11 +7757,11 @@ for me it’s about guarding our institutions to make sure they aren’t continu
 we’ve had the apology from the government but how are we checking in to see how we’re doing today?
 …
 We need to create a National Day of Reconciliation that deals with these past human rights abuses, and educates [people] about what [what happens when we] dehumanize people.
-Canada was a safe haven for my family but it’s also a nation with a lot of
+Canada was a safe haven for my family but it’s also a nation with a lot of<!--x-->
 pain and warts in its background.
 We shouldn’t be afraid to talk about that and to institutionalize the healing process at a national level.[^295]
 
-Newcomers to Canada
+### Newcomers to Canada
 
 For new Canadians, many of whom carry their own traumatic memories of colonial violence, racism, and oppression, finding common ground as Treaty people involves learning about the history of Aboriginal peoples and finding ways to build stronger relationships of solidarity with them.
 The Commission believes there is an urgent need for more dialogue between Aboriginal peoples and new Canadians.
@@ -7768,7 +7769,7 @@ At a forum, “From Remembrance to Reconciliation,” co-sponsored by the Ontari
 
 Akua Benjamin, who came from the Caribbean, with its history of slavery, said,
 
-How is it that our histories …
+> How is it that our histories …
 [have] so many similarities in terms of violence?
 The violence of slavery is the violence of destruction in Aboriginal communities…
 These are societies that are shaped by violence…
@@ -7783,7 +7784,7 @@ This is a safe place for us to really have those difficult conversations.[^296]
 
 Ali Kazimi said,
 
-I came [to Canada] from India thirty years ago…
+> I came [to Canada] from India thirty years ago…
 One of the things that became apparent to me right away was that I came [here] with my own baggage of stereotypes [of Aboriginal peoples].
 These were defined by what I had seen in Hollywood films and comic books…
 I spent a lot of time in Toronto going to soup kitchens, hanging out with people, trying to understand what the current reality is of First Nations people in an urban centre like Toronto.
@@ -7794,11 +7795,11 @@ I remember having those discussions with people who would challenge me, and thos
 That led me to my own question…
 How do I fit into this landscape?
 
-Many Canadians feel that Canadian identity and cultural identity is somehow defined by this universal humanism.
+> Many Canadians feel that Canadian identity and cultural identity is somehow defined by this universal humanism.
 On the flip side, we have Prime Minister Harper who says Canada has no history of colonialism.
 They do the same thing.
 They deny colonialism and racism and [attitudes of ] white superiority …
-whose legacy we
+whose legacy we<!--x-->
 continue to see today…
 It’s a very toxic legacy…
 One of the truths about Canada is that it was created as a white man’s country and this term was used over and over again…
@@ -7809,7 +7810,7 @@ as now being parties to these Treaties.[^297]
 
 Winnie Ng said,
 
-I was born in Hong Kong and came to Canada in 1968…
+> I was born in Hong Kong and came to Canada in 1968…
 I landed in Victoria, bc, the oldest Chinatown in the country…
 It has been a journey for me as a person of colour, as a person of the non-Indigenous communities …
 to learn about the history of this Native land and my own social location and privilege as a member of the newer arrival communities…
@@ -7818,13 +7819,13 @@ the Chinese, along with Indigenous children, were secluded in the education syst
 there’s been a constant narrative of systemic racism, exclusion, and exploitation…
 I think [we need to talk about] remembrance, resistance, and reconciliation.[^298]
 
-Becoming citizens
+### Becoming citizens
 
-In preparing to become Canadian citizens, all immigrants to Canada study a booklet called Discover Canada.
-It explains, “To understand what it means to be Canadian, it is important to know about our three founding peoples—Aboriginal, French and British.”
+In preparing to become Canadian citizens, all immigrants to Canada study a booklet called _Discover Canada_.
+It explains, “To understand what it means to be Canadian, it is important to know about our three founding peoples—**Aboriginal**, **French** and **British**.”
 It says the following about Aboriginal peoples:
 
-The ancestors of Aboriginal peoples are believed to have migrated from Asia many thousands of years ago.
+> The ancestors of Aboriginal peoples are believed to have migrated from Asia many thousands of years ago.
 They were well established here long before explorers from Europe first came to North America.
 Diverse, vibrant First Nations cultures were rooted in religious beliefs about their relationship to the Creator, the natural environment and each other.
 Aboriginal and treaty rights are in the Canadian Constitution.
@@ -7837,12 +7838,12 @@ In today’s Canada, Aboriginal peoples enjoy renewed pride and confidence, and 
 The guide explains the rights and responsibilities of citizenship.
 In describing Canada’s legal system, it states,
 
-Canadian law has several sources, including laws passed by Parliament and the provincial legislatures, English common law, the civil code of France and the unwritten constitution that we have inherited from Great Britain.
+> Canadian law has several sources, including laws passed by Parliament and the provincial legislatures, English common law, the civil code of France and the unwritten constitution that we have inherited from Great Britain.
 Together, these secure for Canadians an 800-year-old tradition of ordered liberty, which dates back to the signing of the Magna Carta in 1215 in England.[^300]
 
-Discover Canada ignores Indigenous peoples as being a source of law for Canada, and says that Canada’s tradition of an “ordered liberty” is due to England, and not at all to Canada’s Aboriginal peoples, who welcomed the European explorers, helped them survive in this climate, guided them throughout the country, and entered into Treaties with them to share their land with the newcomers from Europe.
+_Discover Canada_ ignores Indigenous peoples as being a source of law for Canada, and says that Canada’s tradition of an “ordered liberty” is due to England, and not at all to Canada’s Aboriginal peoples, who welcomed the European explorers, helped them survive in this climate, guided them throughout the country, and entered into Treaties with them to share their land with the newcomers from Europe.
 
-A new citizenship oath for Canada
+### A new citizenship oath for Canada
 
 The guide includes the Oath of Citizenship to the Queen that all new citizens must currently pledge: “In Canada, we profess our loyalty to a person who represents all Canadians and not to a document such as a constitution, a banner such as a flag, or a geopolitical entity such as a country.”
 The current oath requires new Canadians to pledge as follows: “I swear (or affirm) that I will be faithful and bear true allegiance to Her Majesty Queen Elizabeth II, Queen of Canada, Her Heirs and Successors, and that I will faithfully observe the laws of Canada and fulfill my duties as a Canadian citizen.”
@@ -7852,10 +7853,11 @@ Precisely because “we are all Treaty people,” Canada’s Oath of Citizenship
 #### Calls to Action
 
 93. We call upon the federal government, in collaboration with the national Aboriginal organizations, to revise the information kit for newcomers to Canada and its citizenship test to reflect a more inclusive history of the diverse Aboriginal peoples of Canada, including information about the Treaties and the history of residential schools.
+
 94. We call upon the Government of Canada to replace the Oath of Citizenship with the following:
 
-I swear (or affirm) that I will be faithful and bear true allegiance to Her Majesty Queen Elizabeth II, Queen of Canada, Her Heirs and Successors, and that I will faithfully observe the laws of Canada including Treaties with Indigenous Peoples, and fulfill my duties as a Canadian citizen.
-Closing Words
+> I swear (or affirm) that I will be faithful and bear true allegiance to Her Majesty Queen Elizabeth II, Queen of Canada, Her Heirs and Successors, and that I will faithfully observe the laws of Canada including Treaties with Indigenous Peoples, and fulfill my duties as a Canadian citizen.
+### Closing Words
 
 On September 22, 2013, the day after the British Columbia National Event, the Commissioners joined 70,000 people gathered in the pouring rain to participate in a Walk for Reconciliation, organized by Reconciliation Canada, a non-profit organization.
 If one was looking down Georgia Street in downtown Vancouver, a sea of multicoloured umbrellas was visible as far as the eye could see.
@@ -7874,16 +7876,16 @@ Our future, and the well-being of all our children, rests with the kind of relat
 In November 2012, Elders from Indigenous nations and many other cultures gathered for two days in Musqueam territory in Vancouver, British Columbia, to talk about how reconciliation can help Canada move forward.
 In a statement afterwards, they said,
 
-As Canadians, we share a responsibility to look after each other and acknowledge the pain and suffering that our diverse societies have endured—a pain that has been handed down to the next generations.
+> As Canadians, we share a responsibility to look after each other and acknowledge the pain and suffering that our diverse societies have endured—a pain that has been handed down to the next generations.
 We need to right those wrongs, heal together, and create a new future that honours the unique gifts of our children and grandchildren.
 
-How do we do this?
+> How do we do this?
 Through sharing our personal stories, legends and traditional teachings, we found that we are interconnected through the same mind and spirit.
 Our traditional teachings speak to acts such as holding one another up, walking together, balance, healing and unity.
 Our stories show how these teachings can heal their pain and restore dignity.
 We discovered that in all of our cultural traditions, there are teachings about reconciliation, forgiveness, unity, healing and balance.
 
-We invite you to search in your own traditions and beliefs, and those of your ancestors, to find these core values that create a peaceful harmonious society and a healthy earth.[^302]
+> We invite you to search in your own traditions and beliefs, and those of your ancestors, to find these core values that create a peaceful harmonious society and a healthy earth.[^302]
 The work of the TRC has shown just how difficult the process of truth determination has been.
 Thousands of Survivors came forward and, in tears and with anger, shared their pain.
 They showed how humour, perseverance, and resilience got them through the hardest of times, and how life after the schools sometimes just got too hard.
@@ -7955,11 +7957,11 @@ No.
 Grand Chief John, an executive member of the First Nations Summit Task Group in British Columbia, participated in the development of the Declaration.
 He is a former co-chair of the North American Indigenous Peoples Caucus and will serve as a North American Representative to the United Nations Permanent Forum on Indigenous Issues until 2016.
 See: First Nations Summit, http://www.fns.bc.ca/about/e_john.htm.
-16.	 Tsilhqot’in Nation v.
-British Columbia, 2014 CanLII 44 (SCC), para.
+16.	 _Tsilhqot’in Nation v.
+British Columbia_, 2014 CanLII 44 (SCC), para.
 73.
-17.	 Tsilhqot’in Nation v.
-British Columbia, 2014 CanLII 44 (SCC), para.
+17.	 _Tsilhqot’in Nation v.
+British Columbia_, 2014 CanLII 44 (SCC), para.
 97.
 18.	 TRC, AVS, Sol Sanderson, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 17 June 2010, Statement Number: SC108.
 19.	 Reid, “Roman Catholic Foundations,” 5.
@@ -8505,8 +8507,8 @@ British Columbia, 1997 CanLII 302 (SCC); Haida Nation v.
 British Columbia (Minister of Forests), 2004 SCC 73 (CanLII); Mikisew Cree First Nation v.
 Canada (Minister of Canadian Heritage), 2005 SCC 69 (CanLII); Rio Tinto Alcan Inc.
 v.
-Carrier Sekani Tribal Council, 2010 SCC 43; Tsilhqot’in Nation v.
-British Columbia, 2014 SCC 44; Grassy Narrows First Nation v.
+Carrier Sekani Tribal Council, 2010 SCC 43; _Tsilhqot’in Nation v.
+British Columbia_, 2014 SCC 44; Grassy Narrows First Nation v.
 Ontario (Natural Resources), 2014 SCC 48.
 272.	 Delgamuukw v.
 British Columbia, 1997 CanLII 302 SCC, para.
@@ -8564,9 +8566,9 @@ com/78638476.
 297.	 TRC, AVS, Ali Kazimi, Statement to the Truth and Reconciliation Commission of Canada, Toronto, Ontario, 12 November 2013, Statement Number: SE036B.
 298.	 TRC, AVS, Winnie Ng, Statement to the Truth and Reconciliation Commission of Canada, Toronto, Ontario, 12 November 2013, Statement Number: SE036B.
 
-299.	 Canada, Minister of Citizenship and Immigration Canada, Discover Canada, http://www.cic.gc.ca/ english/resources/publications/discover/index.asp (accessed 15 April 2015).
+299.	 Canada, Minister of Citizenship and Immigration Canada, _Discover Canada_, http://www.cic.gc.ca/ english/resources/publications/discover/index.asp (accessed 15 April 2015).
 
-300.	 Canada, Minister of Citizenship and Immigration Canada, Discover Canada, http://www.cic.gc.ca/ english/resources/publications/discover/index.asp (accessed 15 April 2015).
+300.	 Canada, Minister of Citizenship and Immigration Canada, _Discover Canada_, http://www.cic.gc.ca/ english/resources/publications/discover/index.asp (accessed 15 April 2015).
 
 301.	 Video recordings of the Walk for Reconciliation are available at: Reconciliation Canada, http://reconciliationcanada.ca/2013/09/ (accessed 15 April 2015).
 

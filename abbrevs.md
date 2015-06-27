@@ -16,6 +16,7 @@
 *[LAC]: Library and Archives Canada
 *[NCTR]: National Centre for Truth and Reconciliation
 *[OPP]: Ontario Provincial Police
+*[PNE]: Pacific National Exhibition
 *[RCAP]: Royal Commission on Aboriginal Peoples
 *[RCMP]: Royal Canadian Mounted Police
 *[TRC]: Truth and Reconciliation Commission of Canada
