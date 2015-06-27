@@ -558,7 +558,7 @@ For Canadians from all walks of life, reconciliation offers a new way of living 
 
 <!-- page 032 -->
 
-<!-- page 033 -->Commission activities
+<!-- page 033 -->### Commission activities
 
 The Truth and Reconciliation Commission of Canada was established in 2008 under the terms of the Indian Residential Schools Settlement Agreement.
 The Commission was mandated to
