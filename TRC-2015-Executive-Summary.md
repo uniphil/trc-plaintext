@@ -1086,9 +1086,7 @@ Residential schools figured prominently in missionary work, not only in Canada, 
 Christian missionaries played a complex but central role in the European colonial project.
 Their presence helped justify the extension of empires, since they were visibly spreading the word of God to the heathen.
 If their efforts were unsuccessful, the missionaries might conclude that those who refused to accept the Christian message could not expect the protection of the church or the law, thus clearing the way for their destruction.[^68]
-Although missionaries often attempted to soften the impact of imperialism, they were also
-
-<!-- page 058 -->committed to making the greatest changes in the culture and psychology of the colonized.
+Although missionaries often attempted to soften the impact of imperialism, they were also <!-- page 058 -->committed to making the greatest changes in the culture and psychology of the colonized.
 They might, for example, seek to have traders give fair prices and to have government officials provide relief in times of need, but they also worked to undermine relationships to the land, language, religion, family relations, educational practices, morality, and social custom.[^69]
 
 Missionary zeal was also fuelled by the often violent division that had separated the Christian world into Catholic and Protestant churches.
@@ -2183,9 +2181,7 @@ Death casts a long shadow over many residential school memories.
 Louise Moine attended the Qu’Appelle school in the early twentieth century.
 She recalled one year when tuberculosis was “on the rampage in that school.
 There was a death every month on the girls’ side and some of the boys went also.”[^382]
-Of his years at the Roman Catholic school in Onion Lake, Joseph Dion recalled, “My schoolmates and I were not long in concluding that the lung sickness was fatal, hence as soon as we saw or heard of someone spitting
-
-<!-- page 107 -->blood, we immediately branded him for the grave.
+Of his years at the Roman Catholic school in Onion Lake, Joseph Dion recalled, “My schoolmates and I were not long in concluding that the lung sickness was fatal, hence as soon as we saw or heard of someone spitting <!-- page 107 -->blood, we immediately branded him for the grave.
 He had consumption: he had to die.”[^383]
 Simon Baker’s brother Jim died from spinal meningitis at the Lytton, British Columbia, school.
 “I used to hear him crying at night.
@@ -6297,9 +6293,7 @@ Schedule N to the Indian Residential Schools Settlement Agreement describes the 
 There is a provision that deals with the obligation of the parties to provide relevant records to the Commission.
 It states:
 
-> In order to ensure the efficacy of the truth and reconciliation process, Canada and the churches will provide all relevant documents in their possession or control to and for the use of the Truth and Reconciliation Commission, subject to the privacy interests of an individual as provided by applicable privacy legislation, and subject to and in compliance with applicable privacy and access to information legislation,
-
-<!-- page 311 -->and except for those documents for which solicitor-client privilege applies and is asserted.
+> In order to ensure the efficacy of the truth and reconciliation process, Canada and the churches will provide all relevant documents in their possession or control to and for the use of the Truth and Reconciliation Commission, subject to the privacy interests of an individual as provided by applicable privacy legislation, and subject to and in compliance with applicable privacy and access to information legislation, <!-- page 311 -->and except for those documents for which solicitor-client privilege applies and is asserted.
 
 > In cases where privacy interests of an individual exist, and subject to and in compliance with applicable privacy legislation and access to information legislation, researchers for the Commission shall have access to the documents, provided privacy is protected.
 In cases where solicitor-client privilege is asserted, the asserting party will provide a list of all documents for which the privilege is claimed.
@@ -6350,9 +6344,7 @@ Here too, Canada’s documents, wherever housed, would have been seen to be vita
 In light of this time span, it would have been understood at the time of the Settlement Agreement that much of the relevant documentary record in Canada’s possession would be archived in LAC and would no longer be in the active or semi-active files of the departments of the Government of Canada.[para. 74]
 
 > Fourth, it would have been obvious that the experienced staff at LAC would have vastly more ability to identify and organize the relevant documents at LAC than would the newly hired staff of the newly formed TRC.
-It would have made little sense to give
-
-<!-- page 313 -->that task to the latter rather than the former, particularly given its importance to the TRC’s mandate.
+It would have made little sense to give <!-- page 313 -->that task to the latter rather than the former, particularly given its importance to the TRC’s mandate.
 [para.
 75]156
 
@@ -6765,7 +6757,7 @@ governments …
 [have got to know] that they can never, ever, ever do this again.”[^192]
 In Ottawa, Survivor Victoria Grant-Boucher said,
 
-<!-- page 329 -->I’m telling my story …
+<!-- page 329 -->> I’m telling my story …
 for the education of the Canadian general public …
 [so that they] can understand what stolen identity is, you know, how it affects people, how it affects an individual, how it affects family, how it affects community…
 I think the non-Aboriginal person, Canadian, has to understand that a First Nations person has a culture…
@@ -7552,9 +7544,7 @@ The resulting report, “Building Authentic Partnerships: Aboriginal Participati
 The report concluded:
 
 > Natural resource companies are recognizing that their operational success relies on strong, authentic community engagement.
-Private sector initiatives have
-
-<!-- page 358 -->already demonstrated positive examples in areas such as revenue sharing, skills training, and business development for Aboriginal communities.
+Private sector initiatives have <!-- page 358 -->already demonstrated positive examples in areas such as revenue sharing, skills training, and business development for Aboriginal communities.
 Now corporations and governments need to build on these successes to keep up with the rapid pace of development, moving beyond superficial consultations toward genuine engagement.
 Aboriginal communities must also play a leadership role to help forge these relationships, to develop local and adaptive solutions that will be essential to success.[^276]
 
