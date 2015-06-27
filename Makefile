@@ -54,7 +54,7 @@ $(FIXED)/%.md: $(TXTIMG_LINK)/%.md $(PATCH)/%.patch mkdirs
 GOAL = TRC-2015-Executive-Summary.md
 report: $(GOAL)
 $(GOAL): $(TARGETS)
-	cat $(sort $^) > $@
+	python lib/join-fixed.py $@ $(sort $^)
 
 ###### FOR HUMANS (get an editable copy)
 HUMAN := $(TARGETS:$(FIXED)/%.md=$(FOR_HUMANS)/%.md)
