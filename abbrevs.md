@@ -1,3 +1,4 @@
+*[AHF]: Aboriginal Healing Foundation
 *[AJR]: Accessing Justice and Reconciliation
 *[ALI]: Aboriginal Languages Initiative
 *[CEP]: Common Experience Payment

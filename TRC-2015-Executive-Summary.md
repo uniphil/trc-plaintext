@@ -6752,7 +6752,7 @@ But I have found out through one of my former students, who was five years old w
 In a media interview afterwards, Ms Kaefer said that she contacted Mr.
 Gamblin after
 
-hearing his song a few years ago describing the cultural, physical and sexual abuse he had suffered at Norway House school.
+> hearing his song a few years ago describing the cultural, physical and sexual abuse he had suffered at Norway House school.
 She said, “I just cried.
 I told my sister that I can never think of teaching in the residential school in the same way again.”
 She called Gamblin after hearing the song.
@@ -6767,31 +6767,30 @@ Gamblin said Kaefer taught him how to forgive.
 Some family members of former staff also came forward.
 At the Manitoba National Event, Jack Lee told the Commission,
 
-My parents were staff members of the Indian residential school in Norway House.
+> My parents were staff members of the Indian residential school in Norway House.
 I was born on a reserve in Ontario and I moved with my family to Norway House when I was about one or two years old, and started school in the Indian residential school system, basically, at the very start as a day student …
 as a white boy…
 My father agonized very much over his role…
 But I just want everyone to know that my father tried his best, as many other staff members tried their best, but they were working with so limited resources, and many of them felt very bad about their role in it, but they chose to stay in the system because it was still better than nothing, it was still better than abandoning the system, and abandoning the students that were in it.[^198]
 
-At the Atlantic National Event, Mark DeWolf spoke to us about his father, the Reverend James Edward DeWolf, who was the principal at two residential schools: St.
-Paul’s in Alberta and La Tuque in Québec.
+At the Atlantic National Event, Mark DeWolf spoke to us about his father, the Reverend James Edward DeWolf, who was the principal at two residential schools: St. Paul’s in Alberta and La Tuque in Québec.
 He said,
 
-I’m quite hesitant to speak here this morning …
+> I’m quite hesitant to speak here this morning …
 I’m not here to defend my father so much, as to speak part of the truth about the kind of person my father was.
 I think he was an exemplary principal of an Indian residential school…
-Part of the story will be about what I saw around me, what my parents tried to do, however effective that was, however well-intentioned that was, however beneficial or not beneficial it
+Part of the story will be about what I saw around me, what my parents tried to do, however effective that was, however well-intentioned that was, however beneficial or not beneficial it<!--x-->
 was, you will at least when you leave here today, have a bit more of the story and you may judge for yourselves.
 I hope you will judge with kindness, understanding, and generosity of spirit…
 
-[My father] did so many things, coached the teams, blew the whistle or shot off the starting pistol at the sports days.
+> [My father] did so many things, coached the teams, blew the whistle or shot off the starting pistol at the sports days.
 Twelve o’clock at midnight, on the coldest of winter days, he would be out on the rink that he had constructed behind the school, flooding it so that the children could skate.
 He devoted his life to the service of his church, his God, and those that he thought had been marginalized, oppressed…
 It is a terrible shame there were not more like him.
 When we leave today, though, let’s remember that when you have a system like the residential school, there are the individuals within the system, some of whom are good, decent, loving, caring people, and some of whom are blind, intolerant, predatory…
 My father worked within the system trying to make it a better one.[^199]
 
-TRC Honorary Witnesses
+### TRC Honorary Witnesses
 
 The mandate of the Truth and Reconciliation Commission describes “reconciliation” as an ongoing individual and collective process involving all the people of Canada.
 To help ensure that reconciliation will indeed be ongoing, even after the TRC’s own official work is done, the Commissioners decided early on a public education and advocacy strategy to engage high-profile supporters, each willing to foster the continuing work of public education and dialogue.
@@ -6803,9 +6802,9 @@ They now encourage the broader Canadian public to do what they have done: to lea
 Speaking at the Saskatchewan National Event, TRC Honorary Witness and a former member of parliament, the Honourable Tina Keeper, who is also a member of the Norway House Cree Nation, talked about the importance of honouring individual, family, and community relationships and memory, her own emotional involvement in the ratification of the Settlement Agreement, and the struggles surrounding Canada’s apology.
 She underscored the strong contributions that Aboriginal peoples have to make to national healing and reconciliation.
 
-Yesterday was an incredible opportunity for me personally to let the tears flow, and they flowed all day long.
-And I didn’t do that when I was in the House of Commons.
-I had the privilege of delivering the speech on behalf of the official opposition when the Agreement was tabled in the House, and during that speech I had to stop midway and breathe …
+> Yesterday was an incredible opportunity for me personally to let the tears flow, and they flowed all day long.
+And I didn’t do that when I was in the House of Commons.<!--x-->
+> I had the privilege of delivering the speech on behalf of the official opposition when the Agreement was tabled in the House, and during that speech I had to stop midway and breathe …
 because I didn’t think I could do it.
 I kept thinking of my family and my extended family and my grandparents and so many of the people in the communities…
 [O]ur cultures, our languages, our values, and spiritual beliefs that have taken care of us at this gathering …
@@ -6814,7 +6813,7 @@ they will become tools for the healing of a nation.[^200]
 At the Québec National Event, TRC Honorary Witness and a former prime minister, the Right Honourable Paul Martin, reminded participants about the role that education played in the attempted destruction of Aboriginal families, communities, and nations, and the role it must play in repairing this damage.
 He said,
 
-I’ve talked to a number of the people here, some of the members of parliament are here …
+> I’ve talked to a number of the people here, some of the members of parliament are here …
 and the question we asked ourselves is, “How come we didn’t know what happened?”
 …
 I still can’t answer that…
@@ -6825,19 +6824,19 @@ What that really means is that we’ve got to offer Aboriginal Canadians, withou
 Although some Honorary Witnesses already had significant knowledge of Aboriginal issues, including residential schools, through the act of witnessing Survivors’ testimonies, they learned about this history in a different way.
 At the Saskatchewan National Event, a former prime minister, the Right Honourable Joe Clark, said that the Saskatchewan National Event gave him a better understanding of the intergenerational impacts of the residential schools, and a better sense of the challenges and opportunities for reconciliation with the rest of Canada.
 
-When I came to take my place this morning, I knew the storyline, if you will.
+> When I came to take my place this morning, I knew the storyline, if you will.
 I knew what had happened.
 I had some idea of the consequences it [the residential school system] involved, but I had no real idea because I had not been able to witness it before …
 the multi-generational emotion that is involved in what has happened to so many of the victims of the residential schools…
 [Today] I heard, “We are only as sick as our secrets.”
 That is an incentive to all that have kept these emotions and this history too secret, too long, to show the courage that so many of you have shown, and let those facts be known…
 
-There are cross-cultural difficulties here as we seek reconciliation, the reconciliation of people who have not been part of this experience with those who have.
+> There are cross-cultural difficulties here as we seek reconciliation, the reconciliation of people who have not been part of this experience with those who have.
 We are going to deal with cultural differences, but no one wants to be torn away from their roots.
 And there are common grounds here by which consensus can be built…
 Reconciliation means finding a way that brings together the legitimate concerns of the people in this room, and the apprehensions, call them fear …
 that might exist elsewhere in the country…
-Among the things we have to do is to ensure that not only the stories of abuse as they touch First Nations and Aboriginal people, but also
+Among the things we have to do is to ensure that not only the stories of abuse as they touch First Nations and Aboriginal people, but also<!--x-->
 the story of their contribution to Canada, and the values that are inherent in those communities is much better known.[^202]
 
 Joe Clark’s observations reinforce this Commission’s view that learning happens in a different manner when life stories are shared and witnessed in ways that connect knowledge, understanding, and human relationships.
@@ -6848,7 +6847,7 @@ He then served to welcome new inductees to the Honorary Witness circle at the Sa
 His comments reinforce the Commission’s conviction that relationship-based learning and ways of remembering lead to a deeper knowledge and understanding of the links between the Survivors’ experiences and community memory and our collective responsibility and need to re-envision Canada’s national history, identity, and future.
 He told us,
 
-When I was invited to become an Honorary Witness, I thought I was prepared, having been involved in the Settlement process and having already met and heard from Survivors.
+> When I was invited to become an Honorary Witness, I thought I was prepared, having been involved in the Settlement process and having already met and heard from Survivors.
 I was not.
 In Halifax, I heard about not knowing what it meant to be loved, not knowing how to love.
 I heard about simply wanting to be believed that it happened, ‘just like I said.’ …
@@ -6863,7 +6862,7 @@ Perhaps I remember most poignantly Ruth, who said simply, “I never thought I�
 But Canada is big.
 I’ll need some help.”
 
-Reconciliation is about Survivors speaking about their experiences, being heard and being believed, but it’s also about a national shared history.
+> Reconciliation is about Survivors speaking about their experiences, being heard and being believed, but it’s also about a national shared history.
 As Canadians, we must be part of reconciling what we have done collectively with who we believe we are.
 To do that with integrity and to restore our honour, we must all know the history so we can reunite these different Canadas.
 203
@@ -6873,12 +6872,12 @@ Some were there on behalf of their institution or organization.
 Some had close personal or professional ties to Aboriginal people, and others had none.
 Many said that the experience opened their eyes and was powerfully transformative.
 They commented on how much they had learned by listening to Survivors’ life stories.
-This
+This<!--x-->
 was true for both non-Aboriginal witnesses and Aboriginal witnesses whose own families had been impacted by the schools but who may have had few opportunities to learn more about the residential schools themselves, especially in those many families where no one was yet willing or able to talk about it.
 
 At the 2011 Northern National Event in Inuvik, Therese Boullard, then the director of the Northwest Territories Human Rights Commission, told us,
 
-We need to have an accurate record of history…
+> We need to have an accurate record of history…
 As long as there are some that are in denial of what really happened, as long as we don’t have the full picture of what happened, we really can’t move forward in that spirit of reconciliation…
 I want to acknowledge these stories as gifts, a hand towards reconciliation.
 I think it’s amazing that after all that has passed, after all that you’ve experienced, that you would be willing to share your pain with the rest of Canada in this spirit of openness and reconciliation and in this faith that the government of Canada and non-Aboriginal Canadians will receive them in a way that will lead to a better relationship in the future.
@@ -6886,7 +6885,7 @@ That you have that faith to share your stories in that spirit is amazing and it�
 
 At the 2010 Manitoba National Event, Ginelle Giacomin, a high school history teacher from Winnipeg who served as a private statement gatherer at the event, said,
 
-I was talking to a few students before I came this week to do this, and they said, “Well, what do you mean there are Survivors?
+> I was talking to a few students before I came this week to do this, and they said, “Well, what do you mean there are Survivors?
 That was a long time ago.
 That was hundreds of years ago.”
 To them, this is a page in a history book…
@@ -6906,7 +6905,7 @@ Over 150,000 Canadians came out to participate in them and in some 300 smaller-s
 One of the most common words used in describing them was “transformational.”
 It will be up to others to determine their long-term effectiveness, and to judge this model’s potential in terms of ongoing public education.
 However, as Commissioners of the Truth and Reconciliation Commission of Canada, we are both confident and convinced that public dialogue is critical to the reconciliation process.
-The arts: Practising resistance, healing, and reconciliation
+### The arts: Practising resistance, healing, and reconciliation
 
 The reconciliation process is not easy.
 It asks those who have been harmed to revisit painful memories and those who have harmed others—either directly or indirectly—to be accountable for past wrongs.
@@ -6923,14 +6922,14 @@ The arts help to restore human dignity and identity in the face of injustice.
 Properly structured, they can also invite people to explore their own world views, values, beliefs, and attitudes that may be barriers to healing, justice, and reconciliation.
 
 Even prior to the establishment of the TRC, a growing body of work, including Survivors’ memoirs and works of fiction by well-known Indigenous authors, as well as films and plays, have brought the residential school history and legacy to a wider Canadian public, enabling them to learn about the schools through the eyes of Survivors.
-This body of work includes memoirs such as Isabelle Knockwood’s Out of the Depths: The Experiences of Mi’kmaw Children at the Indian Residential School at Shubenacadie, Nova Scotia (1992), to the more recent works of Agnes Grant’s Finding My Talk: How Fourteen Native Women Reclaimed Their Lives after Residential School (2004); Alice Blondin’s My Heart Shook Like a Drum: What I Learned at the Indian Mission Schools, Northwest Territories (2009); Theodore Fontaine’s Broken Circle: The Dark Legacy of Indian Residential Schools: A Memoir (2010); Bev Sellars’s They Called Me Number One: Secrets and Survival at an Indian Residential School (2013); and Edmund Metatawabin and Alexandra Shimo’s Up Ghost River: A Chief’s Journey through the Turbulent Waters of Native History (2014).
+This body of work includes memoirs such as Isabelle Knockwood’s _Out of the Depths: The Experiences of Mi’kmaw Children at the Indian Residential School at Shubenacadie, Nova Scotia_ (1992), to the more recent works of Agnes Grant’s _Finding My Talk: How Fourteen Native Women Reclaimed Their Lives after Residential School_ (2004); Alice Blondin’s _My Heart Shook Like a Drum: What I Learned at the Indian Mission Schools, Northwest Territories_ (2009); Theodore Fontaine’s _Broken Circle: The Dark Legacy of Indian Residential Schools: A Memoir_ (2010); Bev Sellars’s _They Called Me Number One: Secrets and Survival at an Indian Residential School_ (2013); and Edmund Metatawabin and Alexandra Shimo’s _Up Ghost River: A Chief’s Journey through the Turbulent Waters of Native History_ (2014).
 
-Works of fiction (sometimes drawn from the author’s own life experiences), such as Tomson Highway’s Kiss of the Fur Queen (1998), Robert Alexie’s Porcupines and China Dolls (2009), or Richard Wagamese’s Indian Horse (2012), tell stories about abuse, neglect, and loss that are also stories of healing, redemption, and hope.
-In 2012, the Aboriginal
-Healing Foundation published Speaking My Truth: Reflections on Reconciliation and Residential Schools, and invited book clubs across the country to read and discuss the book.
-Documentary films such as Where the Spirit Lives (1989), Kuper Island: Return to the Healing Circle (1997), and Muffins for Granny (2008), as well as docu-dramas such as We Were Children (2012), all serve to educate Canadians and the wider world about the residential school experience, using the power of sound and images.
-Intergenerational Survivor Georgina Lightning was the first Indigenous woman in North America to direct a full-length feature film, Older Than America (2008).
-Kevin Loring’s stage play, Where the Blood Mixes, won the Governor General’s award for literary drama in 2009.
+Works of fiction (sometimes drawn from the author’s own life experiences), such as Tomson Highway’s _Kiss of the Fur Queen_ (1998), Robert Alexie’s _Porcupines and China Dolls_ (2009), or Richard Wagamese’s _Indian Horse_ (2012), tell stories about abuse, neglect, and loss that are also stories of healing, redemption, and hope.
+In 2012, the Aboriginal<!--x-->
+Healing Foundation published _Speaking My Truth: Reflections on Reconciliation and Residential Schools_, and invited book clubs across the country to read and discuss the book.
+Documentary films such as _Where the Spirit Lives_ (1989), _Kuper Island: Return to the Healing Circle_ (1997), and _Muffins for Granny_ (2008), as well as docu-dramas such as _We Were Children_ (2012), all serve to educate Canadians and the wider world about the residential school experience, using the power of sound and images.
+Intergenerational Survivor Georgina Lightning was the first Indigenous woman in North America to direct a full-length feature film, _Older Than America_ (2008).
+Kevin Loring’s stage play, _Where the Blood Mixes_, won the Governor General’s award for literary drama in 2009.
 It combines drama and humour to tell the stories of three Survivors living in the aftermath of their residential school experiences.
 
 Art can be powerful and provocative.
@@ -6941,20 +6940,20 @@ Acts of resistance sometimes take place in “irreconcilable spaces” where art
 This is also essential to individual and collective reclaiming of identity, culture, and community memory.
 
 The Commission notes that the use of creative arts in community workshops promotes healing for Survivors, their families, and the whole community through the recovery of cultural traditions.
-In conducting surveys of 103 community-based healing projects, the Aboriginal Healing Foundation (ahf) found that 80% of those projects included cultural activities and traditional healing interventions.
+In conducting surveys of 103 community-based healing projects, the Aboriginal Healing Foundation (AHF) found that 80% of those projects included cultural activities and traditional healing interventions.
 These included Elders’ teachings, storytelling and traditional knowledge, language programs, land-based activities, feasts and powwows; and learning traditional art forms, harvesting medicines, and drumming, singing, and dancing.
-The ahf report observed,
+The AHF report observed,
 
-A notable component of successful healing programs was their diversity— interventions were blended and combined to create holistic programs that met the physical, emotional, cultural, and spiritual needs of participants.
+> A notable component of successful healing programs was their diversity— interventions were blended and combined to create holistic programs that met the physical, emotional, cultural, and spiritual needs of participants.
 Not surprisingly, arts-based interventions were included in many cultural activities (drum making, beading, singing, and drumming) as well as in therapeutic healing (art therapy and psychodrama).[^210]
 
 The Aboriginal Healing Foundation’s findings make clear that creative art practices are highly effective in reconnecting Survivors and their families to their cultures, languages, and communities.
 In our view, this confirms yet again that funding for community-based healing projects is an urgent priority for Aboriginal communities.
 
 Art exhibits have played a particularly powerful role in the process of healing and reconciliation.
-In 2009, nationally acclaimed Anishinaabe artist Robert Houle, who attended the
+In 2009, nationally acclaimed Anishinaabe artist Robert Houle, who attended the<!--x-->
 Sandy Bay residential school in Manitoba, created a series of twenty-four paintings to be housed permanently in the University of Manitoba’s School of Art Gallery.
-In an interview with CBC News on September 24, 2013, he explained that “during the process memories came back that he had previously suppressed …
+In an interview with _CBC News_ on September 24, 2013, he explained that “during the process memories came back that he had previously suppressed …
 [but that] he found the whole experience cathartic.
 At the end, he felt a sigh of relief, a sigh of liberation.”[^211]
 
@@ -6962,8 +6961,7 @@ Over the course of the Commission’s mandate, several major art exhibits ran co
 During the British Columbia National Event in Vancouver, for example, three major exhibits opened, featuring well-known Aboriginal artists, some of whom were also Survivors or intergenerational Survivors.
 A number of non-Aboriginal artists were also featured.
 Their work explored themes of denial, complicity, apology, and government policy.
-Two of these exhibits were at the University of British Columbia: Witnesses: Art and Canada’s Indian Residential Schools at the Morris and Helen Belkin Art Gallery, and the Museum of Anthropology’s Speaking to Memory: Images and Voices from the St.
-Michael’s Residential School.
+Two of these exhibits were at the University of British Columbia: Witnesses: _Art and Canada’s Indian Residential Schools_ at the Morris and Helen Belkin Art Gallery, and the Museum of Anthropology’s _Speaking to Memory: Images and Voices from the St. Michael’s Residential School_.
 Both exhibits were collaborative efforts that also engaged Survivors, artists, and curatorial staff in related public education initiatives, including workshops, symposia, and public dialogues based on the exhibits.[^212]
 
 A significant number of the statements gathered by the Commission also came to us in artistic formats.
@@ -6976,12 +6974,12 @@ The arts have opened up new and critical space for Survivors, artists, curators,
 The Commission funded or supported several arts-related projects.
 Early in its mandate, the TRC sponsored the “Living Healing Quilt Project,” which was organized by Anishinaabe quilter Alice Williams from Curve Lake First Nation in Ontario.
 Women Survivors and intergenerational Survivors from across the country created individual quilt blocks depicting their memories of residential schools.
-These were then stitched together into three quilts, Schools of Shame, Child Prisoners, and Crimes Against Humanity.
+These were then stitched together into three quilts, _Schools of Shame_, _Child Prisoners_, and _Crimes Against Humanity_.
 
 The quilts tell a complex story of trauma, loss, isolation, recovery, healing, and hope through women’s eyes.
 The sewing skills taught to young Aboriginal girls in the residential schools and passed along to their daughters and granddaughters are now used to stitch together a counter-narrative.[^213]
 This project also inspired the “Healing Quilt Project,” which linked education and art.
-At the Manitoba National Event, as an expression of reconciliation, the Women’s and Gender Studies and Aboriginal Governance departments at the University of Winnipeg gave the TRC a quilt created by students and professors as part
+At the Manitoba National Event, as an expression of reconciliation, the Women’s and Gender Studies and Aboriginal Governance departments at the University of Winnipeg gave the TRC a quilt created by students and professors as part<!--x-->
 of their coursework.
 Through classroom readings, dialogue, and art, they created a space for learning about, and reflecting on, the residential school history and legacy in the context of reconciliation.[^214]
 
@@ -6990,12 +6988,12 @@ Working with Survivors, artists, and curators, a multidisciplinary team of resea
 The research was done through a series of interviews, workshops, artist residencies, planning sessions, symposia, artistic incubations, publications, and online learning platforms.
 The report reveals the depth and potential of arts-based approaches to reconciliation.
 
-We should begin by echoing what many of our interview and artist subjects have repeatedly said: that the act of reconciliation is itself deeply complicated, and that success should not be measured by achieving a putative [commonly accepted or supposed] reconciliation, but by movement towards these lofty goals.
+> We should begin by echoing what many of our interview and artist subjects have repeatedly said: that the act of reconciliation is itself deeply complicated, and that success should not be measured by achieving a putative [commonly accepted or supposed] reconciliation, but by movement towards these lofty goals.
 Indeed, it could be proposed that full reconciliation is both mercurial and impossible, and that the efforts of theorists, artists, survivors, and the various publics engaged in this difficult process are best focused on working collaboratively for better understanding our histories, our traumas, and ourselves.[^215]
 
 These various projects indicate that the arts and artistic practices may serve to shape public memory in ways that are potentially transformative for individuals, communities, and national history.
 
-Residential school commemoration projects
+### Residential school commemoration projects
 
 Commemoration should not put closure to the history and legacy of the residential schools.
 Rather, it must invite citizens into a dialogue about a contentious past and why this history still matters today.
@@ -7005,7 +7003,7 @@ The process of remembering the past together is an emotional journey of contradi
 The Settlement Agreement identified the historic importance and reconciliation potential of such remembering by establishing a special fund for projects that would commemorate the residential school experience, and by assigning a role in the approval of these projects to the Truth and Reconciliation Commission of Canada.
 
 As previously noted in this report’s section about the Commission’s activities, commemoration projects across the country were funded under the terms of the Settlement Agreement.
-Twenty million dollars were set aside for Aboriginal communities and various
+Twenty million dollars were set aside for Aboriginal communities and various<!--x-->
 partners and organizations to undertake community-based, regional or national projects.
 The Commission evaluated and made recommendations to the Department of Aboriginal Affairs and Northern Development Canada, which was responsible for administering the funding for the commemoration projects.
 
@@ -7032,7 +7030,7 @@ Richard Green, who coordinated the two-year memorial project, said, “This is a
 This meeting is about honouring all the children and is part of remembering the legacy.
 Lest we forget, as they say.
 We can probably forgive, but we can never forget our history.”
-He explained that the
+He explained that the<!--x-->
 monuments “have been a big success with plenty of positive feedback.
 Now we have a physical place where people can go and commemorate.”[^218]
 
@@ -8159,7 +8157,7 @@ Hayes, Statement to the Truth and Reconciliation Commission of Canada, Toronto, 
 103.	 The Aboriginal Healing Foundation (AHF) was mandated to provide funding and support for
 
 Aboriginal community-based healing projects.
-For more on the history of the AHF and the circumstances surrounding the closure, see: Spear, “Full Circle,” http://www.ahf.ca/downloads/full-circle-2.pdf (accessed 28 April 2015).
+For more on the history of the AHF and the circumstances surrounding the closure, see: Spear, “Full Circle,” http://www.AHF.ca/downloads/full-circle-2.pdf (accessed 28 April 2015).
 104.	 TRC, AVS, Allan Sutherland, Statement to the Truth and Reconciliation Commission of Canada, Winnipeg, Manitoba, 16 June 2010, Statement Number: 02-MB-16JU10-067.
 105.	 TRC, AVS, Esther Lachinette-Diabo, Statement to the Truth and Reconciliation Commission of Canada, Thunder Bay, Ontario, 24 November 2010, Statement Number: 01-ON-24Nov10-020.
 106.	 TRC, AVS, Charlotte Marten, Statement to the Truth and Reconciliation Commission of Canada, Lethbridge, Alberta, 9 October 2013, Statement Number: SP127.
