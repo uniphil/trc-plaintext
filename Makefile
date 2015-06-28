@@ -51,10 +51,15 @@ $(FIXED)/%.md: $(TXTIMG_LINK)/%.md $(PATCH)/%.patch mkdirs
 
 
 ###### THE BIG DOC
-GOAL = TRC-2015-Executive-Summary.md
+MD_INTERMEDIATE = TRC-2015-Executive-Summary.md
+GOAL = TRC-2015-Executive-Summary.html
 report: $(GOAL)
-$(GOAL): $(TARGETS)
+
+$(MD_INTERMEDIATE): $(TARGETS)
 	python lib/join-fixed.py $@ $(sort $^)
+
+$(GOAL): $(MD_INTERMEDIATE)
+	python2.7 lib/parse.py $< blah > $@
 
 ###### FOR HUMANS (get an editable copy)
 HUMAN := $(TARGETS:$(FIXED)/%.md=$(FOR_HUMANS)/%.md)
