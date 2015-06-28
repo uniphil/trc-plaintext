@@ -60,7 +60,7 @@ $(MD_INTERMEDIATE): $(TARGETS)
 	python lib/join-fixed.py $@ $(sort $^)
 
 $(SITE)/$(GOAL): $(MD_INTERMEDIATE) mkdirs
-	python2.7 lib/parse.py $< $(SITE) > $@
+	python2.7 lib/parse.py $< $(SITE)
 
 ###### FOR HUMANS (get an editable copy)
 HUMAN := $(TARGETS:$(FIXED)/%.md=$(FOR_HUMANS)/%.md)

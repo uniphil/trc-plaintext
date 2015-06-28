@@ -72,8 +72,6 @@ class PageNumData(Treeprocessor):
             if len(pages) > 0:
                 el.set('data-p', ','.join(map(str, sorted(pages))))
 
-        return root
-
 
 class TRCExtension(Extension):
     def extendMarkdown(self, md, md_globals):
@@ -89,10 +87,14 @@ class TRCMarkdown(Markdown):
 
         kwargs.setdefault('output_format', 'trc')
         super(self.__class__, self).__init__(*args, **kwargs)
+        self.stripTopLevelTags = False
 
     def to_site(self, el):
-        sys.stderr.write('yee haw\n{}\n'
-            .format(self.output_folder))
+        # import pdb; pdb.set_trace()
+        # site = to_html_string(el)
+        # with open(self.output_folder + '/TRC-2015-Executive-Summary.html', 'w') as f:
+        #     f.write(site.encode('utf-8'))
+        # return ''
         return to_html_string(el)
 
 
@@ -104,10 +106,13 @@ if __name__ == '__main__':
     with open(sourceName) as f:
         source = f.read().decode('utf-8')
     md = TRCMarkdown(
+        lazy_ol=False,
         output_folder=outfolder,
         extensions=[
             TRCExtension(),
             toc.TocExtension(permalink=True),
             OutlineExtension({}),
         ])
-    print(md.convert(source).encode('utf-8'))
+    out = md.convert(source)
+    with open(md.output_folder + '/TRC-2015-Executive-Summary.html', 'w') as f:
+        f.write(out.encode('utf-8'))
