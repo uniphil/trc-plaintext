@@ -8,8 +8,9 @@ TXTIMG_LINK	= text-imagelink
 FOR_HUMANS	= for-humans
 PATCH 		= patch
 FIXED 		= fixed
+SITE 		= site
 
-.PHONY: all pages patches human report clean clean-pages clean-split
+.PHONY: all pages patches human report clean clean-pages clean-split clean-site
 
 
 ###### PRE-MAKE (calls make on this again after splitting pages)
@@ -53,13 +54,13 @@ $(FIXED)/%.md: $(TXTIMG_LINK)/%.md $(PATCH)/%.patch mkdirs
 ###### THE BIG DOC
 MD_INTERMEDIATE = TRC-2015-Executive-Summary.md
 GOAL = TRC-2015-Executive-Summary.html
-report: $(GOAL)
+report: $(SITE)/$(GOAL)
 
 $(MD_INTERMEDIATE): $(TARGETS)
 	python lib/join-fixed.py $@ $(sort $^)
 
-$(GOAL): $(MD_INTERMEDIATE)
-	python2.7 lib/parse.py $< blah > $@
+$(SITE)/$(GOAL): $(MD_INTERMEDIATE) mkdirs
+	python2.7 lib/parse.py $< $(SITE)
 
 ###### FOR HUMANS (get an editable copy)
 HUMAN := $(TARGETS:$(FIXED)/%.md=$(FOR_HUMANS)/%.md)
@@ -85,6 +86,7 @@ mkdirs:
 	mkdir -p $(FOR_HUMANS)
 	mkdir -p $(PATCH)
 	mkdir -p $(FIXED)
+	mkdir -p $(SITE)
 clean-pages:
 	-rm -fr $(TXT_EXTRACT)
 	-rm -fr $(TXT_AUTO)
@@ -93,4 +95,7 @@ clean-pages:
 	-rm -fr $(TXTIMG_LINK)
 	-rm -fr $(FOR_HUMANS)
 	-rm -fr $(FIXED)
-clean: clean-split clean-pages
+clean-site:
+	-rm -fr $(MD_INTERMEDIATE)
+	-rm -fr $(SITE)
+clean: clean-split clean-pages clean-site

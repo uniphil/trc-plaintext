@@ -3,7 +3,7 @@
 
 import re
 from functools import reduce
-from markdown import markdown
+from markdown import Markdown, to_html_string
 from markdown.extensions import Extension, toc
 from markdown.preprocessors import Preprocessor
 from markdown.treeprocessors import Treeprocessor
@@ -72,14 +72,30 @@ class PageNumData(Treeprocessor):
             if len(pages) > 0:
                 el.set('data-p', ','.join(map(str, sorted(pages))))
 
-        return root
-
 
 class TRCExtension(Extension):
     def extendMarkdown(self, md, md_globals):
         md.preprocessors.add('markpagenum', MarkPagenum(md), '_begin')
         md.preprocessors.add('inserttoc', InsertTOC(md), '>markpagenum')
         md.treeprocessors.add('pagenum', PageNumData(md), '_end')
+
+
+class TRCMarkdown(Markdown):
+    def __init__(self, *args, **kwargs):
+        self.output_formats = {'trc': self.to_site}
+        self.output_folder = kwargs['output_folder']
+
+        kwargs.setdefault('output_format', 'trc')
+        super(self.__class__, self).__init__(*args, **kwargs)
+        self.stripTopLevelTags = False
+
+    def to_site(self, el):
+        # import pdb; pdb.set_trace()
+        # site = to_html_string(el)
+        # with open(self.output_folder + '/TRC-2015-Executive-Summary.html', 'w') as f:
+        #     f.write(site.encode('utf-8'))
+        # return ''
+        return to_html_string(el)
 
 
 ''' Be a script '''
@@ -89,9 +105,14 @@ if __name__ == '__main__':
     sourceName, outfolder = sys.argv[1:]
     with open(sourceName) as f:
         source = f.read().decode('utf-8')
-    marked = markdown(source, extensions=[
-        TRCExtension(),
-        toc.TocExtension(permalink=True),
-        OutlineExtension({}),
-    ])
-    print(marked.encode('utf-8'))
+    md = TRCMarkdown(
+        lazy_ol=False,
+        output_folder=outfolder,
+        extensions=[
+            TRCExtension(),
+            toc.TocExtension(permalink=True),
+            OutlineExtension({}),
+        ])
+    out = md.convert(source)
+    with open(md.output_folder + '/TRC-2015-Executive-Summary.html', 'w') as f:
+        f.write(out.encode('utf-8'))
