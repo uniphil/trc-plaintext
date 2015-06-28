@@ -797,7 +797,7 @@ This journey led the Commission to chart some of the pathways described in this 
 
 <!-- page 046 -->
 
-<!-- page 047 -->## The history
+<!-- page 047 --># The history
 
 ![A group of students and parents from the Saddle Lake Reserve, en route to the Methodist-operated school in Red Deer, Alberta. Woodruff, Library and Archives Canada, PA-040715.](image-autofix/page-047.jpg)
 
