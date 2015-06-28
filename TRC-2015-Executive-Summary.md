@@ -10,7 +10,7 @@
 
 <!-- page 006 -->
 
-<!-- page 007 -->## Introduction
+<!-- page 007 --># Introduction
 
 For over a century, the central goals of Canada’s Aboriginal policy were to eliminate Aboriginal governments; ignore Aboriginal rights; terminate the Treaties; and, through a process of assimilation, cause Aboriginal peoples to cease to exist as distinct legal, social, cultural, religious, and racial entities in Canada.
 The establishment and operation of residential schools were a central element of this policy, which can best be described as “cultural genocide.”
@@ -115,7 +115,7 @@ We should do no less.
 It is time to commit to a process of reconciliation.
 By establishing a new and respectful relationship, we restore what must be restored, repair what must be repaired, and return what must be returned.
 
-### Reconciliation at the crossroads
+## Reconciliation at the crossroads
 
 To some people, reconciliation is the re-establishment of a conciliatory state.
 However, this is a state that many Aboriginal people assert never has existed between Aboriginal and non-Aboriginal people.
@@ -398,7 +398,7 @@ To determine the truth and to tell the full and complete story of residential sc
 Canada’s national history in the future must be based on the truth about what happened in the residential schools.
 One hundred years from now, our children’s children and their children must know and still remember this history, because they will inherit from us the responsibility of ensuring that it never happens again.
 
-<!-- page 022 -->### What is reconciliation?
+<!-- page 022 -->## What is reconciliation?
 
 During the course of the Commission’s work, it has become clear that the concept of reconciliation means different things to different people, communities, institutions, and organizations.
 The TRC mandate describes reconciliation as “an ongoing individual and collective process, and will require commitment from all those affected including First Nations, Inuit and Métis former Indian Residential School (IRS) students, their families, communities, religious entities, former school employees, government and the people of Canada.
@@ -532,7 +532,7 @@ For non-Aboriginal Canadians who came to bear witness to Survivors’ life stori
 One woman said simply, “By listening to your story, my story can change.
 By listening to your story, I can change.”[^55]
 
-### Reconciliation as relationship
+## Reconciliation as relationship
 
 In its 2012 _Interim Report_, the TRC recommended that federal, provincial, and territorial governments, and all parties to the Settlement Agreement, undertake to meet and explore the _United Nations Declaration on the Rights of Indigenous Peoples_, as a framework for reconciliation in Canada.
 We remain convinced that the _United Nations Declaration_ provides the necessary principles, norms, and standards for reconciliation to flourish in twenty-first-century Canada.
@@ -558,7 +558,7 @@ For Canadians from all walks of life, reconciliation offers a new way of living 
 
 <!-- page 032 -->
 
-<!-- page 033 -->### Commission activities
+<!-- page 033 --># Commission activities
 
 The Truth and Reconciliation Commission of Canada was established in 2008 under the terms of the Indian Residential Schools Settlement Agreement.
 The Commission was mandated to
@@ -590,7 +590,7 @@ The Commission established its head office in Winnipeg, Manitoba, retained a sma
 <!-- page 035 -->In recognition of the unique cultures of the Inuit, and of their experiences and the impacts of residential schools on them, the Commission also established an Inuit SubCommission.
 Seven regional liaison officers were hired with advice from the IRSSC and were assigned responsibility to work in the following regions: Québec and Atlantic Canada, Ontario, Manitoba, Saskatchewan, Alberta, British Columbia, and Yukon and the Northwest Territories.
 
-### Meeting from coast to coast
+## Meeting from coast to coast
 
 During the six years of its operation, the Commission held events in all parts of the country.
 The largest and most visible of these were the National Events held in Winnipeg, Inuvik, Halifax, Saskatoon, Montreal, Vancouver, and Edmonton between June 2010 and March 2014.
@@ -601,7 +601,7 @@ It also held 238 days of local hearings in seventy-seven communities across the 
 The Commission also sponsored “town halls” on reconciliation at its Victoria Regional Event in April 2012 and at subsequent National Events as a means to draw a greater number of visitors into conversation with the TRC about healing and reconciliation.
 Members of the general public were invited to come forward at the town halls to share information about what they are already doing to support reconciliation and to describe their ideas about what more needs to be done.
 
-### Statement gathering
+## Statement gathering
 
 Until the Commission was established, the voices of those who were most directly affected by the residential school experience, particularly the former students, had largely been missing from the historical record.
 The Commission made a commitment to offer everyone involved with the residential school system the opportunity to speak about their experience.
@@ -680,7 +680,7 @@ A multi-faceted and personal approach that actively engages Survivors is require
 The Commission strongly believes that Survivors’ stories must be preserved.
 The loss of these documents would be a blow to Canada’s national memory of a significant historic injustice, could contribute to the possibility that future generations would never know of the abuses in residential schools, and could contribute to the argument of those who would assert that this never happened.  The Commission intends to vigorously advance a position to prevent the destruction of the IAP documents without the informed consent of individual Survivors.
 
-### The National Events
+## The National Events
 
 The four-day National Events served as important milestones over the course of the Commission’s six-year mandate.
 As well as offering a forum for Survivors and their families, the National Events raised public awareness of the history and legacy of residential schools.
@@ -711,7 +711,7 @@ Through concerts and talent shows, thousands of people experienced some of the r
 The Commission was able to share its work with Canadians everywhere, and with a worldwide audience, through live streaming of the National Events on the internet and additional postings on the Commission’s website and social-media platforms.
 There were over 93,350 views of its webcast during the National Events from at least sixty-two different countries.
 
-### Witnessing and expressions of reconciliation
+## Witnessing and expressions of reconciliation
 
 One of the goals of the Commission’s public outreach activities was to encourage Canadians from all backgrounds to learn more about the legacy of residential schools and take part in the work of reconciliation by witnessing Commission events.
 
@@ -726,7 +726,7 @@ The Commission received more than 180 expressions from individuals, organization
 Documents and items related to each expression of reconciliation were placed in ceremony in the beautiful Bentwood Box created by Coast Salish carver Luke Marston.
 The box will become part of the permanent legacy of the TRC housed in the National Centre for Truth and Reconciliation.
 
-### Education and outreach
+## Education and outreach
 
 The Commission worked throughout its mandate to educate the public about the legacy of residential schools and to invite and encourage public participation in its events and activities.
 The Commission took part in nearly 900 separate events.
@@ -737,7 +737,7 @@ In the final year of its mandate, the Commission organized two events to gather 
 It held a Traditional Knowledge Keepers Forum to learn how traditional Aboriginal knowledge can contribute to reconciliation.
 It also organized, with the support of Égale Canada Human Rights Trust, a forum with members of the Two Spirit community to discuss the impacts of residential schools and what needs to be done to support reconciliation and healing in that community.
 
-### Commemoration and community events funding
+## Commemoration and community events funding
 
 The Settlement Agreement allocated $20 million for commemoration initiatives.
 These were defined as initiatives that would honour, educate, remember, memorialize, and pay tribute to former residential school students, their families, and their communities.
@@ -753,12 +753,12 @@ The design selected for the window was created by Aboriginal artist Christi Belc
 The Commission issued a separate call for proposals for community events and allocated funding to approved projects up to a maximum of $15,000 per event.
 The TRC supported seventy-five community events, which were designed to promote healing and reconciliation by developing collective community narratives about the impact of the residential school system on former students, families, and communities.
 
-### Interim report
+## Interim report
 
 In February 2012, as part of its mandate, the Commission issued an _Interim Report_ with findings and recommendations, along with a short history of residential schools, entitled _They Came for the Children_.
 Because recommendations in the _Interim Report_ dealt with gaps in school curricula, the Commission made it a priority to meet with provincial and territorial education ministers to advocate for the development of curriculum on the legacy of residential schools and the mandatory adoption of that curriculum in all jurisdictions.
 
-### National Centre for Truth and Reconciliation
+## National Centre for Truth and Reconciliation
 
 The Commission was mandated to create a national research centre, which would hold all the material created and received as part of its work.
 The centre is intended to be accessible to Survivors, their families, and communities, as well as to the general public.
@@ -797,7 +797,7 @@ This journey led the Commission to chart some of the pathways described in this 
 
 <!-- page 046 -->
 
-<!-- page 047 -->## The history
+<!-- page 047 --># The history
 
 ![A group of students and parents from the Saddle Lake Reserve, en route to the Methodist-operated school in Red Deer, Alberta. Woodruff, Library and Archives Canada, PA-040715.](image-autofix/page-047.jpg)
 
@@ -991,7 +991,7 @@ Christian churches sought government support for their missionary efforts.
 The schools were part of the colonization and conversion of Aboriginal people, and were intended to bring civilization and salvation to their children.
 These were the rationales that were used to justify making the lives of so many children so unhappy.
 
-### The imperial context
+## The imperial context
 
 > The whole part of the residential school was a part of a bigger scheme of colonization.
 There was intent; the schools were there with the intent to change people, to make them like others and to make them not fit.
@@ -1127,7 +1127,7 @@ Those systems were dynamic; they changed over time and were capable of continued
 Taken as a whole, the colonial process relied for its justification on the sheer presumption of taking a specific set of European beliefs and values and proclaiming them to be universal values that could be imposed upon the peoples of the world.
 This universalizing of European values—so central to the colonial project—that was extended to North America served as the prime justification and rationale for the imposition of a residential school system on the Indigenous peoples of Canada.
 
-### Residential schools in pre-Confederation Canada
+## Residential schools in pre-Confederation Canada
 
 In Canada, residential schooling was closely linked to colonization and missionary crusades.
 The first boarding school for Aboriginal people in what is now Canada was established in the early seventeenth century near the French trading post at the future site of Québec City.
@@ -1149,7 +1149,7 @@ This he thought of as “a plain English education adapted to the working farmer
 After the release of Ryerson’s report, Methodist missionaries operated a number of boarding schools in southern Ontario in the 1850s.[^84]
 One of them, the Mount Elgin school at Munceytown (later, Muncey), did not close until 1946.[^85] The first of what would be a string of Roman Catholic residential schools in what is now British Columbia opened in the early 1860s.[^86] A school in Fort Providence in what is now the Northwest Territories began taking in students in 1867.[^87]
 
-### The colonization of the Northwest
+## The colonization of the Northwest
 
 After the Canadian state was established in 1867, the federal government began making small per-student grants to many of the church-run boarding schools.
 Federal government involvement in residential schooling did not begin in earnest until the 1880s.
@@ -1186,7 +1186,7 @@ As a result, parents who wished to see their children educated were forced to se
 
 ![The signing of Treaty 1 at Lower Fort Garry, 1871. To gain control of the land of Indigenous people, colonists negotiated Treaties, waged wars of extinction, eliminated traditional landholding practices, disrupted families, and imposed new political and spiritual order that came complete with new values and cultural practices. Provincial Archives of Manitoba, N11975.](image-autofix/page-062.jpg)
 
-<!-- page 063 -->### The assimilation policy
+<!-- page 063 -->## The assimilation policy
 
 From the Canadian government’s perspective, the most significant elements in the Treaties were the written provisions by which the First Nations agreed to “cede, release, surrender, and yield” their land to the Crown.[^100]
 In the Treaty negotiations, however, federal officials left the impression that the government intended the Treaties to establish a permanent relationship with First Nations.
@@ -1220,7 +1220,7 @@ The Act placed restrictions on First Nations farmers’ ability to sell their cr
 Over the years, the government also assumed greater authority as to how reserve land could be disposed of: in some cases, entire reserves were relocated against the will of the residents.
 The _Indian Act_ was a piece of colonial legislation by which, in the name of ‘protection,’ one group of people ruled and controlled another.
 
-### The industrial school initiative
+## The industrial school initiative
 
 It was in keeping with this intent to assimilate Aboriginal peoples and, in the process, to eliminate its government-to-government relationship with First Nations that the federal government dramatically increased its involvement in residential schooling in the 1880s.
 In December 1878, J. S. Dennis, the deputy minister of the Department of the Interior, prepared a memorandum for Prime Minister Sir John A.
@@ -1294,7 +1294,7 @@ Duncan Campbell Scott succinctly summarized Indian Affairs’ goals for the scho
 The achievement of such invasive and ambitious goals would require a substantial level of funding.
 This was never forthcoming.
 
-<!-- page 068 -->### Funding: The dream of self-supporting schools
+<!-- page 068 -->## Funding: The dream of self-supporting schools
 
 In announcing the construction of the three initial industrial schools, Indian Commissioner Edgar Dewdney said that although the starting costs would be high, he could see no reason why the schools would not be largely self-supporting in a few years, due to the skills in farming, raising stock, and trades that were being taught to the students.[^119]
 In supporting an Anglican proposal for two industrial schools in Manitoba, Indian Affairs Deputy Minister Lawrence Vankoughnet wrote to Prime Minister Macdonald that it would be “well to give a Grant of money annually to each school established by any Denomination for the industrial training of Indian children.”
@@ -1326,7 +1326,7 @@ In 1966, residential schools in Saskatchewan were spending between $694 and $1,1
 Comparable child-welfare institutions in Canada were spending between $3,300 and $9,855 a year.
 In the United States, the annual cost of residential care per child was between $4,500 and $14,059.[^129]
 
-### Compelling attendance
+## Compelling attendance
 
 It was not until 1894 that the federal government put in place regulations relating to residential school attendance.
 Under the regulations adopted in that year, residential school attendance was voluntary.
@@ -1362,7 +1362,7 @@ This meant that 31.1% of the schoolaged Aboriginal children were in residential 
 
 ![The Roman Catholic school in Fort George, Quebec, opened in 1931. Deschâtelets Archives.](image-autofix/page-071.jpg)
 
-### Regulation
+## Regulation
 
 The residential school system operated with few regulations; those that did exist were in large measure weakly enforced.
 The Canadian government never developed anything approaching the education acts and regulations by which provincial governments administered public schools.
@@ -1388,7 +1388,7 @@ Departmental secretary J. D. McLean informed him that “there are no printed re
 
 The system was so unregulated that in 1968, after Canada had been funding residential schools for 101 years, Indian Affairs Deputy Minister J. A. MacDonald announced, “For the first time we have set down in a precise and detailed manner the criteria which is to be used in future in determining whether or not an Indian child is eligible for these institutions.”[^143]
 
-### Expansion and decline
+## Expansion and decline
 
 From the 1880s onwards, residential school enrolment climbed annually.
 According to federal government annual reports, the peak enrolment of 11,539 was reached in the 1956–57 school year.[^144]
@@ -1405,14 +1405,18 @@ As Graph 2 illustrates, this decrease was reversed in the mid-1950s, when the fe
 Prior to that time, residential schooling in the North was largely restricted to the Yukon and the Mackenzie Valley in the Northwest Territories.
 Large residences were built in communities such as Inuvik, Yellowknife, Whitehorse, Churchill, and eventually Iqaluit (formerly Frobisher Bay).
 This expansion was undertaken despite reports that recommended against the establishment of residential schools, since they would not provide children with the skills necessary to live in the North, skills they otherwise would have acquired in their home communities.[^149]
-The creation of the large hostels <!-- page 073 -->#### Graph 1 Residential school enrolment, 1869–70 to 1965–66
+The creation of the large hostels <!-- page 073 -->### Graph 1
+
+#### Residential school enrolment, 1869–70 to 1965–66
 
 [plain-text extract project is currently missing this graph image, sorry!]
 
 Source: Indian Affairs and Northern Affairs annual reports.
 After the 1965–66 school year, Indian Affairs stopped reporting on annual residential school enrolment.
 
-#### Graph 2 Number of residential schools and residences, 1867–1998
+### Graph 2
+
+#### Number of residential schools and residences, 1867–1998
 
 [plain-text extract project is currently missing this graph image, sorry!]
 
@@ -1422,7 +1426,7 @@ Source: Indian and Northern Affairs Canada, Indian Residential Schools of the In
 
 was accompanied by the opening of what were termed “small hostels” in the smaller and more remote communities of the eastern Arctic and the western Northwest Territories.
 
-### Policy towards Métis and Inuit students
+## Policy towards Métis and Inuit students
 
 Many of the early advocates of residential schooling in Canada expected that the schools would take in both Aboriginal children who had status under the _Indian Act_ (in other words, they were Indians as defined by the Act) as well as Aboriginal children who, for a variety of reasons, did not have status.
 The federal government classed these individuals alternately as “non-status Indians,” “half-breeds,” or “Métis.”[^150]
@@ -1460,7 +1464,7 @@ Because of the majority of the Aboriginal population in two of the three norther
 And, because the history of these schools is so recent, not only are there many living Survivors today, but there are also many living parents of Survivors.
 For these reasons, both the intergenerational impacts and the legacy of the schools, the good and the bad, are particularly strongly felt in the North.
 
-<!-- page 077 -->### The integration policy
+<!-- page 077 -->## The integration policy
 
 By 1945, the Indian Affairs residential school system, starved for funding for fifteen years, was on the verge of collapse.[^160]
 Not only was the existing Indian Affairs education system lacking money and resources, but also there were no school facilities of any sort for 42% of the school-aged First Nations children.[^161]
@@ -1478,7 +1482,7 @@ The integration policy was opposed by some of the church organizations.
 Roman Catholic church officials argued that residential schooling was preferable for three reasons: 1) teachers in public schools were not prepared to deal with Aboriginal students; 2) students in public schools often expressed racist attitudes towards Aboriginal students; and 3) Aboriginal students felt acute embarrassment over their impoverished conditions, particularly in terms of the quality of the clothing they wore and the food they ate.[^167]
 These were all issues that students and parents raised, as well.[^168]
 
-### Child-welfare facilities
+## Child-welfare facilities
 
 From the 1940s onwards, residential schools increasingly served as orphanages and child-welfare facilities.
 By 1960, the federal government estimated that 50% of the children in residential schools were there for child-welfare reasons.
@@ -1495,7 +1499,7 @@ By the end of the 1970s, the transfer of children from residential schools was n
 In 1977, Aboriginal children accounted for 44% of the children in care in Alberta, 51% of the children in care in Saskatchewan, and 60% of the children in care in Manitoba.[^172]
 In those residences that remained in operation, the percentage of social-welfare cases remained high.[^173]
 
-### The road to closure, 1969
+## The road to closure, 1969
 
 In 1968, the federal government drastically restructured the residential school system by dividing the schools into residences and day schools, each with a principal or administrator.[^174]
 In June of the following year, the federal government took direct control over all the schools in southern Canada.[^175]
@@ -1540,9 +1544,9 @@ By the 1990s, former students had begun to make Canadians aware of the tremendou
 
 <!-- page 080 -->![The classroom in the Moose Factory, Ontario, school. General Synod Archives, Anglican Church of Canada, P7538-970.](image-autofix/page-080.jpg)
 
-### The school experience
+## The school experience
 
-#### Education: “The children’s work was merely memory work.”
+### Education: “The children’s work was merely memory work.”
 
 As educational institutions, the residential schools were failures, and regularly judged as such.
 In 1923, former Regina industrial school principal R. B. Heron delivered a paper to a meeting of the Regina Presbytery of the Presbyterian Church that was highly critical of the residential school system.
@@ -1690,7 +1694,7 @@ Madeleine Dion Stout succeeded academically at the Blue Quills school, but she d
 “It’s not residential school that made me a good student.
 My, the fundamental <!-- page 086 -->values and good example I had before I went to residential school by my grandfather and my parents, and all the old people on the reserve where I grew up are the ones who made me a good student.”[^243]
 
-### Work: “No idleness here.”
+## Work: “No idleness here.”
 
 Student education was further undermined by the amount of work the students had to do to support the schools.
 Because Indian Affairs officials had anticipated that the residential schools would be self-sufficient, students were expected to raise or grow and prepare most of the food they ate, to make and repair much of their clothing, and to maintain the schools.
@@ -1749,7 +1753,7 @@ He said that from September to Christmas of the <!-- page 089 -->previous year, 
 Ross said that “he liked school but not working like a hired hand.”
 Bell recommended that the amount of student labour being done at the Birtle school be investigated.[^260]
 
-### Language and culture: “The Indian language is indeed seldom heard in the institution.”
+## Language and culture: “The Indian language is indeed seldom heard in the institution.”
 
 The government’s hostile approach to Aboriginal languages was reiterated in numerous policy directives.
 In 1883, Indian Commissioner Edgar Dewdney instructed Battleford school principal Thomas Clarke that great attention was to be given “towards imparting a knowledge of the art of reading, writing and speaking the English language rather than that of Cree.”[^261]
@@ -1854,7 +1858,7 @@ Both of Joline Huskey’s parents attended residential school in the Northwest T
 As a result of their experience in the schools, <!-- page 093 -->they raised their daughter to speak English.[^301]
 When Bruce Dumont was sent to residential school in Onion Lake, Saskatchewan, his mother warned him not to speak Cree.[^302]
 
-### Arranging and blocking marriages
+## Arranging and blocking marriages
 
 Through the residential schools, Indian Affairs and church officials sought to extend their control into the most intimate aspects of the lives of Aboriginal children.
 Indian Affairs officials believed that because the department had spent money educating students, it had gained the right to determine whom they married.
@@ -1886,7 +1890,7 @@ In 1922, the head of the Presbyterian Church’s Winnipeg Committee on Indian Wo
 The Presbyterians proposed that the children of such unauthorized marriages be denied Treaty annuities until they reached the age of twenty-one and be prohibited from attending school.[^312]
 Although the measure was not adopted, it is reflective of the church’s lack of respect for the autonomy of Aboriginal people.
 
-### Food: “Always hungry”
+## Food: “Always hungry”
 
 In his memoir of his years as a student at the Mount Elgin school in southern Ontario in the early twentieth century, Enos Montour wrote that the boys “were always hungry.
 Grub was the beginning and end of all conversations.”[^313]
@@ -1992,7 +1996,7 @@ So that’s why I liked to work there.”[^347]
 The federal government knowingly chose not to provide schools with enough money to ensure that kitchens and dining rooms were properly equipped, that cooks were properly trained, and, most significantly, that food was purchased in sufficient quantity and quality for growing children.
 It was a decision that left thousands of Aboriginal children vulnerable to disease.
 
-### Health: “For sickness, conditions at this school are nothing less than criminal.”
+## Health: “For sickness, conditions at this school are nothing less than criminal.”
 
 The number of students who died at Canada’s residential schools is not likely ever to be known in full.
 The most serious gap in information arises from the incompleteness of the documentary record.
@@ -2037,7 +2041,9 @@ As can be seen, until the 1950s Aboriginal children in residential schools died 
 It is only in the 1950s that the residential school death rates declined to a level comparable to that of the general school-aged population.
 As late as the 1941–45 period, the Named and Unnamed Combined residential school death rate was 4.[^90]
 times higher than the general death rate.
-In the 1960s, even though the residential school death <!-- page 100 -->#### Graph 3 Residential school death rates for 1,000 students, Named and Unnamed registers combined, 1869 to 1965
+In the 1960s, even though the residential school death <!-- page 100 -->### Graph 3
+
+#### Residential school death rates for 1,000 students, Named and Unnamed registers combined, 1869 to 1965
 
 [sorry, graph not yet available in the TRC plain-text export project]
 
@@ -2055,7 +2061,9 @@ Graph 5 shows the residential school tuberculosis death rate (figures are based 
 The tuberculosis health crisis in the schools was part of a broader Aboriginal health crisis that was set in motion by colonial policies that separated Aboriginal people from their land, thereby disrupting their economies and their food supplies.
 This crisis was particularly intense on the Canadian Prairies.
 Numerous federal government policies contributed to the undermining of Aboriginal health.
-During a period of starvation, rations were withheld from bands in an effort to force them to abandon the lands that they had <!-- page 101 -->#### Graph 4 Comparative death rates per 1,000 population, residential schools (Named and Unnamed registers combined) and the general Canadian population of school-aged children, using five-year averages from 1921 to 1965.
+During a period of starvation, rations were withheld from bands in an effort to force them to abandon the lands that they had <!-- page 101 -->### Graph 4
+
+#### Comparative death rates per 1,000 population, residential schools (Named and Unnamed registers combined) and the general Canadian population of school-aged children, using five-year averages from 1921 to 1965.
 
 [sorry, this chart not yet available in the plain-text TRC export project]
 
@@ -2074,7 +2082,9 @@ For Aboriginal children, the relocation to residential schools was generally no 
 In 1897, Indian Affairs official Martin Benson reported that the industrial schools in Manitoba and the Northwest Territories had been “hurriedly constructed of poor materials, badly laid out, without due provision for lighting, heating or ventilation.”
 In addition, drainage was poor, and water and fuel supplies were inadequate.[^355]
 Conditions were not any better in the church-built boarding schools.
-In 1904, Indian Commissioner David Laird echoed Benson’s comments when he wrote <!-- page 102 -->#### Graph 5 Residential school tuberculosis death rates per 1,000 population, Named and Unnamed registers combined, 1869–1965
+In 1904, Indian Commissioner David Laird echoed Benson’s comments when he wrote <!-- page 102 -->### Graph 5
+
+#### Residential school tuberculosis death rates per 1,000 population, Named and Unnamed registers combined, 1869–1965
 
 [Sorry, chart not yet available in the plain-text TRC project]
 
@@ -2216,7 +2226,7 @@ It was brought down by improvements in diet, housing, sanitation, and medical at
 Had such measures been taken by the federal government earlier, they would have reduced both the Aboriginal death rates and the residential school students’ death rates.
 By failing to take adequate measures that had been recommended to it, the federal government blighted the health of generations of Aboriginal people.
 
-### Burial policy
+## Burial policy
 
 Many of the early schools were part of larger church mission centres that might include a church, a dwelling for the missionaries, a farm, a sawmill, and a cemetery.
 The mission cemetery might serve as a place of burial for students who died at school, members of <!-- page 108 -->the local community, and the missionaries themselves.
@@ -2250,7 +2260,7 @@ He worried that unless the government took steps to care for the cemetery, it wo
 In short, throughout the system’s history, children who died at school were buried in school or mission cemeteries, often in poorly marked graves.
 The closing of the schools has led, in many cases, to the abandonment of these cemeteries.
 
-### Discipline: “Too suggestive of the old system of flogging criminals”
+## Discipline: “Too suggestive of the old system of flogging criminals”
 
 When Indian agent D. L. Clink returned a runaway student to the Red Deer industrial school in 1895, he noted that the boy’s head was bruised from where a teacher had hit him with a stick.
 The school principal, John Nelson, told Clink that he “had been severe with him before but he would be more severe now.”
@@ -2346,7 +2356,7 @@ In the 1990s, students at the Gordon’s, Saskatchewan, school were still being 
 <!-- page 113 -->The failure to develop, implement, and monitor effective discipline sent an unspoken message that there were no real limits on what could be done to Aboriginal children within the walls of a residential school.
 The door had been opened early to an appalling level of physical and sexual abuse of students, and it remained open throughout the existence of the system.
 
-### Abuse: “And he did awful things to me.”
+## Abuse: “And he did awful things to me.”
 
 From the nineteenth century onwards, the government and churches were well aware of the risk that staff might sexually abuse residential school students.
 As early as 1886, Jean L’Heureux, who worked as a translator for Indian Affairs and a recruiter for Roman Catholic schools in Alberta, was accused of sexually abusing boys in his care.
@@ -2519,7 +2529,7 @@ This victimization left many students feeling intensely betrayed, fearful, isola
 The betrayal by fellow students has contributed significantly to the schools’ long-term legacy of continuing division and distrust within Aboriginal communities.
 The residential school system’s shameful inability to protect students from such victimization, even from among themselves, represents one of its most significant and least-understood failures.
 
-### Sports and culture: “It was a relief.”
+## Sports and culture: “It was a relief.”
 
 Many students stated that sports helped them make it through residential school.
 Christina Kimball attended the Roman Catholic school near The Pas, where she experienced physical, sexual, and emotional abuse.
@@ -2617,7 +2627,7 @@ Canadien went on to play in the Chieftones, a rock-and-roll band that toured ext
 On the rinks, the athletic fields, and parade grounds, or in the arts and handicraft rooms and on performance stages, many students found a way to express themselves, and, through that, gained the opportunity to explore their own talents and sometimes other parts of the country or the world.
 Most importantly, they gained some confidence in their ability to achieve.
 
-<!-- page 122 -->### Resistance: “I am the father of this child.”
+<!-- page 122 -->## Resistance: “I am the father of this child.”
 
 Parents and children developed a variety of strategies to resist residential schooling.
 Parents might refuse to enrol students, refuse to return runaways, or they might refuse to return students to school at the end of the summer holidays.
@@ -2826,7 +2836,7 @@ However, as long as Aboriginal people were excluded from positions of control ov
 
 <!-- page 129 -->![Staff outside the entrance of the Brandon, Manitoba, school in 1946. National Film Board of Canada. Photothèque, Library and Archives Canada, PA-048575.](image-autofix/page-129.jpg)
 
-### The staff: “My aim was to do something good.”
+## The staff: “My aim was to do something good.”
 
 For most of their history, residential schools were staffed by individuals who were recruited by Christian missionary organizations.
 Generally, the churches appointed a priest or minister, as opposed to an educator, as the principal.
@@ -3014,7 +3024,7 @@ For the most part, the school staff members were not responsible for the policie
 In fact, many staff members spent much of their time and energy attempting to humanize a harsh and often destructive system.
 Along with the children’s own resilience, such staff members share credit for any positive results of the schools.
 
-### Agreement and apologies
+## Agreement and apologies
 
 During the years in which the federal government was slowly closing the residential school system, Aboriginal people across the country were establishing effective regional and national organizations.
 In the courts and the legislatures, they argued for the recognition of Aboriginal rights, particularly the right to self-government.
@@ -3202,7 +3212,7 @@ It is time to abandon the colonial policies of the past, to address the legacy o
 
 <!-- page 188 -->
 
-<!-- page 189 -->## The legacy
+<!-- page 189 --># The legacy
 
 > I want Canadians to understand that [the legacy of the residential schools] does not just affect the lives of the person who actually attended the school, but family members, such as spouses and children, are also very deeply affected about this sad legacy in history.
 
@@ -3281,7 +3291,7 @@ The Government of Canada initially refused to adopt the Declaration.
 When it finally did endorse the Declaration, it did not fully embrace its principles, saying that “it is a non-legally binding document that does not reflect customary international law nor change Canadian laws.”[^7]
 The Commission is convinced that a refusal to respect the rights and remedies in the Declaration will serve to further aggravate the legacy of residential schools, and will constitute a barrier to progress towards reconciliation.
 
-### Child welfare
+## Child welfare
 
 Residential schools, as acknowledged by the prime minister’s own admission in his 2008 official apology from Canada, were an attack on Aboriginal children and families.
 They were based on racist attitudes that considered Aboriginal families as being frequently unfit to care for their children.
@@ -3670,7 +3680,7 @@ To close the education and income gaps, there needs to be stable and adequate fu
 In addition to fair and adequate funding, there is also a need to maximize Aboriginal control over Aboriginal education, and to facilitate instruction in Aboriginal cultures and languages.
 These educational measures will offer a realistic prospect of reconciliation on the basis of equality and respect.
 
-### Language and culture
+## Language and culture
 
 In a study of the impact of residential schools, the Assembly of First Nations noted in 1994 that
 
@@ -3843,7 +3853,7 @@ We believe that measures should be put in place to reduce the burden placed on t
 
 17. We call upon all levels of government to enable residential school Survivors and their families to reclaim names changed by the residential school system by waiving administrative costs for a period of five years for the name-change process and the revision of official identity documents, such as birth certificates, passports, driver’s licenses, health cards, status cards, and social insurance numbers.
 
-### Health
+## Health
 
 Residential schools endangered the health and well-being of the children who attended them.
 Many students succumbed to infectious disease, particularly tuberculosis.
@@ -4011,7 +4021,7 @@ To be more effective in improving health outcomes, non-Aboriginal medical practi
 24. We call upon medical and nursing schools in Canada to require all students to take a course dealing with Aboriginal health issues, including the history and legacy of residential schools, the _United Nations Declaration on the Rights of Indigenous Peoples_, Treaties and Aboriginal rights, and Indigenous teachings and practices.
 This will require skills-based training in intercultural competency, conflict resolution, human rights, and anti-racism.
 
-### Justice
+## Justice
 
 Residential schools inflicted profound injustices on Aboriginal people.
 Aboriginal parents were forced, often under pressure from the police, to give up their children to the schools.
@@ -4488,9 +4498,9 @@ Only a real commitment to reconciliation will reverse the trend and lay the foun
 
 <!-- page 242 -->
 
-<!-- page 243 -->## The challenge of reconciliation
+<!-- page 243 --># The challenge of reconciliation
 
-### Setting the context
+## Setting the context
 
 Canada has a long history of colonialism in relation to Aboriginal peoples.
 That history and its policies of cultural genocide and assimilation have left deep scars on the lives of many Aboriginal people, on Aboriginal communities, as well as on Canadian society, and have deeply damaged the relationship between Aboriginal and non-Aboriginal peoples.
@@ -4797,7 +4807,7 @@ We would not suggest that the repudiation of the Doctrine of Discovery necessari
 The Commission accepts that there are other means to establish the validity of Crown sovereignty without undermining the important principle established in the Royal Proclamation of 1763, which is that the sovereignty of the Crown requires that it recognize and deal with Aboriginal title in order to become perfected.
 It must not be forgotten that the terms of the Royal Proclamation were explained to, and accepted by, Indigenous leaders during the negotiation of the Treaty of Niagara of 1764.
 
-<!-- page 255 -->### Treaties: Honouring the past and negotiating the future
+<!-- page 255 -->## Treaties: Honouring the past and negotiating the future
 
 It is important for all Canadians to understand that without Treaties, Canada would have no legitimacy as a nation.
 Treaties between Indigenous nations and the Crown established the legal and constitutional foundation of this country.
@@ -4962,7 +4972,7 @@ This would include, but not be limited to, the following commitments:
 
 49. We call upon all religious denominations and faith groups who have not already done so to repudiate concepts used to justify European sovereignty over Indigenous lands and peoples, such as the Doctrine of Discovery and _terra nullius_.
 
-<!-- page 261 -->### Revitalizing Indigenous law: Truth, reconciliation, and access to justice
+<!-- page 261 -->## Revitalizing Indigenous law: Truth, reconciliation, and access to justice
 
 Until recently, Canadian law was used by Canada to suppress truth and deter reconciliation.
 Parliament’s creation of assimilative laws and regulations facilitated the oppression of Aboriginal cultures and enabled the residential school system.
@@ -5113,7 +5123,7 @@ We need to create meaningful opportunities for Indigenous and non-Indigenous peo
 
 50. In keeping with the _United Nations Declaration on the Rights of Indigenous Peoples_, we call upon the federal government, in collaboration with Aboriginal organizations, to fund the establishment of Indigenous law institutes for the development, use, and understanding of Indigenous laws and access to justice in accordance with the unique cultures of Aboriginal peoples in Canada.
 
-### Reconciliation and accountability
+## Reconciliation and accountability
 
 ### Victims of violence; holders of rights
 
@@ -5169,7 +5179,7 @@ For Aboriginal peoples in Canada, the protection and exercise of their right to 
 In the coming years, governments must remain accountable for ensuring that Aboriginal peoples’ rights are protected and that government actions do, in fact, repair trust and foster reconciliation.
 Repairing trust begins with an apology, but it involves far more than that.
 
-### Moving from apology to action
+## Moving from apology to action
 
 From the outset, this Commission has emphasized that reconciliation is not a one-time event; it is a multi-generational journey that involves all Canadians.
 The public apologies and compensation to residential school Survivors, their families, and communities by Canada and the churches that ran the residential schools marked the beginning, not the end, of this journey.
@@ -5800,7 +5810,7 @@ Much has been accomplished through the healing and reconciliation projects of th
 
     4. Regional dialogues for Indigenous spiritual leaders and youth to discuss Indigenous spirituality, self-determination, and reconciliation.
 
-### Education for reconciliation
+## Education for reconciliation
 
 Much of the current state of troubled relations between Aboriginal and non-Aboriginal Canadians is attributable to educational institutions and what they have taught, or failed to teach, over many generations.
 Despite that history, or, perhaps more correctly, because of its potential, the Commission believes that education is also the key to reconciliation.
@@ -6110,7 +6120,7 @@ Non-profit organizations can play a key role in providing ongoing opportunities 
 
 66. We call upon the federal government to establish multi-year funding for community-based youth organizations to deliver programs on reconciliation, and establish a national network to share information and best practices.
 
-<!-- page 303 -->### Role of Canada’s museums and archives in education for reconciliation
+<!-- page 303 -->## Role of Canada’s museums and archives in education for reconciliation
 
 Museums and archives, as sites of public memory and national history, have a key role to play in national reconciliation.
 As publicly funded institutions, museums and archives in settler colonial states such as Canada, New Zealand, Australia, and the United States have interpreted the past in ways that have excluded or marginalized Aboriginal peoples’ cultural perspectives and historical experience.
@@ -6609,7 +6619,7 @@ The centre will be a living legacy, a teaching and learning place for public edu
 
 78. We call upon the Government of Canada to commit to making a funding contribution of $10 million over seven years to the National Centre for Truth and Reconciliation, plus an additional amount to assist communities to research and produce histories of their own residential school experience and their involvement in truth, healing, and reconciliation.
 
-### Public memory: Dialogue, the arts, and commemoration
+## Public memory: Dialogue, the arts, and commemoration
 
 For Survivors who came forward at the TRC’s National Events and Community Hearings, remembering their childhood often meant reliving horrific memories of abuse, hunger, and neglect.
 It meant dredging up painful feelings of loneliness, abandonment, and shame.
@@ -7601,7 +7611,7 @@ This would include, but not be limited to, the following:
 
     3. Provide education for management and staff on the history of Aboriginal peoples, including the history and legacy of residential schools, the _United Nations Declaration on the Rights of Indigenous Peoples_, Treaties and Aboriginal rights, Indigenous law, and Aboriginal–Crown relations. This will require skills-based training in intercultural competency, conflict resolution, human rights, and anti-racism.
 
-### We are all Treaty people: Communities, alliances, and hope
+## We are all Treaty people: Communities, alliances, and hope
 
 The Commission believes that reconciliation cannot be left up to governments, the courts, and churches alone.
 There must also be dialogue and action in communities across the country.
@@ -7894,7 +7904,7 @@ Precisely because “we are all Treaty people,” Canada’s Oath of Citizenship
 
 > I swear (or affirm) that I will be faithful and bear true allegiance to Her Majesty Queen Elizabeth II, Queen of Canada, Her Heirs and Successors, and that I will faithfully observe the laws of Canada including Treaties with Indigenous Peoples, and fulfill my duties as a Canadian citizen.
 
-<!-- page 369 -->### Closing Words
+<!-- page 369 -->## Closing Words
 
 On September 22, 2013, the day after the British Columbia National Event, the Commissioners joined 70,000 people gathered in the pouring rain to participate in a Walk for Reconciliation, organized by Reconciliation Canada, a non-profit organization.
 If one was looking down Georgia Street in downtown Vancouver, a sea of multicoloured umbrellas was visible as far as the eye could see.
