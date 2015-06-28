@@ -398,7 +398,7 @@ To determine the truth and to tell the full and complete story of residential sc
 Canada’s national history in the future must be based on the truth about what happened in the residential schools.
 One hundred years from now, our children’s children and their children must know and still remember this history, because they will inherit from us the responsibility of ensuring that it never happens again.
 
-<!-- page 022 -->### What is reconciliation?
+<!-- page 022 -->## What is reconciliation?
 
 During the course of the Commission’s work, it has become clear that the concept of reconciliation means different things to different people, communities, institutions, and organizations.
 The TRC mandate describes reconciliation as “an ongoing individual and collective process, and will require commitment from all those affected including First Nations, Inuit and Métis former Indian Residential School (IRS) students, their families, communities, religious entities, former school employees, government and the people of Canada.
