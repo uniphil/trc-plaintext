@@ -711,7 +711,7 @@ Through concerts and talent shows, thousands of people experienced some of the r
 The Commission was able to share its work with Canadians everywhere, and with a worldwide audience, through live streaming of the National Events on the internet and additional postings on the Commission’s website and social-media platforms.
 There were over 93,350 views of its webcast during the National Events from at least sixty-two different countries.
 
-### Witnessing and expressions of reconciliation
+## Witnessing and expressions of reconciliation
 
 One of the goals of the Commission’s public outreach activities was to encourage Canadians from all backgrounds to learn more about the legacy of residential schools and take part in the work of reconciliation by witnessing Commission events.
 
