@@ -1149,7 +1149,7 @@ This he thought of as “a plain English education adapted to the working farmer
 After the release of Ryerson’s report, Methodist missionaries operated a number of boarding schools in southern Ontario in the 1850s.[^84]
 One of them, the Mount Elgin school at Munceytown (later, Muncey), did not close until 1946.[^85] The first of what would be a string of Roman Catholic residential schools in what is now British Columbia opened in the early 1860s.[^86] A school in Fort Providence in what is now the Northwest Territories began taking in students in 1867.[^87]
 
-### The colonization of the Northwest
+## The colonization of the Northwest
 
 After the Canadian state was established in 1867, the federal government began making small per-student grants to many of the church-run boarding schools.
 Federal government involvement in residential schooling did not begin in earnest until the 1880s.
@@ -1220,7 +1220,7 @@ The Act placed restrictions on First Nations farmers’ ability to sell their cr
 Over the years, the government also assumed greater authority as to how reserve land could be disposed of: in some cases, entire reserves were relocated against the will of the residents.
 The _Indian Act_ was a piece of colonial legislation by which, in the name of ‘protection,’ one group of people ruled and controlled another.
 
-### The industrial school initiative
+## The industrial school initiative
 
 It was in keeping with this intent to assimilate Aboriginal peoples and, in the process, to eliminate its government-to-government relationship with First Nations that the federal government dramatically increased its involvement in residential schooling in the 1880s.
 In December 1878, J. S. Dennis, the deputy minister of the Department of the Interior, prepared a memorandum for Prime Minister Sir John A.
@@ -1362,7 +1362,7 @@ This meant that 31.1% of the schoolaged Aboriginal children were in residential 
 
 ![The Roman Catholic school in Fort George, Quebec, opened in 1931. Deschâtelets Archives.](image-autofix/page-071.jpg)
 
-### Regulation
+## Regulation
 
 The residential school system operated with few regulations; those that did exist were in large measure weakly enforced.
 The Canadian government never developed anything approaching the education acts and regulations by which provincial governments administered public schools.
@@ -1426,7 +1426,7 @@ Source: Indian and Northern Affairs Canada, Indian Residential Schools of the In
 
 was accompanied by the opening of what were termed “small hostels” in the smaller and more remote communities of the eastern Arctic and the western Northwest Territories.
 
-### Policy towards Métis and Inuit students
+## Policy towards Métis and Inuit students
 
 Many of the early advocates of residential schooling in Canada expected that the schools would take in both Aboriginal children who had status under the _Indian Act_ (in other words, they were Indians as defined by the Act) as well as Aboriginal children who, for a variety of reasons, did not have status.
 The federal government classed these individuals alternately as “non-status Indians,” “half-breeds,” or “Métis.”[^150]
@@ -1544,9 +1544,9 @@ By the 1990s, former students had begun to make Canadians aware of the tremendou
 
 <!-- page 080 -->![The classroom in the Moose Factory, Ontario, school. General Synod Archives, Anglican Church of Canada, P7538-970.](image-autofix/page-080.jpg)
 
-### The school experience
+## The school experience
 
-#### Education: “The children’s work was merely memory work.”
+### Education: “The children’s work was merely memory work.”
 
 As educational institutions, the residential schools were failures, and regularly judged as such.
 In 1923, former Regina industrial school principal R. B. Heron delivered a paper to a meeting of the Regina Presbytery of the Presbyterian Church that was highly critical of the residential school system.
@@ -2836,7 +2836,7 @@ However, as long as Aboriginal people were excluded from positions of control ov
 
 <!-- page 129 -->![Staff outside the entrance of the Brandon, Manitoba, school in 1946. National Film Board of Canada. Photothèque, Library and Archives Canada, PA-048575.](image-autofix/page-129.jpg)
 
-### The staff: “My aim was to do something good.”
+## The staff: “My aim was to do something good.”
 
 For most of their history, residential schools were staffed by individuals who were recruited by Christian missionary organizations.
 Generally, the churches appointed a priest or minister, as opposed to an educator, as the principal.
