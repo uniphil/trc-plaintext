@@ -3,7 +3,7 @@
 
 import re
 from functools import reduce
-from markdown import markdown
+from markdown import Markdown, to_html_string
 from markdown.extensions import Extension, toc
 from markdown.preprocessors import Preprocessor
 from markdown.treeprocessors import Treeprocessor
@@ -82,6 +82,20 @@ class TRCExtension(Extension):
         md.treeprocessors.add('pagenum', PageNumData(md), '_end')
 
 
+class TRCMarkdown(Markdown):
+    def __init__(self, *args, **kwargs):
+        self.output_formats = {'trc': self.to_site}
+        self.output_folder = kwargs['output_folder']
+
+        kwargs.setdefault('output_format', 'trc')
+        super(self.__class__, self).__init__(*args, **kwargs)
+
+    def to_site(self, el):
+        sys.stderr.write('yee haw\n{}\n'
+            .format(self.output_folder))
+        return to_html_string(el)
+
+
 ''' Be a script '''
 if __name__ == '__main__':
     import sys
@@ -89,9 +103,11 @@ if __name__ == '__main__':
     sourceName, outfolder = sys.argv[1:]
     with open(sourceName) as f:
         source = f.read().decode('utf-8')
-    marked = markdown(source, extensions=[
-        TRCExtension(),
-        toc.TocExtension(permalink=True),
-        OutlineExtension({}),
-    ])
-    print(marked.encode('utf-8'))
+    md = TRCMarkdown(
+        output_folder=outfolder,
+        extensions=[
+            TRCExtension(),
+            toc.TocExtension(permalink=True),
+            OutlineExtension({}),
+        ])
+    print(md.convert(source).encode('utf-8'))
