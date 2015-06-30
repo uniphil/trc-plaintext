@@ -7,6 +7,7 @@ from markdown import Markdown, to_html_string
 from markdown.util import etree
 from markdown.extensions import Extension, toc
 from markdown.preprocessors import Preprocessor
+from markdown.inlinepatterns import Pattern
 from markdown.treeprocessors import Treeprocessor
 from mdx_outline import OutlineExtension
 
@@ -39,13 +40,25 @@ class MarkPagenum(Preprocessor):
             return marked
 
         all_marked = map(mark_pagenum, lines)
-        # from pprint import pprint
         return all_marked
 
 
 class InsertTOC(Preprocessor):
     def run(self, lines):
         return ['[TOC]', ''] + lines
+
+
+class TagFootnote(Pattern):
+
+    def __init__(self, md):
+        pattern = r'\[\^(\d+)\]'
+        super(self.__class__, self).__init__(pattern)
+
+    def handleMatch(self, match):
+        sup = etree.Element('sup')
+        sup.set('class', 'footnote')
+        sup.text = match.group(2)
+        return sup
 
 
 class PageNumData(Treeprocessor):
@@ -87,6 +100,7 @@ class TRCExtension(Extension):
     def extendMarkdown(self, md, md_globals):
         md.preprocessors.add('markpagenum', MarkPagenum(md), '_begin')
         md.preprocessors.add('inserttoc', InsertTOC(md), '>markpagenum')
+        md.inlinePatterns.add('footnote', TagFootnote(md), '<reference')
         md.treeprocessors.add('pagenum', PageNumData(md), '_end')
         md.treeprocessors.add('figcaption', Figcaption(md), '_end')
 
