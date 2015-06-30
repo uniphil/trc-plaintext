@@ -4,6 +4,7 @@
 import re
 from functools import reduce
 from markdown import Markdown, to_html_string
+from markdown.util import etree
 from markdown.extensions import Extension, toc
 from markdown.preprocessors import Preprocessor
 from markdown.treeprocessors import Treeprocessor
@@ -73,11 +74,21 @@ class PageNumData(Treeprocessor):
                 el.set('data-p', ' '.join(map(str, sorted(pages))))
 
 
+class Figcaption(Treeprocessor):
+    def run(self, root):
+        for p in filter(lambda t: t.tag == 'p', root):
+            for img in filter(lambda t: t.tag == 'img', p):
+                p.tag, fig = 'figure', p
+                figcaption = etree.SubElement(p, 'figcaption')
+                figcaption.text = img.get('alt')
+
+
 class TRCExtension(Extension):
     def extendMarkdown(self, md, md_globals):
         md.preprocessors.add('markpagenum', MarkPagenum(md), '_begin')
         md.preprocessors.add('inserttoc', InsertTOC(md), '>markpagenum')
         md.treeprocessors.add('pagenum', PageNumData(md), '_end')
+        md.treeprocessors.add('figcaption', Figcaption(md), '_end')
 
 
 class TRCMarkdown(Markdown):

@@ -57,6 +57,7 @@
     }
     h4,
     .section4 ol,
+    figcaption,
     .tools {
       font-family: 'Segoe UI', Candara, 'Bitstream Vera Sans', 'DejaVu Sans', 'Bitstream Vera Sans', 'Trebuchet MS', Verdana, 'Verdana Ref', sans-serif;
     }
@@ -70,7 +71,7 @@
       margin: 2em 0 2em -2em;
     }
     img {
-      max-width: 100%;
+      width: 100%;
     }
 
     ul {
@@ -100,6 +101,18 @@
     }
     @media screen and (max-width: 58em) {
       blockquote { line-height: 1.333em; }
+    }
+
+    figure {
+      margin: 2em 0;
+    }
+    figure > img {
+      display: block;
+      margin: 0 auto;
+    }
+    figcaption {
+      font-size: 14pt;
+      line-height: 1.2em;
     }
 
     a {
