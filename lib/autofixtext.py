@@ -30,12 +30,13 @@ def strip(page):
 
 def capitalizeAbbrs(page):
     with open('abbrevs.md') as f:
-        abbrevs = map(lambda l: l[2:].split(']')[0], f.readlines())
+        abbrevs = map(lambda l: l[2:].split(']: '), f.readlines())
     capitalized = page
-    for abbrev in abbrevs:
+    for abbrev, expanded in abbrevs:
         lower = abbrev.lower()
         catch = ur'(?P<pre>\W){a}(?P<post>\W)'.format(a=lower)
-        repl = lambda m: u'{pre}{a}{post}'.format(a=abbrev, **m.groupdict())
+        repl = lambda m: u'{pre}=|{a}={d}={post}'.format(
+            a=abbrev, d=expanded.decode('utf-8').strip(), **m.groupdict())
         capitalized, _ = re.subn(catch, repl, capitalized)
     return capitalized
 

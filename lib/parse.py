@@ -60,6 +60,18 @@ class TagImplRefs(Pattern):
         return em
 
 
+class TagAbbrs(Pattern):
+    def __init__(self, md):
+        pattern = r'\=\|(.+?)\=(.+?)\='
+        super(self.__class__, self).__init__(pattern)
+
+    def handleMatch(self, match):
+        abbr = etree.Element('abbr')
+        abbr.text = match.group(2)
+        abbr.set('title', match.group(3))
+        return abbr
+
+
 class TagFootnote(Pattern):
     def __init__(self, md):
         pattern = r'\[\^(\d+)\]'
@@ -112,6 +124,7 @@ class TRCExtension(Extension):
         md.preprocessors.add('markpagenum', MarkPagenum(md), '_begin')
         md.preprocessors.add('inserttoc', InsertTOC(md), '>markpagenum')
         md.inlinePatterns.add('footnote', TagFootnote(md), '<reference')
+        md.inlinePatterns.add('abbr', TagAbbrs(md), '_end')
         md.inlinePatterns.add('implrefs', TagImplRefs(md), '_end')
         md.treeprocessors.add('pagenum', PageNumData(md), '_end')
         md.treeprocessors.add('figcaption', Figcaption(md), '_end')

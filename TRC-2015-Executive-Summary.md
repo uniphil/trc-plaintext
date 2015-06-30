@@ -108,7 +108,7 @@ Despite the coercive measures that the government adopted, it failed to achieve 
 Although Aboriginal peoples and cultures have been badly damaged, they continue to exist.
 Aboriginal people have refused to surrender their identity.
 It was the former students, the Survivors of Canada’s residential schools, who placed the residential school issue on the public agenda.
-Their efforts led to the negotiation of the Indian Residential Schools Settlement Agreement that mandated the establishment of a residential school Truth and Reconciliation Commission of Canada (TRC).
+Their efforts led to the negotiation of the Indian Residential Schools Settlement Agreement that mandated the establishment of a residential school Truth and Reconciliation Commission of Canada (=|TRC=Truth and Reconciliation Commission of Canada=).
 
 The Survivors acted with courage and determination.
 We should do no less.
@@ -138,7 +138,7 @@ But the report and its findings opened people’s eyes and changed the conversat
 In 2015, as the Truth and Reconciliation Commission of Canada wraps up its work, the country has a rare second chance to seize a lost opportunity for reconciliation.
 We live in <!-- page 013 -->a twenty-first-century global world.
 At stake is Canada’s place as a prosperous, just, and inclusive democracy within that global world.
-At the TRC’s first National Event in Winnipeg, Manitoba, in 2010, residential school Survivor Alma Mann Scott said,
+At the =|TRC=Truth and Reconciliation Commission of Canada=’s first National Event in Winnipeg, Manitoba, in 2010, residential school Survivor Alma Mann Scott said,
 
 > The healing is happening—the reconciliation…
 I feel that there’s some hope for us not just as Canadians, but for the world, because I know I’m not the only one.
@@ -169,16 +169,16 @@ In the public realm, it reinforces racist attitudes and fuels civic distrust bet
 Too many Canadians still do not know the history of Aboriginal peoples’ contributions to Canada, or understand that by virtue of the historical and modern Treaties negotiated by our government, we are all Treaty people.
 History plays an important role in reconciliation; to build for the future, Canadians must look to, and learn from, the past.
 
-As Commissioners, we understood from the start that although reconciliation could not be achieved during the TRC’s lifetime, the country could and must take ongoing positive and concrete steps forward.
+As Commissioners, we understood from the start that although reconciliation could not be achieved during the =|TRC=Truth and Reconciliation Commission of Canada=’s lifetime, the country could and must take ongoing positive and concrete steps forward.
 While the Commission has been a catalyst for deepening our national awareness of the meaning and potential of reconciliation, it will take many heads, hands, and hearts, working together, at all levels of society to maintain momentum in the years ahead.
 It will also take sustained political will at all levels of government and concerted material resources.
 
-The thousands of Survivors who publicly shared their residential school experiences at TRC events in every region of this country have launched a much-needed dialogue about what is necessary to heal themselves, their families, communities, and the nation.
+The thousands of Survivors who publicly shared their residential school experiences at =|TRC=Truth and Reconciliation Commission of Canada= events in every region of this country have launched a much-needed dialogue about what is necessary to heal themselves, their families, communities, and the nation.
 Canadians have much to benefit from listening to the voices, experiences, and wisdom of Survivors, Elders, and Traditional Knowledge Keepers—and much more to learn about reconciliation.
 Aboriginal peoples have an important contribution to make to reconciliation.
 Their knowledge systems, oral histories, laws, and connections to the land have vitally informed the reconciliation process to date, and are essential to its ongoing progress.
 
-At a Traditional Knowledge Keepers Forum sponsored by the TRC, Anishinaabe Elder Mary Deleary spoke about the responsibility for reconciliation that both Aboriginal and non-Aboriginal people carry.
+At a Traditional Knowledge Keepers Forum sponsored by the =|TRC=Truth and Reconciliation Commission of Canada=, Anishinaabe Elder Mary Deleary spoke about the responsibility for reconciliation that both Aboriginal and non-Aboriginal people carry.
 She emphasized that the work of reconciliation must continue in ways that honour the ancestors, respect the land, and rebalance relationships.
 She said,
 
@@ -222,7 +222,7 @@ Over the past five years, the Truth and Reconciliation Commission of Canada urge
 We have been encouraged to see that across the country, many people have been answering that call.
 
 The youth of this country are taking up the challenge of reconciliation.
-Aboriginal and non-Aboriginal youth who attended TRC National Events made powerful statements about why reconciliation matters to them.
+Aboriginal and non-Aboriginal youth who attended =|TRC=Truth and Reconciliation Commission of Canada= National Events made powerful statements about why reconciliation matters to them.
 At the Alberta National Event in Edmonton in March 2014, an Indigenous youth spoke on behalf of a national Indigenous and non-Indigenous collaboration known as the “4Rs Youth Movement.”
 Jessica Bolduc said,
 
@@ -248,7 +248,7 @@ Jacqulyn Byers told us, “I hope that events like this are able to bring closur
 
 ![Truth and Reconciliation Commission Traditional Knowledge Keepers Forum, June 2014. University of Manitoba, Adam Dolman.](image-autofix/page-017.jpg)
 
-At the same National Event, TRC Honorary Witness Patsy George paid tribute to the strength of Aboriginal women and their contributions to the reconciliation process despite the oppression and violence they have experienced.
+At the same National Event, =|TRC=Truth and Reconciliation Commission of Canada= Honorary Witness Patsy George paid tribute to the strength of Aboriginal women and their contributions to the reconciliation process despite the oppression and violence they have experienced.
 She said,
 
 > Women have always been a beacon of hope for me.
@@ -270,12 +270,12 @@ Speaking to us at the Traditional Knowledge Keepers Forum in June of 2014, Elder
 
 The Commission’s answer to Elder Courchene’s question is that by _truth_, we mean not only the truth revealed in government and church residential school documents, but also the truth of lived experiences as told to us by Survivors and others in their statements to this Commission.
 Together, these public testimonies constitute a new oral history record, one based on Indigenous legal traditions and the practice of witnessing.[^32]
-As people gathered at various TRC National Events and Community Hearings, they shared the experiences of truth telling and of offering expressions of reconciliation.
+As people gathered at various =|TRC=Truth and Reconciliation Commission of Canada= National Events and Community Hearings, they shared the experiences of truth telling and of offering expressions of reconciliation.
 
-Over the course of its work, the Commission inducted a growing circle of TRC Honorary Witnesses.
+Over the course of its work, the Commission inducted a growing circle of =|TRC=Truth and Reconciliation Commission of Canada= Honorary Witnesses.
 Their role has been to bear official witness to the testimonies of Survivors and their families, former school staff and their descendants, government and church officials, and any others whose lives have been affected by the residential schools.
-Beyond the work of the TRC, the Honorary Witnesses have pledged their commitment to the ongoing work of reconciliation between Aboriginal and non-Aboriginal peoples.
-We also encouraged everyone who attended TRC National Events or Community Hearings to see themselves as witnesses also, with an obligation to find ways of making reconciliation a concrete reality in their own lives, communities, schools, and workplaces.
+Beyond the work of the =|TRC=Truth and Reconciliation Commission of Canada=, the Honorary Witnesses have pledged their commitment to the ongoing work of reconciliation between Aboriginal and non-Aboriginal peoples.
+We also encouraged everyone who attended =|TRC=Truth and Reconciliation Commission of Canada= National Events or Community Hearings to see themselves as witnesses also, with an obligation to find ways of making reconciliation a concrete reality in their own lives, communities, schools, and workplaces.
 
 As Elder Jim Dumont explained at the Traditional Knowledge Keepers Forum in June 2014, “in Ojibwe thinking, to speak the truth is to actually speak from the heart.”[^33]
 At the Community Hearing in Key First Nation, Saskatchewan, in 2012, Survivor Wilfred Whitehawk told us he was glad that he disclosed his abuse.
@@ -285,7 +285,7 @@ It taught me to talk about truth, about me, to be honest about who I am…
 I am very proud of who I am today.
 It took me a long time, but I’m there.
 And what I have, my values and belief systems are mine and no one is going to impose theirs on me.
-And no one today is going to take advantage of me, man or woman, the government or the RCMP, because I have a voice today.
+And no one today is going to take advantage of me, man or woman, the government or the =|RCMP=Royal Canadian Mounted Police=, because I have a voice today.
 I can speak for me and no one can take that away.[^34]
 
 Survivor and the child of Survivors Vitaline Elsie Jenner said, “I’m quite happy to be able to share my story…
@@ -328,7 +328,7 @@ The continuing poverty in our communities and the failure of our government to r
 Stop the destruction of our territories and for God’s sake, stop the deaths of so many of our women on highways across this country…
 I’m going to continue to talk about reconciliation, but just as important, I’m going to foster healing in our own people, so that our children can avoid this pain, can avoid this destruction and finally, take our rightful place in this “Our Canada.”[^38]
 
-When former residential school staff attended public TRC events, some thought it was most important to hear directly from Survivors, even if their own perspectives and <!-- page 020 -->memories of the schools might differ from those of the Survivors.
+When former residential school staff attended public =|TRC=Truth and Reconciliation Commission of Canada= events, some thought it was most important to hear directly from Survivors, even if their own perspectives and <!-- page 020 -->memories of the schools might differ from those of the Survivors.
 At a Community Hearing in Thunder Bay, Ontario, Merle Nisley, who worked at the Poplar Hill residential school in the early 1970s, said,
 
 > I think it would be valuable for people who have been involved in the schools to hear stories personally.
@@ -346,7 +346,7 @@ I don’t know how that will happen.[^39]
 Nisley’s reflections highlight one of the difficulties the Commission faced in trying to create a space for respectful dialogue between former residential school students and staff.
 While, in most cases, this was possible, in other instances, Survivors and their family members found it very difficult to listen to former staff, particularly if they perceived the speaker to be an apologist for the schools.
 
-At the TRC Victoria Regional Event, Brother Tom Cavanaugh, the district superior of the Oblates of Mary Immaculate for British Columbia and the Yukon, spoke about his time as a supervisor at the Christie residential school.
+At the =|TRC=Truth and Reconciliation Commission of Canada= Victoria Regional Event, Brother Tom Cavanaugh, the district superior of the Oblates of Mary Immaculate for British Columbia and the Yukon, spoke about his time as a supervisor at the Christie residential school.
 
 > What I experienced over the six years I was at Christie residential school was a staff, Native and non-Native alike, working together to provide as much as possible, a safe loving environment for the children attending Christie school.
 Was it a perfect situation?
@@ -355,7 +355,7 @@ but again, there didn’t seem to be, at that time, any other viable alternative
 
 Survivors and family members who were present in the audience spoke out, saying, “Truth, tell the truth.”
 Brother Cavanaugh replied, “If you give me a chance, I will tell you the truth.”
-When TRC Chair Justice Murray Sinclair intervened to ask the audience to allow Brother Cavanaugh to finish his statement, he was able to do so without further interruption.
+When =|TRC=Truth and Reconciliation Commission of Canada= Chair Justice Murray Sinclair intervened to ask the audience to allow Brother Cavanaugh to finish his statement, he was able to do so without further interruption.
 Visibly shaken, Cavanaugh then went on to acknowledge that children had also been abused in the schools, and he condemned such actions, expressing his sorrow and regret for this breach of trust.
 
 > I can honestly say that our men are hurting too because of the abuse scandal and the rift that this has created between First Nations and church representatives.
@@ -381,7 +381,7 @@ There are doors that I don’t even want to open.
 I don’t even want to open those doors because I don’t know what it would do to me.[^41]
 
 These two, seemingly irreconcilable, truths are a stark reminder that there are no easy shortcuts to reconciliation.
-The fact that there were few direct exchanges at TRC events between Survivors and former school staff indicates that for many, the time for reconciliation had not yet arrived.
+The fact that there were few direct exchanges at =|TRC=Truth and Reconciliation Commission of Canada= events between Survivors and former school staff indicates that for many, the time for reconciliation had not yet arrived.
 Indeed, for some, it may never arrive.
 At the Manitoba National Event in 2010, Survivor Evelyn Brockwood talked about why it is important to ensure that there is adequate time for healing to occur in the truth and reconciliation process.
 She said,
@@ -394,14 +394,14 @@ We should really lift up the word healing…
 Go slow, we are going too fast, too fast…
 We have many tears to shed before we even get to the word reconciliation.[^42]
 
-To determine the truth and to tell the full and complete story of residential schools in this country, the TRC needed to hear from Survivors and their families, former staff, government and church officials, and all those affected by residential schools.
+To determine the truth and to tell the full and complete story of residential schools in this country, the =|TRC=Truth and Reconciliation Commission of Canada= needed to hear from Survivors and their families, former staff, government and church officials, and all those affected by residential schools.
 Canada’s national history in the future must be based on the truth about what happened in the residential schools.
 One hundred years from now, our children’s children and their children must know and still remember this history, because they will inherit from us the responsibility of ensuring that it never happens again.
 
 <!-- page 022 -->## What is reconciliation?
 
 During the course of the Commission’s work, it has become clear that the concept of reconciliation means different things to different people, communities, institutions, and organizations.
-The TRC mandate describes reconciliation as “an ongoing individual and collective process, and will require commitment from all those affected including First Nations, Inuit and Métis former Indian Residential School (IRS) students, their families, communities, religious entities, former school employees, government and the people of Canada.
+The =|TRC=Truth and Reconciliation Commission of Canada= mandate describes reconciliation as “an ongoing individual and collective process, and will require commitment from all those affected including First Nations, Inuit and Métis former Indian Residential School (=|IRS=Indian Residential School=) students, their families, communities, religious entities, former school employees, government and the people of Canada.
 Reconciliation may occur between any of the above groups.”[^43]
 
 The Commission defines _reconciliation_ as an ongoing process of establishing and maintaining respectful relationships.
@@ -418,7 +418,7 @@ Despite the ravages of colonialism, every Indigenous nation across the country, 
 While Elders and Knowledge Keepers across the land have told us that there is no specific word for “reconciliation” in their own languages, there are many words, stories, and songs, as well as sacred objects such as wampum belts, peace pipes, eagle down, cedar boughs, drums, and regalia, that are used to establish relationships, repair conflicts, restore harmony, and make peace.
 The ceremonies and protocols of Indigenous law are still remembered and practised in many Aboriginal communities.
 
-At the TRC Traditional Knowledge Keepers Forum in June 2014, TRC Survivor Committee member and Elder Barney Williams told us that
+At the =|TRC=Truth and Reconciliation Commission of Canada= Traditional Knowledge Keepers Forum in June 2014, =|TRC=Truth and Reconciliation Commission of Canada= Survivor Committee member and Elder Barney Williams told us that
 
 > from sea to sea, we hear words that allude to …
 what is reconciliation?
@@ -500,9 +500,9 @@ I’m still here.[^51]
 ![Truth and Reconciliation Commission Northern National Event, Inuvik, Northwest Territories, June 2011.](image-autofix/page-025.jpg)
 
 We heard about children whose small acts of everyday resistance in the face of rampant abuse, neglect, and bullying in the schools were quite simply heroic.
-At the TRC British Columbia National Event, Elder Barney Williams said that “many of us, through our pain and suffering, managed to hold our heads up …
+At the =|TRC=Truth and Reconciliation Commission of Canada= British Columbia National Event, Elder Barney Williams said that “many of us, through our pain and suffering, managed to hold our heads up …
 we were brave children.”[^52]
-We saw old bonds of childhood friendship renewed as people gathered and found each other at TRC-sponsored events.
+We saw old bonds of childhood friendship renewed as people gathered and found each other at =|TRC=Truth and Reconciliation Commission of Canada=-sponsored events.
 Together, they remembered the horrors they had endured even as they recalled with pride long-forgotten accomplishments in various school sports teams, music, or art activities.
 We heard from resilient, courageous Survivors who, despite their traumatic childhood experiences, went on to become influential leaders in their communities and in all walks of Canadian life, including politics, government, law, education, medicine, the corporate world, and the arts.
 
@@ -574,7 +574,7 @@ They resigned shortly after being appointed and new Commissioners were appointed
 The current Commissioners, the Honourable Justice Murray Sinclair as Chair, and Chief Wilton Littlechild and Dr.
 Marie Wilson, were appointed to replace them in 2009 by the parties to the Settlement Agreement.
 
-An Indian Residential School Survivor Committee (IRSSC) provided advice and support to the Commission.
+An Indian Residential School Survivor Committee (=|IRSSC=Indian Residential School Survivor Committee=) provided advice and support to the Commission.
 Its members included John Banksland, Inuvialuit from the Northwest Territories; John Morriseau, Métis from Grand Rapids, Manitoba; Eugene Arcand, Cree from Muskeg Lake First Nation, Saskatchewan; Madeleine Basile, a member of the Atikamekw Nation from Wemotaci, Québec; Lottie May Johnson, Mi’kmaq from Eskasoni, Nova Scotia; Rebekah Uqi Williams, Inuk from Nunavut; Doris Young, Cree from The Pas, <!-- page 034 -->Manitoba; Barney Williams Jr. (Taa-eee-sim-chilth), Nuu-chah-nulth from the Tla-o-quiaht First Nations on Meares Island, British Columbia; Gordon Williams, from the Peguis First Nation in Manitoba, now residing in Ontario; and Kukdookaa Terri Brown, from the Tahltan Nation in British Columbia.
 Raymond Arcand, a former chief of the Alexander First Nation near Edmonton, Alberta, served on the Survivors Committee until his death in November 2009.
 
@@ -588,17 +588,17 @@ Representatives of the parties also took part in working groups at the national 
 The Commission established its head office in Winnipeg, Manitoba, retained a small Ottawa office, and opened satellite offices in Vancouver, British Columbia; Hobbema, Alberta; and Yellowknife, Northwest Territories.
 
 <!-- page 035 -->In recognition of the unique cultures of the Inuit, and of their experiences and the impacts of residential schools on them, the Commission also established an Inuit SubCommission.
-Seven regional liaison officers were hired with advice from the IRSSC and were assigned responsibility to work in the following regions: Québec and Atlantic Canada, Ontario, Manitoba, Saskatchewan, Alberta, British Columbia, and Yukon and the Northwest Territories.
+Seven regional liaison officers were hired with advice from the =|IRSSC=Indian Residential School Survivor Committee= and were assigned responsibility to work in the following regions: Québec and Atlantic Canada, Ontario, Manitoba, Saskatchewan, Alberta, British Columbia, and Yukon and the Northwest Territories.
 
 ## Meeting from coast to coast
 
 During the six years of its operation, the Commission held events in all parts of the country.
 The largest and most visible of these were the National Events held in Winnipeg, Inuvik, Halifax, Saskatoon, Montreal, Vancouver, and Edmonton between June 2010 and March 2014.
 The Commission estimates there were as many as 155,000 visits to the seven National Events; over 9,000 residential school Survivors registered to attend them (while many others attended but did not register).[^1]
-To augment its statement-gathering activities and to help build public interest and participation in its National Events, the TRC organized Regional Events in Victoria and Whitehorse.
+To augment its statement-gathering activities and to help build public interest and participation in its National Events, the =|TRC=Truth and Reconciliation Commission of Canada= organized Regional Events in Victoria and Whitehorse.
 It also held 238 days of local hearings in seventy-seven communities across the country.
 
-The Commission also sponsored “town halls” on reconciliation at its Victoria Regional Event in April 2012 and at subsequent National Events as a means to draw a greater number of visitors into conversation with the TRC about healing and reconciliation.
+The Commission also sponsored “town halls” on reconciliation at its Victoria Regional Event in April 2012 and at subsequent National Events as a means to draw a greater number of visitors into conversation with the =|TRC=Truth and Reconciliation Commission of Canada= about healing and reconciliation.
 Members of the general public were invited to come forward at the town halls to share information about what they are already doing to support reconciliation and to describe their ideas about what more needs to be done.
 
 ## Statement gathering
@@ -631,45 +631,45 @@ By judgment dated January 30, 2013, Justice Goudge ruled in favour of the Commis
 Following the ruling, the Government of Canada began producing documents from Library and Archives Canada to the Commission.
 
 Less than a year later, the Commission once again was required to go to court for judicial guidance respecting Canada’s document-production obligations.
-At issue were records in the possession of the Government of Canada from the investigation of the Ontario Provincial Police (OPP) into abuse at the Fort Albany, Ontario, residential school in Ontario (also known as the St. Anne’s school).
-The Commission had attempted to obtain the OPP documents from both the OPP and the federal government.
-Although the OPP did not respond to the Commission’s overtures, it later took the position that it required judicial authorization to produce the records to the Commission, but it did not oppose disclosure.
+At issue were records in the possession of the Government of Canada from the investigation of the Ontario Provincial Police (=|OPP=Ontario Provincial Police=) into abuse at the Fort Albany, Ontario, residential school in Ontario (also known as the St. Anne’s school).
+The Commission had attempted to obtain the =|OPP=Ontario Provincial Police= documents from both the =|OPP=Ontario Provincial Police= and the federal government.
+Although the =|OPP=Ontario Provincial Police= did not respond to the Commission’s overtures, it later took the position that it required judicial authorization to produce the records to the Commission, but it did not oppose disclosure.
 The Government of Canada, however, opposed production of the documents to both the Commission and to the lawyers for residential school Survivors.
-The government took the position that it was barred from producing the documents because they obtained the documents from the OPP subject to an undertaking that it would not, in turn, disclose the documents to any third party.[^4]
+The government took the position that it was barred from producing the documents because they obtained the documents from the =|OPP=Ontario Provincial Police= subject to an undertaking that it would not, in turn, disclose the documents to any third party.[^4]
 The Government of Canada further argued that it was not obliged to seek documents from third parties for disclosure to the Commission and that any disclosure to the Commission of the St. Anne’s records would amount to burdening the Government of Canada with this obligation.[^5]
 
-On October 18, 2013, the Commission filed a Request for Directions as to whether the Government of Canada was obliged to disclose the records of the OPP investigation of St. Anne’s.
+On October 18, 2013, the Commission filed a Request for Directions as to whether the Government of Canada was obliged to disclose the records of the =|OPP=Ontario Provincial Police= investigation of St. Anne’s.
 After argument before the Honourable Justice Paul Perell of the Ontario Superior Court of Justice on December 17 and 18, 2013, the court ordered Canada to produce its documents to the Commission.[^6]
-Recognizing that Canada had only a subset of the OPP investigation documents, the court went one step further and ordered that the OPP produce all the investigation records in its possession to the Commission.[^7]
+Recognizing that Canada had only a subset of the =|OPP=Ontario Provincial Police= investigation documents, the court went one step further and ordered that the =|OPP=Ontario Provincial Police= produce all the investigation records in its possession to the Commission.[^7]
 
 <!-- page 038 -->Less than a year after Justice Perell rendered his decision in the St.
 Anne’s case, the Commission was faced with yet another document-collection issue that called for court guidance.
-The documents at issue were records from the Independent Assessment Process (IAP).
-The IAP is one of the components of the Settlement Agreement.
-The IAP is an adjudicative process for financial compensation to residential school Survivors who suffered serious abuse at residential schools.
-Consequently, the body that administers the IAP process, the Indian Residential Schools Adjudication Secretariat (IRSAS), is in possession of a wealth of documents relevant to the legacy of Indian residential schools.
+The documents at issue were records from the Independent Assessment Process (=|IAP=Independent Assessment Process=).
+The =|IAP=Independent Assessment Process= is one of the components of the Settlement Agreement.
+The =|IAP=Independent Assessment Process= is an adjudicative process for financial compensation to residential school Survivors who suffered serious abuse at residential schools.
+Consequently, the body that administers the =|IAP=Independent Assessment Process= process, the Indian Residential Schools Adjudication Secretariat (=|IRSAS=Indian Residential Schools Adjudication Secretariat=), is in possession of a wealth of documents relevant to the legacy of Indian residential schools.
 
-The Residential Schools Settlement Agreement provides that Survivors who go through the IAP can give their consent to have their statements and testimony archived with the archive created by the National Centre for Truth and Reconciliation for future research.
-The intention was apparently to eliminate the need for a Survivor to have to testify before an IAP adjudicator, and then have to repeat the same story to the TRC.
-From mid-2010 to early 2012, the Commission engaged in negotiations with IRSAS to archive and preserve those documents.
-The parties’ discussions focused on the development of a consent form for IAP claimants to sign during the IAP process.
-The consent form would explain to IAP Survivors how their information would be shared with the Commission and it would allow them to provide written consent to the sharing of their stories.
-The Commission had discovered that the IAP staff and adjudicators had repeatedly failed to inform Survivors of their right to have their statements delivered to the TRC’s archive, and, instead, had required an undertaking of strict confidentiality of all parties to the IAP hearings, including the Survivors themselves.
-In June 2014, the chief adjudicator of IAP publicly announced that he supported the immediate destruction of all documents related to the adjudication of claims by residential school Survivors.
+The Residential Schools Settlement Agreement provides that Survivors who go through the =|IAP=Independent Assessment Process= can give their consent to have their statements and testimony archived with the archive created by the National Centre for Truth and Reconciliation for future research.
+The intention was apparently to eliminate the need for a Survivor to have to testify before an =|IAP=Independent Assessment Process= adjudicator, and then have to repeat the same story to the =|TRC=Truth and Reconciliation Commission of Canada=.
+From mid-2010 to early 2012, the Commission engaged in negotiations with =|IRSAS=Indian Residential Schools Adjudication Secretariat= to archive and preserve those documents.
+The parties’ discussions focused on the development of a consent form for =|IAP=Independent Assessment Process= claimants to sign during the =|IAP=Independent Assessment Process= process.
+The consent form would explain to =|IAP=Independent Assessment Process= Survivors how their information would be shared with the Commission and it would allow them to provide written consent to the sharing of their stories.
+The Commission had discovered that the =|IAP=Independent Assessment Process= staff and adjudicators had repeatedly failed to inform Survivors of their right to have their statements delivered to the =|TRC=Truth and Reconciliation Commission of Canada=’s archive, and, instead, had required an undertaking of strict confidentiality of all parties to the =|IAP=Independent Assessment Process= hearings, including the Survivors themselves.
+In June 2014, the chief adjudicator of =|IAP=Independent Assessment Process= publicly announced that he supported the immediate destruction of all documents related to the adjudication of claims by residential school Survivors.
 
-The Commission emphasized that the requirement of strict confidentiality imposed by IRSAS was incompatible with the terms of the Settlement Agreement.
-Furthermore, the Commission stated that the destruction of some IAP documents would constitute a major loss for future generations of Canadians.
-The Commission and IRSAS were unable to come to an agreement as to the mechanisms for allowing the Commission to access the documents, and the matter was brought before Justice Perell for direction.
+The Commission emphasized that the requirement of strict confidentiality imposed by =|IRSAS=Indian Residential Schools Adjudication Secretariat= was incompatible with the terms of the Settlement Agreement.
+Furthermore, the Commission stated that the destruction of some =|IAP=Independent Assessment Process= documents would constitute a major loss for future generations of Canadians.
+The Commission and =|IRSAS=Indian Residential Schools Adjudication Secretariat= were unable to come to an agreement as to the mechanisms for allowing the Commission to access the documents, and the matter was brought before Justice Perell for direction.
 
-In the hearing held from July 14 to 16, 2014, the Commission advanced the position that a notice program should be ordered by the court, which would allow IAP claimants to be notified that they may share their IAP testimony with the Commission should they so desire.
-The Commission narrowed the categories of documents it sought to preserve in recognition of the legitimate privacy interests of IAP Survivors.
-The Commission argued that it sought only to archive the IAP applications, transcripts, and audio recordings from IAP hearings and IAP adjudicator decisions.
+In the hearing held from July 14 to 16, 2014, the Commission advanced the position that a notice program should be ordered by the court, which would allow =|IAP=Independent Assessment Process= claimants to be notified that they may share their =|IAP=Independent Assessment Process= testimony with the Commission should they so desire.
+The Commission narrowed the categories of documents it sought to preserve in recognition of the legitimate privacy interests of =|IAP=Independent Assessment Process= Survivors.
+The Commission argued that it sought only to archive the =|IAP=Independent Assessment Process= applications, transcripts, and audio recordings from =|IAP=Independent Assessment Process= hearings and =|IAP=Independent Assessment Process= adjudicator decisions.
 
-On August 6, 2014, Justice Perell delivered reasons in which he held that the IAP documents would be subject to a fifteen-year retention period, during which a notice program to Survivors would be administered by the Commission or the National Centre for Truth <!-- page 039 -->and Reconciliation.[^8]
+On August 6, 2014, Justice Perell delivered reasons in which he held that the =|IAP=Independent Assessment Process= documents would be subject to a fifteen-year retention period, during which a notice program to Survivors would be administered by the Commission or the National Centre for Truth <!-- page 039 -->and Reconciliation.[^8]
 The precise parameters of the notice program would be decided by the court in a subsequent hearing.
-Importantly, Justice Perell ruled that every copy of the IAP documents, no matter who possesses them, must be destroyed after the conclusion of the retention period if the IAP claimants do not consent to having the documents archived.
+Importantly, Justice Perell ruled that every copy of the =|IAP=Independent Assessment Process= documents, no matter who possesses them, must be destroyed after the conclusion of the retention period if the =|IAP=Independent Assessment Process= claimants do not consent to having the documents archived.
 
-Justice Perell also directed that the Commission commence a further Request for Direction and return to court for a determination of the issue of the parameters of a notice program to inform Survivors about their option to archive their IAP applications, the transcripts and audio recordings of their hearings, and the decisions with the Commission.
+Justice Perell also directed that the Commission commence a further Request for Direction and return to court for a determination of the issue of the parameters of a notice program to inform Survivors about their option to archive their =|IAP=Independent Assessment Process= applications, the transcripts and audio recordings of their hearings, and the decisions with the Commission.
 The Commission (along with the National Centre for Truth and Reconciliation) has been entrusted to commence further proceedings to determine how to engage claimants in the exercise of ensuring informed consent on the issue of the fate of their records.
 
 Justice Perell’s ruling is the subject of appeal.[^9]
@@ -678,7 +678,7 @@ The Commission believes that it is not enough that a notice simply be mailed to 
 A multi-faceted and personal approach that actively engages Survivors is required.
 
 The Commission strongly believes that Survivors’ stories must be preserved.
-The loss of these documents would be a blow to Canada’s national memory of a significant historic injustice, could contribute to the possibility that future generations would never know of the abuses in residential schools, and could contribute to the argument of those who would assert that this never happened.  The Commission intends to vigorously advance a position to prevent the destruction of the IAP documents without the informed consent of individual Survivors.
+The loss of these documents would be a blow to Canada’s national memory of a significant historic injustice, could contribute to the possibility that future generations would never know of the abuses in residential schools, and could contribute to the argument of those who would assert that this never happened.  The Commission intends to vigorously advance a position to prevent the destruction of the =|IAP=Independent Assessment Process= documents without the informed consent of individual Survivors.
 
 ## The National Events
 
@@ -724,13 +724,13 @@ In the following years, the current governor general of Canada, His Excellency t
 The Commission also invited Canadians to make expressions of reconciliation at its National and Regional Events.
 The Commission received more than 180 expressions from individuals, organizations, and the parties to the Settlement Agreement who wished to publicly state their commitment to the journey of healing and reconciliation and speak to the ways in which they are contributing to that journey.
 Documents and items related to each expression of reconciliation were placed in ceremony in the beautiful Bentwood Box created by Coast Salish carver Luke Marston.
-The box will become part of the permanent legacy of the TRC housed in the National Centre for Truth and Reconciliation.
+The box will become part of the permanent legacy of the =|TRC=Truth and Reconciliation Commission of Canada= housed in the National Centre for Truth and Reconciliation.
 
 ## Education and outreach
 
 The Commission worked throughout its mandate to educate the public about the legacy of residential schools and to invite and encourage public participation in its events and activities.
 The Commission took part in nearly 900 separate events.
-These included a number of special events that the TRC organized with various partners to engage with Survivors’ organizations and other Aboriginal groups, youth, women, faith communities, the philanthropic community, and new Canadians.
+These included a number of special events that the =|TRC=Truth and Reconciliation Commission of Canada= organized with various partners to engage with Survivors’ organizations and other Aboriginal groups, youth, women, faith communities, the philanthropic community, and new Canadians.
 The Commission also accepted invitations to share information about its work internationally through the United Nations, the International Centre for Transitional Justice, and a number of university law faculties.[^10]
 
 In the final year of its mandate, the Commission organized two events to gather additional information for its report.
@@ -748,14 +748,14 @@ The Commission recommended 152 projects to the federal Department of Aboriginal 
 
 It is important to note that the Commission’s work inspired others to undertake commemorative projects using their own resources.
 One example is the Government of Canada’s decision to memorialize the legacy of Indian residential schools through the permanent installation of a stained-glass window in the Centre Block of Parliament Hill.
-The design selected for the window was created by Aboriginal artist Christi Belcourt and is entitled =^_Giniigaaniimenaaning=_ or_ =^Looking Ahead=_.
+The design selected for the window was created by Aboriginal artist Christi Belcourt and is entitled =^Giniigaaniimenaaning= or =^Looking Ahead=.
 
 The Commission issued a separate call for proposals for community events and allocated funding to approved projects up to a maximum of $15,000 per event.
-The TRC supported seventy-five community events, which were designed to promote healing and reconciliation by developing collective community narratives about the impact of the residential school system on former students, families, and communities.
+The =|TRC=Truth and Reconciliation Commission of Canada= supported seventy-five community events, which were designed to promote healing and reconciliation by developing collective community narratives about the impact of the residential school system on former students, families, and communities.
 
 ## Interim report
 
-In February 2012, as part of its mandate, the Commission issued an =^Interim Report= with findings and recommendations, along with a short history of residential schools, entitled _They Came for the Children_.
+In February 2012, as part of its mandate, the Commission issued an =^Interim Report= with findings and recommendations, along with a short history of residential schools, entitled =^They Came for the Children=.
 Because recommendations in the =^Interim Report= dealt with gaps in school curricula, the Commission made it a priority to meet with provincial and territorial education ministers to advocate for the development of curriculum on the legacy of residential schools and the mandatory adoption of that curriculum in all jurisdictions.
 
 ## National Centre for Truth and Reconciliation
@@ -765,19 +765,19 @@ The centre is intended to be accessible to Survivors, their families, and commun
 The Commission held a forum in March 2011 to consult with national and international experts on establishing such a centre.
 This informed the Commission’s subsequent call for proposals to house the centre.
 
-The Commission reviewed a number of proposals for housing the research centre and, in June 2013, announced that the University of Manitoba had been selected to become the permanent host of the National Centre for Truth and Reconciliation (NCTR).
-The NCTR is <!-- page 044 -->governed by a Trust Deed and Administrative Agreement signed by the Commission and the university.
+The Commission reviewed a number of proposals for housing the research centre and, in June 2013, announced that the University of Manitoba had been selected to become the permanent host of the National Centre for Truth and Reconciliation (=|NCTR=National Centre for Truth and Reconciliation=).
+The =|NCTR=National Centre for Truth and Reconciliation= is <!-- page 044 -->governed by a Trust Deed and Administrative Agreement signed by the Commission and the university.
 A Governing Circle and Survivors Circle play important roles in ensuring the promises undertaken to Survivors are honoured.
 
 ![Tens of thousands participate in the Walk for Reconciliation through downtown Vancouver, September 2013.](image-autofix/page-044.jpg)
 
-The NCTR also works in direct partnership with a growing number of universities, colleges, and other organizations across the country, including: the University of British Columbia, the University of Winnipeg, l’Université de St.
+The =|NCTR=National Centre for Truth and Reconciliation= also works in direct partnership with a growing number of universities, colleges, and other organizations across the country, including: the University of British Columbia, the University of Winnipeg, l’Université de St.
 Boniface, Carleton University, the University of Regina, Lakehead University, University College of the North, Algoma University, Red River College, the Archives of Manitoba, the Canadian Museum for Human Rights, the National Association of Friendship Centres, the Legacy of Hope Foundation, and le Centre du patrimoine.
 The goal is to create the broadest possible network from coast to coast to coast.
 
-Officially opening in the summer of 2015, the NCTR will be the permanent home for all statements, documents, and other materials gathered by the Commission.
+Officially opening in the summer of 2015, the =|NCTR=National Centre for Truth and Reconciliation= will be the permanent home for all statements, documents, and other materials gathered by the Commission.
 In future, it will house other Indigenous collections.
-The NCTR will encourage and engage in respectful dialogue on many issues that hinder or foster reconciliation.
+The =|NCTR=National Centre for Truth and Reconciliation= will encourage and engage in respectful dialogue on many issues that hinder or foster reconciliation.
 It will ensure that:
 
   * Survivors and their families have access to their own history;
@@ -2394,12 +2394,12 @@ In the documents it has reviewed, the Truth and Reconciliation Commission of Can
 Most of these prosecutions were the result of the determination of former students to see justice done.
 
 The full extent of the abuse that occurred in the schools is only now coming to light.
-As of January 31, 2015, the Independent Assessment Process (IAP), established under the Indian Residential Schools Settlement Agreement (IRSSA) had received 37,951 claims for injuries resulting from physical and sexual abuse at residential schools.
-The IAP is a mechanism to compensate former students for sexual and physical abuse experienced at the schools and the harms that arose from the assaults.
-By the end of 2014, the IAP had resolved 30,939 of those claims, awarding $2,690,000 in compensation.[^444]
-The Common Experience Payment (CEP) established under IRSSA provided compensation to individuals who attended a school on the IRSSA’s approved list of schools.
-The CEP recognized the claims of 78,748 former residential school students.
-Although claims for compensation under the IAP could be made by non-residential school students who were abused at the schools, the vast majority of IAP claims were made by former residential school students.
+As of January 31, 2015, the Independent Assessment Process (=|IAP=Independent Assessment Process=), established under the Indian Residential Schools Settlement Agreement (=|IRSSA=Indian Residential Schools Settlement Agreement=) had received 37,951 claims for injuries resulting from physical and sexual abuse at residential schools.
+The =|IAP=Independent Assessment Process= is a mechanism to compensate former students for sexual and physical abuse experienced at the schools and the harms that arose from the assaults.
+By the end of 2014, the =|IAP=Independent Assessment Process= had resolved 30,939 of those claims, awarding $2,690,000 in compensation.[^444]
+The Common Experience Payment (=|CEP=Common Experience Payment=) established under =|IRSSA=Indian Residential Schools Settlement Agreement= provided compensation to individuals who attended a school on the =|IRSSA=Indian Residential Schools Settlement Agreement=’s approved list of schools.
+The =|CEP=Common Experience Payment= recognized the claims of 78,748 former residential school students.
+Although claims for compensation under the =|IAP=Independent Assessment Process= could be made by non-residential school students who were abused at the schools, the vast majority of =|IAP=Independent Assessment Process= claims were made by former residential school students.
 The number of claims for compensation for abuse is equivalent to approximately 48% of the number of former students who were eligible to make such claims.
 This number does not include those former students who died prior to May 2005.
 
@@ -3055,15 +3055,15 @@ By 2005, it was estimated that the volume surpassed 18,000 lawsuits.[^664]
 Former students also commenced class-action lawsuits for compensation.
 Although lower courts rejected their right to pursue such claims, in 2004, the Ontario Court of Appeal ruled that one of these cases (known as the “Cloud case”) should be allowed to proceed.[^665]
 Within months, the federal government agreed to enter into a process intended to negotiate a settlement to the growing number of class-action suits.
-The Indian Residential Schools Settlement Agreement (IRSSA) was reached in 2006 and approved by the courts in the following year.
-The IRSSA has five main components: 1) a Common Experience Payment; 2) an Independent Assessment Process; 3) support for the Aboriginal Health Foundation; 4) support for residential school commemoration; and 5) the establishment of a Truth and Reconciliation Commission of Canada.
+The Indian Residential Schools Settlement Agreement (=|IRSSA=Indian Residential Schools Settlement Agreement=) was reached in 2006 and approved by the courts in the following year.
+The =|IRSSA=Indian Residential Schools Settlement Agreement= has five main components: 1) a Common Experience Payment; 2) an Independent Assessment Process; 3) support for the Aboriginal Health Foundation; 4) support for residential school commemoration; and 5) the establishment of a Truth and Reconciliation Commission of Canada.
 Through the Common Experience Payment, former students would receive a payment of $10,000 for the first year that they attended a residential school, and an additional $3,000 for each additional year or partial year of attendance.
 The Independent Assessment Process adjudicated and compensated the claims of those students who were physically or sexually abused at the schools.
 Funding was also provided to the Aboriginal Healing Foundation to support initiatives addressing the residential school legacy.
 The Settlement Agreement committed the federal government to funding initiatives to commemorate the residential school experience.
 The Truth and Reconciliation Commission of Canada was mandated to tell Canadians about the history of residential schools and the impact those schools had on Aboriginal peoples, and to guide a process of reconciliation.
 
-The court approval of the IRSSA in 2007 was followed in June 2008 with Prime Minister Stephen Harper’s apology on behalf of Canada.
+The court approval of the =|IRSSA=Indian Residential Schools Settlement Agreement= in 2007 was followed in June 2008 with Prime Minister Stephen Harper’s apology on behalf of Canada.
 In his statement, the prime minister recognized that the primary purpose of the schools had been to remove children from their homes and families in order to assimilate them better into the dominant culture.
 Harper said, “These objectives were based on the assumption Aboriginal cultures and spiritual beliefs were inferior and unequal.
 Indeed, some sought, as it was infamously said, ‘to kill <!-- page 138 -->the Indian in the child.’ Today, we recognize that this policy of assimilation was wrong, has caused great harm, and has no place in our country.”[^666]
@@ -3749,7 +3749,7 @@ This indicates nearly a 50% drop in the fifteen years since the last residential
 There are, however, variations among Aboriginal peoples: 63.7% of Inuit speak their Indigenous language, compared with 22.4% of First Nations people and only 2.5% of Métis people.[^86]
 
 Some languages are close to extinction because they have only a few remaining speakers of the great-grandparent generation.
-The United Nations Educational, Scientific and Cultural Organization (UNESCO) lists 36% of Canada’s Aboriginal languages as being critically endangered, in the sense that they are used only by great-grandparent generations; 18% are severely endangered, in the sense that they are used by the great-grandparent and grandparent generations; and 16% are definitely endangered, in the sense that they are used by the parental and the two previous generations.
+The United Nations Educational, Scientific and Cultural Organization (=|UNESCO=United Nations Educational, Scientific and Cultural Organization=) lists 36% of Canada’s Aboriginal languages as being critically endangered, in the sense that they are used only by great-grandparent generations; 18% are severely endangered, in the sense that they are used by the great-grandparent and grandparent generations; and 16% are definitely endangered, in the sense that they are used by the parental and the two previous generations.
 The remaining languages are all vulnerable.[^87]
 If the preservation of Aboriginal languages does not become a priority both for governments and for Aboriginal communities, then what the residential schools failed to accomplish will come about through a process of systematic neglect.
 
@@ -3767,8 +3767,8 @@ The preservation of Aboriginal languages is essential and must be recognized as 
 
 At a time when government funding is most needed to protect Aboriginal languages and culture, Canada has not upheld commitments it previously made to fund such programs.
 In 2002, the federal government promised $160 million for the creation of a centre for Aboriginal languages and culture and a national language strategy.[^89]
-But, in 2006, the government retreated from that commitment, pledging instead to spend $5 million per year in “permanent funding” for the Aboriginal Languages Initiative (ALI), which had been started in 1998.[^90]
-The ALI is a program of government-administered heritage subsidies.
+But, in 2006, the government retreated from that commitment, pledging instead to spend $5 million per year in “permanent funding” for the Aboriginal Languages Initiative (=|ALI=Aboriginal Languages Initiative=), which had been started in 1998.[^90]
+The =|ALI=Aboriginal Languages Initiative= is a program of government-administered heritage subsidies.
 It is not based on the notion of respectful nation-to-nation relations between Canada and Aboriginal peoples.
 Neither does it provide Aboriginal people with the opportunity to make decisions for themselves about how to allocate scarce resources and how to administer programs.
 Many who appeared before the Truth and Reconciliation Commission of Canada were skeptical about the government’s commitment to preserve Aboriginal languages.
@@ -3776,7 +3776,7 @@ As Michael Sillett told us, “I cannot see the federal government putting out t
 I can’t bring back my language; I lost that.
 I lost my culture, you know.”[^91]
 
-Other than ALI, the only significant programs for language preservation are the CanadaTerritorial Language Accords ($4.[^1]
+Other than =|ALI=Aboriginal Languages Initiative=, the only significant programs for language preservation are the CanadaTerritorial Language Accords ($4.[^1]
 million annual budget), which support territorial government-directed Aboriginal language services, supports, and community projects in Nunavut and the Northwest Territories.
 In Yukon, language revitalization and preservation projects are supported through transfer agreements with ten of the eleven self-governing Yukon First Nations.[^92]
 
@@ -4034,19 +4034,19 @@ Redress to the racist and colonial views that inspired the schools, and effectiv
 
 <!-- page 218 -->To understand the full legacy of the harms of the schools, it is important to examine how the Canadian legal system responded to residential school abuse.
 Relatively few prosecutions for abuse resulted from police investigations.
-In some cases, the federal government actually compromised these investigations—and the independence of the Royal Canadian Mounted Police (RCMP)—to defend its own position in civil cases brought against it by residential school Survivors.
+In some cases, the federal government actually compromised these investigations—and the independence of the Royal Canadian Mounted Police (=|RCMP=Royal Canadian Mounted Police=)—to defend its own position in civil cases brought against it by residential school Survivors.
 
 ### RCMP independence compromised
 
-In late 1994, the RCMP established the E Division Task Force to investigate allegations of abuse in British Columbia residential schools.
-There is evidence, however, that RCMP investigations into abuse were adversely influenced by the federal government’s strategic interests in defending itself in the many civil lawsuits commenced by former students.
-For example, the government demanded that the RCMP hand over its investigation files related to abuse at the Kuper Island school.
-Despite some initial objections, the RCMP eventually did turn over the files.[^118]
+In late 1994, the =|RCMP=Royal Canadian Mounted Police= established the E Division Task Force to investigate allegations of abuse in British Columbia residential schools.
+There is evidence, however, that =|RCMP=Royal Canadian Mounted Police= investigations into abuse were adversely influenced by the federal government’s strategic interests in defending itself in the many civil lawsuits commenced by former students.
+For example, the government demanded that the =|RCMP=Royal Canadian Mounted Police= hand over its investigation files related to abuse at the Kuper Island school.
+Despite some initial objections, the =|RCMP=Royal Canadian Mounted Police= eventually did turn over the files.[^118]
 This was done without due regard for the privacy rights of the complainants in the case, and, in effect, gave the government an advantage in defending itself.
 When the police force requested the return of these files, the government declined, and then further refused to disclose the information it had received to the Survivors who had brought the civil lawsuits.[^119]
 
-Affidavits filed by RCMP officers suggest that the federal government’s interest in defending itself in civil litigation interfered with police investigations into crimes committed at the residential schools.
-Although a judge eventually ordered that Survivors should have the same access to RCMP criminal investigation material regarding offences at the Kuper Island school as the government, the whole affair meant Survivors could reasonably conclude that the RCMP was acting as an agent of the federal government, rather than as an impartial enforcer of the law.[^120]
+Affidavits filed by =|RCMP=Royal Canadian Mounted Police= officers suggest that the federal government’s interest in defending itself in civil litigation interfered with police investigations into crimes committed at the residential schools.
+Although a judge eventually ordered that Survivors should have the same access to =|RCMP=Royal Canadian Mounted Police= criminal investigation material regarding offences at the Kuper Island school as the government, the whole affair meant Survivors could reasonably conclude that the =|RCMP=Royal Canadian Mounted Police= was acting as an agent of the federal government, rather than as an impartial enforcer of the law.[^120]
 
 #### Call to Action
 
@@ -4054,7 +4054,7 @@ Although a judge eventually ordered that Survivors should have the same access t
 
 ### Unnecessary insistence on corroboration
 
-The RCMP E Division Task Force final report notes that “a very common situation that kept occurring over and over again” was that Crown counsel refused to prosecute without <!-- page 219 -->corroboration in the form of physical evidence.[^121]
+The =|RCMP=Royal Canadian Mounted Police= E Division Task Force final report notes that “a very common situation that kept occurring over and over again” was that Crown counsel refused to prosecute without <!-- page 219 -->corroboration in the form of physical evidence.[^121]
 This approach was based on an unwillingness to take the complainant’s own evidence as sufficient to justify a prosecution.
 It betrays an unwillingness to take the evidence of Aboriginal people as being worthy of belief.
 At best, the refusal to prosecute without corroboration was based on a belief that the denial of any accused person who occupied a position of authority at the schools would be sufficient to create a reasonable doubt about guilt.
@@ -4065,11 +4065,11 @@ The Commission is concerned that a continued insistence on corroboration has res
 ### Few criminal prosecutions
 
 The Commission has been able to identify fewer than fifty convictions stemming from allegations of abuse at residential schools.
-This figure is insignificant compared with the nearly 38,000 claims of sexual and serious physical abuse that were submitted as part of the Independent Assessment Process (IAP), set up under the Settlement Agreement.[^123]
+This figure is insignificant compared with the nearly 38,000 claims of sexual and serious physical abuse that were submitted as part of the Independent Assessment Process (=|IAP=Independent Assessment Process=), set up under the Settlement Agreement.[^123]
 
 Although there were not many prosecutions for sexual abuse, there were even fewer charges of physical abuse brought against former school staff.
-The RCMP’s own report suggests that the E Division Task Force viewed physical assaults against Aboriginal children as being less serious than sexual abuse.
-The RCMP attributed complaints by former students about assaults as evidence of a “culture clash between the rigid, ‘spare the rod, spoil the child’ Christian attitude, and the more permissive Native tradition of child-rearing.”[^124]
+The =|RCMP=Royal Canadian Mounted Police=’s own report suggests that the E Division Task Force viewed physical assaults against Aboriginal children as being less serious than sexual abuse.
+The =|RCMP=Royal Canadian Mounted Police= attributed complaints by former students about assaults as evidence of a “culture clash between the rigid, ‘spare the rod, spoil the child’ Christian attitude, and the more permissive Native tradition of child-rearing.”[^124]
 This preconception undoubtedly affected the number of prosecutions that occurred for physical abuse at the schools.
 
 ### Civil litigation
@@ -4126,15 +4126,15 @@ The details of the Indian Residential Schools Settlement Agreement were finalize
 
 <!-- page 222 -->Because the Settlement Agreement would involve the termination of a number of class-action proceedings that the courts had already authorized, it was necessary for courts in most provinces and territories to consider whether the Settlement Agreement was a fair resolution of the claims and, in particular, whether it adequately protected the interests of all the class members.
 
-The Settlement Agreement included a Common Experience Payment (CEP) for everyone who attended one of the residential schools listed in the Agreement.
-In addition to the CEP, an Independent Assessment Process (IAP) was established to pay compensation to those who suffered sexual or serious physical assaults, such as severe beating, whipping, and second-degree burning, at the schools.
+The Settlement Agreement included a Common Experience Payment (=|CEP=Common Experience Payment=) for everyone who attended one of the residential schools listed in the Agreement.
+In addition to the =|CEP=Common Experience Payment=, an Independent Assessment Process (=|IAP=Independent Assessment Process=) was established to pay compensation to those who suffered sexual or serious physical assaults, such as severe beating, whipping, and second-degree burning, at the schools.
 The process also included compensation for assaults by other students if they were the result of a lack of reasonable supervision.
 
-The IAP was designed to be an easier process for complainants than litigation.
+The =|IAP=Independent Assessment Process= was designed to be an easier process for complainants than litigation.
 Hearings are held in private with cultural supports for the claimants and health supports provided by Health Canada.
 In contrast to the protracted nature of much civil litigation, hearings are supposed to be held within nine months, with decisions due shortly after the hearings.
 
-In their statements to the Commission, some Survivors have expressed concerns about the IAP abuse hearing process because it did not allow them to face their abusers directly.
+In their statements to the Commission, some Survivors have expressed concerns about the =|IAP=Independent Assessment Process= abuse hearing process because it did not allow them to face their abusers directly.
 Bernard Catcheway, a former student at Pine Creek residential school in Manitoba, told the Commission,
 
 > You know and [my abuser’s] still alive.
@@ -4143,7 +4143,7 @@ I wanted her so badly to come to that hearing, you know, but because of her age 
 I would have loved for her to, to meet her at that time, to basically say I, you know, to say whatever it was that made her do things to us, I was going to say, “I forgive you.”
 But I never got a chance to say that.[^127]
 
-Other claimants, such as Amelia Galligos-Thomas, a former student at Sechelt residential school in British Columbia, criticized the IAP’s delay in hearing and settling claims.
+Other claimants, such as Amelia Galligos-Thomas, a former student at Sechelt residential school in British Columbia, criticized the =|IAP=Independent Assessment Process=’s delay in hearing and settling claims.
 
 > I’ve been waiting five years now for my appeal, and it hasn’t happened yet.
 And it’s almost time for them to stop giving the money out to us.
@@ -4276,41 +4276,41 @@ Such developments are preventing judges from implementing community sanctions ev
 
 32. We call upon the federal government to amend the =^Criminal Code= to allow trial judges, upon giving reasons, to depart from mandatory minimum sentences and restrictions on the use of conditional sentences.
 
-### Offenders with FASD
+### Offenders with =|FASD=Fetal alcohol spectrum disorder=
 
 There is another link between the substance abuse that has plagued many residential school Survivors and the over-incarceration of Aboriginal people.
-Fetal alcohol spectrum disorder (FASD) is a permanent brain injury caused when a woman’s consumption of alcohol during pregnancy affects her fetus.
-The disabilities associated with FASD include memory impairments, problems with judgment and abstract reasoning, and poor adaptive functioning.[^142]
+Fetal alcohol spectrum disorder (=|FASD=Fetal alcohol spectrum disorder=) is a permanent brain injury caused when a woman’s consumption of alcohol during pregnancy affects her fetus.
+The disabilities associated with =|FASD=Fetal alcohol spectrum disorder= include memory impairments, problems with judgment and abstract reasoning, and poor adaptive functioning.[^142]
 It is a debilitating cognitive impairment, which children must live with for the rest of their lives, through no fault of their own.
-A study done for the Aboriginal Healing Foundation drew links among the intergenerational trauma of residential schools, alcohol addictions, and FASD.[^143]
+A study done for the Aboriginal Healing Foundation drew links among the intergenerational trauma of residential schools, alcohol addictions, and =|FASD=Fetal alcohol spectrum disorder=.[^143]
 The study concluded that the “residential school system contributed to the central risk factor involved, substance abuse, but also to factors shown to be linked to alcohol abuse, such as child and adult physical, emotional and sexual abuse, mental health problems and family dysfunction.”[^144]
 
-About 1% of Canadian children are born with some form of disability related to prenatal alcohol consumption, but estimates from Canada and the United States suggest that 15% to 20% of prisoners have FASD.[^145]
-A recent Canadian study found that offenders with FASD had much higher rates of criminal involvement than those without FASD, including more juvenile and adult convictions.[^146]
-The Commission believes there is a need to take urgent measures both to prevent FASD and to better manage its harmful consequences.
-There is a clear need in Aboriginal communities for more programming that addresses the problems of addiction and FASD.
+About 1% of Canadian children are born with some form of disability related to prenatal alcohol consumption, but estimates from Canada and the United States suggest that 15% to 20% of prisoners have =|FASD=Fetal alcohol spectrum disorder=.[^145]
+A recent Canadian study found that offenders with =|FASD=Fetal alcohol spectrum disorder= had much higher rates of criminal involvement than those without =|FASD=Fetal alcohol spectrum disorder=, including more juvenile and adult convictions.[^146]
+The Commission believes there is a need to take urgent measures both to prevent =|FASD=Fetal alcohol spectrum disorder= and to better manage its harmful consequences.
+There is a clear need in Aboriginal communities for more programming that addresses the problems of addiction and =|FASD=Fetal alcohol spectrum disorder=.
 
 #### Call to Action
 
-33. We call upon the federal, provincial, and territorial governments to recognize as a high priority the need to address and prevent Fetal Alcohol Spectrum Disorder (FASD), and to develop, in collaboration with Aboriginal people, FASD preventive programs that can be delivered in a culturally appropriate manner.
+33. We call upon the federal, provincial, and territorial governments to recognize as a high priority the need to address and prevent Fetal Alcohol Spectrum Disorder (=|FASD=Fetal alcohol spectrum disorder=), and to develop, in collaboration with Aboriginal people, =|FASD=Fetal alcohol spectrum disorder= preventive programs that can be delivered in a culturally appropriate manner.
 
-It is challenging for courts to deal with offenders with FASD, because obtaining an official diagnosis entails a long and costly process of multidisciplinary referrals.
-Even if trial judges have been educated about the symptoms of FASD, they are generally unable to take notice of FASD without evidence of a diagnosis.[^147]
-Clearly, better diagnostic tools are <!-- page 228 -->needed, accompanied by sufficient resources for intensive community programs as realistic alternatives to jail and as support for people living with FASD to avoid repeated conflicts with the law.
+It is challenging for courts to deal with offenders with =|FASD=Fetal alcohol spectrum disorder=, because obtaining an official diagnosis entails a long and costly process of multidisciplinary referrals.
+Even if trial judges have been educated about the symptoms of =|FASD=Fetal alcohol spectrum disorder=, they are generally unable to take notice of =|FASD=Fetal alcohol spectrum disorder= without evidence of a diagnosis.[^147]
+Clearly, better diagnostic tools are <!-- page 228 -->needed, accompanied by sufficient resources for intensive community programs as realistic alternatives to jail and as support for people living with =|FASD=Fetal alcohol spectrum disorder= to avoid repeated conflicts with the law.
 
-The recent enactment of mandatory minimum sentences for some offences further complicates the situation of offenders with FASD because it denies judges the flexibility to consider individual circumstances in their sentencing.
-There is a danger that prison will be used unnecessarily as another expensive crisis intervention for Aboriginal offenders with FASD, even though culturally appropriate supports in the community could often be a more appropriate approach.[^148]
-As well as amending mandatory minimum sentencing laws, the federal government can do much more to tailor correctional and parole resources to facilitate the reintegration of offenders with FASD into their communities.
+The recent enactment of mandatory minimum sentences for some offences further complicates the situation of offenders with =|FASD=Fetal alcohol spectrum disorder= because it denies judges the flexibility to consider individual circumstances in their sentencing.
+There is a danger that prison will be used unnecessarily as another expensive crisis intervention for Aboriginal offenders with =|FASD=Fetal alcohol spectrum disorder=, even though culturally appropriate supports in the community could often be a more appropriate approach.[^148]
+As well as amending mandatory minimum sentencing laws, the federal government can do much more to tailor correctional and parole resources to facilitate the reintegration of offenders with =|FASD=Fetal alcohol spectrum disorder= into their communities.
 
 #### Call to Action
 
-34. We call upon the governments of Canada, the provinces, and territories to undertake reforms to the criminal justice system to better address the needs of offenders with Fetal Alcohol Spectrum Disorder (FASD), including:
+34. We call upon the governments of Canada, the provinces, and territories to undertake reforms to the criminal justice system to better address the needs of offenders with Fetal Alcohol Spectrum Disorder (=|FASD=Fetal alcohol spectrum disorder=), including:
 
-    1. Providing increased community resources and powers for courts to ensure that FASD is properly diagnosed, and that appropriate community supports are in place for those with FASD.
+    1. Providing increased community resources and powers for courts to ensure that =|FASD=Fetal alcohol spectrum disorder= is properly diagnosed, and that appropriate community supports are in place for those with =|FASD=Fetal alcohol spectrum disorder=.
 
-    2. Enacting statutory exemptions from mandatory minimum sentences of imprisonment for offenders affected by FASD.
+    2. Enacting statutory exemptions from mandatory minimum sentences of imprisonment for offenders affected by =|FASD=Fetal alcohol spectrum disorder=.
 
-    3. Providing community, correctional, and parole resources to maximize the ability of people with FASD to live in the community.
+    3. Providing community, correctional, and parole resources to maximize the ability of people with =|FASD=Fetal alcohol spectrum disorder= to live in the community.
 
     4. Adopting appropriate evaluation mechanisms to measure the effectiveness of such programs and ensure community safety.
 
@@ -4444,7 +4444,7 @@ I can’t to this day wear a dress because of all the things that happened in th
 It was like a sanctuary for pedophiles I would call it, that’s probably why I blocked out so much of my life is because of that.[^167]
 
 The most disturbing aspect of this victimization is the extraordinary number of Aboriginal women who have been murdered or are reported as missing.
-A report by the RCMP, released in 2014, found that between 1980 and 2012, 1,017 Aboriginal women and girls were killed and 164 were missing.
+A report by the =|RCMP=Royal Canadian Mounted Police=, released in 2014, found that between 1980 and 2012, 1,017 Aboriginal women and girls were killed and 164 were missing.
 Two hundred and twenty-five of these cases remain unsolved.[^168]
 
 More research is needed, but the available information suggests a devastating link between the large numbers of missing and murdered Aboriginal women and the many harmful background factors in their lives.
@@ -4519,7 +4519,7 @@ Canada’s historical development, as well as the view held strongly by some tha
 
 No Canadian can take pride in this country’s treatment of Aboriginal peoples, and, for that reason, all Canadians have a critical role to play in advancing reconciliation in ways that honour and revitalize the nation-to-nation Treaty relationship.
 
-At the Truth and Reconciliation Commission of Canada’s (TRC) Traditional Knowledge Keepers Forum held in June 2014, Chief Ian Campbell said, “Our history is your history, as Canada …
+At the Truth and Reconciliation Commission of Canada’s (=|TRC=Truth and Reconciliation Commission of Canada=) Traditional Knowledge Keepers Forum held in June 2014, Chief Ian Campbell said, “Our history is your history, as Canada …
 until Canada accepts that …
 this society will never flourish to its full potential.”[^1]
 
@@ -4593,14 +4593,14 @@ The federal government is determined to create a new relationship among aborigin
 The Government of Canada subsequently created a Royal Commission to look into the state of affairs of Aboriginal peoples in Canada.
 The Royal Commission provided a glimpse into just how bad things had become.
 
-In 1996, the Royal Commission on Aboriginal Peoples (RCAP) put forward a bold and comprehensive vision of reconciliation.
-The RCAP report observed that if Canada was to thrive in the future, the relationship between Aboriginal peoples and the Crown must be transformed.
+In 1996, the Royal Commission on Aboriginal Peoples (=|RCAP=Royal Commission on Aboriginal Peoples=) put forward a bold and comprehensive vision of reconciliation.
+The =|RCAP=Royal Commission on Aboriginal Peoples= report observed that if Canada was to thrive in the future, the relationship between Aboriginal peoples and the Crown must be transformed.
 The report concluded that the policy of assimilation was a complete failure and that Canada must look to the historical Treaty relationship to establish a new relationship between Aboriginal and non-Aboriginal peoples, based on the principles of mutual recognition, mutual respect, sharing, and mutual responsibility.[^7]
 
 The Royal Commission emphasized that Aboriginal peoples’ right to self-determination is essential to a robust upholding of Canada’s constitutional obligations to Aboriginal peoples and compliance with international human rights law.
-In other words, the RCAP report saw reconciliation as placing a heavy onus on the Government of Canada to change its conduct and to see the validity of the Aboriginal perspective of how the relationship should be in the future.
+In other words, the =|RCAP=Royal Commission on Aboriginal Peoples= report saw reconciliation as placing a heavy onus on the Government of Canada to change its conduct and to see the validity of the Aboriginal perspective of how the relationship should be in the future.
 
-In the years following the release of the RCAP report, developing a national vision of reconciliation has proved to be challenging.
+In the years following the release of the =|RCAP=Royal Commission on Aboriginal Peoples= report, developing a national vision of reconciliation has proved to be challenging.
 In principle, Aboriginal peoples, governments, and the courts agree that reconciliation is needed.
 In practice, it has been difficult to create the conditions for reconciliation to flourish.
 
@@ -4619,11 +4619,11 @@ Aboriginal people, on the other hand, see reconciliation as an opportunity to af
 
 Aboriginal peoples in Canada were not alone in the world when it came to being treated harshly by colonial authorities and settler governments.
 Historical abuses of Aboriginal peoples and the taking of Indigenous lands and resources throughout the world have been the subject of United Nations’ attention for many years.
-On September 13, 2007, after almost twenty-five years of debate and study, the United Nations (UN) adopted the =^Declaration on the Rights of Indigenous Peoples=.
+On September 13, 2007, after almost twenty-five years of debate and study, the United Nations (=|UN=United Nations=) adopted the =^Declaration on the Rights of Indigenous Peoples=.
 As a declaration, it calls upon member states to adopt and maintain its provisions as a set of “minimum standards for the survival, dignity and well-being of the indigenous peoples of the world.”[^8]
 
 The Commission concurs with the view of S.
-James Anaya, UN Special Rapporteur on the Rights of Indigenous Peoples, who observed,
+James Anaya, =|UN=United Nations= Special Rapporteur on the Rights of Indigenous Peoples, who observed,
 
 > It is perhaps best to understand the Declaration and the right of self-determination it affirms as instruments of reconciliation.
 Properly understood, self-determination is an animating force for efforts toward reconciliation—or, perhaps, more accurately, conciliation—with peoples that have suffered oppression at the hands of others.
@@ -4666,11 +4666,11 @@ Canada cannot support paragraph 4, in particular, given that Canadian law, recen
 In a public statement, Indigenous leaders and their supporters said that Canada’s concerns were unfounded, noting that
 
 > the notion that the Declaration could be interpreted as conferring an absolute and unilateral veto power has been repeatedly raised by Canada as a justification for its continued opposition to the Declaration.
-This claim, however, has no basis either in the UN Declaration or in the wider body of international law.
+This claim, however, has no basis either in the =|UN=United Nations= Declaration or in the wider body of international law.
 Like standards of accommodation and consent set out by the Supreme Court of Canada, fpic in international law is applied in proportion to the potential for harm to the rights of Indigenous peoples and to the strength of these rights.
-The word “veto” does not appear in the UN Declaration…
+The word “veto” does not appear in the =|UN=United Nations= Declaration…
 Canada keeps insisting that Indigenous peoples don’t have a say in development on their lands.
-This position is not consistent with the UN =^Declaration on the Rights of Indigenous Peoples=, decisions by its own courts, or the goal of reconciliation.[^14]
+This position is not consistent with the =|UN=United Nations= =^Declaration on the Rights of Indigenous Peoples=, decisions by its own courts, or the goal of reconciliation.[^14]
 
 Reflecting on the importance of the Declaration to First Nations, Inuit, and Métis peoples in Canada, Grand Chief Edward John, Hereditary Chief of the Tl’azt’en Nation in northern British Columbia, explained,
 
@@ -4682,7 +4682,7 @@ Yet Canada’s policy of denying Aboriginal title and rights is premised on the 
 It is time for this attitude and the policies that flow from it to be cast aside.
 The Declaration calls for the development of new relationships based on recognition and respect for the inherent human rights of Indigenous peoples.[^15]
 
-The TRC considers “reconciliation” to be an ongoing process of establishing and maintaining respectful relationships at all levels of Canadian society.
+The =|TRC=Truth and Reconciliation Commission of Canada= considers “reconciliation” to be an ongoing process of establishing and maintaining respectful relationships at all levels of Canadian society.
 The Commission therefore believes that the =^United Nations Declaration on the Rights of Indigenous Peoples= is the appropriate framework for reconciliation in twenty-first-century Canada.
 Studying the Declaration with a view to identifying its impacts on current government laws, policy, and behaviour would enable Canada to develop a holistic vision of reconciliation that embraces <!-- page 250 -->all aspects of the relationship between Aboriginal and non-Aboriginal Canadians, and to set the standard for international achievement in its circle of hesitating nations.
 
@@ -4738,7 +4738,7 @@ The Doctrine of Discovery was the legal means by which Europeans claimed rights 
 These claims were made without consultation or engagement of any sort with the resident populations in these territories—the people to whom, by any sensible account, the land actually <!-- page 252 -->belonged.
 The Doctrine of Discovery has been a critical component of historical relationships between Europeans, their descendants, and Indigenous peoples, and it underlies their legal relationships to this day, having smoothly and relatively uncritically transitioned from Roman Catholic to international law.[^19]
 
-In April 2010, the Permanent Observer Mission of the Holy See (the UN representative from the Roman Catholic Vatican) issued a statement regarding the Doctrine of Discovery at the ninth session of the UN Permanent Forum on Indigenous Issues.[^20]
+In April 2010, the Permanent Observer Mission of the Holy See (the =|UN=United Nations= representative from the Roman Catholic Vatican) issued a statement regarding the Doctrine of Discovery at the ninth session of the =|UN=United Nations= Permanent Forum on Indigenous Issues.[^20]
 The statement noted that earlier papal bulls regarding territorial expansion and the forced conversion of Indigenous peoples had subsequently been abrogated or annulled by the Roman Catholic Church.
 
 > Regarding the question of the doctrine of discovery and the role of the Papal Bull Inter Coetera, the Holy See notes that Inter Coetera, as a source of international law …
@@ -4754,7 +4754,7 @@ The refutation of this doctrine is therefore now under the competence of nationa
 For many, that Catholic statement was inadequate.
 The doctrine’s influence in Western law and its destructive consequences for Indigenous peoples have been well documented by scholars and other experts.[^22]
 
-In 2014, the North American representative to the UN Permanent Forum on Indigenous Issues, Grand Chief Edward John, tabled the “Study on the Impacts of the Doctrine of Discovery on Indigenous Peoples, Including Mechanisms, Processes, and Instruments of Redress.”
+In 2014, the North American representative to the =|UN=United Nations= Permanent Forum on Indigenous Issues, Grand Chief Edward John, tabled the “Study on the Impacts of the Doctrine of Discovery on Indigenous Peoples, Including Mechanisms, Processes, and Instruments of Redress.”
 The study concluded:
 
 > With regard to land dispossessions, forced conversions of non-Christians, the deprivation of liberty and the enslavement of indigenous peoples, the Holy See reported that an “abrogation process took place over the centuries” to invalidate such nefarious actions.
@@ -4781,17 +4781,17 @@ The wcc also asked its member churches to support Indigenous self-determination 
 The United Church of Canada responded to this call.
 At its meeting in March 2012, the Executive of the General Council of the United Church “agreed unanimously to disown the Doctrine of Discovery, a historical concept which has been used to rationalize the enslavement and colonization of Indigenous peoples around the world.”[^28]
 
-At the eleventh session of the UN Permanent Forum in May 2012, kairos, an interchurch social justice advocacy organization, made a joint statement with the Assembly of First Nations, Chiefs of Ontario, Grand Council of the Crees (Eeyou Istchee), Amnesty International, and the Canadian Friends Service Committee (Quakers) on the Doctrine of Discovery.
+At the eleventh session of the =|UN=United Nations= Permanent Forum in May 2012, kairos, an interchurch social justice advocacy organization, made a joint statement with the Assembly of First Nations, Chiefs of Ontario, Grand Council of the Crees (Eeyou Istchee), Amnesty International, and the Canadian Friends Service Committee (Quakers) on the Doctrine of Discovery.
 The statement said that “while churches have begun to repudiate this racist doctrine, States around the world have not.”
 It recommended that states, in conjunction with Indigenous peoples, undertake legal and policy reform to remove “any remnants of <!-- page 254 -->doctrines of superiority, including ‘discovery,’ as a basis for the assumed sovereignty over Indigenous peoples and their lands and resources.”[^29]
 
-In his report to the UN Permanent Forum, Grand Chief Edward John focused on how Canadian courts have dealt with sovereignty issues.
+In his report to the =|UN=United Nations= Permanent Forum, Grand Chief Edward John focused on how Canadian courts have dealt with sovereignty issues.
 
 > The highest court of Canada has recognized the need for reconciliation of “preexisting aboriginal sovereignty with assumed Crown sovereignty.”
 The Supreme Court has taken judicial notice of “such matters as colonialism, displacement and residential schools,” which demonstrate how “assumed” sovereign powers were abused throughout history.
 The root cause of such abuse leads back to the Doctrine of Discovery and other related fictitious constructs which must therefore be addressed.[^30]
 
-At the thirteenth session of the UN Permanent Forum in May 2014, Haudenosaunee Faithkeeper Oren Lyons spoke about the principles of good governance as they relate to the =^United Nations Declaration=.
+At the thirteenth session of the =|UN=United Nations= Permanent Forum in May 2014, Haudenosaunee Faithkeeper Oren Lyons spoke about the principles of good governance as they relate to the =^United Nations Declaration=.
 He said,
 
 > We recognize the Doctrine of Discovery and its long-term effects on our peoples led to the atrocities we faced in residential and boarding schools, both in Canada and the u.s…
@@ -4984,7 +4984,7 @@ Those who continued to act in accordance with those cultures could be, and were,
 Aboriginal people came to see law as a tool of government oppression.
 
 To this point, the country’s civil laws continued to overlook the truth that the extinguishment of peoples’ languages and cultures is a personal and social injury of the deepest kind.
-It is difficult to understand why the forced assimilation of children through removal from their families and communities—to be placed with people of another race for the purpose of destroying the race and culture from which the children come—can be deemed an act of genocide under Article 2(e) of the UN’s Convention on Genocide, but is not a civil wrong.
+It is difficult to understand why the forced assimilation of children through removal from their families and communities—to be placed with people of another race for the purpose of destroying the race and culture from which the children come—can be deemed an act of genocide under Article 2(e) of the =|UN=United Nations=’s Convention on Genocide, but is not a civil wrong.
 
 Failure to recognize such truths hinders reconciliation.
 Many Aboriginal people have a deep and abiding distrust of Canada’s political and legal systems because of the damage they have caused.
@@ -5011,13 +5011,13 @@ That relationship did not flourish because of Canada’s failure to live up to t
 So long as the vision of reconciliation in Section 35(1) is not being implemented with sufficient strength and vigour, Canadian law will continue to be regarded as deeply adverse to realizing truth and reconciliation for many First Nations, Inuit, and Métis people.
 To improve Aboriginal peoples’ access to justice, changes must occur on at least two fronts: nationally, and within each Aboriginal community.
 
-The =^United Nations Declaration on the Rights of Indigenous Peoples= and the UN “Outcome Document” provide a framework and a mechanism to support and improve access to justice for Indigenous peoples in Canada.
+The =^United Nations Declaration on the Rights of Indigenous Peoples= and the =|UN=United Nations= “Outcome Document” provide a framework and a mechanism to support and improve access to justice for Indigenous peoples in Canada.
 Under Article 40 of the _Declaration_,
 
 > Indigenous peoples have the right to access to and prompt decision through just and fair procedures for the resolution of conflicts and disputes with States or other parties, as well as to effective remedies for all infringements of their individual and collective rights.
 Such a decision shall give due consideration to the customs, traditions, rules and legal systems of the indigenous peoples concerned and international human rights.[^44]
 
-In 2013, the UN Expert Mechanism on the Rights of Indigenous Peoples issued a study, “Access to Justice in the Promotion and Protection of the Rights of Indigenous Peoples.”
+In 2013, the =|UN=United Nations= Expert Mechanism on the Rights of Indigenous Peoples issued a study, “Access to Justice in the Promotion and Protection of the Rights of Indigenous Peoples.”
 It made several key findings that are relevant to Canada.
 The international study noted that states and Indigenous peoples themselves have a critical role to play in implementing Indigenous peoples’ access to justice.
 Substantive changes are required within the criminal legal system and in relation to Indigenous peoples’ rights to their lands, territories, and natural resources; political self-determination; and community well-being.[^45]
@@ -5085,7 +5085,7 @@ They will have to reconstruct themselves as nations.[^49]
 We endorse the approach recommended by the Royal Commission.
 
 <!-- page 265 -->Indigenous law, like so many other aspects of Aboriginal peoples’ lives, has been impacted by colonization.
-At the TRC’s Knowledge Keepers Forum in 2014, Mi’kmaq Elder Stephen Augustine spoke about the Mi’kmaq concept for “making things right.”
+At the =|TRC=Truth and Reconciliation Commission of Canada=’s Knowledge Keepers Forum in 2014, Mi’kmaq Elder Stephen Augustine spoke about the Mi’kmaq concept for “making things right.”
 He shared a metaphor about an overturned canoe in the river.
 He said, “We’ll make the canoe right and …
 keep it in water so it does not bump on rocks or hit the shore…
@@ -5100,10 +5100,10 @@ Indigenous legal orders adapt with changing circumstances.
 The development and application of Indigenous law should be regarded as one element of a broader holistic strategy to deal with the residential schools’ negative effects.
 
 There are diverse sources of Indigenous law that hold great insight for pursuing reconciliation.
-In 2012, the TRC partnered with the University of Victoria Faculty of Law’s Indigenous Law Clinic, and the Indigenous Bar Association, to develop a national research initiative, the “Accessing Justice and Reconciliation (AJR) Project.”
-Working with seven community partners, the AJR project examined six different legal traditions across the country: Coast Salish (Snuneymuxw First Nation, Tsleil-Waututh Nation); Tsilhqot’in (Tsilhqot’in National Government); Northern Secwepemc (T’exelc Williams Lake Indian Band); Cree (Aseniwuche Winewak Nation); Chippewas of Nawash Unceded First Nation # 27); and Mi’kmaq (Mi’kmaq Legal Services Network, Eskasoni).
+In 2012, the =|TRC=Truth and Reconciliation Commission of Canada= partnered with the University of Victoria Faculty of Law’s Indigenous Law Clinic, and the Indigenous Bar Association, to develop a national research initiative, the “Accessing Justice and Reconciliation (=|AJR=Accessing Justice and Reconciliation=) Project.”
+Working with seven community partners, the =|AJR=Accessing Justice and Reconciliation= project examined six different legal traditions across the country: Coast Salish (Snuneymuxw First Nation, Tsleil-Waututh Nation); Tsilhqot’in (Tsilhqot’in National Government); Northern Secwepemc (T’exelc Williams Lake Indian Band); Cree (Aseniwuche Winewak Nation); Chippewas of Nawash Unceded First Nation # 27); and Mi’kmaq (Mi’kmaq Legal Services Network, Eskasoni).
 
-The AJR report concluded that many more Aboriginal communities across the country would benefit from recovering and revitalizing their laws.
+The =|AJR=Accessing Justice and Reconciliation= report concluded that many more Aboriginal communities across the country would benefit from recovering and revitalizing their laws.
 Doing so would enable First Nations, Inuit, and Métis communities to remedy community harms and resolve internal conflicts as well as external conflicts with governments more effectively.
 Professor Val Napoleon, the project’s academic lead, and Hadley Friedland, the project coordinator, said,
 
@@ -5152,7 +5152,7 @@ It’s very like the situation we have with Aboriginal rights, where nation afte
 
 The Commission believes that Survivors, who took action to bring the history and legacy of the residential schools to light, who went to court to confront their abusers, and who ratified the Settlement Agreement, have made a significant contribution to reconciliation.
 The Truth and Reconciliation Commission of Canada was not established because of any widespread public outcry, demanding justice for residential school Survivors.[^55]
-Neither did the Settlement Agreement, including the TRC, come about only because government and church defendants, faced with huge class-action lawsuits, decided it was preferable to litigation.
+Neither did the Settlement Agreement, including the =|TRC=Truth and Reconciliation Commission of Canada=, come about only because government and church defendants, faced with huge class-action lawsuits, decided it was preferable to litigation.
 Focusing only on the motivations of the defendants does not tell the whole story.
 It is important not to lose sight of the many ways in which Aboriginal peoples have succeeded in pushing the boundaries of reconciliation in Canada.
 
@@ -5167,7 +5167,7 @@ Although societal empathy for Aboriginal victims of abuse in residential schools
 There is a need for a clear and public recognition that Aboriginal peoples must be seen and treated as much more than just the beneficiaries of public good will.
 As holders of Treaty, constitutional, and human rights, they are entitled to justice and accountability from Canada to ensure that their rights are not violated.
 
-In his initial report, tabled in August of 2012, Pablo de Greiff, the first UN Special Rapporteur on the Promotion of Truth, Justice, Reparation and Guarantees of NonRecurrence, pointed out that in countries where prosecuting individual perpetrators of criminal acts involving human rights violations has been difficult, other measures such as truth-seeking forums, reparations, and institutional reforms are especially critical.
+In his initial report, tabled in August of 2012, Pablo de Greiff, the first =|UN=United Nations= Special Rapporteur on the Promotion of Truth, Justice, Reparation and Guarantees of NonRecurrence, pointed out that in countries where prosecuting individual perpetrators of criminal acts involving human rights violations has been difficult, other measures such as truth-seeking forums, reparations, and institutional reforms are especially critical.
 Such measures enable victims of state violence to develop some confidence in the legitimacy <!-- page 268 -->and credibility of the state’s justice system.
 But de Greiff cautions that implementing these measures alone does not guarantee that reconciliation will follow.
 Apologies, commemoration, public memorials, and educational reform are also required in order to transform social attitudes and foster long-term reconciliation.[^57]
@@ -5200,7 +5200,7 @@ Attempts to assimilate First Nations, Inuit, and Métis peoples into mainstream 
 Despite the devastating impacts of colonization, Indigenous peoples have always resisted (though in some places not always successfully) attacks on their cultures, languages, and ways of life.
 
 If Canadians are to keep the promise of the apologies made on their behalf—the promise of “never again!”—then we must guard against simply replicating the assimilation policies of the past in new forms today.
-As TRC Honorary Witness Wab Kinew said, “The truth about reconciliation is this: It is not a second chance at assimilation.
+As =|TRC=Truth and Reconciliation Commission of Canada= Honorary Witness Wab Kinew said, “The truth about reconciliation is this: It is not a second chance at assimilation.
 It should not be a kinder, gentler evangelism, free from the horrors of the residential school era.
 Rather, true reconciliation is a second chance at building a mutually respectful relationship.”[^58]
 
@@ -5216,7 +5216,7 @@ In every region of the country, Survivors and others have sent a strong message,
 
 June 11, 2008, was an important day for the Aboriginal peoples of Canada, and for the country as a whole.
 It has come to be known as the “Day of the Apology,” the day when Prime Minister Stephen Harper, and the leaders of all other federal political parties, formally apologized in the House of Commons for the harms caused by the residential school system.
-In their presentations to the TRC, many Survivors clearly recalled the day of the apology.
+In their presentations to the =|TRC=Truth and Reconciliation Commission of Canada=, many Survivors clearly recalled the day of the apology.
 They recalled where they were, who they were with, and, most importantly, how they felt.
 Many spoke of the intense emotions they had when they heard the prime minister acknowledge that it had been wrong for the government to have taken them away from their families for the purpose of “killing the Indian” in them.
 They talked of the tears that fell when they heard the words “We are sorry.”
@@ -5230,7 +5230,7 @@ They wanted to believe that the future for their children and their grandchildre
 The apology gave them cause to think that their patience and perseverance through the trauma and negativity of their experiences in and beyond the residential schools had been worth the struggle.
 It gave them hope.
 
-At the TRC’s Saskatchewan National Event, National Chief of the Assembly of First Nations Shawn A-in-chut Atleo said,
+At the =|TRC=Truth and Reconciliation Commission of Canada=’s Saskatchewan National Event, National Chief of the Assembly of First Nations Shawn A-in-chut Atleo said,
 
 > I think as was heard here, what I’m so grateful for is that there’s a growing experience …
 about the work of reconciliation…
@@ -5527,9 +5527,9 @@ We call for that apology to be similar to the 2010 apology issued to Irish victi
 
 Survivors made many statements to the Commission about Canada’s apology, but the same cannot be said for their response to church apologies.
 It is striking that although Survivors told us a great deal about how churches have affected their lives, and how, as adults, they may or may not practise Christianity, they seldom mentioned the churches’ apologies or healing and reconciliation activities.
-This was the case even though they heard church representatives offer apologies at the TRC’s National Events.
+This was the case even though they heard church representatives offer apologies at the =|TRC=Truth and Reconciliation Commission of Canada=’s National Events.
 Their engagement with the churches was often more informal and personal.
-Survivors who visited the churches’ archival displays in the TRC’s Learning Places picked up copies of the apologies and talked directly with church representatives.
+Survivors who visited the churches’ archival displays in the =|TRC=Truth and Reconciliation Commission of Canada=’s Learning Places picked up copies of the apologies and talked directly with church representatives.
 They also had conversations with church representatives in the Churches Listening Areas and in public Sharing Circles.[^76]
 
 When the late Alvin Dixon, Chair of the United Church of Canada’s Indian Residential School Survivors Committee, spoke to the Commission at the Northern National Event in Inuvik in 2011, he expressed what many other Survivors may have thought about all of the churches’ apologies.
@@ -5713,7 +5713,7 @@ It is not for the Presbyterian Church in Canada to validate or invalidate Aborig
 Our church, however, is deeply respectful of these traditions.[^91]
 
 On February 18, 2015, the United Church of Canada issued a statement, “Affirming Other Spiritual Paths.”
-The document sets out various statements and apologies made by the church with regard to Indigenous spirituality, including an expression of reconciliation at the TRC’s Alberta National Event on March 27, 2014.
+The document sets out various statements and apologies made by the church with regard to Indigenous spirituality, including an expression of reconciliation at the =|TRC=Truth and Reconciliation Commission of Canada=’s Alberta National Event on March 27, 2014.
 Among other things, the church said:
 
 > In humility, the Church acknowledges its complicity in the degradation of Aboriginal wisdom and spirituality, and offers the following statements from its recent history.
@@ -5829,7 +5829,7 @@ If we put our minds and hearts to it, we can [change] the status quo.[^104]
 At the Commission’s Community Hearing in Thunder Bay, Ontario, in 2010, Esther Lachinette-Diabo said,
 
 > I’m doing this interview in hope that we could use this as an educational tool to educate our youth about what happened…
-Maybe one day the Ministry of Education can work with the TRC and develop some kind of curriculum for Native Studies, Indigenous learning.
+Maybe one day the Ministry of Education can work with the =|TRC=Truth and Reconciliation Commission of Canada= and develop some kind of curriculum for Native Studies, Indigenous learning.
 So that not only Aboriginal people can understand, you know, what we had to go through—the experiences of all the Anishinaabe people that attended—but for the Canadian people as well to understand that the residential schools did happen.
 And through this sharing, they can understand and hear stories from Survivors like me.[^105]
 
@@ -5885,7 +5885,7 @@ The Commission’s 2012 =^Interim Report= made three recommendations directed at
 > Recommendation 6: The Commission recommends that each provincial and territorial government work with the Commission to develop public education campaigns to inform the general public about the history and impact of residential schools in their respective jurisdictions.
 
 At various times, the Commission met with provincial and territorial education ministers from across Canada.
-In July 2014, the Council of Ministers of Education, Canada (CMEC) gave us an update on the status of curriculum-development commitments across the country.[^108]
+In July 2014, the Council of Ministers of Education, Canada (=|CMEC=Council of Ministers of Education, Canada=) gave us an update on the status of curriculum-development commitments across the country.[^108]
 The Commission was encouraged to see that progress has been made.
 We note, however, that not all provinces and territories have yet made curriculum about residential schools mandatory, and not all courses cover the subject in depth.
 
@@ -5896,7 +5896,7 @@ Among the provinces, Alberta publicly declared that it was launching its own ini
 These education initiatives are significant, but it will be essential to ensure that momentum is not lost in the years following the end of the Commission’s mandate.
 To be successful over the long term, this and similar initiatives will require substantive and sustained support from provincial and territorial governments, educators, and local school districts.
 An ongoing commitment from ministers of education throughout the country is critical.
-The Commission notes that on July 9, 2014, the CMEC announced that education ministers
+The Commission notes that on July 9, 2014, the =|CMEC=Council of Ministers of Education, Canada= announced that education ministers
 
 > agreed to additional pan-Canadian work in Aboriginal education to take place over the next two years, which will focus on four key directional ideas: support for Aboriginal students interested in pursuing teaching as a career; development of learning resources on Canadian history and the legacy of Indian Residential Schools that could be used by teacher training programs; sharing of promising practices in Aboriginal education; and ongoing promotion of learning about Indian Residential Schools in K–12 education systems.[^109]
 
@@ -5997,7 +5997,7 @@ Yet, there remains much to learn about the circumstances and conditions in which
 Equally important, there are rich insights into healing and reconciliation that emerge from the research process itself.
 Two research projects sponsored by the Commission illustrate this point.
 
-Through a TRC-sponsored project at the Centre for Youth & Society at the University of Victoria, seven Aboriginal youth researchers embarked on a digital storytelling project, “Residential Schools Resistance Narratives: Strategies and Significance for Indigenous Youth.”
+Through a =|TRC=Truth and Reconciliation Commission of Canada=-sponsored project at the Centre for Youth & Society at the University of Victoria, seven Aboriginal youth researchers embarked on a digital storytelling project, “Residential Schools Resistance Narratives: Strategies and Significance for Indigenous Youth.”
 The project enabled youth researchers to learn about the critical role that resistance and resilience played in the residential schools and beyond, but also allowed them to reflect on their own identities and roles within their families and communities.
 One youth researcher said that “what started as a research job turned into a personal hunt for knowledge of my own family’s history with residential schools.”
 Others noted the importance of respecting and incorporating ceremony and protocols in their digital storytelling projects.
@@ -6046,7 +6046,7 @@ The Commission believes that establishing a strong foundation for reconciliation
 While this is true for adults, it is particularly urgent with regard to young people; they are the lifeblood of reconciliation into the future.
 
 At the Saskatchewan National Event, Grade Eight student Brooklyn Rae, who attended the Education Day, said, “I think it’s really important for youth to voice their opinions, to not only prove to themselves that they can, that their voice is important, but to prove to adults that they have a voice and that they have a strong opinion that is important in the world.”[^121]
-Elder Barney Williams, a member of the TRC’s Survivor Committee and one of the panellists at the Education Day Youth Dialogue, said,
+Elder Barney Williams, a member of the =|TRC=Truth and Reconciliation Commission of Canada=’s Survivor Committee and one of the panellists at the Education Day Youth Dialogue, said,
 
 > I think more and more people are realizing that the engagement of youth is crucial.
 For me, as a Survivor, I’m really impressed with how much they knew.
@@ -6059,8 +6059,8 @@ The Commission agrees.
 We believe that children and youth must have a strong voice in developing reconciliation policy, programs, and practices into the future.
 It is therefore vital to develop appropriate public education strategies to support the ongoing involvement of children and youth in age-appropriate reconciliation initiatives and projects at community, regional, and national levels.
 
-Through direct participation in the TRC’s National Events, thousands of young people and their teachers across the country had the opportunity to learn about the residential schools and think about their own role and responsibility in reconciliation.
-The TRC’s Education Days were designed specifically for elementary and high school students and their teachers.
+Through direct participation in the =|TRC=Truth and Reconciliation Commission of Canada=’s National Events, thousands of young people and their teachers across the country had the opportunity to learn about the residential schools and think about their own role and responsibility in reconciliation.
+The =|TRC=Truth and Reconciliation Commission of Canada=’s Education Days were designed specifically for elementary and high school students and their teachers.
 Young people had the opportunity to listen to, and interact with, Elders and Survivors.
 They attended interactive workshops where they learned about the residential school history, resilience, and healing through the arts—painting, carving, storytelling, music, and film.
 They visited the Learning Places to walk through the Legacy of Hope Foundation display, “One Hundred Years of Loss,” and to see posters and archival photographs of the residential schools from their own region.
@@ -6070,9 +6070,9 @@ For example, at the British Columbia National Event in Vancouver, approximately 
 In advance of Education Day, teachers <!-- page 301 -->in each region were given orientation materials to help prepare their students and themselves.
 In total, close to 15,000 young people across the country have participated in such Education Days, most with a commitment to take what they learned and witnessed back to their home schools to share with thousands more of their fellow students.
 
-Over the course of the TRC’s mandate, the Commission worked in partnership with the International Center for Transitional Justice’s (ICTJ) Children and Youth Program to host a series of small retreats and workshops.
+Over the course of the =|TRC=Truth and Reconciliation Commission of Canada=’s mandate, the Commission worked in partnership with the International Center for Transitional Justice’s (=|ICTJ=International Center for Transitional Justice’s=) Children and Youth Program to host a series of small retreats and workshops.
 Youth Dialogues were also integrated into Education Day activities at National Events.
-Their purpose was to engage youth in dialogue and to support their efforts to make their own submissions to the TRC.
+Their purpose was to engage youth in dialogue and to support their efforts to make their own submissions to the =|TRC=Truth and Reconciliation Commission of Canada=.
 For example, in October 2010, the Commission co-sponsored an Aboriginal/non-Aboriginal youth retreat near Vancouver, British Columbia.
 Young people came together to learn about the residential schools, talk with Elders, and share team-building activities.
 One young participant said that during the retreat, “we learn[ed] more about each other and the past.
@@ -6081,7 +6081,7 @@ It’s really important because it actually teaches us, the stories that we hear
 In June of 2011, Molly Tilden and Marlisa Brown, two young women who attended this retreat, produced their own video documentary, =^Our Truth: The Youth Perspective on Residential Schools=.
 The production featured interviews with their classmates in Yellowknife about what they knew about the residential schools.
 They presented the video at the Northern National Event in Inuvik, Northwest Territories.[^124]
-Virginie Ladisch, director of ICTJ’s Children and Youth Program, summarized what the two young women found and the subsequent impact of the project.
+Virginie Ladisch, director of =|ICTJ=International Center for Transitional Justice’s=’s Children and Youth Program, summarized what the two young women found and the subsequent impact of the project.
 
 > The answers are shocking: some students had no knowledge, or simply complete indifference; those are largely the non-Aboriginal youth interviewed.
 Other students talk about the enduring impact they see in terms of high rates of alcoholism, suicide, and teenage pregnancies.
@@ -6091,15 +6091,15 @@ When that video was shared with people involved in designing the secondary schoo
 
 > So the curriculum on residential schools, which was previously barely addressed in the classroom, was revised to be a mandatory 25 hours of instruction, of which Ms. Brown and Ms. Tilden’s video is a critical component.[^125]
 
-In October of 2011, the TRC–ICTJ initiative prepared and supported a group of Mi’kmaq youth reporters at the Halifax National Event.
-They interviewed Survivors and documented the TRC event.
+In October of 2011, the =|TRC=Truth and Reconciliation Commission of Canada=–=|ICTJ=International Center for Transitional Justice’s= initiative prepared and supported a group of Mi’kmaq youth reporters at the Halifax National Event.
+They interviewed Survivors and documented the =|TRC=Truth and Reconciliation Commission of Canada= event.
 At a follow-up retreat in the community, the young reporters discussed their experiences and produced a documentary called =^Our Legacy, Our Hope=.[^126]
-In 2012, the documentary was presented at the Youth Dialogue during the TRC’s National Event <!-- page 302 -->in Saskatchewan.[^127]
+In 2012, the documentary was presented at the Youth Dialogue during the =|TRC=Truth and Reconciliation Commission of Canada=’s National Event <!-- page 302 -->in Saskatchewan.[^127]
 Some of the youth also presented this documentary to international policymakers at the United Nations Permanent Forum on Indigenous Issues in 2012.[^128]
 
 The Commission’s interactions with youth indicated that young people care deeply about the past.
 They understand that knowing the whole story about Canada’s history is relevant for today and crucial for their future.
-This was evident, for example, in an expression of reconciliation made to the TRC at the Alberta National Event on March 27, 2014, by a group of Aboriginal and non-Aboriginal youth from the Centre for Global Education in Edmonton.
+This was evident, for example, in an expression of reconciliation made to the =|TRC=Truth and Reconciliation Commission of Canada= at the Alberta National Event on March 27, 2014, by a group of Aboriginal and non-Aboriginal youth from the Centre for Global Education in Edmonton.
 One of the non-Aboriginal youth, Hanshi Liu, told us about the project.
 First, the group—made up of youth from First Nations reserves, the rural communities of High Prairie and Fort MacLeod, and the city of Edmonton—spent a month studying and talking about residential schools and their shared history.
 They then held a virtual town hall where over 300 students talked about their vision for reconciliation.
@@ -6218,11 +6218,11 @@ We take particular note of the prominence given to presenting both the positive 
 
 ### The Canadian Museum for Human Rights
 
-As a national public history institution, the new Canadian Museum for Human Rights (CMHR) in Winnipeg is mandated to “explore the subject of human rights, with special but not exclusive reference to Canada, in order to enhance the public’s understanding of human rights, to promote respect for others, and to encourage reflection and dialogue.”[^143]
-Speaking at the TRC’s Forum on the National Research Centre in Vancouver on March 3, 2011, CMHR President and Chief Executive Officer Stuart Murray talked about the museum’s vision for, and role in, national reconciliation.
-He emphasized the prominent role of the CMHR’s First Nations, Inuit, and Métis advisors, as well as the Elders Advisory Council, <!-- page 307 -->Aboriginal Youth Council, and the broader Aboriginal community, in the planning and programs developed by the museum.[^144]
+As a national public history institution, the new Canadian Museum for Human Rights (=|CMHR=Canadian Museum for Human Rights=) in Winnipeg is mandated to “explore the subject of human rights, with special but not exclusive reference to Canada, in order to enhance the public’s understanding of human rights, to promote respect for others, and to encourage reflection and dialogue.”[^143]
+Speaking at the =|TRC=Truth and Reconciliation Commission of Canada=’s Forum on the National Research Centre in Vancouver on March 3, 2011, =|CMHR=Canadian Museum for Human Rights= President and Chief Executive Officer Stuart Murray talked about the museum’s vision for, and role in, national reconciliation.
+He emphasized the prominent role of the =|CMHR=Canadian Museum for Human Rights=’s First Nations, Inuit, and Métis advisors, as well as the Elders Advisory Council, <!-- page 307 -->Aboriginal Youth Council, and the broader Aboriginal community, in the planning and programs developed by the museum.[^144]
 
-Given the deep controversies that exist regarding the history of the residential school system, it is perhaps not surprising that the CMHR was criticized by the Southern Chiefs Organization in Manitoba in June of 2013, after media reports that the museum would not “label human rights violations against First Nations as genocide.”
+Given the deep controversies that exist regarding the history of the residential school system, it is perhaps not surprising that the =|CMHR=Canadian Museum for Human Rights= was criticized by the Southern Chiefs Organization in Manitoba in June of 2013, after media reports that the museum would not “label human rights violations against First Nations as genocide.”
 From the Southern Chiefs Organization’s perspective, the museum was “sanitizing the true history of Canada’s shameful treatment of First Nations.”[^145]
 Stuart Murray issued a statement on July 26, 2013, clarifying the museum’s position.
 
@@ -6234,7 +6234,7 @@ Historical fact and emerging information will be presented to help visitors reac
 While a museum does not have the power to make declarations of genocide, we can certainly encourage—through ongoing partnership with the Indigenous community itself—an honest examination of Canada’s human rights history, in hopes that respect and reconciliation will prevail.[^146]
 
 The museum signalled its intention to create opportunities for Canadians to engage in a much broader and long-overdue public dialogue about the issue of genocide as it relates to the residential school system.
-The CMHR envisioned creating a public education venue for teaching all Canadians to think more critically about the history of human rights violations against Aboriginal peoples.
+The =|CMHR=Canadian Museum for Human Rights= envisioned creating a public education venue for teaching all Canadians to think more critically about the history of human rights violations against Aboriginal peoples.
 
 Speaking about the forthcoming 2017 commemoration of Canada’s Confederation, Murray observed that Canada’s human rights record is not unblemished, and that
 
@@ -6262,44 +6262,45 @@ Through their exhibits, education outreach, and research programs, all museums a
 
 <!-- page 309 -->### Canada’s national archives: Sharing Aboriginal history versus keeper of state records
 
-As Canada’s national archives, Library and Archives Canada (LAC) has a dual function with regard to its holdings on Aboriginal peoples.
+As Canada’s national archives, Library and Archives Canada (=|LAC=Library and Archives Canada=) has a dual function with regard to its holdings on Aboriginal peoples.
 It is both a public history institution tasked with making documents relevant to Aboriginal history accessible to the public, and it is the custodian of federal government departmental historical records.
 
-In 2005, LAC issued a “Collection Development Framework,” which set out the principles and practices that would guide the institution’s acquisitions and preservation of its holdings.
+In 2005, =|LAC=Library and Archives Canada= issued a “Collection Development Framework,” which set out the principles and practices that would guide the institution’s acquisitions and preservation of its holdings.
 The framework made specific commitments regarding materials related to Aboriginal peoples.
 
-> LAC recognizes the contributions of Aboriginal peoples to the documentary heritage of Canada, and realizes that, in building its collection of materials, it must take into account the diversity of Aboriginal cultures, the relationship the Government of Canada has with Aboriginal peoples, and the unique needs and realities of Aboriginal communities.
+> =|LAC=Library and Archives Canada= recognizes the contributions of Aboriginal peoples to the documentary heritage of Canada, and realizes that, in building its collection of materials, it must take into account the diversity of Aboriginal cultures, the relationship the Government of Canada has with Aboriginal peoples, and the unique needs and realities of Aboriginal communities.
 The development of a national strategy will be done in consultation and collaboration with Aboriginal communities and organizations, and will respect the ways in which indigenous knowledge and heritage is preserved or ought to be preserved and protected within or outside of Aboriginal communities.[^148]
 
 Library and Archives Canada has developed various guides and resources related to researching Aboriginal heritage.[^149]
-But a fundamental tension exists between LAC’s public education mandate to work collaboratively with Aboriginal peoples to document their cultural and social history versus its legal obligation to serve the state.
+But a fundamental tension exists between =|LAC=Library and Archives Canada=’s public education mandate to work collaboratively with Aboriginal peoples to document their cultural and social history versus its legal obligation to serve the state.
 This tension is most evident where archived documents are relevant to various historical injustices involving Aboriginal peoples.
-Historical records housed in LAC have been used extensively as evidence by both Aboriginal claimants and Crown defendants in litigation involving residential schools, Treaties, Aboriginal title and rights cases, and land claims.
+Historical records housed in =|LAC=Library and Archives Canada= have been used extensively as evidence by both Aboriginal claimants and Crown defendants in litigation involving residential schools, Treaties, Aboriginal title and rights cases, and land claims.
 
-In the case of documents related to residential schools, the problems associated with LAC’s dual function became apparent during the litigation period prior to the Settlement Agreement.
-During this time, with regard to its public education mandate, LAC produced “Native Residential Schools in Canada: A Selective Bibliography” in 2002, and assisted Aboriginal people, academics, and other researchers who wished to access these holdings.[^150]
-But, because the residential schools litigation put the federal government in the position of being the major defendant in the court cases, the overriding priority for LAC, as the custodian of federal government departmental records, was to meet its legal obligations to the Crown.
+In the case of documents related to residential schools, the problems associated with =|LAC=Library and Archives Canada=’s dual function became apparent during the litigation period prior to the Settlement Agreement.
+During this time, with regard to its public education mandate, =|LAC=Library and Archives Canada= produced “Native Residential Schools in Canada: A Selective Bibliography” in 2002, and assisted Aboriginal people, academics, and other researchers who wished to access these holdings.[^150]
+But, because the residential schools litigation put the federal government in the position of being the major defendant in the court cases, the overriding priority for =|LAC=Library and Archives Canada=, as the custodian of federal government departmental records, was to meet its legal obligations to the Crown.
 
-Librarian and Archivist Emeritus Dr. Ian Wilson, Canada’s former national archivist, described this tension.
+Librarian and Archivist Emeritus Dr.
+Ian Wilson, Canada’s former national archivist, described this tension.
 He explained that, as the residential school litigation intensified, <!-- page 310 -->> Lawyers besieged the archives.
 Archivists, caught between the vagaries of old informal recordkeeping practices in church schools across the country, legal demands for instant and full access and obligations to employer and profession, struggled to uphold their ideal of the honest stewardship of the records…
 This process has tested the capacity of the archives and our professional ability to respond.[^151]
 
 These challenges did not end with the implementation of the 2007 Settlement Agreement.
-The TRC’s own difficulties in gaining access to government records held in LAC demonstrated why state-controlled archives are not necessarily best suited to meet the needs of Survivors, their families, and communities.
+The =|TRC=Truth and Reconciliation Commission of Canada=’s own difficulties in gaining access to government records held in =|LAC=Library and Archives Canada= demonstrated why state-controlled archives are not necessarily best suited to meet the needs of Survivors, their families, and communities.
 
-By 2009, in terms of public education, LAC had partnered with the Legacy of Hope Foundation and the Aboriginal Healing Foundation on two exhibitions: Where are the Children? Healing the Legacy of the Residential Schools;
+By 2009, in terms of public education, =|LAC=Library and Archives Canada= had partnered with the Legacy of Hope Foundation and the Aboriginal Healing Foundation on two exhibitions: Where are the Children? Healing the Legacy of the Residential Schools;
 and “We were so far away …”: The Inuit experience of residential schools.[^152]
 Library and Archives Canada also produced an updated online version of the bibliography, “The Legacy of the Residential School System in Canada: A Selective Bibliography.”[^153]
-In 2010, LAC made an online finding aid available, “Conducting Research on Residential Schools: A Guide to the Records of the Indian and Inuit Affairs Program and Related Resources at Library and Archives Canada.”[^154]
+In 2010, =|LAC=Library and Archives Canada= made an online finding aid available, “Conducting Research on Residential Schools: A Guide to the Records of the Indian and Inuit Affairs Program and Related Resources at Library and Archives Canada.”[^154]
 
-In the spirit of reconciliation, LAC archivists (along with church archivists) brought binders of residential school photographs to the Learning Places at the TRC’s National Events, where Survivors and others could see them and get copies of their class pictures and other school activities.
+In the spirit of reconciliation, =|LAC=Library and Archives Canada= archivists (along with church archivists) brought binders of residential school photographs to the Learning Places at the =|TRC=Truth and Reconciliation Commission of Canada=’s National Events, where Survivors and others could see them and get copies of their class pictures and other school activities.
 For many Survivors, especially those who had no visual record of their own childhood or no pictures of siblings who have since passed away, this proved to be one of the most treasured aspects of the National Events experience.
-However, during this same time period, LAC’s holdings and its role in complying with the federal government’s legal obligations for document production, under the terms of the Settlement Agreement, became the focus of court proceedings between the TRC and the federal government.
+However, during this same time period, =|LAC=Library and Archives Canada=’s holdings and its role in complying with the federal government’s legal obligations for document production, under the terms of the Settlement Agreement, became the focus of court proceedings between the =|TRC=Truth and Reconciliation Commission of Canada= and the federal government.
 
 ### The TRC seeks full access to LAC records
 
-Schedule N to the Indian Residential Schools Settlement Agreement describes the mandate of the TRC as well as the obligations of the parties to the Agreement to assist the Commission in its work.
+Schedule N to the Indian Residential Schools Settlement Agreement describes the mandate of the =|TRC=Truth and Reconciliation Commission of Canada= as well as the obligations of the parties to the Agreement to assist the Commission in its work.
 There is a provision that deals with the obligation of the parties to provide relevant records to the Commission.
 It states:
 
@@ -6313,7 +6314,7 @@ They are required to compile all relevant documents in an organized manner for r
 Provision of documents does not require provision of original documents.
 Originals or true copies may be provided or originals may be provided temporarily for copying purposes if the original documents are not to be housed with the Commission.
 
-> Insofar as agreed to by the individuals affected and as permitted by process requirements, information from the Independent Assessment Process (IAP), existing litigation and Dispute Resolution processes may be transferred to the Commission for research and archiving purposes.[^155]
+> Insofar as agreed to by the individuals affected and as permitted by process requirements, information from the Independent Assessment Process (=|IAP=Independent Assessment Process=), existing litigation and Dispute Resolution processes may be transferred to the Commission for research and archiving purposes.[^155]
 
 Gaining access to archival government records about the administration of the residential school system has been an important part of the mandate of the Truth and Reconciliation Commission of Canada.
 Such access has been essential for our own understanding of the history of government policy and practice in relation to Aboriginal peoples in general and residential schools in particular.
@@ -6321,44 +6322,49 @@ But it has also been necessary to fulfilling our mandate obligation to ensure on
 The Commission’s attempts to obtain records were frustrated by a series of bureaucratic and legal roadblocks.
 
 In April 2012, the Commission was compelled to file a “Request for Direction” in the Ontario Superior Court of Justice regarding access to relevant federal records housed in the national archives.
-At issue was the question of what Canada’s obligations were under the Settlement Agreement with respect to providing to the TRC archived government documents housed at Library and Archives Canada.
-The Commission, Aboriginal Affairs and Northern Development Canada, the Department of Justice, and Library and Archives Canada had very different views as to how the TRC should acquire these records.
+At issue was the question of what Canada’s obligations were under the Settlement Agreement with respect to providing to the =|TRC=Truth and Reconciliation Commission of Canada= archived government documents housed at Library and Archives Canada.
+The Commission, Aboriginal Affairs and Northern Development Canada, the Department of Justice, and Library and Archives Canada had very different views as to how the =|TRC=Truth and Reconciliation Commission of Canada= should acquire these records.
 
-In LAC’s view, its role was that of the neutral keeper of government records, whose task was to facilitate and empower federal government departments to canvass their own archival holdings.
+In =|LAC=Library and Archives Canada=’s view, its role was that of the neutral keeper of government records, whose task was to facilitate and empower federal government departments to canvass their own archival holdings.
 
-Faced with the onerous task of conducting its own research through LAC’s vast holdings, Canada’s position was that its obligation was limited to searching and producing relevant documents from the active and semi-active files in various departments.
-The government’s <!-- page 312 -->view became that departments need provide the TRC only with departmental researcher status to access their archived documents at LAC so that the Commission could conduct its own research.
+Faced with the onerous task of conducting its own research through =|LAC=Library and Archives Canada=’s vast holdings, Canada’s position was that its obligation was limited to searching and producing relevant documents from the active and semi-active files in various departments.
+The government’s <!-- page 312 -->view became that departments need provide the =|TRC=Truth and Reconciliation Commission of Canada= only with departmental researcher status to access their archived documents at =|LAC=Library and Archives Canada= so that the Commission could conduct its own research.
 
-The TRC’s position was that Canada was obligated to produce all relevant documents, including those at LAC, and had an additional obligation to provide the Commission with access to LAC in order to conduct its own research.
-Although the TRC, in the spirit of co-operation, had agreed to obtain departmental researcher status, it maintained that this was unnecessary because the Settlement Agreement already gave the Commission unconditional access to the archives.
-The end result was that Canada had effectively shifted the onus of its responsibility to produce LAC documents onto the TRC.
+The =|TRC=Truth and Reconciliation Commission of Canada=’s position was that Canada was obligated to produce all relevant documents, including those at =|LAC=Library and Archives Canada=, and had an additional obligation to provide the Commission with access to =|LAC=Library and Archives Canada= in order to conduct its own research.
+Although the =|TRC=Truth and Reconciliation Commission of Canada=, in the spirit of co-operation, had agreed to obtain departmental researcher status, it maintained that this was unnecessary because the Settlement Agreement already gave the Commission unconditional access to the archives.
+The end result was that Canada had effectively shifted the onus of its responsibility to produce =|LAC=Library and Archives Canada= documents onto the =|TRC=Truth and Reconciliation Commission of Canada=.
 
 In rendering his decision in favour of the Commission, Justice Stephen Goudge ruled:
 
 > In my view, the first paragraph of section 11 sets out Canada’s basic obligation concerning documents in its possession or control.
 The plain meaning of the language is straightforward.
-It is to provide all relevant documents to the TRC.
+It is to provide all relevant documents to the =|TRC=Truth and Reconciliation Commission of Canada=.
 The obligation is in unqualified language unlimited by where the documents are located within the government of Canada.
-Nor is the obligation limited to the documents assembled by Canada for production in the underlying litigation.[para. 69]
+Nor is the obligation limited to the documents assembled by Canada for production in the underlying litigation.
+[para. 69]
 
-> I therefore conclude that given their meaning, the language in section 11 of Schedule N does not exclude documents archived at LAC from Canada’s obligation to the TRC.
-The context in which the Settlement Agreement was created provides further important support for that conclusion in several ways.[para. 71]
+> I therefore conclude that given their meaning, the language in section 11 of Schedule N does not exclude documents archived at =|LAC=Library and Archives Canada= from Canada’s obligation to the =|TRC=Truth and Reconciliation Commission of Canada=.
+The context in which the Settlement Agreement was created provides further important support for that conclusion in several ways.
+[para. 71]
 
-> First, telling the history of Indian Residential Schools was clearly seen as a central aspect of the mandate of the TRC when the Settlement Agreement was made.
-Since Canada played a vital role in the IRS [Indian Residential School] system, Canada’s documents wherever they were held, would have been understood as a very important historical resource for this purpose.[para. 72]
+> First, telling the history of Indian Residential Schools was clearly seen as a central aspect of the mandate of the =|TRC=Truth and Reconciliation Commission of Canada= when the Settlement Agreement was made.
+Since Canada played a vital role in the =|IRS=Indian Residential School= [Indian Residential School] system, Canada’s documents wherever they were held, would have been understood as a very important historical resource for this purpose.
+[para. 72]
 
-> Second, the Settlement Agreement charged the TRC with compiling an historical record of the IRS system to be accessible to the public in the future.
-Here too, Canada’s documents, wherever housed, would have been seen to be vital to this task.[para. 73]
+> Second, the Settlement Agreement charged the =|TRC=Truth and Reconciliation Commission of Canada= with compiling an historical record of the =|IRS=Indian Residential School= system to be accessible to the public in the future.
+Here too, Canada’s documents, wherever housed, would have been seen to be vital to this task.
+[para. 73]
 
 > Third, the story of the history and the historical record to be compiled cover over 100 years and dates back to the nineteenth century.
-In light of this time span, it would have been understood at the time of the Settlement Agreement that much of the relevant documentary record in Canada’s possession would be archived in LAC and would no longer be in the active or semi-active files of the departments of the Government of Canada.[para. 74]
+In light of this time span, it would have been understood at the time of the Settlement Agreement that much of the relevant documentary record in Canada’s possession would be archived in =|LAC=Library and Archives Canada= and would no longer be in the active or semi-active files of the departments of the Government of Canada.
+[para. 74]
 
-> Fourth, it would have been obvious that the experienced staff at LAC would have vastly more ability to identify and organize the relevant documents at LAC than would the newly hired staff of the newly formed TRC.
-It would have made little sense to give <!-- page 313 -->that task to the latter rather than the former, particularly given its importance to the TRC’s mandate.
+> Fourth, it would have been obvious that the experienced staff at =|LAC=Library and Archives Canada= would have vastly more ability to identify and organize the relevant documents at =|LAC=Library and Archives Canada= than would the newly hired staff of the newly formed =|TRC=Truth and Reconciliation Commission of Canada=.
+It would have made little sense to give <!-- page 313 -->that task to the latter rather than the former, particularly given its importance to the =|TRC=Truth and Reconciliation Commission of Canada=’s mandate.
 [para.
 75]156
 
-Although the difficulties the TRC encountered in obtaining LAC documents were specific to the Commission’s mandate, they highlight broader questions concerning the role of state archives and archivists in providing documents that reveal the facts of why and how a targeted group of people have suffered harms on a massive scale.
+Although the difficulties the =|TRC=Truth and Reconciliation Commission of Canada= encountered in obtaining =|LAC=Library and Archives Canada= documents were specific to the Commission’s mandate, they highlight broader questions concerning the role of state archives and archivists in providing documents that reveal the facts of why and how a targeted group of people have suffered harms on a massive scale.
 As part of a growing trend towards demanding better government accountability and transparency, and the evolution of new privacy and freedom of information legislation, archives have become more directly connected to struggles for human rights and justice.[^157]
 
 ### Archives and access to justice
@@ -6407,13 +6413,13 @@ The National Residential School Student Death Register, established by the Truth
 The register is far from complete: there are, for example, many relevant documents that have yet to be received, collected, and reviewed.
 
 Some of these records have been located in provincial records.
-In June 2012, at their annual general meeting, the Chief Coroners and Medical Examiners of Canada approved a unanimous resolution to support the TRC’s Missing Children Project by making available to the Commission their records on the deaths of Aboriginal children in the care of residential school authorities.
+In June 2012, at their annual general meeting, the Chief Coroners and Medical Examiners of Canada approved a unanimous resolution to support the =|TRC=Truth and Reconciliation Commission of Canada=’s Missing Children Project by making available to the Commission their records on the deaths of Aboriginal children in the care of residential school authorities.
 The Office of the Chief Coroner of Ontario had already done some groundbreaking work in terms of screening and reviewing its records, and identifying 120 possible cases of death of an Aboriginal residential school student.
-The TRC subsequently contacted chief coroners across the country to request their assistance in locating records related to deaths at residential school.
+The =|TRC=Truth and Reconciliation Commission of Canada= subsequently contacted chief coroners across the country to request their assistance in locating records related to deaths at residential school.
 As of 2014, chief coroners’ offices in Saskatchewan, Northwest Territories, Manitoba, and Nova Scotia had also responded to the Commission’s request for records.
 
 Other regional agencies also hold critical information in their records.
-The TRC contacted offices of provincial vital statistics across the country.
+The =|TRC=Truth and Reconciliation Commission of Canada= contacted offices of provincial vital statistics across the country.
 At the Alberta National Event, Assistant Deputy Minister Peter Cunningham, from the Ministry of Aboriginal Relations and Reconciliation in British Columbia, offered a flash drive in a small, carved, bentwood box, as an expression of reconciliation.
 He said,
 
@@ -6551,15 +6557,15 @@ Many feel that much of their lives is contained in documents (most of which they
 In various ways, existing archives have been ill suited to serve the needs of Survivors, their families, and communities.
 What Aboriginal peoples required was a centre of their own—a cultural space that would serve as both an archives and a museum to hold the collective memory of Survivors and others whose lives were touched by the history and legacy of the residential school system.
 
-With this understanding, the TRC mandate called for the establishment of a new National Research Centre (nrc) to hold all the historical and newly created documents and oral statements related to residential schools, and to make them accessible for the future.
-This nrc, as created by the Truth and Reconciliation Commission of Canada, and now renamed the National Centre for Truth and Reconciliation (NCTR), is an evolving, Survivor-centred model of education for reconciliation.
+With this understanding, the =|TRC=Truth and Reconciliation Commission of Canada= mandate called for the establishment of a new National Research Centre (nrc) to hold all the historical and newly created documents and oral statements related to residential schools, and to make them accessible for the future.
+This nrc, as created by the Truth and Reconciliation Commission of Canada, and now renamed the National Centre for Truth and Reconciliation (=|NCTR=National Centre for Truth and Reconciliation=), is an evolving, Survivor-centred model of education for reconciliation.
 Implementing a new approach to public education, research, and record keeping, the centre will serve as a public memory “site of conscience,” bearing permanent witness to Survivors’ testimonies and the history and legacy of the residential school system.[^169]
 Along with other museums and archives across the country, the centre will shape how the residential school era is understood and remembered.
 
 The concept of the National Centre for Truth and Reconciliation has deep roots.
 For many years, Survivors and their supporters called for a centre that would be their lasting legacy <!-- page 321 -->to their own history and to Canada’s national memory.
-In March 2011, the TRC hosted an international forum in Vancouver, “Sharing Truth: Creating a National Research Centre on Residential Schools,” to study how records and other materials from truth and reconciliation commissions around the world have been archived.[^170]
-Several speakers talked about their vision for the NCTR.
+In March 2011, the =|TRC=Truth and Reconciliation Commission of Canada= hosted an international forum in Vancouver, “Sharing Truth: Creating a National Research Centre on Residential Schools,” to study how records and other materials from truth and reconciliation commissions around the world have been archived.[^170]
+Several speakers talked about their vision for the =|NCTR=National Centre for Truth and Reconciliation=.
 Georges Erasmus, former co-chair of the Royal Commission on Aboriginal Peoples, and then president of the Aboriginal Healing Foundation, said,
 
 > Those who become the keepers of the archives become stewards of human stories and relationships, of what has been an endowment to what will be.
@@ -6571,8 +6577,8 @@ What we need are open, dynamic, interactive spaces and participatory forms of na
 This would be a fitting way to step into the twenty-first century and into a new kind of relationship…
 The National Research Centre ought to be a treasure valued by all sorts of people.[^171]
 
-The Commission subsequently issued an open invitation for organizations to submit proposals for the NCTR, based on specific criteria.
-In June 2013, the TRC announced that the University of Manitoba would house the new centre.
+The Commission subsequently issued an open invitation for organizations to submit proposals for the =|NCTR=National Centre for Truth and Reconciliation=, based on specific criteria.
+In June 2013, the =|TRC=Truth and Reconciliation Commission of Canada= announced that the University of Manitoba would house the new centre.
 
 The National Centre for Truth and Reconciliation will play a key educational role in ensuring that historic harms, and Treaty, constitutional, and human rights violations, against Aboriginal peoples are not repeated.
 As a highly visible site of conscience, it will serve as an intervention in the country’s public memory and national history.
@@ -6580,7 +6586,7 @@ The centre is independent from government.
 It is guided by a Governing Circle, the majority of whose members must be Aboriginal and which includes Survivor representatives.
 Among its various responsibilities, this governing body will make decisions and provide advice on ceremonies and protocols, and establish a Survivors’ Circle.[^172]
 
-The centre will house TRC records, including Survivors’ oral history statements, artworks, expressions of reconciliation, and other materials gathered by the Commission, as well as government and church documents.
+The centre will house =|TRC=Truth and Reconciliation Commission of Canada= records, including Survivors’ oral history statements, artworks, expressions of reconciliation, and other materials gathered by the Commission, as well as government and church documents.
 It is intended to be a welcoming and safe place for Survivors, their families, and communities to have access to their own history.
 The centre has committed to creating a culturally rooted and healing environment where all Canadians can honour, learn from, and commemorate the history and legacy of the residential schools.
 
@@ -6588,9 +6594,9 @@ Once the centre is fully operational, it will be well positioned to take a leade
 
 <!-- page 322 -->The University of Manitoba and its partners[^173] have emphasized that the centre recognizes the
 
-> paramount importance of accessibility [for] the Aboriginal survivor, family member [or]researcher, [and is] committed to recognition of Aboriginal peoples as co-creators of the IRS records, through co-curation and participatory archiving; and committed to continuing the work of the TRC of statement-gathering, public education, engagement and outreach.[^174]
+> paramount importance of accessibility [for] the Aboriginal survivor, family member [or]researcher, [and is] committed to recognition of Aboriginal peoples as co-creators of the =|IRS=Indian Residential School= records, through co-curation and participatory archiving; and committed to continuing the work of the =|TRC=Truth and Reconciliation Commission of Canada= of statement-gathering, public education, engagement and outreach.[^174]
 
-The NCTR will incorporate an
+The =|NCTR=National Centre for Truth and Reconciliation= will incorporate an
 
 > archival system and approach which is devoted to “reconciling records”; [it] will …
 support Indigenous frameworks of knowledge, memory and evidence, and reposition …
@@ -6604,12 +6610,12 @@ As well, the Centre for Truth and Reconciliation is also committed to
 > personally supporting survivors, their families, and all researchers in navigating, using, and understanding the records, in a culturally sensitive environment.
 The support that the nrc will provide includes emotionally-sensitive support, acknowledging that accessing the nrc documents may be traumatic, difficult or otherwise emotional experiences for many users.
 An Elder will be present or on call (from a nearby building) most of the time the nrc is open to the public.
-LAC and other government departments have no mandate or capacity to offer these various supports, which are critical to relationship-building and overcoming the perception of archives as yet another mechanism of colonization, cultural appropriation by Western society and hyper-surveillance and objectification of Aboriginal peoples.[^177]
+=|LAC=Library and Archives Canada= and other government departments have no mandate or capacity to offer these various supports, which are critical to relationship-building and overcoming the perception of archives as yet another mechanism of colonization, cultural appropriation by Western society and hyper-surveillance and objectification of Aboriginal peoples.[^177]
 
-On June 21, 2013, First Nations, Inuit, and Métis Survivors, Elders, the TRC, the University of Manitoba and its partner institutions, along with other dignitaries, gathered in Treaty 1 territory of the Anishinaabe peoples and homeland of the Métis Nation for a signing ceremony at the University of Manitoba.[^178]
+On June 21, 2013, First Nations, Inuit, and Métis Survivors, Elders, the =|TRC=Truth and Reconciliation Commission of Canada=, the University of Manitoba and its partner institutions, along with other dignitaries, gathered in Treaty 1 territory of the Anishinaabe peoples and homeland of the Métis Nation for a signing ceremony at the University of Manitoba.[^178]
 The signing of a Trust Deed with the university marks the transfer of a sacred trust—a solemn promise that the Truth and Reconciliation Commission made to Survivors and all those affected by the residential schools as it travelled across the country, bearing witness to their testimonies.
 
-The NCTR is committed to making all its holdings readily accessible to Survivors, their families, and communities, as well as to the public, educators, and researchers.[^179] <!-- page 323 -->To support reconciliation at the local level, the Commission believes, it will be especially important to ensure that communities are able to access the centre’s holdings and resources in order to produce histories of their own residential school experiences and their involvement in the truth, healing, and reconciliation process.
+The =|NCTR=National Centre for Truth and Reconciliation= is committed to making all its holdings readily accessible to Survivors, their families, and communities, as well as to the public, educators, and researchers.[^179] <!-- page 323 -->To support reconciliation at the local level, the Commission believes, it will be especially important to ensure that communities are able to access the centre’s holdings and resources in order to produce histories of their own residential school experiences and their involvement in the truth, healing, and reconciliation process.
 
 The centre will be a living legacy, a teaching and learning place for public education to promote understanding and reconciliation through ongoing statement gathering, new research, commemoration ceremonies, dialogues on reconciliation, and celebrations of Indigenous cultures, oral histories, and legal traditions.[^180]
 
@@ -6621,7 +6627,7 @@ The centre will be a living legacy, a teaching and learning place for public edu
 
 ## Public memory: Dialogue, the arts, and commemoration
 
-For Survivors who came forward at the TRC’s National Events and Community Hearings, remembering their childhood often meant reliving horrific memories of abuse, hunger, and neglect.
+For Survivors who came forward at the =|TRC=Truth and Reconciliation Commission of Canada=’s National Events and Community Hearings, remembering their childhood often meant reliving horrific memories of abuse, hunger, and neglect.
 It meant dredging up painful feelings of loneliness, abandonment, and shame.
 Many still struggle to heal deep wounds of the past.
 Words fail to do justice to their courage in standing up and speaking out.
@@ -6665,9 +6671,9 @@ This has significantly informed our thinking about why repairing and revitalizin
 ### Dialogue: Ceremony, testimony, and witnessing
 
 Just as Survivors were involved in the long struggle to achieve a legally binding Settlement Agreement for the harms they have experienced, and an official apology, they have also continued to advise the Commission as it has implemented its mandate.
-Guided by Elders, Knowledge Keepers, and the members of the TRC Survivor Committee, the Commission has made Aboriginal oral history, legal traditions, and memory practices—ceremony, protocols, and the rituals of storytelling and testimonial witnessing— central to the TRC’s National Events, Community Hearings, forums, and dialogues.
+Guided by Elders, Knowledge Keepers, and the members of the =|TRC=Truth and Reconciliation Commission of Canada= Survivor Committee, the Commission has made Aboriginal oral history, legal traditions, and memory practices—ceremony, protocols, and the rituals of storytelling and testimonial witnessing— central to the =|TRC=Truth and Reconciliation Commission of Canada=’s National Events, Community Hearings, forums, and dialogues.
 The Commission’s proceedings themselves constitute an oral history record, duly witnessed by all those in attendance.
-Working with local communities in each region, sacred ceremonies and protocols were performed and followed at all TRC events.
+Working with local communities in each region, sacred ceremonies and protocols were performed and followed at all =|TRC=Truth and Reconciliation Commission of Canada= events.
 Elders and traditional healers ensured that a safe environment was created for truth sharing, apology, healing, and acts of reconciliation.
 
 ### The power of ceremony
@@ -6692,7 +6698,7 @@ First, they create a safe space for people to interact and learn as they take pa
 Second, they enable people to communicate non-verbally and process their emotions.
 Third, ceremonies create an environment where change is made possible; world views, identities, and relationships with others are transformed.[^186]
 
-Those in attendance at TRC events learned to acknowledge and respect Indigenous ceremonies and protocols by participating in them.
+Those in attendance at =|TRC=Truth and Reconciliation Commission of Canada= events learned to acknowledge and respect Indigenous ceremonies and protocols by participating in them.
 The Commission intentionally made ceremonies the spiritual and ethical framework of our public education work, creating a safe space for sharing life stories and bearing testimonial witness to the past for the future.
 
 The Commission’s National Events were designed to inspire reconciliation and shape individual and collective memory by demonstrating the core values that lie at the heart of reconciliation: respect, courage, love, truth, humility, honesty, and wisdom.
@@ -6708,12 +6714,12 @@ The sacred fire was also used for ongoing prayers and tobacco offerings, as well
 The ashes from each of the sacred fires were then carried forward to the next National Event, to be added in turn to its sacred fire, thus gathering in sacred ceremony the tears of an entire country.
 
 <!-- page 327 -->The Commission’s mandate also instructed that there be a “ceremonial transfer of knowledge” at the National Events.
-Coast Salish artist Luke Marston was commissioned by the TRC to design and carve a Bentwood Box as a symbol of this transfer.
+Coast Salish artist Luke Marston was commissioned by the =|TRC=Truth and Reconciliation Commission of Canada= to design and carve a Bentwood Box as a symbol of this transfer.
 The box was steamed and bent in the traditional way from a single piece of west-coast red cedar.
 Its intricately carved and beautifully painted wood panels represent First Nations, Inuit, and Métis cultures.
 The Bentwood Box is a lasting tribute to all residential school Survivors and their families, both those who are living and those who have passed on, including the artist’s grandmother, who attended Kuper Island residential school.
 This ceremonial box travelled with the Commission to every one of its seven National Events, where offerings—public expressions of reconciliation—were made by governments, churches and other faith communities, educational institutions, the business sector, municipalities, youth groups, and various other groups and organizations.
-The Truth and Reconciliation Bentwood Box, along with the many other sacred items the TRC received, will be housed permanently in the National Centre for Truth and Reconciliation at the University of Manitoba in Winnipeg.[^188]
+The Truth and Reconciliation Bentwood Box, along with the many other sacred items the =|TRC=Truth and Reconciliation Commission of Canada= received, will be housed permanently in the National Centre for Truth and Reconciliation at the University of Manitoba in Winnipeg.[^188]
 
 ### Life stories, testimonies, and witnessing as teachings
 
@@ -6727,7 +6733,7 @@ Regardless of the different individual experiences that children had as students
 They were victims of a system intent on destroying intergenerational links of memory to their families, communities, and nations.
 The process of assimilation also profoundly disrespected parents, grandparents, and Elders in their rightful roles as the carriers of memory, through which culture, language, and identity are transmitted from one generation to the next.[^189]
 
-In providing their testimonies to the TRC, Survivors reclaimed their rightful place as members of intergenerational communities of memory.
+In providing their testimonies to the =|TRC=Truth and Reconciliation Commission of Canada=, Survivors reclaimed their rightful place as members of intergenerational communities of memory.
 They remembered so that their families could understand what happened.
 They remembered so that their cultures, histories, laws, and nations can once again thrive for the benefit of future generations.
 They remembered so that Canada will know the truth and never forget.
@@ -6852,13 +6858,13 @@ My father worked within the system trying to make it a better one.[^199]
 ### TRC Honorary Witnesses
 
 The mandate of the Truth and Reconciliation Commission describes “reconciliation” as an ongoing individual and collective process involving all the people of Canada.
-To help ensure that reconciliation will indeed be ongoing, even after the TRC’s own official work is done, the Commissioners decided early on a public education and advocacy strategy to engage high-profile supporters, each willing to foster the continuing work of public education and dialogue.
+To help ensure that reconciliation will indeed be ongoing, even after the =|TRC=Truth and Reconciliation Commission of Canada=’s own official work is done, the Commissioners decided early on a public education and advocacy strategy to engage high-profile supporters, each willing to foster the continuing work of public education and dialogue.
 We called upon more than seventy of them across the country and internationally, and inducted them as Honorary Witnesses in a public ceremony at each of the National Events.
 Together, they represent accomplished and influential leaders from all walks of life, now serving as ambassadors in educating the broader public about why reconciliation is necessary.
 Most of them, including some who had worked with Aboriginal people in the past, frankly admitted to their own prior gaps in knowledge and understanding of the residential schools system and its continuing legacy.
 They now encourage the broader Canadian public to do what they have done: to learn and to be transformed in understanding and in commitment to societal change.
 
-Speaking at the Saskatchewan National Event, TRC Honorary Witness and a former member of parliament, the Honourable Tina Keeper, who is also a member of the Norway House Cree Nation, talked about the importance of honouring individual, family, and community relationships and memory, her own emotional involvement in the ratification of the Settlement Agreement, and the struggles surrounding Canada’s apology.
+Speaking at the Saskatchewan National Event, =|TRC=Truth and Reconciliation Commission of Canada= Honorary Witness and a former member of parliament, the Honourable Tina Keeper, who is also a member of the Norway House Cree Nation, talked about the importance of honouring individual, family, and community relationships and memory, her own emotional involvement in the ratification of the Settlement Agreement, and the struggles surrounding Canada’s apology.
 She underscored the strong contributions that Aboriginal peoples have to make to national healing and reconciliation.
 
 > Yesterday was an incredible opportunity for me personally to let the tears flow, and they flowed all day long.
@@ -6868,7 +6874,7 @@ I kept thinking of my family and my extended family and my grandparents and so m
 [O]ur cultures, our languages, our values, and spiritual beliefs that have taken care of us at this gathering …
 they will become tools for the healing of a nation.[^200]
 
-At the Québec National Event, TRC Honorary Witness and a former prime minister, the Right Honourable Paul Martin, reminded participants about the role that education played in the attempted destruction of Aboriginal families, communities, and nations, and the role it must play in repairing this damage.
+At the Québec National Event, =|TRC=Truth and Reconciliation Commission of Canada= Honorary Witness and a former prime minister, the Right Honourable Paul Martin, reminded participants about the role that education played in the attempted destruction of Aboriginal families, communities, and nations, and the role it must play in repairing this damage.
 He said,
 
 > I’ve talked to a number of the people here, some of the members of parliament are here …
@@ -6968,7 +6974,7 @@ The reconciliation process is not easy.
 It asks those who have been harmed to revisit painful memories and those who have harmed others—either directly or indirectly—to be accountable for past wrongs.
 It asks us to mourn and commemorate the terrible loss of people, cultures, and languages, even as we celebrate their survival and revitalization.
 It asks us to envision a more just and inclusive future, even as we struggle with the living legacies of injustice.
-As the TRC has experienced in every region of the country, creative expression can play a vital role in this national reconciliation, providing alternative voices, vehicles, and venues for expressing historical truths and present hopes.
+As the =|TRC=Truth and Reconciliation Commission of Canada= has experienced in every region of the country, creative expression can play a vital role in this national reconciliation, providing alternative voices, vehicles, and venues for expressing historical truths and present hopes.
 Creative expression supports everyday practices of resistance, healing, and commemoration at individual, community, regional, and national levels.
 
 Across the globe, the arts have provided a creative pathway to breaking silences, transforming conflicts, and mending the damaged relationships of violence, oppression, and exclusion.
@@ -6978,7 +6984,7 @@ Art is active, and “participation in the arts is a guarantor of other human ri
 The arts help to restore human dignity and identity in the face of injustice.
 Properly structured, they can also invite people to explore their own world views, values, beliefs, and attitudes that may be barriers to healing, justice, and reconciliation.
 
-Even prior to the establishment of the TRC, a growing body of work, including Survivors’ memoirs and works of fiction by well-known Indigenous authors, as well as films and plays, have brought the residential school history and legacy to a wider Canadian public, enabling them to learn about the schools through the eyes of Survivors.
+Even prior to the establishment of the =|TRC=Truth and Reconciliation Commission of Canada=, a growing body of work, including Survivors’ memoirs and works of fiction by well-known Indigenous authors, as well as films and plays, have brought the residential school history and legacy to a wider Canadian public, enabling them to learn about the schools through the eyes of Survivors.
 This body of work includes memoirs such as Isabelle Knockwood’s =^Out of the Depths: The Experiences of Mi’kmaw Children at the Indian Residential School at Shubenacadie, Nova Scotia= (1992), to the more recent works of Agnes Grant’s =^Finding My Talk: How Fourteen Native Women Reclaimed Their Lives after Residential School= (2004); Alice Blondin’s =^My Heart Shook Like a Drum: What I Learned at the Indian Mission Schools, Northwest Territories= (2009); Theodore Fontaine’s =^Broken Circle: The Dark Legacy of Indian Residential Schools: A Memoir= (2010); Bev Sellars’s =^They Called Me Number One: Secrets and Survival at an Indian Residential School= (2013); and Edmund Metatawabin and Alexandra Shimo’s =^Up Ghost River: A Chief’s Journey through the Turbulent Waters of Native History= (2014).
 
 Works of fiction (sometimes drawn from the author’s own life experiences), such as Tomson Highway’s =^Kiss of the Fur Queen= (1998), Robert Alexie’s =^Porcupines and China Dolls= (2009), or Richard Wagamese’s =^Indian Horse= (2012), tell stories about abuse, neglect, and loss that are also stories of healing, redemption, and hope.
@@ -6996,9 +7002,9 @@ Acts of resistance sometimes take place in “irreconcilable spaces” where art
 This is also essential to individual and collective reclaiming of identity, culture, and community memory.
 
 The Commission notes that the use of creative arts in community workshops promotes healing for Survivors, their families, and the whole community through the recovery of cultural traditions.
-In conducting surveys of 103 community-based healing projects, the Aboriginal Healing Foundation (AHF) found that 80% of those projects included cultural activities and traditional healing interventions.
+In conducting surveys of 103 community-based healing projects, the Aboriginal Healing Foundation (=|AHF=Aboriginal Healing Foundation=) found that 80% of those projects included cultural activities and traditional healing interventions.
 These included Elders’ teachings, storytelling and traditional knowledge, language programs, land-based activities, feasts and powwows; and learning traditional art forms, harvesting medicines, and drumming, singing, and dancing.
-The AHF report observed,
+The =|AHF=Aboriginal Healing Foundation= report observed,
 
 > A notable component of successful healing programs was their diversity— interventions were blended and combined to create holistic programs that met the physical, emotional, cultural, and spiritual needs of participants.
 Not surprisingly, arts-based interventions were included in many cultural activities (drum making, beading, singing, and drumming) as well as in therapeutic healing (art therapy and psychodrama).[^210]
@@ -7027,17 +7033,17 @@ Lasting public memory of the schools has therefore been produced not only throug
 The arts have opened up new and critical space for Survivors, artists, curators, and public audiences to explore the complexities of “truth,” “healing,” and “reconciliation.”
 
 The Commission funded or supported several arts-related projects.
-Early in its mandate, the TRC sponsored the “Living Healing Quilt Project,” which was organized by Anishinaabe quilter Alice Williams from Curve Lake First Nation in Ontario.
+Early in its mandate, the =|TRC=Truth and Reconciliation Commission of Canada= sponsored the “Living Healing Quilt Project,” which was organized by Anishinaabe quilter Alice Williams from Curve Lake First Nation in Ontario.
 Women Survivors and intergenerational Survivors from across the country created individual quilt blocks depicting their memories of residential schools.
 These were then stitched together into three quilts, =^Schools of Shame=, =^Child Prisoners=, and =^Crimes Against Humanity=.
 
 The quilts tell a complex story of trauma, loss, isolation, recovery, healing, and hope through women’s eyes.
 The sewing skills taught to young Aboriginal girls in the residential schools and passed along to their daughters and granddaughters are now used to stitch together a counter-narrative.[^213]
 This project also inspired the “Healing Quilt Project,” which linked education and art.
-At the Manitoba National Event, as an expression of reconciliation, the Women’s and Gender Studies and Aboriginal Governance departments at the University of Winnipeg gave the TRC a quilt created by students and professors as part <!-- page 338 -->of their coursework.
+At the Manitoba National Event, as an expression of reconciliation, the Women’s and Gender Studies and Aboriginal Governance departments at the University of Winnipeg gave the =|TRC=Truth and Reconciliation Commission of Canada= a quilt created by students and professors as part <!-- page 338 -->of their coursework.
 Through classroom readings, dialogue, and art, they created a space for learning about, and reflecting on, the residential school history and legacy in the context of reconciliation.[^214]
 
-A report commissioned by the TRC, “Practicing Reconciliation: A Collaborative Study of Aboriginal Art, Resistance and Cultural Politics,” was based on the findings of a one-year research project.
+A report commissioned by the =|TRC=Truth and Reconciliation Commission of Canada=, “Practicing Reconciliation: A Collaborative Study of Aboriginal Art, Resistance and Cultural Politics,” was based on the findings of a one-year research project.
 Working with Survivors, artists, and curators, a multidisciplinary team of researchers examined the general question of how artistic practice contributes to the reconciliation process.
 The research was done through a series of interviews, workshops, artist residencies, planning sessions, symposia, artistic incubations, publications, and online learning platforms.
 The report reveals the depth and potential of arts-based approaches to reconciliation.
@@ -7065,7 +7071,7 @@ Many First Nations, Inuit, and Métis communities partnered with regional or nat
 The scope, breadth, and creativity of the projects were truly impressive.
 Projects ranged from traditional and virtual quilts, monuments and memorials, traditional medicine gardens, totem pole and canoe carving, oral history, community ceremonies and feasts, land-based culture and language camps, cemetery restoration, film and digital storytelling, commemorative walking trails, and theatre or dance productions.[^216]
 
-The Commission, advised by the TRC Survivor Committee, identified three elements of the commemoration process that were seen as being essential to supporting long-term reconciliation.
+The Commission, advised by the =|TRC=Truth and Reconciliation Commission of Canada= Survivor Committee, identified three elements of the commemoration process that were seen as being essential to supporting long-term reconciliation.
 First, the projects were to be Survivor-driven; that is, their success was contingent upon the advice, recommendations, and active participation of Survivors.
 Second, commemoration projects would forge new connections that linked Aboriginal family and community memory to Canada’s public memory and national history.
 Third, incorporating Indigenous oral history and memory practices into commemoration projects would ensure that the processes of remembering places, reclaiming identity, and revitalizing cultures were consistent with the principle of self-determination.
@@ -7110,7 +7116,7 @@ They helped her to reach out to Survivors, Elders, and chiefs in Port Alberni in
 As community members leafed through the paintings drawn by children’s hands so many years ago, memories were shared about the artists, the school, and the parents and communities they had left behind.
 
 <!-- page 341 -->Working under the direction of these community members, and in collaboration with her colleague, Qwul’sih’yah’maht (Dr.
-Robina Thomas), and TRC staff, Walsh began preparations to bring the artwork to the Learning Place at the TRC’s Victoria Regional Event in April 2012.
+Robina Thomas), and =|TRC=Truth and Reconciliation Commission of Canada= staff, Walsh began preparations to bring the artwork to the Learning Place at the =|TRC=Truth and Reconciliation Commission of Canada=’s Victoria Regional Event in April 2012.
 In a powerfully moving ceremony, Nuu-chah-nulth Elders, Survivors, and Hereditary Chiefs drummed, sang, and danced the art into the Learning Place.
 In this way, each painting, carried with respect and love by a Nuu-chah-nulth woman dressed in button blanket regalia, was brought out to be shared with others.
 
@@ -7128,7 +7134,7 @@ but they all remembered being in art class.”[^220]
 In May of 2013, the Alberni residential school paintings were displayed in a special exhibit, To Reunite, To Honour, To Witness, at the Legacy Art Gallery at the University of Victoria.
 Survivors, Elders, and community members continue to work with Walsh and Qwul’sih’yah’maht to document the story of the creation and return of the children’s paintings as part of reconnecting individual, family, and community memory, and educating the public about a previously unknown part of the history and legacy of the residential schools.
 
-In September 2013, the paintings returned once again to the Learning Place at the TRC’s British Columbia National Event in Vancouver, and the group made an expression of reconciliation by providing copies of the artwork to the Commission’s Bentwood Box, to become part of the permanent record of the Commission’s work.
+In September 2013, the paintings returned once again to the Learning Place at the =|TRC=Truth and Reconciliation Commission of Canada=’s British Columbia National Event in Vancouver, and the group made an expression of reconciliation by providing copies of the artwork to the Commission’s Bentwood Box, to become part of the permanent record of the Commission’s work.
 
 ### Canada’s public commemoration initiative
 
@@ -7191,7 +7197,7 @@ Under Principle 2,
 A people’s knowledge of the history of its oppression is part of its heritage and, as such, must be preserved by appropriate measures in fulfillment of the State’s duty <!-- page 344 -->to remember…
 On a collective basis, symbolic measures intended to provide moral reparation, such as formal public recognition by the State of its responsibility, or official declarations aimed at restoring victims’ dignity, commemorative ceremonies, naming of public thoroughfares or the erection of monuments, help to discharge the duty of remembrance.[^228]
 
-In 2014, the UN Special Rapporteur in the field of Cultural Rights, Farida Shaheed, issued a report on memorialization processes in countries where victims and their families, working collaboratively with artists and various civic society groups, have commemorated their experiences in unofficial ways that may run counter to state-sanctioned versions of national history.[^229]
+In 2014, the =|UN=United Nations= Special Rapporteur in the field of Cultural Rights, Farida Shaheed, issued a report on memorialization processes in countries where victims and their families, working collaboratively with artists and various civic society groups, have commemorated their experiences in unofficial ways that may run counter to state-sanctioned versions of national history.[^229]
 Shaheed observed that the commemorations of Indigenous peoples’ experience—both their oppression and their positive contributions to society—that have occurred in many countries, including Canada, have not been state-driven initiatives.
 Rather, they have been initiated by Indigenous peoples themselves.
 
@@ -7224,7 +7230,7 @@ They demonstrated the critical role that artists play in healing and commemorati
 The Commission believes that Canada’s national heritage network also has a vital role to play in reconciliation.
 Our views were further confirmed in a study of residential school commemorations in the context of Canada’s national heritage and commemoration policy.
 The research documented the Assembly of First Nations’ and the Aboriginal Healing Foundation’s national commemoration project to create a heritage plaque program to place commemorative markers at all residential school sites across the country.[^234]
-Faced with logistical challenges and based on input from Survivors and communities, “the project transformed from what ostensibly had been an IRS [Indian Residential School] site heritage plaque program to a community-oriented public monumental art project.”[^235]
+Faced with logistical challenges and based on input from Survivors and communities, “the project transformed from what ostensibly had been an =|IRS=Indian Residential School= [Indian Residential School] site heritage plaque program to a community-oriented public monumental art project.”[^235]
 The commemorative markers were not placed at residential school sites, many of which are in remote locations or otherwise inaccessible.
 Instead, they were placed in Aboriginal communities where Survivors and their families could access them more easily, where ceremonies and community events could be held, and where there were opportunities for ongoing healing, commemoration, and education.[^236]
 
@@ -7279,21 +7285,21 @@ It stated:
 The report recommended that the =^Broadcasting Act= be revised to address these gaps.
 As of 2014, these provisions of the Act remain unchanged.
 
-As Canada’s national public broadcaster, the Canadian Broadcasting Corporation (CBC/ Radio-Canada) is responsible for fulfilling national broadcasting policy.
+As Canada’s national public broadcaster, the Canadian Broadcasting Corporation (=|CBC=Canadian Broadcasting Corporation=/ Radio-Canada) is responsible for fulfilling national broadcasting policy.
 For many years, it has been providing a minimum level of Aboriginal radio and television programming and news, in a few specific regions, including some Aboriginal-language programming, especially in northern Canada.
-In the Commission’s view, the budget cuts to the CBC over the past decade have significantly reduced and further limited its capacity to provide <!-- page 348 -->Aboriginal programming and dedicated news coverage on Aboriginal issues, and to increase the number of Aboriginal people in staff and leadership positions.
-As of March 31, 2014, Aboriginal people made up 1.6% of the CBC workforce, well below the demographic makeup of Aboriginal people, who represent 4.3% of the total Canadian population.[^243]
+In the Commission’s view, the budget cuts to the =|CBC=Canadian Broadcasting Corporation= over the past decade have significantly reduced and further limited its capacity to provide <!-- page 348 -->Aboriginal programming and dedicated news coverage on Aboriginal issues, and to increase the number of Aboriginal people in staff and leadership positions.
+As of March 31, 2014, Aboriginal people made up 1.6% of the =|CBC=Canadian Broadcasting Corporation= workforce, well below the demographic makeup of Aboriginal people, who represent 4.3% of the total Canadian population.[^243]
 
-The Aboriginal Peoples Television Network (APTN), an independent, non-profit broadcaster, has taken a leadership role since the 1990s, in part to make up for the programming and scheduling limitations of CBC/Radio-Canada, to provide nationwide programming and news that reflects Aboriginal peoples’ perspectives, concerns, and experiences.
-The APTN has provided an outlet for Aboriginal journalists, producers, directors, writers, artists, and musicians, and attracts a wide Aboriginal and non-Aboriginal Canadian and international audience.[^244]
-As of 2014, over 75% of APTN employees were Aboriginal, and 28% of its programming was broadcast in various Aboriginal languages.[^245]
-In the Commission’s view, the APTN is well positioned to provide media leadership to support the reconciliation process.
+The Aboriginal Peoples Television Network (=|APTN=Aboriginal Peoples Television Network=), an independent, non-profit broadcaster, has taken a leadership role since the 1990s, in part to make up for the programming and scheduling limitations of =|CBC=Canadian Broadcasting Corporation=/Radio-Canada, to provide nationwide programming and news that reflects Aboriginal peoples’ perspectives, concerns, and experiences.
+The =|APTN=Aboriginal Peoples Television Network= has provided an outlet for Aboriginal journalists, producers, directors, writers, artists, and musicians, and attracts a wide Aboriginal and non-Aboriginal Canadian and international audience.[^244]
+As of 2014, over 75% of =|APTN=Aboriginal Peoples Television Network= employees were Aboriginal, and 28% of its programming was broadcast in various Aboriginal languages.[^245]
+In the Commission’s view, the =|APTN=Aboriginal Peoples Television Network= is well positioned to provide media leadership to support the reconciliation process.
 
 National public and private broadcasters must provide comprehensive and timely information and services to Aboriginal peoples and the Canadian public.
 
 #### Calls to Action
 
-84. We call upon the federal government to restore and increase funding to the CBC/RadioCanada, to enable Canada’s national public broadcaster to support reconciliation, and be properly reflective of the diverse cultures, languages, and perspectives of Aboriginal peoples, including, but not limited to:
+84. We call upon the federal government to restore and increase funding to the =|CBC=Canadian Broadcasting Corporation=/RadioCanada, to enable Canada’s national public broadcaster to support reconciliation, and be properly reflective of the diverse cultures, languages, and perspectives of Aboriginal peoples, including, but not limited to:
 
     1. Increasing Aboriginal programming, including Aboriginal-language speakers.
 
@@ -7309,9 +7315,9 @@ National public and private broadcasters must provide comprehensive and timely i
 
 <!-- page 349 -->### Educating journalists for reconciliation
 
-In a submission to the Royal Commission on Aboriginal Peoples (RCAP) in 1993, the Canadian Association of Journalists noted, “The country’s large newspapers, tv and radio news shows often contain misinformation, sweeping generalizations, and galling stereotypes about Natives and Native affairs…
+In a submission to the Royal Commission on Aboriginal Peoples (=|RCAP=Royal Commission on Aboriginal Peoples=) in 1993, the Canadian Association of Journalists noted, “The country’s large newspapers, tv and radio news shows often contain misinformation, sweeping generalizations, and galling stereotypes about Natives and Native affairs…
 The result is that most Canadians have little real knowledge of the country’s Native peoples, or the issues that affect them.”[^246]
-In 1996, the RCAP report had noted,
+In 1996, the =|RCAP=Royal Commission on Aboriginal Peoples= report had noted,
 
 > Public opinion polls in the past few years have consistently shown broad sympathy for Aboriginal issues and concerns, but that support is not very deep.
 More recent events have brought a hardening of attitudes towards Aboriginal issues in many parts of the country…
@@ -7333,7 +7339,7 @@ Media coverage of residential schools was low.
 From June 1, 2011, to May 31, 2012, media coverage of Aboriginal issues in Ontario accounted for only 0.23% of all news stories, and, of these, only 3.0% focused on residential schools.
 From June 1, 2012, to May 31, 2013, news stories on Aboriginal issues amounted to 0.46% of all news stories, and, of these, 3.0% focused on deaths in residential schools.[^251]
 
-The report included expert opinions on its findings, including those of CBC journalist Duncan McCue, who observed that editorial opinions “are often rooted in century-old stereotypes rather than reality.”[^252]
+The report included expert opinions on its findings, including those of =|CBC=Canadian Broadcasting Corporation= journalist Duncan McCue, who observed that editorial opinions “are often rooted in century-old stereotypes rather than reality.”[^252]
 He pointed out:
 
 > Yes, protests often meet the test of whether a story is ‘newsworthy,’ because they’re unusual, dramatic, or involve conflict.
@@ -7373,7 +7379,7 @@ It is this diversity of minds and voices, not just numbers, that matters.[^256]
 
 With respect to the history and legacy of residential schools, all the major radio and television networks and newspapers covered the events and activities of the Commission.
 
-<!-- page 351 -->The TRC provided regular information briefings to the media who attended the National Events.
+<!-- page 351 -->The =|TRC=Truth and Reconciliation Commission of Canada= provided regular information briefings to the media who attended the National Events.
 We discussed earlier how students must not only learn the truth about what happened in residential schools, but also understand the ethical dimensions of this history.
 So too must journalists.
 Many of the reporters who covered the National Events were themselves deeply affected by what they heard from Survivors and their families.
@@ -7409,7 +7415,7 @@ What do you expect to achieve?”
 The answer is “freedom.”
 I am free.[^257]
 
-Later that same day, journalist Laura Robinson’s expression of reconciliation was a copy of the documentary =^FrontRunners=, which she produced for APTN, about some residential school athletes who had made history.
+Later that same day, journalist Laura Robinson’s expression of reconciliation was a copy of the documentary =^FrontRunners=, which she produced for =|APTN=Aboriginal Peoples Television Network=, about some residential school athletes who had made history.
 She said,
 
 > In 1967, ten teenage First Nations boys, all good students and great runners, ran with the 1967 Pan Am Games torch, from St.
@@ -7489,7 +7495,7 @@ At the opening ceremonies and throughout the games, territorial protocols were r
 
 Survivors and their family members told us that their hope for the future lies in reclaiming and regenerating their own cultures, spirituality, laws, and ways of life that are deeply connected to their homelands.
 Indigenous nations are already doing this work in their <!-- page 355 -->communities, despite the many challenges they face.
-At the TRC’s Traditional Knowledge Keepers Forum, Elder Dave Courchene said,
+At the =|TRC=Truth and Reconciliation Commission of Canada=’s Traditional Knowledge Keepers Forum, Elder Dave Courchene said,
 
 > As people who have gained this recognition to be Knowledge Keepers for our people, we accept that work in the most humble way…
 It’s going to be the spirit of our ancestors, the spirit that’s going to help us to reclaim our rightful place in our homeland.
@@ -7519,7 +7525,7 @@ We need to find ways to work together, to support one another on these difficult
 
 In 1977, the =^Report of the Mackenzie Valley Pipeline Inquiry= recommended that a proposed natural gas pipeline down the Mackenzie Valley in the Northwest Territories not be built before Aboriginal land claims in the region were resolved and environmental concerns were addressed.
 Justice Thomas Berger, who led the inquiry, identified the potentially <!-- page 356 -->devastating consequences that building a pipeline through the North would have for Dene and Inuvialuit peoples and for the fragile ecosystems.
-His observations, made almost forty years ago, foreshadow similar controversies and conflicts over proposed pipelines still occurring in various regions of Canada as the TRC has prepared this final report.[^269]
+His observations, made almost forty years ago, foreshadow similar controversies and conflicts over proposed pipelines still occurring in various regions of Canada as the =|TRC=Truth and Reconciliation Commission of Canada= has prepared this final report.[^269]
 
 The political and legal landscape has shifted significantly since Justice Berger issued his report in 1977.
 As Canada maps its economic future in regions covered by historical Treaties, modern land-claims agreements, and unceded Aboriginal title, governments and industry must now recognize that accommodating the rights of Aboriginal peoples is paramount to Canada’s long-term economic sustainability.
@@ -7531,7 +7537,7 @@ The 1996 =^Report of the Royal Commission on Aboriginal Peoples= noted that, his
 Communities were not consulted before they were relocated from their vast traditional territories to much smaller, more remote, and more crowded reserves to make way for government and industrial land and resource development projects.
 Even when they were not relocated, Aboriginal peoples were economically marginalized in their own homelands when irreversible environmental damage was done in the name of ‘progress.’ All too often, economic development has disrupted Indigenous peoples’ cultural, spiritual, and economic ties to the land, resulting in the devastation of traditional economies and self-sufficiency, community trauma, public welfare dependency, and poor health and socio-political outcomes.[^270]
 
-In the post-RCAP period, the Supreme Court of Canada has developed a body of law on the federal, provincial, and territorial governments’ duty to consult with Aboriginal peoples where land and resource development might infringe on their Aboriginal or Treaty rights.[^271]
+In the post-=|RCAP=Royal Commission on Aboriginal Peoples= period, the Supreme Court of Canada has developed a body of law on the federal, provincial, and territorial governments’ duty to consult with Aboriginal peoples where land and resource development might infringe on their Aboriginal or Treaty rights.[^271]
 The court has ruled that governments can still infringe on Aboriginal rights if it can demonstrate that it is in the broader public interest to do so.
 In the Delgamuukw case, the court described the nature of that public interest:
 
@@ -7621,7 +7627,7 @@ Past generations of newcomers faced injustices and prejudice similar to those ex
 More recent immigrants have struggled with racism and misconceptions as they come to take their place in the Canadian nation.
 
 Despite the many barriers to reconciliation, this Commission remains cautiously optimistic.
-At the Alberta National Event in March 2014, TRC Honorary Witness Wab Kinew spoke about the changes that are already happening across this land that give rise to hope.
+At the Alberta National Event in March 2014, =|TRC=Truth and Reconciliation Commission of Canada= Honorary Witness Wab Kinew spoke about the changes that are already happening across this land that give rise to hope.
 He began by explaining that all day he had been carrying with him
 
 > a ceremonial pipe, a sacred pipe, which when you bind the two sides together—the stem and the bowl—it offers us a model of reconciliation, of two forces coming together to be more powerful than they were otherwise.
@@ -7685,7 +7691,7 @@ I think the words [of the apology] were sincere, but they were not enough.
 They did not change relationships, not enough.[^287]
 
 We also heard that day from Mayor Bill Elliot, from the nearby city of Wetaskiwin.
-He explained that prior to the TRC’s Community Hearing, he, along with Grade Ten students and others from Hobbema and Wetaskiwin, had attended a workshop with Survivors.
+He explained that prior to the =|TRC=Truth and Reconciliation Commission of Canada=’s Community Hearing, he, along with Grade Ten students and others from Hobbema and Wetaskiwin, had attended a workshop with Survivors.
 Listening to their residential school experiences helped those who attended to begin to understand how deeply the residential schools had scarred Survivors, their families, and the whole community.
 He said,
 
@@ -7696,7 +7702,7 @@ We still have a long way to go.
 We are taking baby steps in the healing process.
 But we are working together for better communities, to understand and respect the differences and similarities in our cultures.[^288]
 
-At the Alberta National Event in 2014, Mayor Elliot, who was also inducted as a TRC Honorary Witness, offered an expression of reconciliation:
+At the Alberta National Event in 2014, Mayor Elliot, who was also inducted as a =|TRC=Truth and Reconciliation Commission of Canada= Honorary Witness, offered an expression of reconciliation:
 
 > Our community is trying to learn more about the Survivors and the residential schools.
 Our schools, churches, and community have made cupcakes and birthday cards for the big birthday party tomorrow.
@@ -7706,7 +7712,7 @@ We are trying to learn more about and understand the effects of residential scho
 
 The cities of Vancouver, Toronto, Edmonton, and Calgary have also issued proclamations declaring a year of reconciliation.
 In 2014, Vancouver went a step further, declaring that it was now a “City of Reconciliation,” and it has established a long-term framework for partnership and relationship building with the Musqueam, Squamish, and TsleilWaututh nations and urban Aboriginal people.[^290]
-At the British Columbia National Event, TRC Honorary Witness Mayor Gregor Robertson said,
+At the British Columbia National Event, =|TRC=Truth and Reconciliation Commission of Canada= Honorary Witness Mayor Gregor Robertson said,
 
 > We are blessed to have so many different cultures in this place, and all of us who come from afar …
 have been incredibly lucky to be able to come to this place.
@@ -7750,12 +7756,12 @@ It’s about finding out about your neighbour.[^292]
 Kevin Takahide Lee, an intergenerational Survivor of the internment of Japanese Canadians during the Second World War, said,
 
 > I acknowledge that we are on Coast Salish lands.
-It was also on these very lands here at the PNE [Pacific National Exhibition fairgrounds] that my family was held during the war before being sent to the internment camp.
+It was also on these very lands here at the =|PNE=Pacific National Exhibition= [Pacific National Exhibition fairgrounds] that my family was held during the war before being sent to the internment camp.
 It is my parents and grandparents who are Survivors…
 [They] never talked about what happened in the internment camps …
 even after the Japanese-Canadian redress happened …
 hearing these stories from our Elders is very rare…
-When I was four or five, I came here to the PNE as most families do…
+When I was four or five, I came here to the =|PNE=Pacific National Exhibition= as most families do…
 When it came to going inside the barn here, just two doors away, my grandmother would not come in.
 That’s because that livestock building was used to hold her and other women and children, during the war, for months…
 When I was a child, I couldn’t comprehend this, but as an adult, I understand…
@@ -7811,7 +7817,7 @@ We shouldn’t be afraid to talk about that and to institutionalize the healing 
 
 For new Canadians, many of whom carry their own traumatic memories of colonial violence, racism, and oppression, finding common ground as Treaty people involves learning about the history of Aboriginal peoples and finding ways to build stronger relationships of solidarity with them.
 The Commission believes there is an urgent need for more dialogue between Aboriginal peoples and new Canadians.
-At a forum, “From Remembrance to Reconciliation,” co-sponsored by the Ontario Human Rights Commission, Colour of Poverty, Colour of Change, and the Metro Toronto Chinese and South-East Asian Legal Clinic, and attended by the TRC Commissioners, participants reflected on how their own histories shaped their understanding of violence, oppression, and racism, the stereotypes they learned about Aboriginal peoples in Canada, and the challenges and opportunities of building alliances together.
+At a forum, “From Remembrance to Reconciliation,” co-sponsored by the Ontario Human Rights Commission, Colour of Poverty, Colour of Change, and the Metro Toronto Chinese and South-East Asian Legal Clinic, and attended by the =|TRC=Truth and Reconciliation Commission of Canada= Commissioners, participants reflected on how their own histories shaped their understanding of violence, oppression, and racism, the stereotypes they learned about Aboriginal peoples in Canada, and the challenges and opportunities of building alliances together.
 
 Akua Benjamin, who came from the Caribbean, with its history of slavery, said,
 
@@ -7934,7 +7940,7 @@ We discovered that in all of our cultural traditions, there are teachings about 
 
 > We invite you to search in your own traditions and beliefs, and those of your ancestors, to find these core values that create a peaceful harmonious society and a healthy earth.[^302]
 
-<!-- page 370 -->The work of the TRC has shown just how difficult the process of truth determination has been.
+<!-- page 370 -->The work of the =|TRC=Truth and Reconciliation Commission of Canada= has shown just how difficult the process of truth determination has been.
 Thousands of Survivors came forward and, in tears and with anger, shared their pain.
 They showed how humour, perseverance, and resilience got them through the hardest of times, and how life after the schools sometimes just got too hard.
 They came forward to share their stories, not just to ease their burden, but also to try to make things better for their children and their grandchildren.
