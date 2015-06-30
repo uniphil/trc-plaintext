@@ -1,0 +1,306 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>TRC rough plain-text</title>
+  <style>
+    html {
+      font-size: 18pt;
+      line-height: 1.618em;
+      font-family: Utopia, Cambria, 'Hoefler Text', 'Liberation Serif', 'Nimbus Roman No9 L Regular', Times, 'Times New Roman', serif;
+    }
+    @media screen and (max-width: 58em) {
+      html { line-height: 1.5em; }
+    }
+    .doc {
+      max-width: 36em;
+      margin: 0 auto;
+      padding: 0 5%;
+    }
+    .headerlink {
+      color: #7ac;
+      padding: 0 0.5em;
+      opacity: 0;
+      transition: opacity 0.5s;
+    }
+    h1:hover .headerlink,
+    h2:hover .headerlink,
+    h3:hover .headerlink,
+    h4:hover .headerlink,
+    h5:hover .headerlink,
+    h6:hover .headerlink {
+      opacity: 1;
+      transition: opacity 0.1s;
+    }
+    h1 {
+      font-size: 2.4em;
+      line-height: 1.2em;
+      font-weight: normal;
+      margin-top: 1.5em;
+      border-top: 1px solid #aaa;
+      padding-top: 4em;
+    }
+    header h1 {
+      border-top: none;
+      padding-top: 3em;
+    }
+    header h2 {
+      margin-bottom: 4em;
+    }
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      margin-top: 2em;
+      line-height: 1.2em;
+    }
+    h4,
+    .section4 ol,
+    .tools {
+      font-family: 'Segoe UI', Candara, 'Bitstream Vera Sans', 'DejaVu Sans', 'Bitstream Vera Sans', 'Trebuchet MS', Verdana, 'Verdana Ref', sans-serif;
+    }
+
+    section > p {
+      margin: 0;
+      text-indent: 2em;
+      text-align: justify;
+    }
+    section > p > img {
+      margin: 2em 0 2em -2em;
+    }
+    img {
+      max-width: 100%;
+    }
+
+    ul {
+      padding-left: 3em;  /* 2em * 1.5 */
+    }
+    ol {
+      padding-left: 3em;
+    }
+    ol ol {
+      list-style-type: lower-roman;
+      padding-left: 1em;
+    }
+    .section4 ol {
+      padding-left: 3.375em;  /* 18pt / 16pt * 2em * 1.5 */
+      font-size: 16pt;
+      line-height: 1.4em;
+    }
+    .section4 ol ol {
+      padding-left: 1.125em;  /* 18pt / 16pt * 1em */
+    }
+
+    blockquote {
+      font-size: 16pt;
+      margin-left: 4.5em;  /* 18pt / 16pt * 2em * 2 */
+      margin-right: 4.5em;
+      line-height: 1.4em
+    }
+    @media screen and (max-width: 58em) {
+      blockquote { line-height: 1.333em; }
+    }
+
+    a {
+      color: #133952;
+    }
+
+    .hover {
+      /*background: #eee;*/
+      /*outline-right: 3px solid #ccc;*/
+      /*transition: background 0.2s;*/
+      box-shadow: 1em 0 0 white, 2em 0 0 #fd8;
+    }
+
+    .tools {
+      z-index: 1;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      padding: 0 1em;
+      font-size: 12pt;
+      background: #f7f7f7;
+      border-bottom: 1px solid #ccc;
+    }
+    input {
+      background: #fff;
+      border: 1px solid #ccc;
+    }
+    #page-number {
+      -moz-appearance: textfield;
+      width: 3em;
+    }
+    button {
+      background: #fff;
+      border: 1px solid #7ac;
+      border-radius: 0.2em;
+    }
+    button:hover {
+      cursor: pointer;
+    }
+    #report {
+      color: #133952;
+    }
+    .to-submit #report {
+      display: none;
+    }
+
+    .what {
+      position: absolute;
+      left: -9999em;
+    }
+    .to-submit .what {
+      position: static;
+    }
+    form {
+      line-height: 2em;
+    }
+    label {
+      font-size: 10pt;
+    }
+
+  </style>
+</head>
+<body>
+<script>
+
+  var PDF_PAGE_OFFSET = 6;
+
+
+  function offsetTop(el) {
+    for (var y=el.offsetTop; el=el.offsetParent; y += el.offsetTop);
+    return y;
+  }
+
+  function pageFromEl(el) {
+    var raw = el.getAttribute('data-p');
+    if (raw === null) { console.log('nah'); return null; }
+    var m = Math.max.apply(null,
+      raw.split(',').map(function(n) { return parseInt(n); }));
+    // console.log(m);
+    return m;
+  }
+
+  var pageOffsets = [],  // Caution: SPARSE
+      pageInput,
+      reportButton,
+      reportForm;
+
+  window.addEventListener('load', function() {
+    findPageBreaks();
+    initTools();
+    window.addEventListener('scroll', scrollHandler);
+    window.addEventListener('resize', findPageBreaks);
+    reportButton.addEventListener('click', showOptions);
+    reportForm.addEventListener('submit', resetForm);
+  });
+
+  function findPageBreaks() {
+    var pageEls = document.querySelectorAll('[data-p]');
+    Array.prototype.forEach.call(pageEls, function(el) {
+      var currentBest = pageOffsets[pageFromEl(el)] || Infinity,
+          offset = offsetTop(el);
+      pageOffsets[pageFromEl(el)] = Math.min(offset, currentBest);
+    });
+  }
+
+  function initTools() {
+    pageInput = document.querySelector('#page-number');
+    reportButton = document.querySelector('#report');
+    reportForm = document.querySelector('form#reporter');
+    pageInput.removeAttribute('disabled');
+    reportButton.removeAttribute('disabled');
+    reportButton.innerHTML = 'report formatting issue';
+    updatePageNum();
+  }
+
+  function updatePageNum() {
+    var currentScroll = window.scrollY + 50;
+    for (var page=pageOffsets.length; --page;) {
+      if (pageOffsets[page] === undefined) { continue; }
+      if (pageOffsets[page] < currentScroll) { break; }
+    }
+    pageInput.value = Math.max(0, page - PDF_PAGE_OFFSET);
+  }
+
+  function scrollHandler(e) {
+    updatePageNum();
+  }
+
+  function showOptions() {
+    reportForm.classList.add('to-submit');
+  }
+
+  function resetForm() {
+    window.setTimeout(function() {
+      reportForm.classList.remove('to-submit');
+      reportForm.reset();
+      updatePageNum();
+    },50);
+  }
+</script>
+
+<div class="tools">
+  <form id="reporter" class="pages" action="https://docs.google.com/forms/d/1b3BHh2tI85uf0q36lrm1iIXO7Y2sYr8opusXHOjYLOc/viewform" method="GET" target="_blank">
+    <label for="entry.545447823">Page</label>
+    <input
+      type="number"
+      id="page-number"
+      name="entry.545447823"
+      placeholder="..."
+      disabled />
+    <button type="button" id="report" disabled>loading...</button>
+    <span class="what">
+      <input type="radio" id="italics" name="entry.1968688779" value="Italics" />
+      <label for="italics">Italics</label>
+
+      <input type="radio" id="linebr" name="entry.1968688779" value="Line break" />
+      <label for="linebr">Line break</label>
+
+      <input type="radio" id="blockquote" name="entry.1968688779" value="Block quote" />
+      <label for="blockquote">Block quote</label>
+
+      <input type="radio" id="list" name="entry.1968688779" value="List" />
+      <label for="list">List</label>
+
+      <input type="radio" id="heading" name="entry.1968688779" value="Heading" />
+      <label for="heading">Heading</label>
+
+      <input type="radio" id="missing" name="entry.1968688779" value="Missing text" />
+      <label for="missing">Missing</label>
+
+      <input type="radio" id="other" name="entry.1968688779" value="Other" />
+      <label for="other">Other</label>
+
+      <button type="submit">Report »</button>
+    </span>
+  </form>
+</div>
+
+
+<div class="doc">{contents}</div>
+
+
+<script>
+  (function() {
+    var sections = document.querySelectorAll('section');
+    Array.prototype.forEach.call(sections, function(s) {
+      s.removeAttribute('data-p');
+    });
+    var emsbs = document.querySelectorAll('em,strong');
+    Array.prototype.forEach.call(emsbs, function(el) {
+      var ps;
+      if ((ps = el.getAttribute('data-p')) !== null) {
+        el.removeAttribute('data-p');
+        if (el.parentNode.getAttribute('data-p') === null) {
+          el.parentNode.setAttribute('data-p', ps);
+        }
+      }
+    });
+  })();
+</script>
+
+</body>
+</html>

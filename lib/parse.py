@@ -101,18 +101,18 @@ class TRCMarkdown(Markdown):
 ''' Be a script '''
 if __name__ == '__main__':
     import sys
-    assert len(sys.argv) == 3, 'Usage: {0} SOURCE OUTFOLDER'.format(sys.argv[0])
-    sourceName, outfolder = sys.argv[1:]
+    assert len(sys.argv) == 3, 'Usage: {0} SOURCE OUT'.format(sys.argv[0])
+    sourceName, outName = sys.argv[1:]
     with open(sourceName) as f:
         source = f.read().decode('utf-8')
     md = TRCMarkdown(
         lazy_ol=False,
-        output_folder=outfolder,
+        output_folder='./',
         extensions=[
             TRCExtension(),
             toc.TocExtension(permalink=True),
             OutlineExtension({}),
         ])
     out = md.convert(source)
-    with open(md.output_folder + '/TRC-2015-Executive-Summary.html', 'w') as f:
+    with open(md.output_folder + outName, 'w') as f:
         f.write(out.encode('utf-8'))
