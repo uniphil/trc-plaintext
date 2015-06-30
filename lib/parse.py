@@ -70,7 +70,7 @@ class PageNumData(Treeprocessor):
                 pages.update(to_add)
 
             if len(pages) > 0:
-                el.set('data-p', ','.join(map(str, sorted(pages))))
+                el.set('data-p', ' '.join(map(str, sorted(pages))))
 
 
 class TRCExtension(Extension):
