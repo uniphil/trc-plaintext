@@ -33,7 +33,7 @@ pages: $(TARGETS)
 $(TXT_EXTRACT)/%.txt: $(SPLIT)/%.pdf mkdirs
 	pdftotext -enc UTF-8 $< $@
 
-$(TXT_AUTO)/%.md: $(TXT_EXTRACT)/%.txt mkdirs
+$(TXT_AUTO)/%.md: $(TXT_EXTRACT)/%.txt refs.txt abbrevs.md mkdirs
 	python lib/autofixtext.py $< $@
 
 $(IMG_EXTRACT)/%-0000.jpg: $(SPLIT)/%.pdf mkdirs
