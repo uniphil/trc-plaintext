@@ -4,6 +4,7 @@
 import re
 from functools import reduce
 from markdown import Markdown, to_html_string
+from markdown.util import etree
 from markdown.extensions import Extension, toc
 from markdown.preprocessors import Preprocessor
 from markdown.treeprocessors import Treeprocessor
@@ -70,7 +71,16 @@ class PageNumData(Treeprocessor):
                 pages.update(to_add)
 
             if len(pages) > 0:
-                el.set('data-p', ','.join(map(str, sorted(pages))))
+                el.set('data-p', ' '.join(map(str, sorted(pages))))
+
+
+class Figcaption(Treeprocessor):
+    def run(self, root):
+        for p in filter(lambda t: t.tag == 'p', root):
+            for img in filter(lambda t: t.tag == 'img', p):
+                p.tag, fig = 'figure', p
+                figcaption = etree.SubElement(p, 'figcaption')
+                figcaption.text = img.get('alt')
 
 
 class TRCExtension(Extension):
@@ -78,6 +88,7 @@ class TRCExtension(Extension):
         md.preprocessors.add('markpagenum', MarkPagenum(md), '_begin')
         md.preprocessors.add('inserttoc', InsertTOC(md), '>markpagenum')
         md.treeprocessors.add('pagenum', PageNumData(md), '_end')
+        md.treeprocessors.add('figcaption', Figcaption(md), '_end')
 
 
 class TRCMarkdown(Markdown):
@@ -101,18 +112,18 @@ class TRCMarkdown(Markdown):
 ''' Be a script '''
 if __name__ == '__main__':
     import sys
-    assert len(sys.argv) == 3, 'Usage: {0} SOURCE OUTFOLDER'.format(sys.argv[0])
-    sourceName, outfolder = sys.argv[1:]
+    assert len(sys.argv) == 3, 'Usage: {0} SOURCE OUT'.format(sys.argv[0])
+    sourceName, outName = sys.argv[1:]
     with open(sourceName) as f:
         source = f.read().decode('utf-8')
     md = TRCMarkdown(
         lazy_ol=False,
-        output_folder=outfolder,
+        output_folder='./',
         extensions=[
             TRCExtension(),
             toc.TocExtension(permalink=True),
             OutlineExtension({}),
         ])
     out = md.convert(source)
-    with open(md.output_folder + '/TRC-2015-Executive-Summary.html', 'w') as f:
+    with open(md.output_folder + outName, 'w') as f:
         f.write(out.encode('utf-8'))
