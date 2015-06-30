@@ -39,13 +39,13 @@ def capitalizeAbbrs(page):
         capitalized, _ = re.subn(catch, repl, capitalized)
     return capitalized
 
-def italicizeRefs(page):
+def markRefs(page):
     with open('refs.txt') as f:
-        refs = f.read().decode('utf-8').strip().split('\n')
+        refs = f.read().decode('utf-8').strip().replace(' ', '\s').split('\n')
     italicized = page
     for ref in refs:
-        catch = ur'(?P<pre>[^_\w]){r}(?P<post>[^_\w])'.format(r=ref)
-        repl = lambda m: u'{pre}_{r}_{post}'.format(r=ref, **m.groupdict())
+        catch = ur'(?<!\=\^)(?P<r>{r})(?P<post>[^=\w])'.format(r=ref)
+        repl = lambda m: u'=^{r}={post}'.format(**m.groupdict())
         italicized, _ = re.subn(catch, repl, italicized)
     return italicized
 
@@ -133,7 +133,7 @@ autofix = compose(
     semanticLineBreak,
     fixEllipses,
     doubleNewlines,
-    italicizeRefs,
+    markRefs,
     capitalizeAbbrs,
     strip,
     stripContext,
