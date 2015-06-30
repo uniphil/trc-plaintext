@@ -5271,7 +5271,7 @@ In Manitoba Métis Nation Inc. v. Canada (Attorney General) (2013), the Métis N
 [and] to treat them fairly.”[^62]
 The Supreme Court said that in 1870, the
 
-> broad purpose of S. 31 of the Manitoba Act was to reconcile the Métis community with the sovereignty of the Crown and to permit the creation of the province of Manitoba.
+> broad purpose of S. 31 of the _Manitoba Act_ was to reconcile the Métis community with the sovereignty of the Crown and to permit the creation of the province of Manitoba.
 This reconciliation was to be accomplished by a more concrete measure— the prompt and equitable transfer of the allotted public lands to the Métis children.
 [para. 98]
 
