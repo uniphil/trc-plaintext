@@ -16,6 +16,7 @@
     .wrap {
       display: flex;
       justify-content: center;
+      margin: 0 0 0 5%;
     }
 
     .doc {
@@ -184,11 +185,12 @@
 
     .control-col {
       position: relative;
-      margin-left: 1em;
+      min-width: 4em;
+      margin-left: 10pt;
     }
     .control {
       display: none;  /* gets set to 'block' via JS */
-      position: absolute;
+      position: relative;
       margin-top: 0.4em;
       line-height: 1.5em;
       color: #999;
@@ -222,7 +224,6 @@
     .control .page {
       font-size: 12pt;
       font-style: italic;
-      white-space: nowrap;
     }
 
   </style>
