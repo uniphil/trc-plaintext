@@ -12,6 +12,11 @@
     @media screen and (max-width: 58em) {
       html { line-height: 1.5em; }
     }
+    html,
+    body {
+      margin: 0;
+      padding: 0 0 3em;
+    }
 
     .wrap {
       display: flex;
@@ -247,6 +252,7 @@
     updateGeom();
     window.addEventListener('resize', updateGeom);
     document.body.addEventListener('mouseover', hoverSomething);
+    document.body.addEventListener('click', hoverSomething);  // for mobile
     document.body.addEventListener('mouseout', leaveSomething);
   });
 
