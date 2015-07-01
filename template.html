@@ -278,24 +278,5 @@
 
 </div>
 
-<script>
-  (function() {
-    var sections = document.querySelectorAll('section');
-    Array.prototype.forEach.call(sections, function(s) {
-      s.removeAttribute('data-p');
-    });
-    var emsbs = document.querySelectorAll('em,strong');
-    Array.prototype.forEach.call(emsbs, function(el) {
-      var ps;
-      if ((ps = el.getAttribute('data-p')) !== null) {
-        el.removeAttribute('data-p');
-        if (el.parentNode.getAttribute('data-p') === null) {
-          el.parentNode.setAttribute('data-p', ps);
-        }
-      }
-    });
-  })();
-</script>
-
 </body>
 </html>
