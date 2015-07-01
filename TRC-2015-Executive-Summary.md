@@ -359,7 +359,7 @@ When =|TRC=Truth and Reconciliation Commission of Canada= Chair Justice Murray S
 Visibly shaken, Cavanaugh then went on to acknowledge that children had also been abused in the schools, and he condemned such actions, expressing his sorrow and regret for this breach of trust.
 
 > I can honestly say that our men are hurting too because of the abuse scandal and the rift that this has created between First Nations and church representatives.
-Many of our men who are still working with First Nations have attended various truth <!-- page 021 -->> and reconciliation sessions as well as Returning to Spirit sessions, hoping to bring about healing for all concerned.
+Many of our men who are still working with First Nations have attended various truth <!-- page 021 -->and reconciliation sessions as well as Returning to Spirit sessions, hoping to bring about healing for all concerned.
 The Oblates desire healing for the abused and for all touched by the past breach of trust.
 It is our hope that together we can continue to build a better society.[^40]
 
@@ -564,9 +564,8 @@ The Truth and Reconciliation Commission of Canada was established in 2008 under 
 The Commission was mandated to
 
   * reveal to Canadians the complex truth about the history and the ongoing legacy of the church-run residential schools, in a manner that fully documents the individual and collective harms perpetrated against Aboriginal peoples, and honours the resilience and courage of former students, their families, and communities; and
-  * guide and inspire a process of truth and healing, leading toward reconciliation within Aboriginal families, and between Aboriginal peoples and non-Aboriginal communities, churches, governments, and Canadians generally.
+  * guide and inspire a process of truth and healing, leading toward reconciliation within Aboriginal families, and between Aboriginal peoples and non-Aboriginal communities, churches, governments, and Canadians generally. The process was to work to renew relationships on a basis of inclusion, mutual understanding, and respect.
 
-The process was to work to renew relationships on a basis of inclusion, mutual understanding, and respect.
 More specifically, the Commission was required to hold seven National Events; to gather documents and statements about residential schools and their legacy; to fund truth and reconciliation events at the community level; to recommend commemoration initiatives to the federal government for funding; to set up a research centre that will permanently house the Commission’s records and documents, which the parties were obligated to provide to the Commission, thereby establishing a living legacy of the Commission’s work; and to issue a report with recommendations.
 
 Three Commissioners were appointed in 2008: the Honourable Justice Harry Laforme as Chair, and Jane Brewin-Morley and Claudette Dumont-Smith.
@@ -771,8 +770,7 @@ A Governing Circle and Survivors Circle play important roles in ensuring the pro
 
 ![Tens of thousands participate in the Walk for Reconciliation through downtown Vancouver, September 2013.](image-autofix/page-044.jpg)
 
-The =|NCTR=National Centre for Truth and Reconciliation= also works in direct partnership with a growing number of universities, colleges, and other organizations across the country, including: the University of British Columbia, the University of Winnipeg, l’Université de St.
-Boniface, Carleton University, the University of Regina, Lakehead University, University College of the North, Algoma University, Red River College, the Archives of Manitoba, the Canadian Museum for Human Rights, the National Association of Friendship Centres, the Legacy of Hope Foundation, and le Centre du patrimoine.
+The =|NCTR=National Centre for Truth and Reconciliation= also works in direct partnership with a growing number of universities, colleges, and other organizations across the country, including: the University of British Columbia, the University of Winnipeg, l’Université de St. Boniface, Carleton University, the University of Regina, Lakehead University, University College of the North, Algoma University, Red River College, the Archives of Manitoba, the Canadian Museum for Human Rights, the National Association of Friendship Centres, the Legacy of Hope Foundation, and le Centre du patrimoine.
 The goal is to create the broadest possible network from coast to coast to coast.
 
 Officially opening in the summer of 2015, the =|NCTR=National Centre for Truth and Reconciliation= will be the permanent home for all statements, documents, and other materials gathered by the Commission.
@@ -781,14 +779,10 @@ The =|NCTR=National Centre for Truth and Reconciliation= will encourage and enga
 It will ensure that:
 
   * Survivors and their families have access to their own history;
-
   * educators can share the residential school history with new generations of students;
-
   * researchers can delve more deeply into the residential school experience and legacy;
-
-  * the public can access historical records and other materials to help foster reconciliation and healing; and
-
-<!-- page 045 -->* the history and legacy of the residential school system are never forgotten.
+  * the public can access historical records and other materials to help foster reconciliation and healing; <!-- page 045 -->and
+  * the history and legacy of the residential school system are never forgotten.
 
 The search to understand the truth about Indian residential schools has taken the Truth and Reconciliation Commission to all parts of Canada.
 The Commission has listened to thousands of Survivors give their accounts of the residential school experience and how that experience has shaped their lives.
@@ -1136,7 +1130,7 @@ The school was a failure: parents were reluctant to send their children, and the
 Later efforts in New France met with no greater success.[^77]
 After the British conquest of New France in 1763, the idea of residential schooling lay dormant until the early nineteenth century.
 In the first decade of that century, the New England Company, a British-based missionary society, funded a boarding school operation in Sussex Vale, New Brunswick.
-The goals were to teach young Mi’kmaq and Maliseet children trades and to convert them <!-- page 060 -->to Protestantism.^[78]
+The goals were to teach young Mi’kmaq and Maliseet children trades and to convert them <!-- page 060 -->to Protestantism.[^78]
 In the 1820s, John West, an Anglican missionary from England, opened a boarding school for Aboriginal students at Red River.[^79]
 Although these efforts also failed to take root, in 1834, the Mohawk Institute, a mission school on the Grand River in what is now Ontario, began taking in boarders.[^80]
 This school would remain in operation until 1970.[^81]
