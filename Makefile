@@ -58,8 +58,8 @@ report: $(GOAL)
 $(DOC).md: $(TARGETS)
 	python lib/join-fixed.py $@ $(sort $^)
 
-$(DOC).html: $(DOC).md lib/parse.py
-	python2.7 lib/parse.py $< $@
+$(DOC).html: $(DOC).md lib/compile.py
+	python2.7 lib/compile.py $< $@
 
 $(GOAL): $(DOC).html template.html lib/wrap-html.py
 	python2.7 lib/wrap-html.py $< template.html $@

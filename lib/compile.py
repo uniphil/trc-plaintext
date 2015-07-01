@@ -96,9 +96,7 @@ class PageNumData(Treeprocessor):
                 text, _ = re.subn(pagere, '', text)
             return pages, text
 
-        for el in root.iter():
-            if el.tag == 'div':
-                continue
+        def pull_pages(el):
             pages = set()
             if el.text is not None:
                 to_add, el.text = pull(el.text)
@@ -106,9 +104,16 @@ class PageNumData(Treeprocessor):
             if el.tail is not None:
                 to_add, el.tail = pull(el.tail)
                 pages.update(to_add)
+            for child in el:
+                pages.update(pull_pages(child))
+            return pages
 
+        for el in root[1:]:  # skip [toc]
+            pages = pull_pages(el)
             if len(pages) > 0:
                 el.set('data-p', ' '.join(map(str, sorted(pages))))
+            else:
+                import pdb; pdb.set_trace()
 
 
 class Figcaption(Treeprocessor):
