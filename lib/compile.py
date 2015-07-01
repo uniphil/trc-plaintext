@@ -112,8 +112,6 @@ class PageNumData(Treeprocessor):
             pages = pull_pages(el)
             if len(pages) > 0:
                 el.set('data-p', ' '.join(map(str, sorted(pages))))
-            else:
-                import pdb; pdb.set_trace()
 
 
 class Figcaption(Treeprocessor):
