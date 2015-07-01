@@ -251,7 +251,8 @@
     initTools();
     updateGeom();
     window.addEventListener('resize', updateGeom);
-    document.body.addEventListener('click', hoverSomething);
+    document.body.addEventListener('mouseover', hoverSomething);
+    document.body.addEventListener('click', hoverSomething);  // for mobile
     document.body.addEventListener('mouseout', leaveSomething);
   });
 
