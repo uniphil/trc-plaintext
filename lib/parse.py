@@ -3,6 +3,7 @@
 
 import re
 from functools import reduce
+from collections import defaultdict
 from markdown import Markdown, to_html_string
 from markdown.util import etree
 from markdown.extensions import Extension, toc
@@ -119,6 +120,23 @@ class Figcaption(Treeprocessor):
                 figcaption.text = img.get('alt')
 
 
+class IdFy(Treeprocessor):
+    def run(self, root):
+        headers = defaultdict(int)
+        current_header = ''
+        ixs = defaultdict(int)
+        for el in root[1:]:  # skip [toc]
+            if el.tag in ('h1', 'h2', 'h3', 'h4', 'h5', 'h6'):
+                counted = current_header = toc.slugify(el.text, '-')
+                if headers[counted] > 0:
+                    current_header += '_' + str(headers[counted])
+                headers[counted] += 1
+                ixs = defaultdict(int)
+            else:
+                ixs[el.tag] += 1
+                el.set('id', '-'.join([current_header, el.tag, str(ixs[el.tag])]))
+
+
 class TRCExtension(Extension):
     def extendMarkdown(self, md, md_globals):
         md.preprocessors.add('markpagenum', MarkPagenum(md), '_begin')
@@ -128,6 +146,7 @@ class TRCExtension(Extension):
         md.inlinePatterns.add('implrefs', TagImplRefs(md), '_end')
         md.treeprocessors.add('pagenum', PageNumData(md), '_end')
         md.treeprocessors.add('figcaption', Figcaption(md), '_end')
+        md.treeprocessors.add('idfy', IdFy(md), '_end')
 
 
 class TRCMarkdown(Markdown):
@@ -161,7 +180,6 @@ if __name__ == '__main__':
         extensions=[
             TRCExtension(),
             toc.TocExtension(permalink=True),
-            OutlineExtension({}),
         ])
     out = md.convert(source)
     with open(md.output_folder + outName, 'w') as f:
