@@ -13,11 +13,13 @@
       html { line-height: 1.5em; }
     }
 
+    .wrap {
+      display: flex;
+      justify-content: center;
+    }
+
     .doc {
-      position: relative;
       max-width: 36em;
-      margin: 0 auto;
-      padding: 0 5%;
     }
 
     .toc ul ul ul {
@@ -181,10 +183,8 @@
     }
 
     .control-col {
-      position: absolute;
-      top: 0;
-      left: 100%;
-      height: 100%;
+      position: relative;
+      margin-left: 1em;
     }
     .control {
       display: none;  /* gets set to 'block' via JS */
@@ -293,18 +293,18 @@
 
 </script>
 
-<div class="doc">
+<div class="wrap">
 
-  <header>
-    <h1>Honouring the Truth, Reconciling for the Future</h1>
-    <h2>Summary of the Final Report of the Truth and Reconciliation Commission of Canada</h2>
-    <p>This web version of the Report is an <a href="https://github.com/uniphil/trc-plaintext">unofficial plain-text extract</a> of the <a href="http://www.trc.ca/websites/trcinstitution/File/2015/Findings/Exec_Summary_2015_05_31_web_o.pdf">original</a>(PDF, 14MB) published by the <a href="http://trc.ca">The Truth and Reconciliation Commission of Canada</a>.</p>
-    <p>It is aimed at making the Report more accessible.</p>
-  </header>
-
-  <h1>Contents</h1>
-
-  {contents}
+  <div class="doc">
+    <header>
+      <h1>Honouring the Truth, Reconciling for the Future</h1>
+      <h2>Summary of the Final Report of the Truth and Reconciliation Commission of Canada</h2>
+      <p>This web version of the Report is an <a href="https://github.com/uniphil/trc-plaintext">unofficial plain-text extract</a> of the <a href="http://www.trc.ca/websites/trcinstitution/File/2015/Findings/Exec_Summary_2015_05_31_web_o.pdf">original</a>(PDF, 14MB) published by the <a href="http://trc.ca">The Truth and Reconciliation Commission of Canada</a>.</p>
+      <p>It is aimed at making the Report more accessible.</p>
+    </header>
+    <h1>Contents</h1>
+    {contents}
+  </div>
 
   <div class="control-col">
     <div class="control">
@@ -318,7 +318,6 @@
   </div>
 
 </div>
-
 
 <script>
   (function() {
