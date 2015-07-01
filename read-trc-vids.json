@@ -1,69 +1,240 @@
 [
   {
     "pl": 1,
-    "pg": 1,
     "reader": "Zoe Todd",
     "yt": "vW4lQfOfl3I",
+    "markers": [
+      {
+        "id": "introduction",
+        "t": "1:09"
+      },
+      {
+        "id": "introduction-blockquote-1",
+        "t": "4:20"
+      },
+      {
+        "id": "reconciliation-at-the-crossroads",
+        "t": "13:00"
+      },
+      {
+        "id": "reconciliation-at-the-crossroads-blockquote-1",
+        "t": "15:21"
+      },
+      {
+        "id": "reconciliation-at-the-crossroads-p-10",
+        "end": "19:36"
+      }
+    ]
   },
   {
     "pl": 2,
-    "pg": 8,
     "reader": "Erica Violet Lee",
-    "yt": "h9c_cNl_lMo"
+    "yt": "h9c_cNl_lMo",
+    "markers": [
+      {
+        "id": "reconciliation-at-the-crossroads-p-11",
+        "t": "0:12"
+      },
+      {
+        "id": "reconciliation-at-the-crossroads-blockquote-2",
+        "t": "0:32"
+      },
+      {
+        "id": "reconciliation-at-the-crossroads-blockquote-3",
+        "t": "1:18"
+      },
+      {
+        "id": "reconciliation-at-the-crossroads-blockquote-4",
+        "t": "1:52"
+      },
+      {
+        "id": "reconciliation-at-the-crossroads-blockquote-5",
+        "t": "3:00"
+      },
+      {
+        "id": "reconciliation-at-the-crossroads-blockquote-6",
+        "t": "4:21"
+      },
+      {
+        "id": "reconciliation-at-the-crossroads-blockquote-7",
+        "t": "7:31"
+      },
+      {
+        "id": "reconciliation-at-the-crossroads-blockquote-8",
+        "t": "8:16"
+      },
+      {
+        "id": "reconciliation-at-the-crossroads-blockquote-9",
+        "t": "8:45"
+      },
+      {
+        "id": "reconciliation-at-the-crossroads-blockquote-10",
+        "t": "9:44"
+      },
+      {
+        "id": "reconciliation-at-the-crossroads-blockquote-11",
+        "t": "10:56"
+      },
+      {
+        "id": "reconciliation-at-the-crossroads-blockquote-12",
+        "t": "12:12"
+      },
+      {
+        "id": "reconciliation-at-the-crossroads-blockquote-13",
+        "t": "13:07"
+      },
+      {
+        "id": "reconciliation-at-the-crossroads-blockquote-14",
+        "t": "13:40"
+      },
+      {
+        "id": "reconciliation-at-the-crossroads-blockquote-15",
+        "t": "14:59"
+      },
+      {
+        "id": "reconciliation-at-the-crossroads-p-33",
+        "end": "15:56"
+      }
+    ]
   },
   {
     "pl": 3,
-    "pg": 16,
     "reader": "Joseph Murdoch-Flowers",
-    "yt": "ROsqCxEe6kA"
+    "yt": "ROsqCxEe6kA",
+    "markers": [
+      {
+        "id": "what-is-reconciliation",
+        "t": "0:16"
+      },
+      {
+        "id": "reconciliation-as-relationship",
+        "t": "13:22"
+      },
+      {
+        "id": "reconciliation-as-relationship-p-3",
+        "end": "15:54"
+      }
+    ]
   },
   {
     "pl": 4,
-    "pg": 29,
     "reader": "Annamaria Enenajor",
-    "yt": "14fs3JP7xR4"
+    "yt": "14fs3JP7xR4",
+    "markers": [
+      {
+        "id": "meeting-from-coast-to-coast",
+        "t": "0:25"
+      },
+      {
+        "id": "meeting-from-coast-to-coast-p-2",
+        "end": "2:03"
+      }
+    ]
   },
   {
     "pl": 5,
-    "pg": 29,
     "reader": "Johnny Kasudluak",
-    "yt": "K-pqQFTeu14"
+    "yt": "K-pqQFTeu14",
+    "markers": [
+      {
+        "id": "statement-gathering",
+        "t": "0:19"
+      },
+      {
+        "id": "statement-gathering-p-15",
+        "end": "13:11"
+      }
+    ]
   },
   {
     "pl": 6,
-    "pg": 35,
     "reader": "Mark Jarvis",
-    "yt": "XTrjh58PuPI"
+    "yt": "XTrjh58PuPI",
+    "markers": [
+      {
+        "id": "witnessing-and-expressions-of-reconciliation",
+        "t": "0:20",
+      },
+      {
+        "id": "witnessing-and-expressions-of-reconciliation-p-3",
+        "end": "2:34",
+      }
+    ]
   },
   {
     "pl": 7,
-    "pg": 37,
     "reader": "@ClintDavis_TD",
-    "yt": "p44GgWVBZyk"
+    "yt": "p44GgWVBZyk",
+    "markers": [
+      {
+        "id": "interim-report",
+        "t": "0:00"
+      },
+      {
+        "id": "interim-report-p-1",
+        "end": "0:32"
+      }
+    ]
   },
   {
     "pl": 8,
-    "pg": 37,
     "reader": "Dominic Bell",
-    "yt": "BTHdZ3FvKi8"
+    "yt": "BTHdZ3FvKi8",
+    "markers": [
+      {
+        "id": "national-centre-for-truth-and-reconciliation",
+        "t": "0:13"
+      },
+      {
+        "id": "national-centre-for-truth-and-reconciliation-p-5",
+        "end": "3:24"
+      }
+    ]
   },
   {
     "pl": 9,
-    "pg": 41,
     "reader": "Keavy Martin",
-    "yt": "KVbmfWRvY44"
+    "yt": "KVbmfWRvY44",
+    "markers": [
+      {
+        "id": "the-history",
+        "t": "0:34"
+      },
+      {
+        "id": "the-history-p-21",
+        "end": "16:17"
+      }
+    ]
   },
   {
     "pl": 10,
-    "pg": 47,
     "reader": "Julie Kaye",
-    "yt": "sIz-BpiZtrI"
+    "yt": "sIz-BpiZtrI",
+    "markers": [
+      {
+        "id": "the-imperial-context",
+        "t": "0:20"
+      },
+      {
+        "id": "the-imperial-context-p-17",
+        "end": "18:36"
+      }
+    ]
   },
   {
     "pl": 11,
-    "pg": 53,
     "reader": "Julia Feuer-Cotter",
-    "yt": "3BSJQYUvmDs"
+    "yt": "3BSJQYUvmDs",
+    "markers": [
+      {
+        "id": "residential-schools-in-pre-confederation-canada",
+        "t": "0:36",
+      },
+      {
+        "id": "residential-schools-in-pre-confederation-canada-p-3",
+        "end": "3:38"
+      }
+    ]
   },
   {
     "pl": 12,
