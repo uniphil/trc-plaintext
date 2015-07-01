@@ -140,54 +140,6 @@
       cursor: help;
     }
 
-    .tools {
-      z-index: 1;
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100%;
-      padding: 0 1em;
-      font-size: 12pt;
-      background: #f7f7f7;
-      border-bottom: 1px solid #ccc;
-    }
-    input {
-      background: #fff;
-      border: 1px solid #ccc;
-    }
-    #page-number {
-      -moz-appearance: textfield;
-      width: 3em;
-    }
-    button {
-      background: #fff;
-      border: 1px solid #7ac;
-      border-radius: 0.2em;
-    }
-    button:hover {
-      cursor: pointer;
-    }
-    #report {
-      color: #133952;
-    }
-    .to-submit #report {
-      display: none;
-    }
-
-    .what {
-      position: absolute;
-      left: -9999em;
-    }
-    .to-submit .what {
-      position: static;
-    }
-    form {
-      line-height: 2em;
-    }
-    label {
-      font-size: 10pt;
-    }
-
     .control-col {
       position: relative;
       min-width: 4em;
@@ -7706,25 +7658,6 @@ Other communities can do similar things.</p>
   </div>
 
 </div>
-
-<script>
-  (function() {
-    var sections = document.querySelectorAll('section');
-    Array.prototype.forEach.call(sections, function(s) {
-      s.removeAttribute('data-p');
-    });
-    var emsbs = document.querySelectorAll('em,strong');
-    Array.prototype.forEach.call(emsbs, function(el) {
-      var ps;
-      if ((ps = el.getAttribute('data-p')) !== null) {
-        el.removeAttribute('data-p');
-        if (el.parentNode.getAttribute('data-p') === null) {
-          el.parentNode.setAttribute('data-p', ps);
-        }
-      }
-    });
-  })();
-</script>
 
 </body>
 </html>
