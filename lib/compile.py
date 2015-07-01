@@ -182,7 +182,7 @@ if __name__ == '__main__':
         output_folder='./',
         extensions=[
             TRCExtension(),
-            toc.TocExtension(permalink=True),
+            toc.TocExtension(),
             OutlineExtension([('move_attrib', False)]),
         ])
     out = md.convert(source)

@@ -192,6 +192,7 @@
       margin-top: 0.4em;
       line-height: 1.5em;
       color: #999;
+      transition: top 0.25s ease-in-out;
     }
     .control ul,
     .control li {
@@ -214,6 +215,9 @@
       font-weight: bold;
       text-decoration: none;
       background: #ddd;
+    }
+    .control a:hover {
+      background: #7ac;
     }
     .control .page {
       font-size: 12pt;
@@ -307,7 +311,7 @@
       <ul>
         <li><a class="sharelink" title="Permanent link">¶</a></li>
         <!--<li><a class="watchlink">Watch</a></li>-->
-        <li><a class="reportlink" target="_blank">!</a></li>
+        <li><a class="reportlink" title="Report formatting issue" target="_blank">!</a></li>
       </ul>
       <p class="page">p. <span class="pageno"></span></p>
     </div>
