@@ -167,7 +167,7 @@
     }
     .control a {
       display: inline-block;
-      margin: 1px 0;
+      margin: 1px 4px 0 0;
       width: 1.5em;
       text-align: center;
       color: #fff;
@@ -181,6 +181,13 @@
     .control .page {
       font-size: 12pt;
       font-style: italic;
+    }
+
+    .interact {
+      display: flex;
+    }
+    .interact iframe {
+      width: 100%;
     }
 
   </style>
@@ -265,24 +272,26 @@
         candidate_i = candidates.indexOf(target),
         vid;
 
-    console.log('init candidate id', candidate_i, candidates, V_BY_ID);
-
     while (!(vid = V_BY_ID[candidates[candidate_i].id]) && candidate_i--);
 
     var marker = null;
     vid.markers.forEach(function(m, i) {
       if (m.id === candidates[candidate_i].id) {
-        if (m.end) {
-          marker = vid.markers[i-1];
-        } else {
-          marker = m;
-        }
+        marker = m.end ? vid.markers[i-1] : m;
       }
     });
+    var tParam = '&amp;start=' + minsToSeconds(marker.t),
+        embedURL = [YT_BASE, vid.yt, YT_OPTS, tParam].join('');
 
-    var tParam = '&amp;start=' + minsToSeconds(marker.t);
 
-    control.video.src = [YT_BASE, vid.yt, YT_OPTS, tParam].join('');
+    var embed = document.createElement('iframe');
+    embed.setAttribute('width', 560);
+    embed.setAttribute('height', 315);
+    embed.setAttribute('frameborder', 0);
+    embed.setAttribute('allowfullscreen', true);
+    embed.setAttribute('src', embedURL);
+    control.video.innerHTML = '';
+    control.video.appendChild(embed);
   }
 
   function leaveSomething(e) {
@@ -7686,15 +7695,20 @@ Other communities can do similar things.</p>
 
   <div class="control-col">
     <div class="control">
-      <ul class="buttons">
-        <li><a class="sharelink" title="Permanent link">¶</a></li>
-        <li><a class="watchlink" title="#ReadTheTRCReport video of this being read" href="#">▶</a></li>
-        <li><a class="reportlink" title="Report formatting issue" target="_blank">!</a></li>
-      </ul>
-      <iframe class="video" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+      <div class="interact">
+        <ul class="buttons">
+          <li><a class="sharelink" title="Permanent link">¶</a></li>
+          <li><a class="watchlink" title="Watch and listen to this section via #ReadTheTRCReport" href="#">▶</a></li>
+          <li><a class="reportlink" title="Report formatting issue" target="_blank">!</a></li>
+        </ul>
+        <div class="video">
+        </div>
+      </div>
       <p class="page">p. <span class="pageno"></span></p>
     </div>
   </div>
+
+  <div class="video"></div>
 
 </div>
 
