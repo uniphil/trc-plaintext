@@ -277,7 +277,7 @@
     var marker = null;
     vid.markers.forEach(function(m, i) {
       if (m.id === candidates[candidate_i].id) {
-        marker = m.end ? vid.markers[i-1] : m;
+        marker = m.end ? m.t ? m : vid.markers[i-1] : m;
       }
     });
     var tParam = '&amp;start=' + minsToSeconds(marker.t),
