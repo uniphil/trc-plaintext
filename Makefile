@@ -61,8 +61,8 @@ $(DOC).md: $(TARGETS)
 $(DOC).html: $(DOC).md lib/compile.py
 	python2.7 lib/compile.py $< $@
 
-$(GOAL): $(DOC).html template.html lib/wrap-html.py
-	python2.7 lib/wrap-html.py $< template.html $@
+$(GOAL): $(DOC).html template.html read-trc-vids.json lib/wrap-html.py
+	python2.7 lib/wrap-html.py $< template.html read-trc-vids.json $@
 
 ###### FOR HUMANS (get an editable copy)
 HUMAN := $(TARGETS:$(FIXED)/%.md=$(FOR_HUMANS)/%.md)
