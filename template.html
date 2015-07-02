@@ -189,15 +189,13 @@
 <script>
 
   var PDF_PAGE_OFFSET = -6,
-      REPORT_BASE = 'https://docs.google.com/forms/d/1b3BHh2tI85uf0q36lrm1iIXO7Y2sYr8opusXHOjYLOc/viewform';
-
-  function offsetTop(el) {
-    for (var y=el.offsetTop; el=el.offsetParent; y += el.offsetTop);
-    return y;
-  }
+      REPORT_BASE = 'https://docs.google.com/forms/d/1b3BHh2tI85uf0q36lrm1iIXO7Y2sYr8opusXHOjYLOc/viewform',
+      YT_BASE = 'https://www.youtube-nocookie.com/embed/',
+      YT_OPTS = '?showinfo=0&amp;autoplay=1';
 
   var control = {},
-      controlOffset;
+      controlOffset,
+      currentId;
 
   window.addEventListener('load', function() {
     initTools();
@@ -206,7 +204,13 @@
     document.body.addEventListener('mouseover', hoverSomething);
     document.body.addEventListener('click', hoverSomething);  // for mobile
     document.body.addEventListener('mouseout', leaveSomething);
+    control.watch.addEventListener('click', playVideo);
   });
+
+  function offsetTop(el) {
+    for (var y=el.offsetTop; el=el.offsetParent; y += el.offsetTop);
+    return y;
+  }
 
   function updateGeom() {
     controlOffset = -offsetTop(control.col);
@@ -219,6 +223,7 @@
     control.share = control.box.querySelector('.sharelink');
     control.watch = control.box.querySelector('.watchlink');
     control.report = control.box.querySelector('.reportlink');
+    control.video = control.box.querySelector('.video');
   }
 
   function hoverSomething(e) {
@@ -227,24 +232,51 @@
     while (!(dataP = t.getAttribute('data-p'))) {
       if ((t = t.parentNode) === document) { return; }
     }
+    currentId = t.id;
     var pages = t.getAttribute('data-p').split(' ')
       .map(function(p) { return parseInt(p) + PDF_PAGE_OFFSET; });
 
     control.box.style.display = 'block';
     control.box.style.top = offsetTop(t) + controlOffset + 'px';
 
-    control.share.href = '#' + t.id;
+    control.share.href = '#' + currentId;
 
     control.report.href = [
       REPORT_BASE,
       [
         ['entry.545447823', pages.join(',')].join('='),
-        ['entry.1968688779', t.id].join('='),
+        ['entry.1968688779', currentId].join('='),
       ].join('&'),
     ].join('?');
 
     control.p.innerHTML = pages.join(', ');
 
+  }
+
+  function minsToSeconds(s) {
+    var z = s.split(':').map(function(n) { return parseInt(n); });
+    return z[0] * 60 + z[1];
+  }
+
+  function playVideo(e) {
+    e.preventDefault();
+    var target = document.getElementById(currentId),
+        candidates = Array.prototype.slice.apply(document.querySelectorAll('[data-p]')),
+        candidate_i = candidates.indexOf(target),
+        vid;
+
+    while (!(vid = V_BY_ID[candidates[candidate_i].id]) && candidate_i--);
+
+    var marker = null;
+    vid.markers.forEach(function(m, i) {
+      if (m.id === candidates[candidate_i].id) {
+        marker = m.end ? vid.markers[i-1] : m;
+      }
+    });
+    var tParam = '&amp;start=' + minsToSeconds(marker.t);
+
+
+    control.video.src = [YT_BASE, vid.yt, YT_OPTS, tParam].join('');
   }
 
   function leaveSomething(e) {
@@ -267,16 +299,30 @@
 
   <div class="control-col">
     <div class="control">
-      <ul>
+      <ul class="buttons">
         <li><a class="sharelink" title="Permanent link">¶</a></li>
-        <!--<li><a class="watchlink">Watch</a></li>-->
+        <li><a class="watchlink" title="#ReadTheTRCReport video of this being read" href="#">▶</a></li>
         <li><a class="reportlink" title="Report formatting issue" target="_blank">!</a></li>
       </ul>
+      <iframe class="video" width="560" height="315" frameborder="0" allowfullscreen></iframe>
       <p class="page">p. <span class="pageno"></span></p>
     </div>
   </div>
 
 </div>
+
+<script>
+  var VIDEOS = {videos},
+      V_BY_ID = {};
+
+  VIDEOS.forEach(function(vidStuff) {
+    if (!vidStuff.markers) { return; }
+    vidStuff.markers.forEach(function(marker) {
+      V_BY_ID[marker.id] = vidStuff;
+    });
+  });
+
+</script>
 
 </body>
 </html>

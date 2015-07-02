@@ -189,15 +189,13 @@
 <script>
 
   var PDF_PAGE_OFFSET = -6,
-      REPORT_BASE = 'https://docs.google.com/forms/d/1b3BHh2tI85uf0q36lrm1iIXO7Y2sYr8opusXHOjYLOc/viewform';
-
-  function offsetTop(el) {
-    for (var y=el.offsetTop; el=el.offsetParent; y += el.offsetTop);
-    return y;
-  }
+      REPORT_BASE = 'https://docs.google.com/forms/d/1b3BHh2tI85uf0q36lrm1iIXO7Y2sYr8opusXHOjYLOc/viewform',
+      YT_BASE = 'https://www.youtube-nocookie.com/embed/',
+      YT_OPTS = '?showinfo=0&amp;autoplay=1';
 
   var control = {},
-      controlOffset;
+      controlOffset,
+      currentId;
 
   window.addEventListener('load', function() {
     initTools();
@@ -206,7 +204,13 @@
     document.body.addEventListener('mouseover', hoverSomething);
     document.body.addEventListener('click', hoverSomething);  // for mobile
     document.body.addEventListener('mouseout', leaveSomething);
+    control.watch.addEventListener('click', playVideo);
   });
+
+  function offsetTop(el) {
+    for (var y=el.offsetTop; el=el.offsetParent; y += el.offsetTop);
+    return y;
+  }
 
   function updateGeom() {
     controlOffset = -offsetTop(control.col);
@@ -219,6 +223,7 @@
     control.share = control.box.querySelector('.sharelink');
     control.watch = control.box.querySelector('.watchlink');
     control.report = control.box.querySelector('.reportlink');
+    control.video = control.box.querySelector('.video');
   }
 
   function hoverSomething(e) {
@@ -227,24 +232,57 @@
     while (!(dataP = t.getAttribute('data-p'))) {
       if ((t = t.parentNode) === document) { return; }
     }
+    currentId = t.id;
     var pages = t.getAttribute('data-p').split(' ')
       .map(function(p) { return parseInt(p) + PDF_PAGE_OFFSET; });
 
     control.box.style.display = 'block';
     control.box.style.top = offsetTop(t) + controlOffset + 'px';
 
-    control.share.href = '#' + t.id;
+    control.share.href = '#' + currentId;
 
     control.report.href = [
       REPORT_BASE,
       [
         ['entry.545447823', pages.join(',')].join('='),
-        ['entry.1968688779', t.id].join('='),
+        ['entry.1968688779', currentId].join('='),
       ].join('&'),
     ].join('?');
 
     control.p.innerHTML = pages.join(', ');
 
+  }
+
+  function minsToSeconds(s) {
+    var z = s.split(':').map(function(n) { return parseInt(n); });
+    return z[0] * 60 + z[1];
+  }
+
+  function playVideo(e) {
+    e.preventDefault();
+    var target = document.getElementById(currentId),
+        candidates = Array.prototype.slice.apply(document.querySelectorAll('[data-p]')),
+        candidate_i = candidates.indexOf(target),
+        vid;
+
+    console.log('init candidate id', candidate_i, candidates, V_BY_ID);
+
+    while (!(vid = V_BY_ID[candidates[candidate_i].id]) && candidate_i--);
+
+    var marker = null;
+    vid.markers.forEach(function(m, i) {
+      if (m.id === candidates[candidate_i].id) {
+        if (m.end) {
+          marker = vid.markers[i-1];
+        } else {
+          marker = m;
+        }
+      }
+    });
+
+    var tParam = '&amp;start=' + minsToSeconds(marker.t);
+
+    control.video.src = [YT_BASE, vid.yt, YT_OPTS, tParam].join('');
   }
 
   function leaveSomething(e) {
@@ -7648,16 +7686,678 @@ Other communities can do similar things.</p>
 
   <div class="control-col">
     <div class="control">
-      <ul>
+      <ul class="buttons">
         <li><a class="sharelink" title="Permanent link">¶</a></li>
-        <!--<li><a class="watchlink">Watch</a></li>-->
+        <li><a class="watchlink" title="#ReadTheTRCReport video of this being read" href="#">▶</a></li>
         <li><a class="reportlink" title="Report formatting issue" target="_blank">!</a></li>
       </ul>
+      <iframe class="video" width="560" height="315" frameborder="0" allowfullscreen></iframe>
       <p class="page">p. <span class="pageno"></span></p>
     </div>
   </div>
 
 </div>
+
+<script>
+  var VIDEOS = [
+  {
+    "pl": 1,
+    "reader": "Zoe Todd",
+    "yt": "vW4lQfOfl3I",
+    "markers": [
+      {
+        "id": "introduction",
+        "t": "1:09"
+      },
+      {
+        "id": "introduction-blockquote-1",
+        "t": "4:20"
+      },
+      {
+        "id": "reconciliation-at-the-crossroads",
+        "t": "13:00"
+      },
+      {
+        "id": "reconciliation-at-the-crossroads-blockquote-1",
+        "t": "15:21"
+      },
+      {
+        "id": "reconciliation-at-the-crossroads-p-10",
+        "end": "19:36"
+      }
+    ]
+  },
+  {
+    "pl": 2,
+    "reader": "Erica Violet Lee",
+    "yt": "h9c_cNl_lMo",
+    "markers": [
+      {
+        "id": "reconciliation-at-the-crossroads-p-11",
+        "t": "0:12"
+      },
+      {
+        "id": "reconciliation-at-the-crossroads-blockquote-2",
+        "t": "0:32"
+      },
+      {
+        "id": "reconciliation-at-the-crossroads-blockquote-3",
+        "t": "1:18"
+      },
+      {
+        "id": "reconciliation-at-the-crossroads-blockquote-4",
+        "t": "1:52"
+      },
+      {
+        "id": "reconciliation-at-the-crossroads-blockquote-5",
+        "t": "3:00"
+      },
+      {
+        "id": "reconciliation-at-the-crossroads-blockquote-6",
+        "t": "4:21"
+      },
+      {
+        "id": "reconciliation-at-the-crossroads-blockquote-7",
+        "t": "7:31"
+      },
+      {
+        "id": "reconciliation-at-the-crossroads-blockquote-8",
+        "t": "8:16"
+      },
+      {
+        "id": "reconciliation-at-the-crossroads-blockquote-9",
+        "t": "8:45"
+      },
+      {
+        "id": "reconciliation-at-the-crossroads-blockquote-10",
+        "t": "9:44"
+      },
+      {
+        "id": "reconciliation-at-the-crossroads-blockquote-11",
+        "t": "10:56"
+      },
+      {
+        "id": "reconciliation-at-the-crossroads-blockquote-12",
+        "t": "12:12"
+      },
+      {
+        "id": "reconciliation-at-the-crossroads-blockquote-13",
+        "t": "13:07"
+      },
+      {
+        "id": "reconciliation-at-the-crossroads-blockquote-14",
+        "t": "13:40"
+      },
+      {
+        "id": "reconciliation-at-the-crossroads-blockquote-15",
+        "t": "14:59"
+      },
+      {
+        "id": "reconciliation-at-the-crossroads-p-33",
+        "end": "15:56"
+      }
+    ]
+  },
+  {
+    "pl": 3,
+    "reader": "Joseph Murdoch-Flowers",
+    "yt": "ROsqCxEe6kA",
+    "markers": [
+      {
+        "id": "what-is-reconciliation",
+        "t": "0:16"
+      },
+      {
+        "id": "reconciliation-as-relationship",
+        "t": "13:22"
+      },
+      {
+        "id": "reconciliation-as-relationship-p-3",
+        "end": "15:54"
+      }
+    ]
+  },
+  {
+    "pl": 4,
+    "reader": "Annamaria Enenajor",
+    "yt": "14fs3JP7xR4",
+    "markers": [
+      {
+        "id": "meeting-from-coast-to-coast",
+        "t": "0:25"
+      },
+      {
+        "id": "meeting-from-coast-to-coast-p-2",
+        "end": "2:03"
+      }
+    ]
+  },
+  {
+    "pl": 5,
+    "reader": "Johnny Kasudluak",
+    "yt": "K-pqQFTeu14",
+    "markers": [
+      {
+        "id": "statement-gathering",
+        "t": "0:19"
+      },
+      {
+        "id": "statement-gathering-p-15",
+        "end": "13:11"
+      }
+    ]
+  },
+  {
+    "pl": 6,
+    "reader": "Mark Jarvis",
+    "yt": "XTrjh58PuPI",
+    "markers": [
+      {
+        "id": "witnessing-and-expressions-of-reconciliation",
+        "t": "0:20",
+      },
+      {
+        "id": "witnessing-and-expressions-of-reconciliation-p-3",
+        "end": "2:34",
+      }
+    ]
+  },
+  {
+    "pl": 7,
+    "reader": "@ClintDavis_TD",
+    "yt": "p44GgWVBZyk",
+    "markers": [
+      {
+        "id": "interim-report",
+        "t": "0:00"
+      },
+      {
+        "id": "interim-report-p-1",
+        "end": "0:32"
+      }
+    ]
+  },
+  {
+    "pl": 8,
+    "reader": "Dominic Bell",
+    "yt": "BTHdZ3FvKi8",
+    "markers": [
+      {
+        "id": "national-centre-for-truth-and-reconciliation",
+        "t": "0:13"
+      },
+      {
+        "id": "national-centre-for-truth-and-reconciliation-p-5",
+        "end": "3:24"
+      }
+    ]
+  },
+  {
+    "pl": 9,
+    "reader": "Keavy Martin",
+    "yt": "KVbmfWRvY44",
+    "markers": [
+      {
+        "id": "the-history",
+        "t": "0:34"
+      },
+      {
+        "id": "the-history-p-21",
+        "end": "16:17"
+      }
+    ]
+  },
+  {
+    "pl": 10,
+    "reader": "Julie Kaye",
+    "yt": "sIz-BpiZtrI",
+    "markers": [
+      {
+        "id": "the-imperial-context",
+        "t": "0:20"
+      },
+      {
+        "id": "the-imperial-context-p-17",
+        "end": "18:36"
+      }
+    ]
+  },
+  {
+    "pl": 11,
+    "reader": "Julia Feuer-Cotter",
+    "yt": "3BSJQYUvmDs",
+    "markers": [
+      {
+        "id": "residential-schools-in-pre-confederation-canada",
+        "t": "0:36",
+      },
+      {
+        "id": "residential-schools-in-pre-confederation-canada-p-3",
+        "end": "3:38"
+      }
+    ]
+  },
+  {
+    "pl": 12,
+    "pg": 54,
+    "reader": "Christina Williamson",
+    "yt": "S9IbjdbGnfA"
+  },
+  {
+    "pl": 13,
+    "pg": 57,
+    "reader": "Tishina Makokis",
+    "yt": "clEumjiGsvY"
+  },
+  {
+    "pl": 14,
+    "pg": 58,
+    "reader": "Francis Levesque",
+    "yt": "YzZa499rNLM"
+  },
+  {
+    "pl": 15,
+    "pg": 62,
+    "reader": "Toots Royale",
+    "yt": "GP69lkcFih8"
+  },
+  {
+    "pl": 16,
+    "pg": 63,
+    "reader": "dentata",
+    "yt": "VFuWjwKzQkU"
+  },
+  {
+    "pl": 17,
+    "pg": 67,
+    "reader": "Kelly Black",
+    "yt": "Q4_dfE1Ag2c"
+  },
+  {
+    "pl": 18,
+    "pg": 68,
+    "reader": "Justin Wiebe",
+    "yt": "BtlWHfB317g"
+  },
+  {
+    "pl": 19,
+    "pg": 71,
+    "reader": "Anne Crawford",
+    "yt": "PNzVbrl2fPc"
+  },
+  {
+    "pl": 20,
+    "pg": 88,
+    "reader": "Ian Mosby",
+    "yt": "HFmLffq0RPQ"
+  },
+  {
+    "pl": 21,
+    "pg": 97,
+    "reader": "Jane Murdoch-Flowers",
+    "yt": "q28kqrWDHis"
+  },
+  {
+    "pl": 22,
+    "pg": 101,
+    "reader": "Michael Dudley",
+    "yt": "f-1AtQyRQR8"
+  },
+  {
+    "pl": 23,
+    "pg": 103,
+    "reader": "Shane Henry",
+    "yt": "uZ6gkxf8Xic"
+  },
+  {
+    "pl": 24,
+    "pg": 116,
+    "reader": "Rob Innes",
+    "yt": "PnesXu-sqNw"
+  },
+  {
+    "pl": 25,
+    "pg": 122,
+    "reader": "jackooloosie",
+    "yt": "7MW1m-5u7dU"
+  },
+  {
+    "pl": 26,
+    "pg": 123,
+    "reader": "Ryan O",
+    "yt": "DA_n8k8mVbc"
+  },
+  {
+    "pl": 27,
+    "pg": 186,
+    "reader": "V15A5FOZDx0",
+    "yt": "Meena K. Gupta"
+  },
+  {
+    "pl": 28,
+    "pg": 188,
+    "reader": "Julia Feuer-cotter",
+    "yt": "JX2ufwA1sDA"
+  },
+  {
+    "pl": 29,
+    "pg": 189,
+    "reader": "Charlie Flowers",
+    "yt": "xCGFSBke5Qo"
+  },
+  {
+    "pl": 30,
+    "pg": 190,
+    "reader": "Jessie Loyer",
+    "yt": "7ibog4lRmCk"
+  },
+  {
+    "pl": 31,
+    "pg": 190,
+    "reader": "Catherine Clune-Taylor",
+    "yt": "d8ryY1ZgGOM"
+  },
+  {
+    "pl": 32,
+    "pg": 193,
+    "reader": "Jessica Dunkin",
+    "yt": "i0JOq0Fm3js"
+  },
+  {
+    "pl": 33,
+    "pg": 196,
+    "reader": "Jean-Frédérick Ménard",
+    "yt": "A8QBi0NUG2U"
+  },
+  {
+    "pl": 34,
+    "pg": 198,
+    "reader": "Sara Komarnisky",
+    "yt": "u0yQkPJNQWY"
+  },
+  {
+    "pl": 35,
+    "pg": 200,
+    "reader": "Daniel Rück",
+    "yt": "gJIUEnTyfps"
+  },
+  {
+    "pl": 36,
+    "pg": 202,
+    "reader": "Jeremy Klaszus",
+    "yt": "zyp_JzTZmN8"
+  },
+  {
+    "pl": 37,
+    "pg": 203,
+    "reader": "Tyson Kerr",
+    "yt": "ZI8h9CwqJT0"
+  },
+  {
+    "pl": 38,
+    "pg": 205,
+    "reader": "Qallunette Qallunette",
+    "yt": "3VWXMTaZ160"
+  },
+  {
+    "pl": 39,
+    "pg": 205,
+    "reader": "Anne J",
+    "yt": "ctiWEAElLc0"
+  },
+  {
+    "pl": 40,
+    "pg": 208,
+    "reader": "Allison Karch",
+    "yt": "EEi_rPCagVM"
+  },
+  {
+    "pl": 41,
+    "pg": 211,
+    "reader": "Rochini Nair",
+    "yt": "pYZqFHYKWcY"
+  },
+  {
+    "pl": 42,
+    "pg": 213,
+    "reader": "Emily Cameron",
+    "yt": "_EY7c2U7S6E"
+  },
+  {
+    "pl": 43,
+    "pg": 214,
+    "reader": "WJ Flowers",
+    "yt": "-m8oFEjQCTg"
+  },
+  {
+    "pl": 44,
+    "pg": 216,
+    "reader": "Bill Flowers",
+    "yt": "aXMJuHZdXeE"
+  },
+  {
+    "pl": 45,
+    "pg": 217,
+    "reader": "Jessica Penney",
+    "yt": "dWFix5VfkTA"
+  },
+  {
+    "pl": 46,
+    "pg": 220,
+    "reader": "whitebear188",
+    "yt": "lltsHlS2g50"
+  },
+  {
+    "pl": 47,
+    "pg": 221,
+    "reader": "Lorraine Glendenning",
+    "yt": "BLfmxwJup6U"
+  },
+  {
+    "pl": 48,
+    "pg": 224,
+    "reader": "realanhaga",
+    "yt": "U0BokMehFW0"
+  },
+  {
+    "pl": 49,
+    "pg": 237,
+    "reader": "polarbarrister",
+    "yt": "lkE9vGrrJVk"
+  },
+  {
+    "pl": 50,
+    "pg": 245,
+    "reader": "Adele Perry",
+    "yt": "cvmrlVQu9kU"
+  },
+  {
+    "pl": 51,
+    "pg": 249,
+    "reader": "Tara Joly",
+    "yt": "z1vcy_uNAys"
+  },
+  {
+    "pl": 52,
+    "pg": 249,
+    "reader": "Marika Warren",
+    "yt": "c33A1m2nOFs"
+  },
+  {
+    "pl": 53,
+    "pg": 251,
+    "reader": "Anna St. Onge",
+    "yt": "JLRdJIgsdSQ"
+  },
+  {
+    "pl": 54,
+    "pg": 253,
+    "reader": "Stuart Somerville",
+    "yt": "2kb5YwERmfo"
+  },
+  {
+    "pl": 55,
+    "pg": 255,
+    "reader": "Richard Daly",
+    "yt": "wXW9uYkTGko"
+  },
+  {
+    "pl": 56,
+    "pg": 263,
+    "reader": "Danielle MetcalfeChenail",
+    "yt": "VHEf6yaJpBs"
+  },
+  {
+    "pl": 57,
+    "pg": 276,
+    "reader": "Sonya Howard",
+    "yt": "UxNmJ_14ue0"
+  },
+  {
+    "pl": 58,
+    "pg": 269,
+    "reader": "Read the TRC Report",
+    "yt": "d2W_zqrqSqM"
+  },
+  {
+    "pl": 59,
+    "pg": 271,
+    "reader": "Tina Loo",
+    "yt": "zGW8_pwKlL0"
+  },
+  {
+    "pl": 60,
+    "pg": 275,
+    "reader": "Marlee McGuire",
+    "yt": "zu4mE-3NRKg"
+  },
+  {
+    "pl": 61,
+    "pg": 277,
+    "reader": "Richard Thornley",
+    "yt": "W_5l2V9s66g"
+  },
+  {
+    "pl": 62,
+    "pg": 279,
+    "reader": "Robin Mazumder",
+    "yt": "pz22yrsh2aE"
+  },
+  {
+    "pl": 63,
+    "pg": 281,
+    "reader": "BanaabeKwe Girl",
+    "yt": "LHidR2Y43JA"
+  },
+  {
+    "pl": 64,
+    "pg": 290,
+    "reader": "Vanessa Thomas",
+    "yt": "Z00tYCfroNw"
+  },
+  {
+    "pl": 65,
+    "pg": 292,
+    "reader": "2TippyCanoe",
+    "yt": "Uj9wu-MZkVU"
+  },
+  {
+    "pl": 66,
+    "pg": 300,
+    "reader": "Jane Purvis",
+    "yt": "cO5g99UukdE"
+  },
+  {
+    "pl": 67,
+    "pg": 303,
+    "reader": "Tina Adcock",
+    "yt": "8ElT_JJoO_o"
+  },
+  {
+    "pl": 68,
+    "pg": 304,
+    "reader": "Melissa Adams",
+    "yt": "bO8sV3tMA20"
+  },
+  {
+    "pl": 69,
+    "pg": 309,
+    "reader": "Michael Burton",
+    "yt": "AkTPGVzW_lw"
+  },
+  {
+    "pl": 70,
+    "pg": 314,
+    "reader": "Sarah Price",
+    "yt": "wrvxJi5X6rA"
+  },
+  {
+    "pl": 71,
+    "pg": 321,
+    "reader": "Chelsea Vowel",
+    "yt": "ShIbQzx0fLM"
+  },
+  {
+    "pl": 72,
+    "pg": 325,
+    "reader": "Shelagh Rogers",
+    "yt": "Td2_lfad5Qc"
+  },
+  {
+    "pl": 73,
+    "pg": 332,
+    "reader": "Jacqueline Vincent",
+    "yt": "U4ciOlMXayw"
+  },
+  {
+    "pl": 74,
+    "pg": 339,
+    "reader": "Chris Thomas",
+    "yt": "02P43WTqsk8"
+  },
+  {
+    "pl": 75,
+    "pg": 355,
+    "reader": "Sarah Dowling",
+    "yt": "Oj3lRWpO5Ls"
+  },
+  {
+    "pl": 76,
+    "pg": 360,
+    "reader": "Tanya Lalonde",
+    "yt": ""
+  },
+  {
+    "pl": 77,
+    "pg": 361,
+    "reader": "Kasey Machin",
+    "yt": "3tqnul47TZs"
+  },
+  {
+    "pl": 78,
+    "pg": 362,
+    "reader": "Jasmine Chorley",
+    "yt": "PuSWi-2K2_c"
+  },
+  {
+    "pl": 79,
+    "pg": 363,
+    "reader": "ordinarystrange",
+    "yt": "U7S075YbwP8"
+  },
+]
+
+,
+      V_BY_ID = {};
+
+  VIDEOS.forEach(function(vidStuff) {
+    if (!vidStuff.markers) { return; }
+    vidStuff.markers.forEach(function(marker) {
+      V_BY_ID[marker.id] = vidStuff;
+    });
+  });
+
+</script>
 
 </body>
 </html>
