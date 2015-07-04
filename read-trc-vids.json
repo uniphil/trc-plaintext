@@ -489,7 +489,12 @@
         "t": "0:20",
       },
       {
+        "id": "witnessing-and-expressions-of-reconciliation-p-2",
+        "t": "0:37"
+      },
+      {
         "id": "witnessing-and-expressions-of-reconciliation-p-3",
+        "t": "1:49",
         "end": "2:34",
       }
     ]
@@ -505,6 +510,7 @@
       },
       {
         "id": "interim-report-p-1",
+        "t": "0:02",
         "end": "0:32"
       }
     ]
@@ -519,7 +525,24 @@
         "t": "0:13"
       },
       {
+        "id": "national-centre-for-truth-and-reconciliation-p-2",
+        "t": "0:42"
+      },
+      {
+        "id": "national-centre-for-truth-and-reconciliation-p-3",
+        "t": "1:13"
+      },
+      {
+        "id": "national-centre-for-truth-and-reconciliation-p-4",
+        "t": "1:59"
+      },
+      {
+        "id" :"national-centre-for-truth-and-reconciliation-ul-1",
+        "t": "2:21"
+      },
+      {
         "id": "national-centre-for-truth-and-reconciliation-p-5",
+        "t": "2:51",
         "end": "3:24"
       }
     ]
