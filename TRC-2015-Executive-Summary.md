@@ -5639,9 +5639,7 @@ Some have no desire to integrate Indigenous spirituality into Christian religiou
 Rather, they believe that Indigenous spirituality and Western religion should coexist on separate but parallel paths.
 
 Elder Jim Dumont told the Commission about the importance of non-interference and mutual respect.
-He said that the
-
-<!-- page 285 -->abuse and the damage that has been done in residential schools, one of the primary sources of that is the church.
+He said that the <!-- page 285 -->abuse and the damage that has been done in residential schools, one of the primary sources of that is the church.
 And the church has to take ownership for that.
 But what bothers me about it is that the church continues to have a hold on our people…
 Just get out of the way for awhile so that we can do what we need to do because as long as you are standing there thinking that you are supporting us, you are actually preventing us from getting to our own truth about this and our own healing about this.
