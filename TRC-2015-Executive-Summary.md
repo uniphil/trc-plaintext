@@ -99,7 +99,8 @@ United Church official George Dorey told the same committee that he questioned w
 Into the 1950s and 1960s, the prime mission of residential schools was the cultural transformation of Aboriginal children.
 In 1953, J. E. Andrews, the principal of the Presbyterian school in Kenora, Ontario, wrote that “we must face realistically the fact that the only hope for the Canadian Indian is eventual assimilation into the white race.”[^17]
 In 1957, the principal of the Gordon’s Reserve school in Saskatchewan, Albert Southard, wrote that he believed that the goal of residential schooling was to “change the philosophy of the Indian child.
-In other words since they must work and live with ‘whites’ then they must begin to think as ‘whites.’” Southard said that the Gordon’s school could never have a student council, since “in so far as the Indian understands the department’s policy, he is against it.”[^18]
+In other words since they must work and live with ‘whites’ then they must begin to think as ‘whites.’”
+Southard said that the Gordon’s school could never have a student council, since “in so far as the Indian understands the department’s policy, he is against it.”[^18]
 In a 1958 article on residential schools, senior Oblate Andre Renaud echoed the words of John A.
 Macdonald, arguing that when students at day schools went back to their “homes at the end of the school day and for the weekend, the pupils are re-exposed to their native culture, however diluted, from which the school is trying to separate them.”
 A residential school, on the other hand, could “surround its pupils almost twenty-four hours a day with <!-- page 012 -->non-Indian Canadian culture through radio, television, public address system, movies, books, newspapers, group activities, etc.”[^19]
@@ -474,7 +475,8 @@ I never shared my experiences.”[^48]
 Many spoke to honour the memory of relatives who have passed on.
 Simone, an Inuk Survivor from Chesterfield Inlet, Nunavut, said,
 
-> I’m here for my parents—‘Did you miss me when I went away?’ ‘Did you cry for me?’—and I’m here for my brother, who was a victim, and my niece at the age of five who suffered a head injury and never came home, and her parents never had closure.
+> I’m here for my parents—‘Did you miss me when I went away?’
+‘Did you cry for me?’—and I’m here for my brother, who was a victim, and my niece at the age of five who suffered a head injury and never came home, and her parents never had closure.
 To this day, they have not found the grave in Winnipeg.
 And I’m here for them first, and that’s why I’m making a public statement.[^49]
 
@@ -827,7 +829,8 @@ The arrival at school was often even more traumatizing than the departure from h
 Lily Bruce’s parents were in tears when they left her and her brother at the Alert Bay, British Columbia, school.[^5]
 At Fort Chipewyan in northern Alberta, Vitaline Elsie Jenner fought to stay with her mother.
 “I was screaming and hollering.
-And in my language I said, ‘Mama, Mama, kâya nakasin’ and in English it was, ‘Mom, Mom, don’t leave me.’ ’Cause that’s all I knew was to speak Cree.
+And in my language I said, ‘Mama, Mama, kâya nakasin’ and in English it was, ‘Mom, Mom, don’t leave me.’
+’Cause that’s all I knew was to speak Cree.
 And so the nun took us.”[^6]
 
 Nellie Ningewance was raised in Hudson, Ontario, and went to the Sioux Lookout, Ontario, school in the 1950s and 1960s.
@@ -840,7 +843,7 @@ I wasn’t thinking about myself.
 I was thinking about Mom.
 I say, ‘Mom’s gonna be really mad.
 And June is gonna be angry.
-And it’s gonna be my fault.’”8
+And it’s gonna be my fault.’”[^8]
 
 Marthe Basile-Coocoo recalled feeling a chill on first seeing the Pointe Bleue, Québec, school.
 
@@ -852,11 +855,11 @@ Our nights were like that.[^9]
 Pauline St-Onge was traumatized by just the sight of the Sept-Îles school in Québec.
 She fought back when her father tried to take her into the school.
 “I thought in my child’s head I said: ‘you would …
-you would make me go there, but I will learn nothing, nothing, nothing.’”10
+you would make me go there, but I will learn nothing, nothing, nothing.’”[^10]
 
 Campbell Papequash was taken, against his will, to residential school in 1946.
 “And after I was taken there they took off my clothes and then they deloused me.
-I didn’t know what was happening but I learned about it later, that they were delousing me; ‘the dirty, no-good-for-nothing savages, lousy.’”11
+I didn’t know what was happening but I learned about it later, that they were delousing me; ‘the dirty, no-good-for-nothing savages, lousy.’”[^11]
 
 Roy Denny was perplexed and frightened by the clothing that the priests and sisters wore at the Shubenacadie, Nova Scotia, school.
 “We were greeted by this man dressed in black with a long gown.
@@ -871,7 +874,8 @@ We were no longer free.
 It was like being, you know, taken to a strange land, even though it was our, our, our land, as I understood later on.”[^14]
 When she first went to the Amos, Québec, school, Margo Wylde could not speak any French.
 “I said to myself, ‘How am I going to express myself?
-How will I make people understand what I’m saying?’ And I wanted to find my sisters to ask them to come and get me.
+How will I make people understand what I’m saying?’
+And I wanted to find my sisters to ask them to come and get me.
 You know it’s sad to say, but I felt I was a captive.”[^15]
 
 ![“The only building that I knew up to that time, that moment in my life was the one-storey house that we had. And when I got to the residential school, I seen this big monster of a building, and I’ve never seen any buildings that, that large, that high.” – Calvin Myerion, Brandon, Manitoba, school. United Church of Canada Board of Home Missions, 86.158P/ 22N.](image-autofix/page-049.jpg)
@@ -924,7 +928,7 @@ Helen Kakekayash’s older sister tried to comfort her when she first arrived at
 She recalled that “she would try to talk to me, and she would get spanked.”[^25]
 Bernard Catcheway said that even though he and his sister were both attending the Pine Creek school, they could not communicate with each other.
 “I couldn’t talk to her, I couldn’t wave at her. If you did you’d get, you know a push in the head by a nun.”[^26] On her second day at the Kamloops school in British Columbia, Julianna Alexander went to speak to her brother. “Did I ever get a good pounding and licking, get over there, you can’t go over there, you can’t talk to him, you know.
-I said, ‘Yeah, but he’s my brother.’”27
+I said, ‘Yeah, but he’s my brother.’”[^27]
 
 Taken from their homes, stripped of their belongings, and separated from their siblings, residential school children lived in a world dominated by fear, loneliness, and lack of affection.
 
@@ -1036,11 +1040,13 @@ Colonialism remains an ongoing process, shaping both the structure and the quali
 
 At their height, the European empires laid claim to most of the earth’s surface and controlled the seas.[^55]
 Numerous arguments were advanced to justify such extravagant interventions into the lands and lives of other peoples.
-These were largely elaborations on two basic concepts: 1) the Christian god had given the Christian nations the right to colonize the lands they ‘discovered’ as long as they converted the Indigenous populations; and 2) the Europeans were bringing the benefits of civilization (a concept that was intertwined with Christianity) to the ‘heathen.’ In short, it was contended that people were being colonized for their own benefit, either in this world or the next.
+These were largely elaborations on two basic concepts: 1) the Christian god had given the Christian nations the right to colonize the lands they ‘discovered’ as long as they converted the Indigenous populations; and 2) the Europeans were bringing the benefits of civilization (a concept that was intertwined with Christianity) to the ‘heathen.’
+In short, it was contended that people were being colonized for their own benefit, either in this world or the next.
 
 In the fifteenth century, the Roman Catholic Church, building on the traditions of the Roman Empire, conceived of itself as the guardian of a universal world order.[^56]
 The adoption of Christianity within the Roman Empire (which defined itself as ‘civilized’) reinforced the view that to be civilized was to be Christian.
-The Catholic papacy was already playing a role in directing and legitimizing colonialism prior to Christopher Columbus’s voyages <!-- page 056 -->to the Americas in the 1490s, largely by granting Catholic kingdoms the right to colonize lands they ‘discovered.’57 In 1493, Pope Alexander VI issued the first of four orders, referred to as “papal bulls” (a term that takes its name from the Latin word for the mould used to seal the document), that granted most of North and South America to Spain, the kingdom that had sponsored Columbus’s voyage of the preceding year.
+The Catholic papacy was already playing a role in directing and legitimizing colonialism prior to Christopher Columbus’s voyages <!-- page 056 -->to the Americas in the 1490s, largely by granting Catholic kingdoms the right to colonize lands they ‘discovered.’[^57]
+In 1493, Pope Alexander VI issued the first of four orders, referred to as “papal bulls” (a term that takes its name from the Latin word for the mould used to seal the document), that granted most of North and South America to Spain, the kingdom that had sponsored Columbus’s voyage of the preceding year.
 These orders helped shape the political and legal arguments that have come to be referred to as the “Doctrine of Discovery,” which was used to justify the colonization of the Americas in the sixteenth century.
 In return, the Spanish were expected to convert the Indigenous peoples of the Americas to Christianity.[^58]
 
@@ -1073,7 +1079,8 @@ In the year that Rosebery gave this speech, the Canadian government opened its f
 
 ![A Church Missionary Society school, in Freetown, Sierra Leone. In the nineteenth century, European-based missionary societies established residential schools around the world in an effort to spread the Christian gospel and civilize the ‘heathen.’ Mary Evans Picture Library, 10825826.](image-autofix/page-057.jpg)
 
-The Christian churches not only provided the moral justification for the colonization of other peoples’ lands, but they also dispatched missionaries to the colonized nations in order to convert ‘the heathen.’ From the fifteenth century on, the Indigenous peoples of the world were the objects of a strategy of spiritual and cultural conquest that had its origins in Europe.
+The Christian churches not only provided the moral justification for the colonization of other peoples’ lands, but they also dispatched missionaries to the colonized nations in order to convert ‘the heathen.’
+From the fifteenth century on, the Indigenous peoples of the world were the objects of a strategy of spiritual and cultural conquest that had its origins in Europe.
 While they often worked in isolation and under difficult conditions, missionaries were representatives of worldwide organizations that enjoyed the backing of influential individuals in some of the most powerful nations of the world, and which came to amass considerable experience in transforming different cultures.[^67]
 Residential schools figured prominently in missionary work, not only in Canada, but also around the world.
 
@@ -1282,7 +1289,8 @@ In this context, the federal government chose to invest in residential schooling
 First, it would provide Aboriginal people with skills that would allow them to participate in the coming market-based economy.
 Second, it would further their political assimilation.
 It was hoped that students who were educated in residential schools would give up their status and not return to their reserve communities and families.
-Third, the schools were seen as engines of cultural and spiritual change: ‘savages’ were to emerge as Christian ‘white men.’ There was also a national security element to the schools.
+Third, the schools were seen as engines of cultural and spiritual change: ‘savages’ were to emerge as Christian ‘white men.’
+There was also a national security element to the schools.
 Indian Affairs official Andsell Macrae observed that “it is unlikely that any Tribe or Tribes would give trouble of a serious nature to the Government whose members had children completely under Government control.”[^117]
 Duncan Campbell Scott succinctly summarized Indian Affairs’ goals for the schools in 1909: “It includes not only a scholastic education, but instruction in the means of gaining a livelihood from the soil or as a member of an industrial or mercantile community, and the substitution of Christian ideals of conduct and morals for aboriginal concepts of both.”[^118]
 The achievement of such invasive and ambitious goals would require a substantial level of funding.
@@ -1558,7 +1566,7 @@ Some thought it was a risky matter to give the students too much education.
 Mount Elgin principal S. R. McVitty wrote in 1928 that “classroom work is an important part of our training, but not by any means the most important.”
 He added, “In the case of the Indian ‘a little learning is a dangerous thing.’”[^197]
 
-![Members of the Croissés, a religious society for youth at the Fort Frances, Ontario, school. St. Boniface Historical Society Archives, Fond of the Grey Nuns of Manitoba, 03/31/1.](image-autofix/page-081.jpg)
+![Members of the Croissés, a religious society for youth at the Fort Frances, Ontario, school. St. Boniface Historical Society Archives, Fond of the Grey Nuns of Manitoba, 03/31/1.](image-autofix/page-081.jpg)]
 
 Much of what went on in the classroom was simply repetitious drill.
 A 1915 report on the Roman Catholic school on the Blood Reserve in Alberta noted, “The children’s work was merely memory work and did not appear to be developing any deductive power, altogether too parrot like and lacking expression.”[^198]
@@ -1646,7 +1654,8 @@ Students also noted that the curriculum belittled their ancestry.
 Mary Courchene said, “Their only mandate was to Christianize and civilize; and it’s written in black and white.
 And every single day we were reminded.”[^230]
 Lorna Cochrane could never forget an illustration in a social studies text.
-“There was a picture of two Jesuits laying in the snow, they were murdered by these two ‘savages.’ And they had this what we call ‘a blood-curdling look’ on their faces is how I remember that picture.”[^231]
+“There was a picture of two Jesuits laying in the snow, they were murdered by these two ‘savages.’
+And they had this what we call ‘a blood-curdling look’ on their faces is how I remember that picture.”[^231]
 When the curriculum was not racist, it was bewildering and alienating.
 Many students could not identify with the content of the classroom materials.
 For instance, Lillian Elias remembers that “when I looked at Dick and Jane I thought Dick and Jane were in heaven when I saw all the green grass.
@@ -1656,7 +1665,7 @@ Some students said that the limits of the education they had received in residen
 Many said there was no expectation that they would succeed.
 Walter Jones never forgot the answer that a fellow student at the Alberni, British Columbia, school was given when he asked if he would be able to go to Grade Twelve.
 “That supervisor said, ‘You don’t need to go that far,’ he says.
-He says, ‘Your people are never going to get education to be a professional worker, and it doesn’t matter what lawyer, or doctor, or electrician, or anything, that a person has to go to school for.’”234
+He says, ‘Your people are never going to get education to be a professional worker, and it doesn’t matter what lawyer, or doctor, or electrician, or anything, that a person has to go to school for.’”[^234]
 
 Some northern schools developed reputations for academic success.
 Grandin College in Fort Smith was established originally to recruit young people for the Catholic ministry.
@@ -1774,7 +1783,8 @@ In his opinion, “The forbidding of children to speak Indian, even during recre
 
 ![Inuit students at the Joseph Bernier School, Chesterfield Inlet, 1956. Diocese of Churchill-Hudson Bay.](image-autofix/page-090.jpg)
 
-Students had strong memories of being punished for ‘speaking Indian.’ Mary Angus, who attended the Battleford school in the late nineteenth century, said that students caught speaking their own language were given a close haircut: “All the hair cut to be as a man, that what they do, for us not to talk.
+Students had strong memories of being punished for ‘speaking Indian.’
+Mary Angus, who attended the Battleford school in the late nineteenth century, said that students caught speaking their own language were given a close haircut: “All the hair cut to be as a man, that what they do, for us not to talk.
 We were afraid of that, to have our hair cut.”[^271]
 At the Fraser Lake school in British Columbia, Mary John said she could speak her own language only in whispers.[^272]
 Melvina McNabb was seven years old when she was enrolled in the File Hills school, and “I couldn’t talk a word of English.
@@ -1809,7 +1819,7 @@ At the Shubenacadie school, a staff member once caught William Herney speaking M
 She strapped him and then washed his mouth out with soap.[^282]
 Alphonsine McNeely underwent the same punishment at the Roman Catholic school at Aklavik in the 1940s.[^283]
 Pierrette Benjamin said she was forced to eat soap at the La Tuque school.
-“The principal, she put it in my mouth, and she said, ‘Eat it, eat it.’”284
+“The principal, she put it in my mouth, and she said, ‘Eat it, eat it.’”[^284]
 
 The language policy disrupted families.
 When John Kistabish left the Amos, Québec, school, he could no longer speak Algonquin, and his parents could not speak French, the language that he had been taught in the school.
@@ -1823,7 +1833,8 @@ Indeed Stoney culture was condemned explicitly and implicitly.”
 He recalled being taught that the only good people on earth were non-Indians and, specifically, white Christians.[^286]
 Andrew Bull Calf recalled that at the residential school in Cardston, Alberta, students were not only punished for speaking their own languages, but they also were discouraged from participating in traditional cultural activities.[^287]
 Evelyn Kelman recalled that the principal at the Brocket, Alberta, school warned <!-- page 092 -->students that if they attended a Sun Dance that was to be held during the summer, they would be strapped on their return to school.[^288]
-Marilyn Buffalo recalled being told by Hobbema, Alberta, school staff that the Sun Dance was ‘devil worship.’289 One year, Sarah McLeod returned to the Kamloops school with a miniature totem pole that a family member had given her for her birthday.
+Marilyn Buffalo recalled being told by Hobbema, Alberta, school staff that the Sun Dance was ‘devil worship.’[^289]
+One year, Sarah McLeod returned to the Kamloops school with a miniature totem pole that a family member had given her for her birthday.
 When she proudly showed it to one of the nuns, it was taken from her and thrown out.
 She was told that it was nothing but devilry.[^290]
 
@@ -3005,7 +3016,7 @@ To her surprise, she enjoyed most of the experience.
 She recalled being asked by one staff person what sort of games she thought the children would like to play to make them feel at home.
 “I said, ‘You know I bet you they all want to be hugged, like I was in that residential school.
 ’Cause you know what?
-They’re away from their parents.’”655
+They’re away from their parents.’”[^655]
 
 Former staff and the children of former staff members have expressed the view that much of the discussion of the history of residential schools has overlooked both the positive intent with which many staff members approached their work, and the positive accomplishments of the school system.
 Although they certainly believed the system was underfunded, they also believed that they and their parents devoted much of their lives to educating and caring for Aboriginal children.
@@ -3060,7 +3071,8 @@ The Truth and Reconciliation Commission of Canada was mandated to tell Canadians
 The court approval of the =|IRSSA=Indian Residential Schools Settlement Agreement= in 2007 was followed in June 2008 with Prime Minister Stephen Harper’s apology on behalf of Canada.
 In his statement, the prime minister recognized that the primary purpose of the schools had been to remove children from their homes and families in order to assimilate them better into the dominant culture.
 Harper said, “These objectives were based on the assumption Aboriginal cultures and spiritual beliefs were inferior and unequal.
-Indeed, some sought, as it was infamously said, ‘to kill <!-- page 138 -->the Indian in the child.’ Today, we recognize that this policy of assimilation was wrong, has caused great harm, and has no place in our country.”[^666]
+Indeed, some sought, as it was infamously said, ‘to kill <!-- page 138 -->the Indian in the child.’
+Today, we recognize that this policy of assimilation was wrong, has caused great harm, and has no place in our country.”[^666]
 
 The prime minister was joined by the leaders of the other parties represented in the Canadian House of Commons.
 The Liberal leader of the opposition, the Honourable Stéphane Dion, recognized that the government’s policy had “destroyed the fabric of family in First Nations, Métis and Inuit communities.
@@ -3210,7 +3222,7 @@ It is time to abandon the colonial policies of the past, to address the legacy o
 
 > I want Canadians to understand that [the legacy of the residential schools] does not just affect the lives of the person who actually attended the school, but family members, such as spouses and children, are also very deeply affected about this sad legacy in history.
 
-> —	 Johanne Coutu-Autut, spouse of former Turquetil Hall resident1
+> —	 Johanne Coutu-Autut, spouse of former Turquetil Hall resident[^1]
 
 Residential schools are a tragic part of Canada’s history.
 But they cannot simply be consigned to history.
@@ -4865,8 +4877,10 @@ You then laid this belt on a mat, and said—‘Children, you must all touch thi
 I touch it myself, that we may all be brethren united, and hope our friendship will never cease.
 I will <!-- page 257 -->call you my children; will send warmth (presents) to your country; and your families shall never be in want.
 Look towards the rising sun.
-My Nation is as brilliant as it is, and its word cannot be violated.’ Father, your words were true—all you promised came to pass.
-On giving us a Belt of Peace, you said—‘If you should ever require my assistance, send this Belt, and my hand will be immediately stretched forth to assist you.’ Here the speaker laid down the Belt.[^37]
+My Nation is as brilliant as it is, and its word cannot be violated.’
+Father, your words were true—all you promised came to pass.
+On giving us a Belt of Peace, you said—‘If you should ever require my assistance, send this Belt, and my hand will be immediately stretched forth to assist you.’
+Here the speaker laid down the Belt.[^37]
 
 Over the years, Indigenous leaders involved in Treaty negotiations not only used wampum belts to recount the Treaty of Niagara, but also presented original copies of the Royal Proclamation to government officials.
 In 1847, a colonial official reported,
@@ -5509,7 +5523,8 @@ In Canada, for more than a century, thousands of First Nations, Inuit, and Méti
 Other than a small private audience with Pope Benedict XVI in 2009, the Vatican has remained silent on the Roman Catholic Church’s involvement in the Canadian residential school system.
 During the Commission’s hearings, many Survivors told us that they knew that the Pope had apologized to Survivors of Catholic-run schools in Ireland.
 They wondered why no similar apology had been extended to them.
-They said: “I did not hear the Pope say to me, ‘I am sorry.’ Those words are very important to me …
+They said: “I did not hear the Pope say to me, ‘I am sorry.’
+Those words are very important to me …
 but he didn’t say that to the First Nations people.”[^75]
 
 <!-- page 281 -->#### Call to Action
@@ -6907,7 +6922,8 @@ He told us,
 > When I was invited to become an Honorary Witness, I thought I was prepared, having been involved in the Settlement process and having already met and heard from Survivors.
 I was not.
 In Halifax, I heard about not knowing what it meant to be loved, not knowing how to love.
-I heard about simply wanting to be believed that it happened, ‘just like I said.’ …
+I heard about simply wanting to be believed that it happened, ‘just like I said.’
+…
 We heard about a deliberate effort to disconnect young children from who they are.
 We heard about a sense of betrayal by authority— government, community, and church.
 We heard about severe punishment for speaking one’s language, living one’s spirituality, seeking out one’s siblings.
@@ -7529,7 +7545,8 @@ Although the corporate sector is not a direct party to Treaty and land-claims ag
 
 The 1996 =^Report of the Royal Commission on Aboriginal Peoples= noted that, historically, land and resource development activities, such as hydroelectric dams, mines, and agricultural and urban development, have had many adverse impacts on Aboriginal communities.
 Communities were not consulted before they were relocated from their vast traditional territories to much smaller, more remote, and more crowded reserves to make way for government and industrial land and resource development projects.
-Even when they were not relocated, Aboriginal peoples were economically marginalized in their own homelands when irreversible environmental damage was done in the name of ‘progress.’ All too often, economic development has disrupted Indigenous peoples’ cultural, spiritual, and economic ties to the land, resulting in the devastation of traditional economies and self-sufficiency, community trauma, public welfare dependency, and poor health and socio-political outcomes.[^270]
+Even when they were not relocated, Aboriginal peoples were economically marginalized in their own homelands when irreversible environmental damage was done in the name of ‘progress.’
+All too often, economic development has disrupted Indigenous peoples’ cultural, spiritual, and economic ties to the land, resulting in the devastation of traditional economies and self-sufficiency, community trauma, public welfare dependency, and poor health and socio-political outcomes.[^270]
 
 In the post-=|RCAP=Royal Commission on Aboriginal Peoples= period, the Supreme Court of Canada has developed a body of law on the federal, provincial, and territorial governments’ duty to consult with Aboriginal peoples where land and resource development might infringe on their Aboriginal or Treaty rights.[^271]
 The court has ruled that governments can still infringe on Aboriginal rights if it can demonstrate that it is in the broader public interest to do so.

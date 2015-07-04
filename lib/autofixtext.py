@@ -10,7 +10,7 @@ isContextLine = lambda s: u'•' in s
 # All pages end with this for some reason:
 weirdEndThing = u''
 # All possible sentence endings
-br = ur'[\.\?\!\…][”\)]?'
+br = ur'[\.\?\!\…]’?[”\)]?'
 
 
 ''' Steps '''
