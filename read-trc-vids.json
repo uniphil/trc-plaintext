@@ -737,7 +737,12 @@
         "t": "0:36",
       },
       {
+        "id": "residential-schools-in-pre-confederation-canada-p-2",
+        "t": "2:04"
+      },
+      {
         "id": "residential-schools-in-pre-confederation-canada-p-3",
+        "t": "3:05",
         "end": "3:38"
       }
     ]
@@ -750,7 +755,24 @@
       {
         "id": "the-colonization-of-the-northwest",
         "t": "0:20"
-      }
+      },
+      {
+        "id": "the-colonization-of-the-northwest-p-2",
+        "t": "0:55"
+      },
+      {
+        "id": "the-colonization-of-the-northwest-p-3",
+        "t": "1:20"
+      },
+      {
+        "id": "the-colonization-of-the-northwest-p-4",
+        "t": "2:19"
+      },
+      {
+        "id": "the-colonization-of-the-northwest-p-5",
+        "t": "2:58",
+        "end": "4:26"
+      },
     ]
   },
   {
@@ -761,6 +783,23 @@
       {
         "id": "the-assimilation-policy",
         "t": "0:22"
+      },
+      {
+        "id": "the-assimilation-policy-p-2",
+        "t": "1:33"
+      },
+      {
+        "id": "the-assimilation-policy-p-3",
+        "t": "2:08"
+      },
+      {
+        "id": "the-assimilation-policy-p-4",
+        "t": "3:15"
+      },
+      {
+        "id": "the-assimilation-policy-p-5",
+        "t": "3:45",
+        "end": "4:35"
       }
     ]
   },
@@ -772,6 +811,39 @@
       {
         "id": "the-industrial-school-initiative",
         "t": "0:33"
+      },
+      {
+        "id": "the-assimilation-policy-p-2",
+        "t": "1:36"
+      },
+      {
+        "id": "the-assimilation-policy-p-3",
+        "t": "2:20"
+      },
+      {
+        "id": "the-assimilation-policy-p-4",
+        "t": "4:14"
+      },
+      {
+        "id": "the-assimilation-policy-p-5",
+        "t": "5:40"
+      },
+      {
+        "id": "the-assimilation-policy-p-6",
+        "t": "6:30"
+      },
+      {
+        "id": "the-assimilation-policy-p-7",
+        "t": "7:22"
+      },
+      {
+        "id": "the-industrial-school-initiative-blockquote-1",
+        "t": "7:32"
+      },
+      {
+        "id": "the-assimilation-policy-p-8",
+        "t": "7:56",
+        "end": "9:53"
       }
     ]
   },
@@ -783,6 +855,19 @@
       {
         "id": "funding-the-dream-of-self-supporting-schools",
         "t": "0:00"
+      },
+      {
+        "id": "funding-the-dream-of-self-supporting-schools-p-2",
+        "t": "0:56"
+      },
+      {
+        "id": "funding-the-dream-of-self-supporting-schools-p-3",
+        "t": "1:56"
+      },
+      {
+        "id": "funding-the-dream-of-self-supporting-schools-p-4",
+        "t": "3:05",
+        "end": "4:43"
       }
     ]
   },
@@ -792,8 +877,29 @@
     "yt": "VFuWjwKzQkU",
     "markers": [
       {
-        "id": "funding-the-dream-of-self-supporting-schools-p-4",
-        "t": "0:16"
+        "id": "compelling-attendance",
+        "t": "1:10"
+      },
+      {
+        "id": "compelling-attendance-p-2",
+        "t": "1:48"
+      },
+      {
+        "id": "compelling-attendance-p-3",
+        "t": "2:25"
+      },
+      {
+        "id": "compelling-attendance-p-4",
+        "t": "3:47",
+      },
+      {
+        "id": "regulation",
+        "t": "4:28"
+      },
+      {
+        "id": "regulation-p-2",
+        "t": "5:04",
+        "end": "5:42"
       }
     ]
   },
@@ -805,6 +911,11 @@
       {
         "id": "number-of-residential-schools-and-residences-18671998-p-3",
         "t": "0:00"
+      },
+      {
+        "id": "policy-towards-metis-and-inuit-students",
+        "t": "0:13",
+        "end": "0:38"
       }
     ]
   },
@@ -814,8 +925,25 @@
     "yt": "BtlWHfB317g",
     "markers": [
       {
-        "id": "policy-towards-metis-and-inuit-students",
-        "t": "0:26"
+        "id": "policy-towards-metis-and-inuit-students-p-2",
+        "t": "0:49"
+      },
+      {
+        "id": "policy-towards-metis-and-inuit-students-p-3",
+        "t": "1:40"
+      },
+      {
+        "id": "policy-towards-metis-and-inuit-students-p-4",
+        "t": "2:12"
+      },
+      {
+        "id": "policy-towards-metis-and-inuit-students-p-5",
+        "t": "2:36"
+      },
+      {
+        "id": "policy-towards-metis-and-inuit-students-p-6",
+        "t": "3:24",
+        "end": "3:50"
       }
     ]
   },
@@ -827,6 +955,11 @@
       {
         "id": "the-integration-policy",
         "t": "0:39"
+      },
+      {
+        "id": "the-integration-policy-p-2",
+        "t": "2:44",
+        "end": "3:26"
       }
     ]
   },
@@ -837,7 +970,100 @@
     "markers": [
       {
         "id": "food-always-hungry",
-        "t": "0:16"
+        "t": "0:17"
+      },
+      {
+        "id": "food-always-hungry-p-2",
+        "t": "1:37"
+      },
+      {
+        "id": "food-always-hungry-p-3",
+        "t": "2:47"
+      },
+      {
+        "id": "food-always-hungry-p-4",
+        "t": "3:23"
+      },
+      {
+        "id": "food-always-hungry-p-5",
+        "t": "2:24"
+      },
+      {
+        "id": "food-always-hungry-p-6",
+        "t": "5:52"
+      },
+      {
+        "id": "food-always-hungry-p-7",
+        "t": "6:56"
+      },
+      {
+        "id": "food-always-hungry-p-8",
+        "t": "7:38"
+      },
+      {
+        "id": "food-always-hungry-blockquote-1",
+        "t": "7:49"
+      },
+      {
+        "id": "food-always-hungry-p-9",
+        "t": "8:07"
+      },
+      {
+        "id": "food-always-hungry-p-10",
+        "t": "8:52"
+      },
+      {
+        "id": "food-always-hungry-p-11",
+        "t": "10:00"
+      },
+      {
+        "id": "health-for-sickness-conditions-at-this-school-are-nothing-less-than-criminal",
+        "t": "10:25"
+      },
+      {
+        "id": "health-for-sickness-conditions-at-this-school-are-nothing-less-than-criminal-p-2",
+        "t": "11:38"
+      },
+      {
+        "id": "health-for-sickness-conditions-at-this-school-are-nothing-less-than-criminal-p-3",
+        "t": "12:00"
+      },
+      {
+        "id": "health-for-sickness-conditions-at-this-school-are-nothing-less-than-criminal-p-4",
+        "t": "12:26"
+      },
+      {
+        "id": "health-for-sickness-conditions-at-this-school-are-nothing-less-than-criminal-ol-1",
+        "t": "12:45"
+      },
+      {
+        "id": "health-for-sickness-conditions-at-this-school-are-nothing-less-than-criminal-p-5",
+        "t": "13:09"
+      },
+      {
+        "id": "health-for-sickness-conditions-at-this-school-are-nothing-less-than-criminal-p-6",
+        "t": "13:53"
+      },
+      {
+        "id": "health-for-sickness-conditions-at-this-school-are-nothing-less-than-criminal-p-7",
+        "t": "14:04"
+      },
+      {
+        "id": "",
+        "t": "15:16"
+      },
+      {
+        "id": "",
+        "t": "16:31"
+      },
+      {
+        "id": "",
+        "t": "17:43"
+      },
+      {
+        "id": "",
+        "t": "18:34",
+        "end": "22:03"
       }
     ]
   },
@@ -849,6 +1075,66 @@
       {
         "id": "residential-school-tuberculosis-death-rates-per-1000-population-named-and-unnamed-registers-combined-18691965-p-5",
         "t": "0:14"
+      },
+      {
+        "id": "",
+        "t": "0:29"
+      },
+      {
+        "id": "",
+        "t": "1:42"
+      },
+      {
+        "id": "",
+        "t": "3:03"
+      },
+      {
+        "id": "bq",
+      },
+      {
+        "id": "",
+        "t": "3:29"
+      },
+      {
+        "id": "",
+        "t": "4:11"
+      },
+      {
+        "id": "",
+        "t": "4:52"
+      },
+      {
+        "id": "",
+        "t": "5:23"
+      },
+      {
+        "id": "",
+        "t": "6:20"
+      },
+      {
+        "id": "",
+        "t": "7:38"
+      },
+      {
+        "id": "",
+        "t": "9:04"
+      },
+      {
+        "id": "",
+        "t": "9:45"
+      },
+      {
+        "id": "",
+        "t": "10:26"
+      },
+      {
+        "id": "",
+        "t": "11:39"
+      },
+      {
+        "id": "",
+        "t": "12:21",
+        "end": "14:16"
       }
     ]
   },
