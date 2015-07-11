@@ -9539,7 +9539,20 @@ Other communities can do similar things.</p>
       V_BY_ID[marker.id] = vidStuff;
     });
   });
+</script>
 
+<noscript>
+  <img src="http://45.55.178.53/t/load/no-js" style="position:absolute;z-index:-9999">
+</noscript>
+<script>
+  function miniRecord(n,v,u) {
+    var m=document.createElement('img');
+    m.setAttribute('style','position:absolute;z-index:-9999');
+    m.src=['http://45.55.178.53/t',n].concat(v===u?[]:[encodeURIComponent(v)]).join('/');
+    document.body.appendChild(m);
+    m.onload=function(){document.body.removeChild(m)}
+  }
+  miniRecord('load', 'js');
 </script>
 
 </body>
