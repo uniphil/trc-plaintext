@@ -350,11 +350,11 @@
   function miniRecord(n,v,u) {
     var m=document.createElement('img');
     m.setAttribute('style','position:absolute;z-index:-9999');
-    m.src=['http://45.55.178.53/t',n].concat(v===u?[]:[encodeURIComponent(v)]).join('/');
+    m.src=['http://45.55.178.53/t',n].concat(v===u?[]:v.map(encodeURIComponent)).join('/');
     document.body.appendChild(m);
     m.onload=function(){document.body.removeChild(m)}
   }
-  miniRecord('load', 'js');
+  miniRecord('load', ['js',window.location.hash.slice(1)]);
 </script>
 
 </body>
