@@ -2046,15 +2046,9 @@ As can be seen, until the 1950s Aboriginal children in residential schools died 
 It is only in the 1950s that the residential school death rates declined to a level comparable to that of the general school-aged population.
 As late as the 1941–45 period, the Named and Unnamed Combined residential school death rate was 4.[^90]
 times higher than the general death rate.
-In the 1960s, even though the residential school death <!-- page 100 -->### Graph 3
+In the 1960s, even though the residential school death <!-- page 100 -->rates were much lower than their historic highs, they were still double those of the general school-aged population.
 
-#### Residential school death rates for 1,000 students, Named and Unnamed registers combined, 1869 to 1965
-
-[sorry, graph not yet available in the TRC plain-text export project]
-
-_Source: Rosenthal, “Statistical Analysis of Deaths,” 11._
-
-rates were much lower than their historic highs, they were still double those of the general school-aged population.
+![Graph 3: Residential school death rates for 1,000 students, Named and Unnamed registers combined, 1869 to 1965. Source: Rosenthal, “Statistical Analysis of Deaths,” 11.](charts/page-100.svg)
 
 In nearly 50% of the cases (both in the Named and Unnamed registers), there is no recorded cause of death.
 From those cases where the cause of death was reported, it is clear that until the 1950s, the schools were the sites of an ongoing tuberculosis crisis.
@@ -2066,15 +2060,7 @@ Graph 5 shows the residential school tuberculosis death rate (figures are based 
 The tuberculosis health crisis in the schools was part of a broader Aboriginal health crisis that was set in motion by colonial policies that separated Aboriginal people from their land, thereby disrupting their economies and their food supplies.
 This crisis was particularly intense on the Canadian Prairies.
 Numerous federal government policies contributed to the undermining of Aboriginal health.
-During a period of starvation, rations were withheld from bands in an effort to force them to abandon the lands that they had <!-- page 101 -->### Graph 4
-
-#### Comparative death rates per 1,000 population, residential schools (Named and Unnamed registers combined) and the general Canadian population of school-aged children, using five-year averages from 1921 to 1965.
-
-[sorry, this chart not yet available in the plain-text TRC export project]
-
-_Source: Fraser, Vital Statistics and Health, Table B35-50, http://www.statcan.gc.ca/pub/11-516-x/sectionb/4147437-eng.htm; Rosenthal, “Statistical Analysis of Deaths,” 13._
-
-initially selected for their reserves.
+During a period of starvation, rations were withheld from bands in an effort to force them to abandon the lands that they had <!-- page 101 -->initially selected for their reserves.
 In making the Treaties, the government had promised to provide assistance to First Nations to allow them to make a transition from hunting to farming.
 This aid was slow in coming and inadequate on arrival.
 Restrictions in the =^Indian Act= made it difficult for First Nations farmers to sell their produce or borrow money to invest in technology.
@@ -2083,20 +2069,16 @@ Reserve housing was poor and crowded, sanitation was inadequate, and access to c
 Under these conditions, tuberculosis flourished.
 Those people it did not kill were often severely weakened and likely to succumb to measles, smallpox, and other infectious diseases.[^354]
 
+![Graph 4: Comparative death rates per 1,000 population, residential schools (Named and Unnamed registers combined) and the general Canadian population of school-aged children, using five-year averages from 1921 to 1965. Source: Fraser, Vital Statistics and Health, Table B35-50, http://www.statcan.gc.ca/pub/11-516-x/sectionb/4147437-eng.htm; Rosenthal, “Statistical Analysis of Deaths,” 13.](charts/page-101.svg)
+
 For Aboriginal children, the relocation to residential schools was generally no healthier than their homes had been on the reserves.
 In 1897, Indian Affairs official Martin Benson reported that the industrial schools in Manitoba and the Northwest Territories had been “hurriedly constructed of poor materials, badly laid out, without due provision for lighting, heating or ventilation.”
 In addition, drainage was poor, and water and fuel supplies were inadequate.[^355]
 Conditions were not any better in the church-built boarding schools.
-In 1904, Indian Commissioner David Laird echoed Benson’s comments when he wrote <!-- page 102 -->### Graph 5
-
-#### Residential school tuberculosis death rates per 1,000 population, Named and Unnamed registers combined, 1869–1965
-
-[Sorry, chart not yet available in the plain-text TRC project]
-
-Source: Rosenthal, “Statistical Analysis of Deaths,” 97–99.
-
-that the sites for the boarding schools on the Prairies seemed “to have been selected without proper regard for either water-supply or drainage.
+In 1904, Indian Commissioner David Laird echoed Benson’s comments when he wrote <!-- page 102 -->that the sites for the boarding schools on the Prairies seemed “to have been selected without proper regard for either water-supply or drainage.
 I need not mention any school in particular, but I have urged improvement in several cases in regard to fire-protection.”[^356]
+
+![Graph 5: Residential school tuberculosis death rates per 1,000 population, Named and Unnamed registers combined, 1869–1965. Source: Rosenthal, “Statistical Analysis of Deaths,” 97–99.](charts/page-102.svg)
 
 Students’ health depended on clean water, good sanitation, and adequate ventilation.
 But little was done to improve the poor living conditions that were identified at the beginning of the twentieth century.

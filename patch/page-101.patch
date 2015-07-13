@@ -1,20 +1,15 @@
-@@ -1,11 +1,21 @@
-+### 
- Graph 4
-+%0A%0A####
-  Com
-@@ -226,258 +226,85 @@
- 5.%0A%0A
--9 Death rate per 1,000 students%0A%0A8%0A%0A7%0A%0A6%0A%0A5%0A%0A4%0A%0A3%0A%0A2%0A%0A1%0A%0A0 1921%E2%80%9325 1926%E2%80%9330 1931%E2%80%9335 1936%E2%80%9340 1941%E2%80%9345 1946%E2%80%9350 1951%E2%80%9355 1956%E2%80%9360 1961%E2%80%9365%0A%0ADeath Rate, General Population, Ages 5%E2%80%9314 Named Residential School Death Rate Combined Residential School Death Rate
-+%5Bsorry, this chart not yet available in the plain-text TRC export project%5D
- %0A%0A
-+_
- Sour
-@@ -470,16 +470,17 @@
- hs,%E2%80%9D 13.
-+_
- %0A%0Ainitia
-@@ -1822,9 +1822,17 @@
+@@ -1,645 +1,4 @@
+-Graph 4 Comparative death rates per 1,000 population, residential schools (Named and Unnamed registers combined) and the general Canadian population of school-aged children, using five-year averages from 1921 to 1965.%0A%0A9 Death rate per 1,000 students%0A%0A8%0A%0A7%0A%0A6%0A%0A5%0A%0A4%0A%0A3%0A%0A2%0A%0A1%0A%0A0 1921%E2%80%9325 1926%E2%80%9330 1931%E2%80%9335 1936%E2%80%9340 1941%E2%80%9345 1946%E2%80%9350 1951%E2%80%9355 1956%E2%80%9360 1961%E2%80%9365%0A%0ADeath Rate, General Population, Ages 5%E2%80%9314 Named Residential School Death Rate Combined Residential School Death Rate%0A%0ASource: Fraser, Vital Statistics and Health, Table B35-50, http://www.statcan.gc.ca/pub/11-516-x/sectionb/4147437-eng.htm; Rosenthal, %E2%80%9CStatistical Analysis of Deaths,%E2%80%9D 13.%0A
+ %0Aini
+@@ -725,16 +725,432 @@
+ %5B%5E354%5D%0A%0A
++!%5BGraph 4: Comparative death rates per 1,000 population, residential schools (Named and Unnamed registers combined) and the general Canadian population of school-aged children, using five-year averages from 1921 to 1965. Source: Fraser, Vital Statistics and Health, Table B35-50, http://www.statcan.gc.ca/pub/11-516-x/sectionb/4147437-eng.htm; Rosenthal, %E2%80%9CStatistical Analysis of Deaths,%E2%80%9D 13.%5D(charts/page-101.svg)%0A%0A
+ For Abor
+@@ -1680,16 +1680,16 @@
+ chools.%0A
+-
+ In 1904,
+@@ -1759,9 +1759,17 @@
  he wrote
 +%3C!--x--%3E
  %0A
