@@ -1407,26 +1407,14 @@ As Graph 2 illustrates, this decrease was reversed in the mid-1950s, when the fe
 Prior to that time, residential schooling in the North was largely restricted to the Yukon and the Mackenzie Valley in the Northwest Territories.
 Large residences were built in communities such as Inuvik, Yellowknife, Whitehorse, Churchill, and eventually Iqaluit (formerly Frobisher Bay).
 This expansion was undertaken despite reports that recommended against the establishment of residential schools, since they would not provide children with the skills necessary to live in the North, skills they otherwise would have acquired in their home communities.[^149]
-The creation of the large hostels <!-- page 073 -->### Graph 1
+The creation of the large hostels <!-- page 073 -->was accompanied by the opening of what were termed “small hostels” in the smaller and more remote communities of the eastern Arctic and the western Northwest Territories.
 
-#### Residential school enrolment, 1869–70 to 1965–66
+![Graph 1: Residential school enrolment, 1869–70 to 1965–66. Source: Indian Affairs and Northern Affairs annual reports.
+After the 1965–66 school year, Indian Affairs stopped reporting on annual residential school enrolment.](charts/page-073-a.svg)
 
-[plain-text extract project is currently missing this graph image, sorry!]
-
-Source: Indian Affairs and Northern Affairs annual reports.
-After the 1965–66 school year, Indian Affairs stopped reporting on annual residential school enrolment.
-
-### Graph 2
-
-#### Number of residential schools and residences, 1867–1998
-
-[plain-text extract project is currently missing this graph image, sorry!]
-
-Source: Indian and Northern Affairs Canada, Indian Residential Schools of the Indian Residential Schools Settlement Agreement 2011.
+![Graph 2: Number of residential schools and residences, 1867–1998. Source: Indian and Northern Affairs Canada, Indian Residential Schools of the Indian Residential Schools Settlement Agreement 2011.](charts/page-073-b.svg)
 
 <!-- page 074 -->![Fleming Hall, the Anglican-run hostel opened by the federal government in Fort McPherson, Northwest Territories, as part of its expansion of residential schools in northern Canada in the late 1950s and early 1960s. General Synod Archives, Anglican Church of Canada, P8454-66.](image-autofix/page-074.jpg)
-
-was accompanied by the opening of what were termed “small hostels” in the smaller and more remote communities of the eastern Arctic and the western Northwest Territories.
 
 ## Policy towards Métis and Inuit students
 

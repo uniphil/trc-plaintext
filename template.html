@@ -105,6 +105,7 @@
     embed.setAttribute('src', embedURL);
     control.video.innerHTML = '';
     control.video.appendChild(embed);
+    miniRecord('video', [target.id]);
   }
 
   function leaveSomething(e) {

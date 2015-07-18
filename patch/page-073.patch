@@ -1,22 +1,26 @@
-@@ -1,11 +1,21 @@
-+### 
+@@ -1,11 +1,186 @@
++was accompanied by the opening of what were termed %E2%80%9Csmall hostels%E2%80%9D in the smaller and more remote communities of the eastern Arctic and the western Northwest Territories.%0A%0A!%5B
  Graph 1
-+%0A%0A####
++:
   Res
-@@ -65,154 +65,82 @@
- 66%0A%0A
--Number of students 12000%0A%0A%0A%0A10000%0A%0A%0A%0A8000%0A%0A%0A%0A6000%0A%0A%0A%0A4000%0A%0A%0A%0A2000%0A%0A%0A%0A0 1869%E2%80%9370%0A%0A%0A%0A1884%E2%80%9385%0A%0A%0A%0A1899%E2%80%9300%0A%0A%0A%0A1914%E2%80%9315%0A%0A%0A%0A1929%E2%80%9330%0A%0A%0A%0A1944%E2%80%9345%0A%0A%0A%0A1959%E2%80%9360%0A%0A
-+%5Bplain-text extract project is currently missing this graph image, sorry!%5D
- %0A%0ASo
-@@ -306,17 +306,25 @@
- t.%0A%0A
--%0A%0A
-+### 
+@@ -228,158 +228,10 @@
+ 5%E2%80%9366
+-%0A%0ANumber of students 12000%0A%0A%0A%0A10000%0A%0A%0A%0A8000%0A%0A%0A%0A6000%0A%0A%0A%0A4000%0A%0A%0A%0A2000%0A%0A%0A%0A0 1869%E2%80%9370%0A%0A%0A%0A1884%E2%80%9385%0A%0A%0A%0A1899%E2%80%9300%0A%0A%0A%0A1914%E2%80%9315%0A%0A%0A%0A1929%E2%80%9330%0A%0A%0A%0A1944%E2%80%9345%0A%0A%0A%0A1959%E2%80%9360%0A%0A%0A%0A
++. 
+ Sour
+@@ -393,19 +393,44 @@
+ ent.
+-%0A%0A%0A%0A
++%5D(charts/page-073-a.svg)%0A%0A!%5B
  Graph 2
-+%0A%0A####
++:
   Num
-@@ -381,109 +381,82 @@
- 98%0A%0A
--Number of schools and residences 100 90 80 70 60 50 40 30 20 10%0A%0A0 1867 1887 1907 1927 1947 1967 1987
-+%5Bplain-text extract project is currently missing this graph image, sorry!%5D
- %0A%0ASo
+@@ -485,113 +485,10 @@
+ 1998
+-%0A%0ANumber of schools and residences 100 90 80 70 60 50 40 30 20 10%0A%0A0 1867 1887 1907 1927 1947 1967 1987%0A%0A
++. 
+ Sour
+@@ -614,9 +614,33 @@
+ nt 2011.
++%5D(charts/page-073-b.svg)
+ %0A
