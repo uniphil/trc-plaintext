@@ -1715,6 +1715,15 @@
       {
         "id": "disturbing-data",
         "t": "0:24"
+      },
+      {
+        "id": "disturbing-data-p-2",
+        "t": "1:32"
+      },
+      {
+        "id": "disturbing-data-p-3",
+        "t": "2:09",
+        "end": "2:38"
       }
     ]
   },
@@ -1726,6 +1735,23 @@
       {
         "id": "death-and-abuse-of-children-in-care",
         "t": "0:10"
+      },
+      {
+        "id": "death-and-abuse-of-children-in-care-p-2",
+        "t": "0:52"
+      },
+      {
+        "id": "death-and-abuse-of-children-in-care-blockquote-1",
+        "t": "0:57"
+      },
+      {
+        "id": "death-and-abuse-of-children-in-care-p-3",
+        "t": "1:31"
+      },
+      {
+        "id": "death-and-abuse-of-children-in-care-p-4",
+        "t": "1:49",
+        "end": "2:44"
       }
     ]
   },
@@ -1736,7 +1762,12 @@
     "markers": [
       {
         "id": "delivery-of-child-welfare-services",
-        "t": "0:16"
+        "t": "0:17"
+      },
+      {
+        "id": "delivery-of-child-welfare-services-p-2",
+        "t": "1:31",
+        "end": "2:16"
       }
     ]
   },
@@ -1748,6 +1779,19 @@
       {
         "id": "jurisdictional-disputes",
         "t": "0:16"
+      },
+      {
+        "id": "jurisdictional-disputes-p-2",
+        "t": "1:18"
+      },
+      {
+        "id": "jurisdictional-disputes-p-3",
+        "t": "1:43",
+      },
+      {
+        "id": "call-to-action_2",
+        "t": "2:39",
+        "end": "2:50"
       }
     ]
   },
