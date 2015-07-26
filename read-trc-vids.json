@@ -502,7 +502,13 @@
   {
     "pl": 7,
     "reader": "Mitchell White",
-    "yt": "_Li-w34ksBA"
+    "yt": "_Li-w34ksBA",
+    "markers": [
+      {
+        "id": "commemoration-and-community-events-funding",
+        "t": "0:00"
+      }
+    ]
   },
   {
     "pl": 8,
@@ -911,7 +917,13 @@
   {
     "pl": 18,
     "reader": "Karen Dingwall",
-    "t": "byxIZXL_bGE"
+    "yt": "byxIZXL_bGE",
+    "markers": [
+      {
+        "id": "regulation",
+        "t": "0:12"
+      }
+    ]
   },
   {
     "pl": 19,
@@ -1248,12 +1260,24 @@
   {
     "pl": 26,
     "reader": "polarbarrister",
-    "yt": "41ahpGm85KU"
+    "yt": "41ahpGm85KU",
+    "markers": [
+      {
+        "id": "abuse-and-he-did-awful-things-to-me",
+        "t": "0:00"
+      }
+    ]
   },
   {
     "pl": 27,
     "reader": "Allison Flowers-Myland",
-    "yt": "cggrh1Y35xM"
+    "yt": "cggrh1Y35xM",
+    "markers": [
+      {
+        "id": "abuse-and-he-did-awful-things-to-me-p-11",
+        "t": "0:14"
+      }
+    ]
   },
   {
     "pl": 28,
@@ -1280,7 +1304,13 @@
   {
     "pl": 30,
     "reader": "L. Langan",
-    "yt": "voyrjn0ov_k"
+    "yt": "voyrjn0ov_k",
+    "markers": [
+      {
+        "id": "agreement-and-apologies",
+        "t": "0:01"
+      }
+    ]
   },
   {
     "pl": 31,
@@ -1505,7 +1535,13 @@
   {
     "pl": 51,
     "reader": "",
-    "yt": "_NSyWR8QMwQ"
+    "yt": "_NSyWR8QMwQ",
+    "markers": [
+      {
+        "id": "aftermath-of-the-settlement-agreement",
+        "t": "0:17"
+      }
+    ]
   },
   {
     "pl": 52,
@@ -1565,7 +1601,13 @@
   {
     "pl": 57,
     "reader": "Tanya Kappo",
-    "yt": "vKMRp2X-IYo"
+    "yt": "vKMRp2X-IYo",
+    "markers": [
+      {
+        "id": "violence-against-aboriginal-women-and-girls",
+        "t": "0:30"
+      }
+    ]
   },
   {
     "pl": 58,
@@ -1736,7 +1778,13 @@
     "pl": 73,
     "reader": "Rhonda Kronyk",
     "yt": "4uCD2AWPeZk",
-  }
+    "markers": [
+      {
+        "id": "education-for-reconciliation",
+        "t": "0:14"
+      }
+    ]
+  },
   {
     "pl": 74,
     "reader": "Vanessa Thomas",
@@ -1762,8 +1810,14 @@
   {
     "pl": 76,
     "reader": "Sean Carleton",
-    "yt": "nsGrVdeymZQ"
-  }
+    "yt": "nsGrVdeymZQ",
+    "markers": [
+      {
+        "id": "role-of-canadas-museums-and-archives-in-education-for-reconciliation",
+        "t": "0:42"
+      }
+    ]
+  },
   {
     "pl": 77,
     "reader": "Jane Purvis",
@@ -1833,7 +1887,13 @@
   {
     "pl": 83,
     "reader": "Terri Monture",
-    "yt": "7ncAjC49LfU"
+    "yt": "7ncAjC49LfU",
+    "markers": [
+      {
+        "id": "public-memory-dialogue-the-arts-and-commemoration",
+        "t": "0:31"
+      }
+    ]
   },
   {
     "pl": 84,
@@ -1882,7 +1942,13 @@
   {
     "pl": 88,
     "reader": "Cheryl Croucher",
-    "yt": "0eBIDK3Ji8E"
+    "yt": "0eBIDK3Ji8E",
+    "markers": [
+      {
+        "id": "media-and-reconciliationmedia-and-reconciliation",
+        "t": "0:30"
+      }
+    ]
   },
   {
     "pl": 89,
