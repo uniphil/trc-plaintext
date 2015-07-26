@@ -501,6 +501,11 @@
   },
   {
     "pl": 7,
+    "reader": "Mitchell White",
+    "yt": "_Li-w34ksBA"
+  },
+  {
+    "pl": 8,
     "reader": "@ClintDavis_TD",
     "yt": "p44GgWVBZyk",
     "markers": [
@@ -516,7 +521,7 @@
     ]
   },
   {
-    "pl": 8,
+    "pl": 9,
     "reader": "Dominic Bell",
     "yt": "BTHdZ3FvKi8",
     "markers": [
@@ -548,7 +553,7 @@
     ]
   },
   {
-    "pl": 9,
+    "pl": 10,
     "reader": "Keavy Martin",
     "yt": "KVbmfWRvY44",
     "markers": [
@@ -644,7 +649,7 @@
     ]
   },
   {
-    "pl": 10,
+    "pl": 11,
     "reader": "Julie Kaye",
     "yt": "sIz-BpiZtrI",
     "markers": [
@@ -728,7 +733,7 @@
     ]
   },
   {
-    "pl": 11,
+    "pl": 12,
     "reader": "Julia Feuer-Cotter",
     "yt": "3BSJQYUvmDs",
     "markers": [
@@ -748,7 +753,7 @@
     ]
   },
   {
-    "pl": 12,
+    "pl": 13,
     "reader": "Christina Williamson",
     "yt": "S9IbjdbGnfA",
     "markers": [
@@ -776,7 +781,7 @@
     ]
   },
   {
-    "pl": 13,
+    "pl": 14,
     "reader": "Tishina Makokis",
     "yt": "clEumjiGsvY",
     "markers": [
@@ -804,7 +809,7 @@
     ]
   },
   {
-    "pl": 14,
+    "pl": 15,
     "reader": "Francis Levesque",
     "yt": "YzZa499rNLM",
     "markers": [
@@ -848,7 +853,7 @@
     ]
   },
   {
-    "pl": 15,
+    "pl": 16,
     "reader": "Toots Royale",
     "yt": "GP69lkcFih8",
     "markers": [
@@ -872,7 +877,7 @@
     ]
   },
   {
-    "pl": 16,
+    "pl": 17,
     "reader": "dentata",
     "yt": "VFuWjwKzQkU",
     "markers": [
@@ -904,7 +909,12 @@
     ]
   },
   {
-    "pl": 17,
+    "pl": 18,
+    "reader": "Karen Dingwall",
+    "t": "byxIZXL_bGE"
+  },
+  {
+    "pl": 19,
     "reader": "Kelly Black",
     "yt": "Q4_dfE1Ag2c",
     "markers": [
@@ -920,7 +930,7 @@
     ]
   },
   {
-    "pl": 18,
+    "pl": 20,
     "reader": "Justin Wiebe",
     "yt": "BtlWHfB317g",
     "markers": [
@@ -948,7 +958,7 @@
     ]
   },
   {
-    "pl": 19,
+    "pl": 21,
     "reader": "Anne Crawford",
     "yt": "PNzVbrl2fPc",
     "markers": [
@@ -964,7 +974,7 @@
     ]
   },
   {
-    "pl": 20,
+    "pl": 22,
     "reader": "Ian Mosby",
     "yt": "HFmLffq0RPQ",
     "markers": [
@@ -1068,7 +1078,7 @@
     ]
   },
   {
-    "pl": 21,
+    "pl": 23,
     "reader": "Jane Murdoch-Flowers",
     "yt": "q28kqrWDHis",
     "markers": [
@@ -1136,7 +1146,7 @@
     ]
   },
   {
-    "pl": 22,
+    "pl": 24,
     "reader": "Michael Dudley",
     "yt": "f-1AtQyRQR8",
     "markers": [
@@ -1164,7 +1174,7 @@
     ]
   },
   {
-    "pl": 23,
+    "pl": 25,
     "reader": "Shane Henry",
     "yt": "uZ6gkxf8Xic",
     "markers": [
@@ -1236,7 +1246,17 @@
     ]
   },
   {
-    "pl": 24,
+    "pl": 26,
+    "reader": "polarbarrister",
+    "yt": "41ahpGm85KU"
+  },
+  {
+    "pl": 27,
+    "reader": "Allison Flowers-Myland",
+    "yt": "cggrh1Y35xM"
+  },
+  {
+    "pl": 28,
     "reader": "Rob Innes",
     "yt": "PnesXu-sqNw",
     "markers": [
@@ -1247,18 +1267,7 @@
     ]
   },
   {
-    "pl": 25,
-    "reader": "jackooloosie",
-    "yt": "7MW1m-5u7dU",
-    "markers": [
-      {
-        "id": "unnecessary-insistence-on-corroboration",
-        "t": "0:00"
-      }
-    ]
-  },
-  {
-    "pl": 26,
+    "pl": 29,
     "reader": "Ryan O",
     "yt": "DA_n8k8mVbc",
     "markers": [
@@ -1269,7 +1278,12 @@
     ]
   },
   {
-    "pl": 28,
+    "pl": 30,
+    "reader": "L. Langan",
+    "yt": "voyrjn0ov_k"
+  },
+  {
+    "pl": 31,
     "reader": "Karly Coleman",
     "yt": "uAFFc-hRMAU",
     "markers": [
@@ -1280,7 +1294,7 @@
     ]
   },
   {
-    "pl": 29,
+    "pl": 32,
     "reader": "V15A5FOZDx0",
     "yt": "Meena K. Gupta",
     "markers": [
@@ -1291,7 +1305,7 @@
     ]
   },
   {
-    "pl": 30,
+    "pl": 33,
     "reader": "Julia Feuer-cotter",
     "yt": "JX2ufwA1sDA",
     "markers": [
@@ -1302,7 +1316,7 @@
     ]
   },
   {
-    "pl": 31,
+    "pl": 34,
     "reader": "Charlie Flowers",
     "yt": "xCGFSBke5Qo",
     "markers": [
@@ -1313,7 +1327,7 @@
     ]
   },
   {
-    "pl": 32,
+    "pl": 35,
     "reader": "Jessie Loyer",
     "yt": "7ibog4lRmCk",
     "markers": [
@@ -1324,7 +1338,7 @@
     ]
   },
   {
-    "pl": 33,
+    "pl": 36,
     "reader": "Catherine Clune-Taylor",
     "yt": "d8ryY1ZgGOM",
     "markers": [
@@ -1335,7 +1349,7 @@
     ]
   },
   {
-    "pl": 34,
+    "pl": 37,
     "reader": "Jessica Dunkin",
     "yt": "i0JOq0Fm3js",
     "markers": [
@@ -1346,7 +1360,7 @@
     ]
   },
   {
-    "pl": 35,
+    "pl": 38,
     "reader": "Julia Strehlau",
     "yt": "A8QBi0NUG2U",
     "markers": [
@@ -1357,7 +1371,7 @@
     ]
   },
   {
-    "pl": 36,
+    "pl": 39,
     "reader": "Jean-Frédérick Ménard",
     "yt": "A8QBi0NUG2U",
     "markers": [
@@ -1368,7 +1382,7 @@
     ]
   },
   {
-    "pl": 37,
+    "pl": 40,
     "reader": "Sara Komarnisky",
     "yt": "u0yQkPJNQWY",
     "markers": [
@@ -1379,7 +1393,7 @@
     ]
   },
   {
-    "pl": 38,
+    "pl": 41,
     "reader": "Daniel Rück",
     "yt": "gJIUEnTyfps",
     "markers": [
@@ -1390,7 +1404,7 @@
     ]
   },
   {
-    "pl": 39,
+    "pl": 42,
     "reader": "Jeremy Klaszus",
     "yt": "zyp_JzTZmN8",
     "markers": [
@@ -1401,7 +1415,7 @@
     ]
   },
   {
-    "pl": 40,
+    "pl": 43,
     "reader": "Tyson Kerr",
     "yt": "ZI8h9CwqJT0",
     "markers": [
@@ -1412,7 +1426,7 @@
     ]
   },
   {
-    "pl": 41,
+    "pl": 44,
     "reader": "Qallunette Qallunette",
     "yt": "3VWXMTaZ160",
     "markers": [
@@ -1423,7 +1437,7 @@
     ]
   },
   {
-    "pl": 42,
+    "pl": 45,
     "reader": "Anne J",
     "yt": "ctiWEAElLc0",
     "markers": [
@@ -1434,7 +1448,7 @@
     ]
   },
   {
-    "pl": 43,
+    "pl": 46,
     "reader": "Allison Karch",
     "yt": "EEi_rPCagVM",
     "markers": [
@@ -1445,7 +1459,7 @@
     ]
   },
   {
-    "pl": 44,
+    "pl": 47,
     "reader": "Rochini Nair",
     "yt": "pYZqFHYKWcY",
     "markers": [
@@ -1456,7 +1470,18 @@
     ]
   },
   {
-    "pl": 45,
+    "pl": 48,
+    "reader": "jackooloosie",
+    "yt": "7MW1m-5u7dU",
+    "markers": [
+      {
+        "id": "unnecessary-insistence-on-corroboration",
+        "t": "0:00"
+      }
+    ]
+  },
+  {
+    "pl": 49,
     "reader": "Emily Cameron",
     "yt": "_EY7c2U7S6E",
     "markers": [
@@ -1467,7 +1492,7 @@
     ]
   },
   {
-    "pl": 46,
+    "pl": 50,
     "reader": "WJ Flowers",
     "yt": "-m8oFEjQCTg",
     "markers": [
@@ -1478,7 +1503,12 @@
     ]
   },
   {
-    "pl": 47,
+    "pl": 51,
+    "reader": "",
+    "yt": "_NSyWR8QMwQ"
+  },
+  {
+    "pl": 52,
     "reader": "Bill Flowers",
     "yt": "aXMJuHZdXeE",
     "markers": [
@@ -1489,7 +1519,7 @@
     ]
   },
   {
-    "pl": 48,
+    "pl": 53,
     "reader": "Jessica Penney",
     "yt": "dWFix5VfkTA",
     "markers": [
@@ -1500,7 +1530,7 @@
     ]
   },
   {
-    "pl": 49,
+    "pl": 54,
     "reader": "whitebear188",
     "yt": "lltsHlS2g50",
     "markers": [
@@ -1511,7 +1541,7 @@
     ]
   },
   {
-    "pl": 50,
+    "pl": 55,
     "reader": "Lorraine Glendenning",
     "yt": "BLfmxwJup6U",
     "markers": [
@@ -1522,7 +1552,7 @@
     ]
   },
   {
-    "pl": 51,
+    "pl": 56,
     "reader": "realanhaga",
     "yt": "U0BokMehFW0",
     "markers": [
@@ -1533,7 +1563,12 @@
     ]
   },
   {
-    "pl": 52,
+    "pl": 57,
+    "reader": "Tanya Kappo",
+    "yt": "vKMRp2X-IYo"
+  },
+  {
+    "pl": 58,
     "reader": "polarbarrister",
     "yt": "lkE9vGrrJVk",
     "markers": [
@@ -1544,7 +1579,7 @@
     ]
   },
   {
-    "pl": 53,
+    "pl": 59,
     "reader": "Adele Perry",
     "yt": "cvmrlVQu9kU",
     "markers": [
@@ -1555,7 +1590,7 @@
     ]
   },
   {
-    "pl": 54,
+    "pl": 60,
     "reader": "Tara Joly",
     "yt": "z1vcy_uNAys",
     "markers": [
@@ -1566,7 +1601,7 @@
     ]
   },
   {
-    "pl": 55,
+    "pl": 61,
     "reader": "Marika Warren",
     "yt": "c33A1m2nOFs",
     "markers": [
@@ -1577,7 +1612,7 @@
     ]
   },
   {
-    "pl": 56,
+    "pl": 62,
     "reader": "Anna St. Onge",
     "yt": "JLRdJIgsdSQ",
     "markers": [
@@ -1588,7 +1623,7 @@
     ]
   },
   {
-    "pl": 57,
+    "pl": 63,
     "reader": "Stuart Somerville",
     "yt": "2kb5YwERmfo",
     "markers": [
@@ -1599,7 +1634,7 @@
     ]
   },
   {
-    "pl": 58,
+    "pl": 64,
     "reader": "Richard Daly",
     "yt": "wXW9uYkTGko",
     "markers": [
@@ -1610,7 +1645,7 @@
     ]
   },
   {
-    "pl": 59,
+    "pl": 65,
     "reader": "Danielle MetcalfeChenail",
     "yt": "VHEf6yaJpBs",
     "markers": [
@@ -1621,18 +1656,7 @@
     ]
   },
   {
-    "pl": 60,
-    "reader": "Sonya Howard",
-    "yt": "UxNmJ_14ue0",
-    "markers": [
-      {
-        "id": "honouring-indigenous-spirituality",
-        "t": "0:35"
-      }
-    ]
-  },
-  {
-    "pl": 61,
+    "pl": 66,
     "reader": "Read the TRC Report",
     "yt": "d2W_zqrqSqM",
     "markers": [
@@ -1643,7 +1667,7 @@
     ]
   },
   {
-    "pl": 62,
+    "pl": 67,
     "reader": "Tina Loo",
     "yt": "zGW8_pwKlL0",
     "markers": [
@@ -1654,7 +1678,7 @@
     ]
   },
   {
-    "pl": 63,
+    "pl": 68,
     "reader": "Marlee McGuire",
     "yt": "zu4mE-3NRKg",
     "markers": [
@@ -1665,7 +1689,18 @@
     ]
   },
   {
-    "pl": 64,
+    "pl": 69,
+    "reader": "Sonya Howard",
+    "yt": "UxNmJ_14ue0",
+    "markers": [
+      {
+        "id": "honouring-indigenous-spirituality",
+        "t": "0:35"
+      }
+    ]
+  },
+  {
+    "pl": 70,
     "reader": "Richard Thornley",
     "yt": "W_5l2V9s66g",
     "markers": [
@@ -1676,7 +1711,7 @@
     ]
   },
   {
-    "pl": 65,
+    "pl": 71,
     "reader": "Robin Mazumder",
     "yt": "pz22yrsh2aE",
     "markers": [
@@ -1687,7 +1722,7 @@
     ]
   },
   {
-    "pl": 66,
+    "pl": 72,
     "reader": "BanaabeKwe Girl",
     "yt": "LHidR2Y43JA",
     "markers": [
@@ -1698,7 +1733,12 @@
     ]
   },
   {
-    "pl": 67,
+    "pl": 73,
+    "reader": "Rhonda Kronyk",
+    "yt": "4uCD2AWPeZk",
+  }
+  {
+    "pl": 74,
     "reader": "Vanessa Thomas",
     "yt": "Z00tYCfroNw",
     "markers": [
@@ -1709,7 +1749,7 @@
     ]
   },
   {
-    "pl": 68,
+    "pl": 75,
     "reader": "2TippyCanoe",
     "yt": "Uj9wu-MZkVU",
     "markers": [
@@ -1720,7 +1760,12 @@
     ]
   },
   {
-    "pl": 69,
+    "pl": 76,
+    "reader": "Sean Carleton",
+    "yt": "nsGrVdeymZQ"
+  }
+  {
+    "pl": 77,
     "reader": "Jane Purvis",
     "yt": "cO5g99UukdE",
     "markers": [
@@ -1731,7 +1776,7 @@
     ]
   },
   {
-    "pl": 70,
+    "pl": 78,
     "reader": "Tina Adcock",
     "yt": "8ElT_JJoO_o",
     "markers": [
@@ -1742,7 +1787,7 @@
     ]
   },
   {
-    "pl": 71,
+    "pl": 79,
     "reader": "Melissa Adams",
     "yt": "bO8sV3tMA20",
     "markers": [
@@ -1753,7 +1798,7 @@
     ]
   },
   {
-    "pl": 72,
+    "pl": 80,
     "reader": "Michael Burton",
     "yt": "AkTPGVzW_lw",
     "markers": [
@@ -1764,7 +1809,7 @@
     ]
   },
   {
-    "pl": 73,
+    "pl": 81,
     "reader": "Sarah Price",
     "yt": "wrvxJi5X6rA",
     "markers": [
@@ -1775,7 +1820,7 @@
     ]
   },
   {
-    "pl": 74,
+    "pl": 82,
     "reader": "Chelsea Vowel",
     "yt": "ShIbQzx0fLM",
     "markers": [
@@ -1786,7 +1831,12 @@
     ]
   },
   {
-    "pl": 75,
+    "pl": 83,
+    "reader": "Terri Monture",
+    "yt": "7ncAjC49LfU"
+  },
+  {
+    "pl": 84,
     "reader": "Shelagh Rogers",
     "yt": "Td2_lfad5Qc",
     "markers": [
@@ -1797,7 +1847,7 @@
     ]
   },
   {
-    "pl": 76,
+    "pl": 85,
     "reader": "Coty Savard",
     "yt": "Td2_lfad5Qc",
     "markers": [
@@ -1808,7 +1858,7 @@
     ]
   },
   {
-    "pl": 77,
+    "pl": 86,
     "reader": "Jacqueline Vincent",
     "yt": "U4ciOlMXayw",
     "markers": [
@@ -1819,7 +1869,7 @@
     ]
   },
   {
-    "pl": 78,
+    "pl": 87,
     "reader": "Chris Thomas",
     "yt": "02P43WTqsk8",
     "markers": [
@@ -1830,7 +1880,12 @@
     ]
   },
   {
-    "pl": 79,
+    "pl": 88,
+    "reader": "Cheryl Croucher",
+    "yt": "0eBIDK3Ji8E"
+  },
+  {
+    "pl": 89,
     "reader": "Sarah Dowling",
     "yt": "Oj3lRWpO5Ls",
     "markers": [
@@ -1841,7 +1896,7 @@
     ]
   },
   {
-    "pl": 81,
+    "pl": 90,
     "reader": "Kasey Machin",
     "yt": "3tqnul47TZs",
     "markers": [
@@ -1852,7 +1907,7 @@
     ]
   },
   {
-    "pl": 82,
+    "pl": 91,
     "reader": "Jasmine Chorley",
     "yt": "PuSWi-2K2_c",
     "markers": [
@@ -1863,7 +1918,7 @@
     ]
   },
   {
-    "pl": 83,
+    "pl": 92,
     "reader": "ordinarystrange",
     "yt": "U7S075YbwP8",
     "markers": [
