@@ -1803,6 +1803,31 @@
       {
         "id": "improving-outcomes-for-children",
         "t": "0:31"
+      },
+      {
+        "id": "improving-outcomes-for-children-p-2",
+        "t": "2:00"
+      },
+      {
+        "id": "call-to-action_3",
+        "t": "3:01"
+      },
+      {
+        "id": "call-to-action_3-ol-1",
+        "t": "3:04"
+      },
+      {
+        "id": "call-to-action_3-p-1",
+        "t": "3:50",
+      },
+      {
+        "id": "call-to-action_4",
+        "t": "4:16"
+      },
+      {
+        "id": "call-to-action_4-ol-1",
+        "t": "4:18",
+        "end": "4:29"
       }
     ]
   },
@@ -1814,6 +1839,35 @@
       {
         "id": "education-and-the-income-gap",
         "t": "0:19"
+      },
+      {
+        "id": "education-and-the-income-gap-p-2",
+        "t": "0:51"
+      },
+      {
+        "id": "education-and-the-income-gap-p-3",
+        "t": "1:24"
+      },
+      {
+        "id": "education-and-the-income-gap-p-4",
+        "t": "1:42"
+      },
+      {
+        "id": "education-and-the-income-gap-p-5",
+        "t": "1:58"
+      },
+      {
+        "id": "education-and-the-income-gap-p-6",
+        "t": "2:45"
+      },
+      {
+        "id": "education-and-the-income-gap-p-7",
+        "t": "3:31"
+      },
+      {
+        "id": "call-to-action_6",
+        "t": "4:10",
+        "end": "4:21"
       }
     ]
   },
