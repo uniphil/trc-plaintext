@@ -157,19 +157,6 @@
   });
 </script>
 
-<noscript>
-  <img src="http://45.55.178.53/t/load/no-js" style="position:absolute;z-index:-9999">
-</noscript>
-<script>
-  function miniRecord(n,v,u) {
-    var m=document.createElement('img');
-    m.setAttribute('style','position:absolute;z-index:-9999');
-    m.src=['http://45.55.178.53/t',n].concat(v===u?[]:v.map(encodeURIComponent)).join('/');
-    document.body.appendChild(m);
-    m.onload=function(){document.body.removeChild(m)}
-  }
-  miniRecord('load', ['js',window.location.hash.slice(1)]);
-</script>
-
+<img src="https://timekeep-server.herokuapp.com/count.gif" style="position: absolute; left: -9999em" alt="visitor counter" aria-hidden="true" />
 </body>
 </html>
