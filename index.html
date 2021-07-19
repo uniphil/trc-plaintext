@@ -10045,7 +10045,14 @@ Other communities can do similar things.</p>
   });
 </script>
 
-<img src="https://beep-beep.net/count.gif" style="position:absolute;left:-9999em" alt="visitor counter" aria-hidden="true"/>
+<script type="text/javascript">
+;fetch('https://beep-beep.net/beep/'+location.host,{
+    method: 'POST',
+    credentials: 'include',
+    body: new URLSearchParams(Navigator.globalPrivacyControl
+        ? {'gpc':1} : {'path':location.pathname})});
+</script>
+
 <script type="text/javascript">
 (function(a,d,i){
 function L(e){x('remove');d.querySelector('[src^="https://beep-beep.net/"]').src+='x'}
